@@ -1,0 +1,626 @@
+{
+    "companies_byRevenue": {
+        "Volkswagen Group": {
+            "answers": [
+                "Heinrich Nordhoff |S: +1948-00-00T00:00:00Z |E: +1968-00-00T00:00:00Z",
+                "Kurt Lotz |S: +1968-00-00T00:00:00Z |E: +1971-00-00T00:00:00Z",
+                "Rudolf Leiding |S: +1971-00-00T00:00:00Z |E: +1975-00-00T00:00:00Z",
+                "Toni Schm\u00fccker |S: +1975-00-00T00:00:00Z |E: +1982-00-00T00:00:00Z",
+                "Carl Hahn |S: +1982-00-00T00:00:00Z |E: +1993-00-00T00:00:00Z",
+                "Ferdinand Pi\u00ebch |S: +1993-00-00T00:00:00Z |E: +2002-00-00T00:00:00Z",
+                "Bernd Pischetsrieder |S: +2002-00-00T00:00:00Z |E: +2006-00-00T00:00:00Z",
+                "Martin Winterkorn |S: +2007-01-00T00:00:00Z |E: +2015-09-00T00:00:00Z",
+                "Matthias M\u00fcller |S: +2015-09-00T00:00:00Z |E: +2018-04-00T00:00:00Z",
+                "Herbert Diess |S: +2018-04-00T00:00:00Z |E: +2022-08-31T00:00:00Z",
+                "Hermann M\u00fcnch |S: +1946-06-00T00:00:00Z |E: +1947-12-00T00:00:00Z",
+                "Oliver Blume |S: +2022-09-01T00:00:00Z"
+            ],
+            "ground_truth": "Heinrich Nordhoff",
+            "ranking_qa": {
+                "generic": "Heinrich Nordhoff and Matthias M\u00fcller both served as Chief Executive Officers of the Volkswagen Group before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_1": "Heinrich Nordhoff and Matthias M\u00fcller both served as Chief Executive Officers of the Volkswagen Group before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_2": "the Volkswagen Group had Heinrich Nordhoff and Matthias M\u00fcller as former Chief Executive Officers. Can you identify which one of them was the former Chief Executive Officer?",
+                "rephrased_3": "Heinrich Nordhoff and Matthias M\u00fcller previously held the position of the Volkswagen Group's Chief Executive Officer. Which of them served as the former Chief Executive Officer?"
+            },
+            "accumulate_qa": {
+                "generic": "On 15 October 2016, Matthias M\u00fcller was the Chief Executive Officer of the Volkswagen Group. So, who held this position 23037 days before?",
+                "rephrased_1": "On 15 October 2016, Matthias M\u00fcller was the Chief Executive Officer of the Volkswagen Group. So, who held this position 23037 days before?",
+                "rephrased_2": "Matthias M\u00fcller was the Volkswagen Group's Chief Executive Officer on 15 October 2016. Do you know who was in this role before 23037 days?",
+                "rephrased_3": "Matthias M\u00fcller served as the Chief Executive Officer of the Volkswagen Group on 15 October 2016. Can you identify who occupied this position before 23037 days?"
+            }
+        },
+        "Delta Air Lines": {
+            "answers": [
+                "Gerald Grinstein |S: +2004-01-01T00:00:00Z |E: +2007-01-01T00:00:00Z",
+                "Collett E. Woolman |S: +1965-01-01T00:00:00Z |E: +1966-01-01T00:00:00Z",
+                "David C. Garrett, Jr. |S: +1978-01-01T00:00:00Z |E: +1987-01-01T00:00:00Z",
+                "Ed Bastian |S: +2016-01-01T00:00:00Z",
+                "Ronald W. Allen |S: +1987-01-01T00:00:00Z |E: +1997-01-01T00:00:00Z",
+                "Leo F. Mullin |S: +1997-01-01T00:00:00Z |E: +2004-01-01T00:00:00Z",
+                "W.T. Beebe |S: +1971-01-01T00:00:00Z |E: +1978-01-01T00:00:00Z",
+                "Charles H. Dolson |S: +1970-01-01T00:00:00Z |E: +1971-01-01T00:00:00Z"
+            ],
+            "ground_truth": "Charles H. Dolson",
+            "ranking_qa": {
+                "generic": "Charles H. Dolson and Gerald Grinstein both served as Chief Executive Officers of Delta Air Lines before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_1": "Charles H. Dolson and Gerald Grinstein both served as Chief Executive Officers of Delta Air Lines before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_2": "Delta Air Lines had Charles H. Dolson and Gerald Grinstein as former Chief Executive Officers. Can you identify which one of them was the former Chief Executive Officer?",
+                "rephrased_3": "Charles H. Dolson and Gerald Grinstein previously held the position of Delta Air Lines's Chief Executive Officer. Which of them served as the former Chief Executive Officer?"
+            },
+            "accumulate_qa": {
+                "generic": "On 17 September 2006, Gerald Grinstein was the Chief Executive Officer of Delta Air Lines. So, who held this position 13099 days before?",
+                "rephrased_1": "On 17 September 2006, Gerald Grinstein was the Chief Executive Officer of Delta Air Lines. So, who held this position 13099 days before?",
+                "rephrased_2": "Gerald Grinstein was Delta Air Lines's Chief Executive Officer on 17 September 2006. Do you know who was in this role before 13099 days?",
+                "rephrased_3": "Gerald Grinstein served as the Chief Executive Officer of Delta Air Lines on 17 September 2006. Can you identify who occupied this position before 13099 days?"
+            }
+        },
+        "HSBC": {
+            "answers": [
+                "Stephen Green, Baron Green of Hurstpierpoint |S: +2003-01-01T00:00:00Z |E: +2006-01-01T00:00:00Z",
+                "John Bond |S: +1993-01-01T00:00:00Z |E: +1998-01-01T00:00:00Z",
+                "Michael Geoghegan |S: +2006-01-01T00:00:00Z |E: +2011-01-01T00:00:00Z",
+                "Stuart Gulliver |S: +2011-01-01T00:00:00Z |E: +2018-02-01T00:00:00Z",
+                "William Purves |S: +1986-01-01T00:00:00Z |E: +1993-01-01T00:00:00Z",
+                "John Flint |S: +2018-02-01T00:00:00Z |E: +2019-08-01T00:00:00Z",
+                "Keith Whitson |S: +1998-01-01T00:00:00Z |E: +2003-01-01T00:00:00Z",
+                "Noel Quinn |S: +2020-03-01T00:00:00Z |E: +2024-09-02T00:00:00Z",
+                "Georges Elhedery |S: +2024-09-02T00:00:00Z"
+            ],
+            "ground_truth": "John Bond",
+            "ranking_qa": {
+                "generic": "John Bond and John Flint both served as Chief Executive Officers of HSBC before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_1": "John Bond and John Flint both served as Chief Executive Officers of HSBC before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_2": "HSBC had John Bond and John Flint as former Chief Executive Officers. Can you identify which one of them was the former Chief Executive Officer?",
+                "rephrased_3": "John Bond and John Flint previously held the position of HSBC's Chief Executive Officer. Which of them served as the former Chief Executive Officer?"
+            },
+            "accumulate_qa": {
+                "generic": "On 22 August 2018, John Flint was the Chief Executive Officer of HSBC. So, who held this position 8182 days before?",
+                "rephrased_1": "On 22 August 2018, John Flint was the Chief Executive Officer of HSBC. So, who held this position 8182 days before?",
+                "rephrased_2": "John Flint was HSBC's Chief Executive Officer on 22 August 2018. Do you know who was in this role before 8182 days?",
+                "rephrased_3": "John Flint served as the Chief Executive Officer of HSBC on 22 August 2018. Can you identify who occupied this position before 8182 days?"
+            }
+        }
+    },
+    "countries_byGDP": {
+        "Italy": {
+            "President of Italy": {
+                "answers": [
+                    "Carlo Azeglio Ciampi |S: +1999-05-18T00:00:00Z |E: +2006-05-15T00:00:00Z",
+                    "Oscar Luigi Scalfaro |S: +1992-05-28T00:00:00Z |E: +1999-05-15T00:00:00Z",
+                    "Francesco Cossiga |S: +1985-07-03T00:00:00Z |E: +1992-04-28T00:00:00Z",
+                    "Sandro Pertini |S: +1978-07-09T00:00:00Z |E: +1985-06-29T00:00:00Z",
+                    "Giovanni Leone |S: +1971-12-29T00:00:00Z |E: +1978-06-15T00:00:00Z",
+                    "Giuseppe Saragat |S: +1964-12-29T00:00:00Z |E: +1971-12-29T00:00:00Z",
+                    "Antonio Segni |S: +1962-05-11T00:00:00Z |E: +1964-12-06T00:00:00Z",
+                    "Giovanni Gronchi |S: +1955-05-11T00:00:00Z |E: +1962-05-11T00:00:00Z",
+                    "Luigi Einaudi |S: +1948-05-12T00:00:00Z |E: +1955-05-11T00:00:00Z",
+                    "Enrico de Nicola |S: +1946-07-01T00:00:00Z |E: +1948-05-12T00:00:00Z",
+                    "Alcide De Gasperi |S: +1946-06-13T00:00:00Z |E: +1946-06-30T00:00:00Z",
+                    "Giorgio Napolitano |S: +2006-05-15T00:00:00Z |E: +2015-01-14T00:00:00Z",
+                    "Sergio Mattarella |S: +2015-02-03T00:00:00Z"
+                ],
+                "ground_truth": "Luigi Einaudi",
+                "ranking_qa": {
+                    "generic": "Luigi Einaudi and Francesco Cossiga both served as the presidents of Italy before. Do you know which one of them the former president was?",
+                    "rephrased_1": "Luigi Einaudi and Francesco Cossiga both served as the presidents of Italy before. Do you know which one of them the former president was?",
+                    "rephrased_2": "Italy had Luigi Einaudi and Francesco Cossiga as former presidents. Can you identify which one the former president was?",
+                    "rephrased_3": "Luigi Einaudi and Francesco Cossiga previously held the position of the president of Italy. Which of them served as the former president?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 4 November 1986, Francesco Cossiga was the president of Italy. So, who held this position 13906 days before?",
+                    "rephrased_1": "On 4 November 1986, Francesco Cossiga was the president of Italy. So, who held this position 13906 days before?",
+                    "rephrased_2": "Francesco Cossiga was Italy's president on 4 November 1986. Do you know who was in this role before 13906 days?",
+                    "rephrased_3": "Francesco Cossiga served as the president of Italy on 4 November 1986. Can you identify who occupied this position before 13906 days?"
+                }
+            }
+        },
+        "Australia": {
+            "monarch of Australia": {
+                "answers": [
+                    "Elizabeth II |S: +1952-02-06T00:00:00Z |E: +2022-09-08T00:00:00Z",
+                    "Quentin Bryce |S: +2008-09-05T00:00:00Z |E: +2014-03-27T00:00:00Z",
+                    "Michael Jeffery |S: +2003-08-11T00:00:00Z |E: +2008-09-04T00:00:00Z",
+                    "Peter Hollingworth |S: +2001-06-29T00:00:00Z |E: +2003-05-29T00:00:00Z",
+                    "William Deane |S: +1996-02-16T00:00:00Z |E: +2001-06-28T00:00:00Z",
+                    "Bill Hayden |S: +1989-02-16T00:00:00Z |E: +1996-02-15T00:00:00Z",
+                    "Ninian Stephen |S: +1982-07-29T00:00:00Z |E: +1989-02-15T00:00:00Z",
+                    "Zelman Cowen |S: +1977-12-08T00:00:00Z |E: +1982-07-28T00:00:00Z",
+                    "John Kerr |S: +1974-07-11T00:00:00Z |E: +1977-12-07T00:00:00Z",
+                    "Paul Hasluck |S: +1969-04-30T00:00:00Z |E: +1974-07-10T00:00:00Z",
+                    "Richard Casey, Baron Casey |S: +1965-05-07T00:00:00Z |E: +1969-04-29T00:00:00Z",
+                    "William Sidney, 1st Viscount De L'Isle |S: +1961-08-03T00:00:00Z |E: +1965-05-06T00:00:00Z",
+                    "William Morrison, 1st Viscount Dunrossil |S: +1960-02-02T00:00:00Z |E: +1961-08-02T00:00:00Z",
+                    "William Slim, 1st Viscount Slim |S: +1953-05-08T00:00:00Z |E: +1960-02-01T00:00:00Z",
+                    "Bill McKell |S: +1947-03-11T00:00:00Z |E: +1953-05-07T00:00:00Z",
+                    "Charles III of the United Kingdom |S: +2022-09-08T00:00:00Z"
+                ],
+                "ground_truth": "Paul Hasluck",
+                "ranking_qa": {
+                    "generic": "Paul Hasluck and Peter Hollingworth both served as the monarchs of Australia before. Do you know which one of them the former monarch was?",
+                    "rephrased_1": "Paul Hasluck and Peter Hollingworth both served as the monarchs of Australia before. Do you know which one of them the former monarch was?",
+                    "rephrased_2": "Australia had Paul Hasluck and Peter Hollingworth as former monarchs. Can you identify which one the former monarch was?",
+                    "rephrased_3": "Paul Hasluck and Peter Hollingworth previously held the position of the monarch of Australia. Which of them served as the former monarch?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 16 January 2003, Peter Hollingworth was the monarch of Australia. So, who held this position 12129 days before?",
+                    "rephrased_1": "On 16 January 2003, Peter Hollingworth was the monarch of Australia. So, who held this position 12129 days before?",
+                    "rephrased_2": "Peter Hollingworth was Australia's monarch on 16 January 2003. Do you know who was in this role before 12129 days?",
+                    "rephrased_3": "Peter Hollingworth served as the monarch of Australia on 16 January 2003. Can you identify who occupied this position before 12129 days?"
+                }
+            }
+        },
+        "Sweden": {
+            "Prime Minister of Sweden": {
+                "answers": [
+                    "Stefan L\u00f6fven |S: +2014-10-03T00:00:00Z |E: +2021-10-30T00:00:00Z",
+                    "Fredrik Reinfeldt |S: +2006-10-06T00:00:00Z |E: +2014-10-03T00:00:00Z",
+                    "G\u00f6ran Persson |S: +1996-03-22T00:00:00Z |E: +2006-10-06T00:00:00Z",
+                    "Ingvar Carlsson |S: +1994-10-07T00:00:00Z |E: +1996-03-22T00:00:00Z",
+                    "Carl Bildt |S: +1991-10-14T00:00:00Z |E: +1994-10-07T00:00:00Z",
+                    "Ingvar Carlsson |S: +1990-02-27T00:00:00Z |E: +1991-10-04T00:00:00Z",
+                    "Magdalena Andersson |S: +2021-11-30T00:00:00Z |E: +2022-10-18T00:00:00Z",
+                    "Ulf Kristersson |S: +2022-10-18T00:00:00Z"
+                ],
+                "ground_truth": "Carl Bildt",
+                "ranking_qa": {
+                    "generic": "Carl Bildt and G\u00f6ran Persson both served as the prime ministers of Sweden before. Do you know which one of them the former prime minister was?",
+                    "rephrased_1": "Carl Bildt and G\u00f6ran Persson both served as the prime ministers of Sweden before. Do you know which one of them the former prime minister was?",
+                    "rephrased_2": "Sweden had Carl Bildt and G\u00f6ran Persson as former prime ministers. Can you identify which one the former prime minister was?",
+                    "rephrased_3": "Carl Bildt and G\u00f6ran Persson previously held the position of the prime minister of Sweden. Which of them served as the former prime minister?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 18 January 1999, G\u00f6ran Persson was the prime minister of Sweden. So, who held this position 1723 days before?",
+                    "rephrased_1": "On 18 January 1999, G\u00f6ran Persson was the prime minister of Sweden. So, who held this position 1723 days before?",
+                    "rephrased_2": "G\u00f6ran Persson was Sweden's prime minister on 18 January 1999. Do you know who was in this role before 1723 days?",
+                    "rephrased_3": "G\u00f6ran Persson served as the prime minister of Sweden on 18 January 1999. Can you identify who occupied this position before 1723 days?"
+                }
+            }
+        },
+        "Norway": {
+            "Prime Minister of Norway": {
+                "answers": [
+                    "Erna Solberg |S: +2013-10-16T00:00:00Z |E: +2021-10-14T00:00:00Z",
+                    "Jens Stoltenberg |S: +2005-10-17T00:00:00Z |E: +2013-10-16T00:00:00Z",
+                    "Kjell Magne Bondevik |S: +2001-10-19T00:00:00Z |E: +2005-10-17T00:00:00Z",
+                    "Jens Stoltenberg |S: +2000-03-17T00:00:00Z |E: +2001-10-19T00:00:00Z",
+                    "Kjell Magne Bondevik |S: +1997-10-17T00:00:00Z |E: +2000-03-17T00:00:00Z",
+                    "Thorbj\u00f8rn Jagland |S: +1996-10-25T00:00:00Z |E: +1997-10-17T00:00:00Z",
+                    "Gro Harlem Brundtland |S: +1981-02-04T00:00:00Z |E: +1981-10-14T00:00:00Z",
+                    "Gro Harlem Brundtland |S: +1986-05-09T00:00:00Z |E: +1989-10-16T00:00:00Z",
+                    "Gro Harlem Brundtland |S: +1990-11-03T00:00:00Z |E: +1996-10-25T00:00:00Z",
+                    "K\u00e5re Willoch |S: +1981-10-14T00:00:00Z |E: +1986-05-09T00:00:00Z",
+                    "Odvar Nordli |S: +1976-01-15T00:00:00Z |E: +1981-02-04T00:00:00Z",
+                    "Anne Enger |S: +1998-08-31T00:00:00Z |E: +1998-09-24T00:00:00Z",
+                    "Jan P. Syse |S: +1989-10-16T00:00:00Z |E: +1990-11-03T00:00:00Z",
+                    "Svenn Stray |S: +1984-04-17T00:00:00Z |E: +1984-06-12T00:00:00Z",
+                    "Trygve Bratteli |S: +1971-03-17T00:00:00Z |E: +1972-10-18T00:00:00Z",
+                    "Trygve Bratteli |S: +1973-10-16T00:00:00Z |E: +1976-01-15T00:00:00Z",
+                    "Lars Korvald |S: +1972-10-18T00:00:00Z |E: +1973-10-16T00:00:00Z",
+                    "Per Borten |S: +1965-10-12T00:00:00Z |E: +1971-03-17T00:00:00Z",
+                    "Einar Gerhardsen |S: +1945-06-25T00:00:00Z |E: +1945-11-05T00:00:00Z",
+                    "Einar Gerhardsen |S: +1945-11-05T00:00:00Z |E: +1951-11-19T00:00:00Z",
+                    "Einar Gerhardsen |S: +1955-01-22T00:00:00Z |E: +1963-08-28T00:00:00Z",
+                    "Einar Gerhardsen |S: +1963-09-25T00:00:00Z |E: +1965-10-12T00:00:00Z",
+                    "John Lyng |S: +1963-08-28T00:00:00Z |E: +1963-09-25T00:00:00Z",
+                    "Oscar Torp |S: +1951-11-19T00:00:00Z |E: +1955-01-22T00:00:00Z",
+                    "Johan Nygaardsvold |S: +1935-03-20T00:00:00Z |E: +1945-06-25T00:00:00Z",
+                    "Jonas Gahr St\u00f8re |S: +2021-10-14T00:00:00Z"
+                ],
+                "ground_truth": "Svenn Stray",
+                "ranking_qa": {
+                    "generic": "Svenn Stray and Kjell Magne Bondevik both served as the prime ministers of Norway before. Do you know which one of them the former prime minister was?",
+                    "rephrased_1": "Svenn Stray and Kjell Magne Bondevik both served as the prime ministers of Norway before. Do you know which one of them the former prime minister was?",
+                    "rephrased_2": "Norway had Svenn Stray and Kjell Magne Bondevik as former prime ministers. Can you identify which one the former prime minister was?",
+                    "rephrased_3": "Svenn Stray and Kjell Magne Bondevik previously held the position of the prime minister of Norway. Which of them served as the former prime minister?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 24 December 2003, Kjell Magne Bondevik was the prime minister of Norway. So, who held this position 7142 days before?",
+                    "rephrased_1": "On 24 December 2003, Kjell Magne Bondevik was the prime minister of Norway. So, who held this position 7142 days before?",
+                    "rephrased_2": "Kjell Magne Bondevik was Norway's prime minister on 24 December 2003. Do you know who was in this role before 7142 days?",
+                    "rephrased_3": "Kjell Magne Bondevik served as the prime minister of Norway on 24 December 2003. Can you identify who occupied this position before 7142 days?"
+                }
+            }
+        },
+        "Israel": {
+            "President of Israel": {
+                "answers": [
+                    "Isaac Herzog |S: +2021-07-07T00:00:00Z",
+                    "Reuven Rivlin |S: +2014-07-24T00:00:00Z |E: +2021-07-07T00:00:00Z",
+                    "Shimon Peres |S: +2007-07-15T00:00:00Z |E: +2014-07-24T00:00:00Z",
+                    "Chaim Weizmann |S: +1949-02-17T00:00:00Z |E: +1952-11-09T00:00:00Z",
+                    "Yitzhak Ben-Zvi |S: +1952-12-16T00:00:00Z |E: +1963-04-23T00:00:00Z",
+                    "Zalman Shazar |S: +1963-05-21T00:00:00Z |E: +1973-05-24T00:00:00Z",
+                    "Ephraim Katzir |S: +1973-05-24T00:00:00Z |E: +1978-05-29T00:00:00Z",
+                    "Yitzhak Navon |S: +1978-05-29T00:00:00Z |E: +1983-05-05T00:00:00Z",
+                    "Chaim Herzog |S: +1983-05-05T00:00:00Z |E: +1993-05-13T00:00:00Z",
+                    "Ezer Weizman |S: +1993-05-13T00:00:00Z |E: +2000-07-13T00:00:00Z",
+                    "Moshe Katsav |S: +2000-08-01T00:00:00Z |E: +2007-07-01T00:00:00Z",
+                    "Chaim Weizmann |S: +1948-05-16T00:00:00Z |E: +1949-02-17T00:00:00Z",
+                    "David Ben-Gurion |S: +1948-05-14T00:00:00Z |E: +1948-05-16T00:00:00Z",
+                    "Yosef Sprinzak |S: +1952-11-09T00:00:00Z |E: +1952-12-10T00:00:00Z",
+                    "Kadish Luz |S: +1963-04-24T00:00:00Z |E: +1963-05-21T00:00:00Z",
+                    "Avraham Burg |S: +2000-07-12T00:00:00Z |E: +2000-08-01T00:00:00Z",
+                    "Dalia Itzik |S: +2007-01-07T00:00:00Z |E: +2007-07-18T00:00:00Z"
+                ],
+                "ground_truth": "Zalman Shazar",
+                "ranking_qa": {
+                    "generic": "Zalman Shazar and Shimon Peres both served as the presidents of Israel before. Do you know which one of them the former president was?",
+                    "rephrased_1": "Zalman Shazar and Shimon Peres both served as the presidents of Israel before. Do you know which one of them the former president was?",
+                    "rephrased_2": "Israel had Zalman Shazar and Shimon Peres as former presidents. Can you identify which one the former president was?",
+                    "rephrased_3": "Zalman Shazar and Shimon Peres previously held the position of the president of Israel. Which of them served as the former president?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 20 December 2009, Shimon Peres was the president of Israel. So, who held this position 13680 days before?",
+                    "rephrased_1": "On 20 December 2009, Shimon Peres was the president of Israel. So, who held this position 13680 days before?",
+                    "rephrased_2": "Shimon Peres was Israel's president on 20 December 2009. Do you know who was in this role before 13680 days?",
+                    "rephrased_3": "Shimon Peres served as the president of Israel on 20 December 2009. Can you identify who occupied this position before 13680 days?"
+                }
+            }
+        },
+        "Bangladesh": {
+            "Prime Minister of Bangladesh": {
+                "answers": [
+                    "Khaleda Zia |S: +1991-03-20T00:00:00Z |E: +1996-03-30T00:00:00Z",
+                    "Muhammad Habibur Rahman |S: +1996-03-30T00:00:00Z |E: +1996-06-23T00:00:00Z",
+                    "Sheikh Hasina |S: +1996-06-23T00:00:00Z |E: +2001-07-15T00:00:00Z",
+                    "Latifur Rahman |S: +2001-07-15T00:00:00Z |E: +2001-10-10T00:00:00Z",
+                    "Khaleda Zia |S: +2001-10-10T00:00:00Z |E: +2006-10-29T00:00:00Z",
+                    "Iajuddin Ahmed |S: +2006-10-29T00:00:00Z |E: +2007-01-11T00:00:00Z",
+                    "Fazlul Haque |S: +2007-01-11T00:00:00Z |E: +2007-01-12T00:00:00Z",
+                    "Fakhruddin Ahmed |S: +2007-01-12T00:00:00Z |E: +2009-01-06T00:00:00Z",
+                    "Sheikh Hasina |S: +2009-01-06T00:00:00Z |E: +2024-08-05T00:00:00Z",
+                    "Muhammad Yunus |S: +2024-08-08T00:00:00Z"
+                ],
+                "ground_truth": "Muhammad Habibur Rahman",
+                "ranking_qa": {
+                    "generic": "Muhammad Habibur Rahman and Fakhruddin Ahmed both served as the prime ministers of Bangladesh before. Do you know which one of them the former prime minister was?",
+                    "rephrased_1": "Muhammad Habibur Rahman and Fakhruddin Ahmed both served as the prime ministers of Bangladesh before. Do you know which one of them the former prime minister was?",
+                    "rephrased_2": "Bangladesh had Muhammad Habibur Rahman and Fakhruddin Ahmed as former prime ministers. Can you identify which one the former prime minister was?",
+                    "rephrased_3": "Muhammad Habibur Rahman and Fakhruddin Ahmed previously held the position of the prime minister of Bangladesh. Which of them served as the former prime minister?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 15 March 2008, Fakhruddin Ahmed was the prime minister of Bangladesh. So, who held this position 4339 days before?",
+                    "rephrased_1": "On 15 March 2008, Fakhruddin Ahmed was the prime minister of Bangladesh. So, who held this position 4339 days before?",
+                    "rephrased_2": "Fakhruddin Ahmed was Bangladesh's prime minister on 15 March 2008. Do you know who was in this role before 4339 days?",
+                    "rephrased_3": "Fakhruddin Ahmed served as the prime minister of Bangladesh on 15 March 2008. Can you identify who occupied this position before 4339 days?"
+                }
+            }
+        },
+        "Iran": {
+            "President of Iran": {
+                "answers": [
+                    "Hassan Rouhani |S: +2013-08-03T00:00:00Z |E: +2021-08-03T00:00:00Z",
+                    "Mahmoud Ahmadinejad |S: +2005-08-03T00:00:00Z |E: +2013-08-03T00:00:00Z",
+                    "Mohammad Khatami |S: +1997-08-03T00:00:00Z |E: +2005-08-03T00:00:00Z",
+                    "Akbar Hashemi Rafsanjani |S: +1989-08-03T00:00:00Z |E: +1997-08-03T00:00:00Z",
+                    "Ali Khamenei |S: +1981-10-13T00:00:00Z |E: +1989-08-03T00:00:00Z",
+                    "Mohammad-Ali Rajai |S: +1981-08-02T00:00:00Z |E: +1981-08-30T00:00:00Z",
+                    "Abulhassan Banisadr |S: +1980-02-04T00:00:00Z |E: +1981-06-21T00:00:00Z",
+                    "Ebrahim Raisi |S: +2021-08-03T00:00:00Z |E: +2024-05-19T00:00:00Z",
+                    "Masoud Pezeshkian |S: +2024-07-28T00:00:00Z"
+                ],
+                "ground_truth": "Ali Khamenei",
+                "ranking_qa": {
+                    "generic": "Ali Khamenei and Mohammad Khatami both served as the presidents of Iran before. Do you know which one of them the former president was?",
+                    "rephrased_1": "Ali Khamenei and Mohammad Khatami both served as the presidents of Iran before. Do you know which one of them the former president was?",
+                    "rephrased_2": "Iran had Ali Khamenei and Mohammad Khatami as former presidents. Can you identify which one the former president was?",
+                    "rephrased_3": "Ali Khamenei and Mohammad Khatami previously held the position of the president of Iran. Which of them served as the former president?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 29 April 1999, Mohammad Khatami was the president of Iran. So, who held this position 5412 days before?",
+                    "rephrased_1": "On 29 April 1999, Mohammad Khatami was the president of Iran. So, who held this position 5412 days before?",
+                    "rephrased_2": "Mohammad Khatami was Iran's president on 29 April 1999. Do you know who was in this role before 5412 days?",
+                    "rephrased_3": "Mohammad Khatami served as the president of Iran on 29 April 1999. Can you identify who occupied this position before 5412 days?"
+                }
+            }
+        },
+        "Romania": {
+            "President of Romania": {
+                "answers": [
+                    "Traian B\u0103sescu |S: +2004-12-21T00:00:00Z |E: +2014-12-21T00:00:00Z",
+                    "Klaus Iohannis |S: +2014-12-21T00:00:00Z",
+                    "Ion Iliescu |S: +1990-05-20T00:00:00Z |E: +1996-11-29T00:00:00Z",
+                    "Ion Iliescu |S: +2000-12-20T00:00:00Z |E: +2004-12-20T00:00:00Z",
+                    "Emil Constantinescu |S: +1996-11-29T00:00:00Z |E: +2000-12-20T00:00:00Z",
+                    "Nicolae Ceau\u0219escu |S: +1974-04-29T00:00:00Z |E: +1989-12-25T00:00:00Z",
+                    "Nicolae Ceau\u0219escu |S: +1967-12-09T00:00:00Z |E: +1974-04-29T00:00:00Z",
+                    "Chivu Stoica |S: +1965-03-24T00:00:00Z |E: +1967-12-09T00:00:00Z",
+                    "Gheorghe Gheorghiu-Dej |S: +1961-03-21T00:00:00Z |E: +1965-03-19T00:00:00Z",
+                    "Ion Gheorghe Maurer |S: +1958-01-11T00:00:00Z |E: +1961-03-21T00:00:00Z",
+                    "Petru Groza |S: +1952-06-02T00:00:00Z |E: +1958-01-07T00:00:00Z",
+                    "Constantin Ion Parhon |S: +1947-12-30T00:00:00Z |E: +1952-06-02T00:00:00Z",
+                    "Michael I of Romania |S: +1940-09-06T00:00:00Z |E: +1947-12-30T00:00:00Z",
+                    "Carol II of Romania |S: +1930-06-08T00:00:00Z |E: +1940-09-06T00:00:00Z",
+                    "Michael I of Romania |S: +1927-07-20T00:00:00Z |E: +1930-06-08T00:00:00Z",
+                    "Ferdinand I of Romania |S: +1914-10-10T00:00:00Z |E: +1927-07-20T00:00:00Z",
+                    "Carol I of Romania |S: +1881-05-10T00:00:00Z |E: +1914-10-10T00:00:00Z",
+                    "Carol I of Romania |S: +1866-05-10T00:00:00Z |E: +1881-05-10T00:00:00Z",
+                    "Alexandru Ioan Cuza |S: +1862-01-24T00:00:00Z |E: +1866-02-23T00:00:00Z"
+                ],
+                "ground_truth": "Alexandru Ioan Cuza",
+                "ranking_qa": {
+                    "generic": "Alexandru Ioan Cuza and Emil Constantinescu both served as the presidents of Romania before. Do you know which one of them the former president was?",
+                    "rephrased_1": "Alexandru Ioan Cuza and Emil Constantinescu both served as the presidents of Romania before. Do you know which one of them the former president was?",
+                    "rephrased_2": "Romania had Alexandru Ioan Cuza and Emil Constantinescu as former presidents. Can you identify which one the former president was?",
+                    "rephrased_3": "Alexandru Ioan Cuza and Emil Constantinescu previously held the position of the president of Romania. Which of them served as the former president?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 8 March 1997, Emil Constantinescu was the president of Romania. So, who held this position 48461 days before?",
+                    "rephrased_1": "On 8 March 1997, Emil Constantinescu was the president of Romania. So, who held this position 48461 days before?",
+                    "rephrased_2": "Emil Constantinescu was Romania's president on 8 March 1997. Do you know who was in this role before 48461 days?",
+                    "rephrased_3": "Emil Constantinescu served as the president of Romania on 8 March 1997. Can you identify who occupied this position before 48461 days?"
+                }
+            },
+            "Prime Minister of Romania": {
+                "answers": [
+                    "Mihai R\u0103zvan Ungureanu |S: +2012-02-09T00:00:00Z |E: +2012-05-07T00:00:00Z",
+                    "Emil Boc |S: +2008-12-22T00:00:00Z |E: +2012-02-06T00:00:00Z",
+                    "C\u0103lin Popescu-T\u0103riceanu |S: +2004-12-28T00:00:00Z |E: +2008-12-22T00:00:00Z",
+                    "Adrian N\u0103stase |S: +2000-12-28T00:00:00Z |E: +2004-12-28T00:00:00Z",
+                    "Mugur Is\u0103rescu |S: +1999-12-22T00:00:00Z |E: +2000-12-28T00:00:00Z",
+                    "Radu Vasile |S: +1998-04-17T00:00:00Z |E: +1999-12-22T00:00:00Z",
+                    "Victor Ciorbea |S: +1996-12-12T00:00:00Z |E: +1998-04-17T00:00:00Z",
+                    "Nicolae V\u0103c\u0103roiu |S: +1992-11-19T00:00:00Z |E: +1996-12-11T00:00:00Z",
+                    "Theodor Stolojan |S: +1991-10-16T00:00:00Z |E: +1992-11-19T00:00:00Z",
+                    "Petre Roman |S: +1989-12-26T00:00:00Z |E: +1991-10-16T00:00:00Z",
+                    "Dacian Ciolo\u0219 |S: +2015-11-17T00:00:00Z |E: +2017-01-04T00:00:00Z",
+                    "Sorin Grindeanu |S: +2017-01-04T00:00:00Z |E: +2017-06-29T00:00:00Z",
+                    "Constantin D\u0103sc\u0103lescu |S: +1982-05-21T00:00:00Z |E: +1989-12-22T00:00:00Z",
+                    "Ilie Verde\u021b |S: +1979-03-30T00:00:00Z |E: +1982-05-20T00:00:00Z",
+                    "Manea M\u0103nescu |S: +1974-02-27T00:00:00Z |E: +1979-03-30T00:00:00Z",
+                    "Ion Gheorghe Maurer |S: +1961-03-21T00:00:00Z |E: +1974-02-27T00:00:00Z",
+                    "Chivu Stoica |S: +1955-10-04T00:00:00Z |E: +1961-03-20T00:00:00Z",
+                    "Gheorghe Gheorghiu-Dej |S: +1952-06-02T00:00:00Z |E: +1955-10-04T00:00:00Z",
+                    "Petru Groza |S: +1945-03-06T00:00:00Z |E: +1952-06-02T00:00:00Z",
+                    "Nicolae R\u0103descu |S: +1944-12-06T00:00:00Z |E: +1945-02-28T00:00:00Z",
+                    "Constantin S\u0103n\u0103tescu |S: +1944-08-23T00:00:00Z |E: +1944-12-05T00:00:00Z",
+                    "Barbu Catargiu |S: +1862-02-15T00:00:00Z |E: +1862-06-08T00:00:00Z",
+                    "Nicolae Cre\u021bulescu |S: +1862-06-24T00:00:00Z |E: +1863-10-11T00:00:00Z",
+                    "Mihail Kog\u0103lniceanu |S: +1863-10-11T00:00:00Z |E: +1865-01-26T00:00:00Z",
+                    "Constantin Bosianu |S: +1865-01-26T00:00:00Z |E: +1865-06-14T00:00:00Z",
+                    "Ion Ghica |S: +1866-02-11T00:00:00Z |E: +1866-05-10T00:00:00Z",
+                    "Lasc\u0103r Catargi |S: +1866-05-11T00:00:00Z |E: +1866-07-13T00:00:00Z",
+                    "\u0218tefan Golescu |S: +1867-11-26T00:00:00Z |E: +1868-05-12T00:00:00Z",
+                    "Nicolae Golescu |S: +1868-05-01T00:00:00Z |E: +1868-11-15T00:00:00Z",
+                    "Prince Dimitrie Ghica |S: +1868-11-16T00:00:00Z |E: +1870-01-27T00:00:00Z",
+                    "Alexandru G. Golescu |S: +1870-02-02T00:00:00Z |E: +1870-04-18T00:00:00Z",
+                    "Manolache Costache Epureanu |S: +1870-04-20T00:00:00Z |E: +1870-12-14T00:00:00Z",
+                    "Ion Emanuel Florescu |S: +1876-04-04T00:00:00Z |E: +1876-04-26T00:00:00Z",
+                    "Ion C. Br\u0103tianu |S: +1876-07-24T00:00:00Z |E: +1878-11-24T00:00:00Z",
+                    "Dimitrie Br\u0103tianu |S: +1881-04-10T00:00:00Z |E: +1881-06-08T00:00:00Z",
+                    "Theodor Rosetti |S: +1888-03-23T00:00:00Z |E: +1889-03-22T00:00:00Z",
+                    "Gheorghe Manu |S: +1889-11-05T00:00:00Z |E: +1891-02-15T00:00:00Z",
+                    "Dimitrie Sturdza |S: +1895-10-15T00:00:00Z |E: +1896-12-02T00:00:00Z",
+                    "Petre S. Aurelian |S: +1896-12-02T00:00:00Z |E: +1897-04-12T00:00:00Z",
+                    "Ion Gigurtu |S: +1940-07-04T00:00:00Z |E: +1940-09-04T00:00:00Z",
+                    "Gheorghe T\u0103t\u0103rescu |S: +1939-11-24T00:00:00Z |E: +1940-07-04T00:00:00Z",
+                    "Constantin Argetoianu |S: +1939-09-28T00:00:00Z |E: +1939-11-23T00:00:00Z",
+                    "Gheorghe Arge\u0219anu |S: +1939-09-21T00:00:00Z |E: +1939-09-28T00:00:00Z",
+                    "Armand C\u0103linescu |S: +1939-03-07T00:00:00Z |E: +1939-09-21T00:00:00Z",
+                    "Miron Cristea |S: +1938-02-11T00:00:00Z |E: +1939-03-06T00:00:00Z",
+                    "Octavian Goga |S: +1937-12-29T00:00:00Z |E: +1938-02-10T00:00:00Z",
+                    "Gheorghe T\u0103t\u0103rescu |S: +1934-01-04T00:00:00Z |E: +1937-12-28T00:00:00Z",
+                    "Ion G. Duca |S: +1933-11-14T00:00:00Z |E: +1933-12-29T00:00:00Z",
+                    "Nicolae Iorga |S: +1931-04-18T00:00:00Z |E: +1932-06-05T00:00:00Z",
+                    "Take Ionescu |S: +1921-12-17T00:00:00Z |E: +1922-01-19T00:00:00Z",
+                    "Mihai Tudose |S: +2017-06-29T00:00:00Z |E: +2018-01-16T00:00:00Z",
+                    "Viorica D\u0103ncil\u0103 |S: +2018-01-29T00:00:00Z |E: +2019-11-04T00:00:00Z",
+                    "Victor Ponta |S: +2012-05-07T00:00:00Z |E: +2015-11-04T00:00:00Z",
+                    "Ludovic Orban |S: +2019-11-04T00:00:00Z |E: +2020-12-07T00:00:00Z",
+                    "Nicolae Cre\u021bulescu |S: +1865-06-14T00:00:00Z |E: +1866-02-11T00:00:00Z",
+                    "Ion Ghica |S: +1866-07-15T00:00:00Z |E: +1867-02-21T00:00:00Z",
+                    "Ion Ghica |S: +1870-12-18T00:00:00Z |E: +1871-03-11T00:00:00Z",
+                    "Lasc\u0103r Catargi |S: +1871-03-11T00:00:00Z |E: +1876-03-30T00:00:00Z",
+                    "Lasc\u0103r Catargi |S: +1889-03-29T00:00:00Z |E: +1889-11-03T00:00:00Z",
+                    "Lasc\u0103r Catargi |S: +1891-12-29T00:00:00Z |E: +1895-10-15T00:00:00Z",
+                    "Manolache Costache Epureanu |S: +1876-05-06T00:00:00Z |E: +1876-08-05T00:00:00Z",
+                    "Ion Emanuel Florescu |S: +1891-03-02T00:00:00Z |E: +1891-12-29T00:00:00Z",
+                    "Ion C. Br\u0103tianu |S: +1878-11-25T00:00:00Z |E: +1879-07-10T00:00:00Z",
+                    "Ion C. Br\u0103tianu |S: +1879-07-11T00:00:00Z |E: +1881-03-13T00:00:00Z",
+                    "Ion C. Br\u0103tianu |S: +1881-03-13T00:00:00Z |E: +1881-04-09T00:00:00Z",
+                    "Ion C. Br\u0103tianu |S: +1881-06-09T00:00:00Z |E: +1888-03-20T00:00:00Z",
+                    "Dimitrie Sturdza |S: +1897-04-12T00:00:00Z |E: +1899-04-23T00:00:00Z",
+                    "Florin C\u00ee\u021bu |S: +2020-12-23T00:00:00Z |E: +2021-11-25T00:00:00Z",
+                    "Nicolae Ciuc\u0103 |S: +2021-11-25T00:00:00Z |E: +2023-06-15T00:00:00Z",
+                    "Marcel Ciolacu |S: +2023-06-15T00:00:00Z"
+                ],
+                "ground_truth": "Octavian Goga",
+                "ranking_qa": {
+                    "generic": "Octavian Goga and Ion Gheorghe Maurer both served as the prime ministers of Romania before. Do you know which one of them the former prime minister was?",
+                    "rephrased_1": "Octavian Goga and Ion Gheorghe Maurer both served as the prime ministers of Romania before. Do you know which one of them the former prime minister was?",
+                    "rephrased_2": "Romania had Octavian Goga and Ion Gheorghe Maurer as former prime ministers. Can you identify which one the former prime minister was?",
+                    "rephrased_3": "Octavian Goga and Ion Gheorghe Maurer previously held the position of the prime minister of Romania. Which of them served as the former prime minister?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 2 September 1968, Ion Gheorghe Maurer was the prime minister of Romania. So, who held this position 11200 days before?",
+                    "rephrased_1": "On 2 September 1968, Ion Gheorghe Maurer was the prime minister of Romania. So, who held this position 11200 days before?",
+                    "rephrased_2": "Ion Gheorghe Maurer was Romania's prime minister on 2 September 1968. Do you know who was in this role before 11200 days?",
+                    "rephrased_3": "Ion Gheorghe Maurer served as the prime minister of Romania on 2 September 1968. Can you identify who occupied this position before 11200 days?"
+                }
+            }
+        }
+    },
+    "athletes_byPayment": {
+        "Harry Kane": {
+            "answers": [
+                "Tottenham Hotspur F.C. |S: +2010-07-01T00:00:00Z |E: +2011-01-07T00:00:00Z",
+                "Leyton Orient F.C. |S: +2011-01-07T00:00:00Z |E: +2011-05-31T00:00:00Z",
+                "Tottenham Hotspur F.C. |S: +2011-05-31T00:00:00Z |E: +2012-01-01T00:00:00Z",
+                "Millwall F.C. |S: +2012-01-01T00:00:00Z |E: +2012-05-31T00:00:00Z",
+                "Tottenham Hotspur F.C. |S: +2012-05-31T00:00:00Z |E: +2012-08-31T00:00:00Z",
+                "Norwich City F.C. |S: +2012-08-31T00:00:00Z |E: +2013-02-01T00:00:00Z",
+                "Tottenham Hotspur F.C. |S: +2013-02-01T00:00:00Z |E: +2013-02-21T00:00:00Z",
+                "Leicester City |S: +2013-02-21T00:00:00Z |E: +2013-05-14T00:00:00Z",
+                "Tottenham Hotspur F.C. |S: +2013-05-14T00:00:00Z |E: +2013-08-12T00:00:00Z",
+                "FC Bayern Munich |S: +2013-08-12T00:00:00Z"
+            ],
+            "ground_truth": "Leyton Orient F.C.",
+            "ranking_qa": {
+                "generic": "Leyton Orient F.C. and Leicester City were both Harry Kane's football clubs before, so which team between them was the former one Harry Kane played for?",
+                "rephrased_1": "Leyton Orient F.C. and Leicester City were both Harry Kane's football clubs before, so which team between them was the former one Harry Kane played for?",
+                "rephrased_2": "Harry Kane has joined Leyton Orient F.C. and Leicester City football clubs before. Can you identify which team between them was the former one Harry Kane played for?",
+                "rephrased_3": "Harry Kane previously played for Leyton Orient F.C. and Leicester City football clubs. Which team between them did Harry Kane formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 2 April 2013, Harry Kane played for Leicester City. So, before 673 days, which football club did Harry Kane play for?",
+                "rephrased_1": "On 2 April 2013, Harry Kane played for Leicester City. So, before 673 days, which football club did Harry Kane play for?",
+                "rephrased_2": "Leicester City was Harry Kane's football club on 2 April 2013. Can you identify which football club Harry Kane belongs to before 673 days?",
+                "rephrased_3": "Harry Kane played for Leicester City on 2 April 2013. Do you know which football club Harry Kane played for before 673 days?"
+            }
+        },
+        "LeBron James": {
+            "answers": [
+                "Cleveland Cavaliers |S: +2003-06-26T00:00:00Z |E: +2010-07-10T00:00:00Z",
+                "Miami Heat |S: +2010-07-10T00:00:00Z |E: +2014-06-25T00:00:00Z",
+                "Cleveland Cavaliers |S: +2014-06-25T00:00:00Z |E: +2018-07-01T00:00:00Z",
+                "Los Angeles Lakers |S: +2018-07-01T00:00:00Z"
+            ],
+            "ground_truth": "Miami Heat",
+            "ranking_qa": {
+                "generic": "Miami Heat and Cleveland Cavaliers were both LeBron James's basketball teams before, so which team between them was the former one LeBron James played for?",
+                "rephrased_1": "Miami Heat and Cleveland Cavaliers were both LeBron James's basketball teams before, so which team between them was the former one LeBron James played for?",
+                "rephrased_2": "LeBron James has joined Miami Heat and Cleveland Cavaliers basketball teams before. Can you identify which team between them was the former one LeBron James played for?",
+                "rephrased_3": "LeBron James previously played for Miami Heat and Cleveland Cavaliers basketball teams. Which team between them did LeBron James formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 9 December 2017, LeBron James played for Cleveland Cavaliers. So, before 1312 days, which basketball team did LeBron James play for?",
+                "rephrased_1": "On 9 December 2017, LeBron James played for Cleveland Cavaliers. So, before 1312 days, which basketball team did LeBron James play for?",
+                "rephrased_2": "Cleveland Cavaliers was LeBron James's basketball team on 9 December 2017. Can you identify which basketball team LeBron James belongs to before 1312 days?",
+                "rephrased_3": "LeBron James played for Cleveland Cavaliers on 9 December 2017. Do you know which basketball team LeBron James played for before 1312 days?"
+            }
+        },
+        "Bradley Beal": {
+            "answers": [
+                "Florida Gators men's basketball |S: +2011-01-01T00:00:00Z |E: +2012-06-28T00:00:00Z",
+                "Washington Wizards |S: +2012-06-28T00:00:00Z |E: +2023-07-01T00:00:00Z",
+                "Phoenix Suns |S: +2023-07-01T00:00:00Z"
+            ],
+            "ground_truth": "Florida Gators men's basketball",
+            "ranking_qa": {
+                "generic": "Florida Gators men's basketball and Washington Wizards were both Bradley Beal's basketball teams before, so which team between them was the former one Bradley Beal played for?",
+                "rephrased_1": "Florida Gators men's basketball and Washington Wizards were both Bradley Beal's basketball teams before, so which team between them was the former one Bradley Beal played for?",
+                "rephrased_2": "Bradley Beal has joined Florida Gators men's basketball and Washington Wizards basketball teams before. Can you identify which team between them was the former one Bradley Beal played for?",
+                "rephrased_3": "Bradley Beal previously played for Florida Gators men's basketball and Washington Wizards basketball teams. Which team between them did Bradley Beal formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 22 May 2015, Bradley Beal played for Washington Wizards. So, before 1234 days, which basketball team did Bradley Beal play for?",
+                "rephrased_1": "On 22 May 2015, Bradley Beal played for Washington Wizards. So, before 1234 days, which basketball team did Bradley Beal play for?",
+                "rephrased_2": "Washington Wizards was Bradley Beal's basketball team on 22 May 2015. Can you identify which basketball team Bradley Beal belongs to before 1234 days?",
+                "rephrased_3": "Bradley Beal played for Washington Wizards on 22 May 2015. Do you know which basketball team Bradley Beal played for before 1234 days?"
+            }
+        },
+        "Damian Lillard": {
+            "answers": [
+                "Weber State Wildcats men's basketball |S: +2008-01-01T00:00:00Z |E: +2012-07-13T00:00:00Z",
+                "Portland Trail Blazers |S: +2012-07-13T00:00:00Z |E: +2023-09-27T00:00:00Z",
+                "Milwaukee Bucks |S: +2023-09-27T00:00:00Z"
+            ],
+            "ground_truth": "Weber State Wildcats men's basketball",
+            "ranking_qa": {
+                "generic": "Weber State Wildcats men's basketball and Portland Trail Blazers were both Damian Lillard's basketball teams before, so which team between them was the former one Damian Lillard played for?",
+                "rephrased_1": "Weber State Wildcats men's basketball and Portland Trail Blazers were both Damian Lillard's basketball teams before, so which team between them was the former one Damian Lillard played for?",
+                "rephrased_2": "Damian Lillard has joined Weber State Wildcats men's basketball and Portland Trail Blazers basketball teams before. Can you identify which team between them was the former one Damian Lillard played for?",
+                "rephrased_3": "Damian Lillard previously played for Weber State Wildcats men's basketball and Portland Trail Blazers basketball teams. Which team between them did Damian Lillard formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 22 July 2014, Damian Lillard played for Portland Trail Blazers. So, before 1574 days, which basketball team did Damian Lillard play for?",
+                "rephrased_1": "On 22 July 2014, Damian Lillard played for Portland Trail Blazers. So, before 1574 days, which basketball team did Damian Lillard play for?",
+                "rephrased_2": "Portland Trail Blazers was Damian Lillard's basketball team on 22 July 2014. Can you identify which basketball team Damian Lillard belongs to before 1574 days?",
+                "rephrased_3": "Damian Lillard played for Portland Trail Blazers on 22 July 2014. Do you know which basketball team Damian Lillard played for before 1574 days?"
+            }
+        },
+        "Lewis Hamilton": {
+            "answers": [
+                "McLaren |S: +2007-00-00T00:00:00Z |E: +2012-00-00T00:00:00Z",
+                "Mercedes F1 Team |S: +2013-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Mercedes F1 Team",
+            "ranking_qa": {
+                "generic": "McLaren and Mercedes F1 Team were both Lewis Hamilton's Formula 1 teams before, so which team between them was the latter one Lewis Hamilton drove for?",
+                "rephrased_1": "McLaren and Mercedes F1 Team were both Lewis Hamilton's Formula 1 teams before, so which team between them was the latter one Lewis Hamilton drove for?",
+                "rephrased_2": "Lewis Hamilton has joined McLaren and Mercedes F1 Team Formula 1 teams before. Can you identify which team between them was the latter one Lewis Hamilton drove for?",
+                "rephrased_3": "Lewis Hamilton previously drove for McLaren and Mercedes F1 Team Formula 1 teams. Which team between them did Lewis Hamilton latterly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 28 July 2010, Lewis Hamilton drove for McLaren. So, after 5172 days, which Formula 1 team did Lewis Hamilton drive for?",
+                "rephrased_1": "On 28 July 2010, Lewis Hamilton drove for McLaren. So, after 5172 days, which Formula 1 team did Lewis Hamilton drive for?",
+                "rephrased_2": "McLaren was Lewis Hamilton's Formula 1 team on 28 July 2010. Can you identify which Formula 1 team Lewis Hamilton belongs to after 5172 days?",
+                "rephrased_3": "Lewis Hamilton drove for McLaren on 28 July 2010. Do you know which Formula 1 team Lewis Hamilton drove for after 5172 days?"
+            }
+        },
+        "Fernando Alonso": {
+            "answers": [
+                "Renault F1 Team |S: +2002-00-00T00:00:00Z |E: +2006-00-00T00:00:00Z",
+                "McLaren |S: +2007-00-00T00:00:00Z |E: +2007-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2008-00-00T00:00:00Z |E: +2009-00-00T00:00:00Z",
+                "Scuderia Ferrari |S: +2010-00-00T00:00:00Z |E: +2014-00-00T00:00:00Z",
+                "McLaren |S: +2015-00-00T00:00:00Z |E: +2018-00-00T00:00:00Z",
+                "Minardi |S: +2001-00-00T00:00:00Z |E: +2001-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2021-00-00T00:00:00Z |E: +2022-00-00T00:00:00Z",
+                "Aston Martin F1 Team |S: +2023-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Scuderia Ferrari",
+            "ranking_qa": {
+                "generic": "Scuderia Ferrari and McLaren were both Fernando Alonso's Formula 1 teams before, so which team between them was the former one Fernando Alonso drove for?",
+                "rephrased_1": "Scuderia Ferrari and McLaren were both Fernando Alonso's Formula 1 teams before, so which team between them was the former one Fernando Alonso drove for?",
+                "rephrased_2": "Fernando Alonso has joined Scuderia Ferrari and McLaren Formula 1 teams before. Can you identify which team between them was the former one Fernando Alonso drove for?",
+                "rephrased_3": "Fernando Alonso previously drove for Scuderia Ferrari and McLaren Formula 1 teams. Which team between them did Fernando Alonso formerly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 11 October 2015, Fernando Alonso drove for McLaren. So, before 1096 days, which Formula 1 team did Fernando Alonso drive for?",
+                "rephrased_1": "On 11 October 2015, Fernando Alonso drove for McLaren. So, before 1096 days, which Formula 1 team did Fernando Alonso drive for?",
+                "rephrased_2": "McLaren was Fernando Alonso's Formula 1 team on 11 October 2015. Can you identify which Formula 1 team Fernando Alonso belongs to before 1096 days?",
+                "rephrased_3": "Fernando Alonso drove for McLaren on 11 October 2015. Do you know which Formula 1 team Fernando Alonso drove for before 1096 days?"
+            }
+        }
+    },
+    "organizations": {
+        "North Atlantic Treaty Organization": {
+            "headquarters location": {
+                "answers": [
+                    "City of Brussels |S: +1967-10-16T00:00:00Z |E: +2017-05-25T00:00:00Z",
+                    "16th arrondissement of Paris |S: +1959-12-16T00:00:00Z |E: +1967-00-00T00:00:00Z",
+                    "London |S: +1950-00-00T00:00:00Z |E: +1952-04-15T00:00:00Z",
+                    "Palais de Chaillot |S: +1952-04-16T00:00:00Z |E: +1959-12-15T00:00:00Z",
+                    "City of Brussels |S: +2017-05-25T00:00:00Z"
+                ],
+                "ground_truth": "London",
+                "ranking_qa": {
+                    "generic": "London and Palais de Chaillot both served as the headquarters locations of the North Atlantic Treaty Organization before. Do you know which one of them the former headquarters location was?",
+                    "rephrased_1": "London and Palais de Chaillot both served as the headquarters locations of the North Atlantic Treaty Organization before. Do you know which one of them the former headquarters location was?",
+                    "rephrased_2": "the North Atlantic Treaty Organization had London and Palais de Chaillot as former headquarters locations. Can you identify which one the former headquarters location was?",
+                    "rephrased_3": "London and Palais de Chaillot previously held the position of the headquarters location of the North Atlantic Treaty Organization. Which of them served as the former headquarters location?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 25 December 1958, Palais de Chaillot was the headquarters location of the North Atlantic Treaty Organization. So, who held this position 2955 days before?",
+                    "rephrased_1": "On 25 December 1958, Palais de Chaillot was the headquarters location of the North Atlantic Treaty Organization. So, who held this position 2955 days before?",
+                    "rephrased_2": "Palais de Chaillot was the North Atlantic Treaty Organization's headquarters location on 25 December 1958. Do you know who was in this role before 2955 days?",
+                    "rephrased_3": "Palais de Chaillot served as the headquarters location of the North Atlantic Treaty Organization on 25 December 1958. Can you identify who occupied this position before 2955 days?"
+                }
+            }
+        },
+        "Birzeit University": {
+            "President": {
+                "answers": [
+                    "Abdul Latif Abu Hijleh |S: +2018-08-01T00:00:00Z |E: +2021-01-01T00:00:00Z",
+                    "Beshara Doumani |S: +2021-01-01T00:00:00Z |E: +2023-08-01T00:00:00Z",
+                    "Gabi Baramki |S: +1974-01-01T00:00:00Z |E: +1993-01-01T00:00:00Z",
+                    "Hannah Nasir |S: +2023-08-01T00:00:00Z"
+                ],
+                "ground_truth": "Gabi Baramki",
+                "ranking_qa": {
+                    "generic": "Gabi Baramki and Beshara Doumani both served as the presidents of the Birzeit University before. Do you know which one of them the former president was?",
+                    "rephrased_1": "Gabi Baramki and Beshara Doumani both served as the presidents of the Birzeit University before. Do you know which one of them the former president was?",
+                    "rephrased_2": "the Birzeit University had Gabi Baramki and Beshara Doumani as former presidents. Can you identify which one the former president was?",
+                    "rephrased_3": "Gabi Baramki and Beshara Doumani previously held the position of the president of the Birzeit University. Which of them served as the former president?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 18 May 2022, Beshara Doumani was the president of the Birzeit University. So, who held this position 15359 days before?",
+                    "rephrased_1": "On 18 May 2022, Beshara Doumani was the president of the Birzeit University. So, who held this position 15359 days before?",
+                    "rephrased_2": "Beshara Doumani was the Birzeit University's president on 18 May 2022. Do you know who was in this role before 15359 days?",
+                    "rephrased_3": "Beshara Doumani served as the president of the Birzeit University on 18 May 2022. Can you identify who occupied this position before 15359 days?"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,267 @@
+{
+    "companies_byRevenue": {},
+    "countries_byGDP": {
+        "Israel": {
+            "President of Israel": {
+                "answers": [
+                    "Isaac Herzog |S: +2021-07-07T00:00:00Z",
+                    "Reuven Rivlin |S: +2014-07-24T00:00:00Z |E: +2021-07-07T00:00:00Z",
+                    "Shimon Peres |S: +2007-07-15T00:00:00Z |E: +2014-07-24T00:00:00Z",
+                    "Chaim Weizmann |S: +1949-02-17T00:00:00Z |E: +1952-11-09T00:00:00Z",
+                    "Yitzhak Ben-Zvi |S: +1952-12-16T00:00:00Z |E: +1963-04-23T00:00:00Z",
+                    "Zalman Shazar |S: +1963-05-21T00:00:00Z |E: +1973-05-24T00:00:00Z",
+                    "Ephraim Katzir |S: +1973-05-24T00:00:00Z |E: +1978-05-29T00:00:00Z",
+                    "Yitzhak Navon |S: +1978-05-29T00:00:00Z |E: +1983-05-05T00:00:00Z",
+                    "Chaim Herzog |S: +1983-05-05T00:00:00Z |E: +1993-05-13T00:00:00Z",
+                    "Ezer Weizman |S: +1993-05-13T00:00:00Z |E: +2000-07-13T00:00:00Z",
+                    "Moshe Katsav |S: +2000-08-01T00:00:00Z |E: +2007-07-01T00:00:00Z",
+                    "Chaim Weizmann |S: +1948-05-16T00:00:00Z |E: +1949-02-17T00:00:00Z",
+                    "David Ben-Gurion |S: +1948-05-14T00:00:00Z |E: +1948-05-16T00:00:00Z",
+                    "Yosef Sprinzak |S: +1952-11-09T00:00:00Z |E: +1952-12-10T00:00:00Z",
+                    "Kadish Luz |S: +1963-04-24T00:00:00Z |E: +1963-05-21T00:00:00Z",
+                    "Avraham Burg |S: +2000-07-12T00:00:00Z |E: +2000-08-01T00:00:00Z",
+                    "Dalia Itzik |S: +2007-01-07T00:00:00Z |E: +2007-07-18T00:00:00Z"
+                ],
+                "ground_truth": "Zalman Shazar",
+                "ranking_qa": {
+                    "generic": "The presidents of Israel on 7 July 1972 and 20 December 2009 were Zalman Shazar and Shimon Peres, so who was the former president?",
+                    "rephrased_1": "The presidents of Israel on 7 July 1972 and 20 December 2009 were Zalman Shazar and Shimon Peres, so who was the former president?",
+                    "rephrased_2": "Zalman Shazar and Shimon Peres served as the presidents of Israel on 7 July 1972 and 20 December 2009, respectively. Can you identify which one the former president was?",
+                    "rephrased_3": "On 7 July 1972, Zalman Shazar was the president of Israel, while Shimon Peres held the position on 20 December 2009. Which of them served as the former president?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 20 December 2009, Shimon Peres was the president of Israel. So, who held this position 13680 days before?",
+                    "rephrased_1": "On 20 December 2009, Shimon Peres was the president of Israel. So, who held this position 13680 days before?",
+                    "rephrased_2": "Shimon Peres was Israel's president on 20 December 2009. Do you know who was in this role before 13680 days?",
+                    "rephrased_3": "Shimon Peres served as the president of Israel on 20 December 2009. Can you identify who occupied this position before 13680 days?"
+                }
+            }
+        },
+        "Philippines": {
+            "President of the Philippines": {
+                "answers": [
+                    "Benigno Aquino III |S: +2010-06-30T00:00:00Z |E: +2016-06-30T00:00:00Z",
+                    "Emilio Aguinaldo |S: +1899-01-23T00:00:00Z |E: +1901-03-23T00:00:00Z",
+                    "Ramon Magsaysay |S: +1953-12-30T00:00:00Z |E: +1957-03-17T00:00:00Z",
+                    "Rodrigo Duterte |S: +2016-06-30T00:00:00Z |E: +2022-06-30T00:00:00Z",
+                    "Sergio Osme\u00f1a |S: +1944-08-01T00:00:00Z |E: +1946-05-28T00:00:00Z",
+                    "Diosdado Macapagal |S: +1961-12-30T00:00:00Z |E: +1965-12-30T00:00:00Z",
+                    "Manuel L. Quezon |S: +1935-11-25T00:00:00Z |E: +1944-08-01T00:00:00Z",
+                    "Corazon Aquino |S: +1986-02-25T00:00:00Z |E: +1992-06-30T00:00:00Z",
+                    "Elpidio Quirino |S: +1948-04-17T00:00:00Z |E: +1953-12-30T00:00:00Z",
+                    "Carlos P. Garcia |S: +1957-03-18T00:00:00Z |E: +1961-12-30T00:00:00Z",
+                    "Gloria Macapagal Arroyo |S: +2001-01-20T00:00:00Z |E: +2010-06-30T00:00:00Z",
+                    "Joseph Estrada |S: +1998-06-30T00:00:00Z |E: +2001-01-20T00:00:00Z",
+                    "Manuel Roxas |S: +1946-05-28T00:00:00Z |E: +1948-04-15T00:00:00Z",
+                    "Bongbong Marcos |S: +2022-06-30T00:00:00Z",
+                    "Fidel Ramos |S: +1992-06-30T00:00:00Z |E: +1998-06-30T00:00:00Z",
+                    "Ferdinand Marcos |S: +1965-12-30T00:00:00Z |E: +1986-02-25T00:00:00Z",
+                    "Jose P. Laurel |S: +1943-10-14T00:00:00Z |E: +1945-08-17T00:00:00Z"
+                ],
+                "ground_truth": "Benigno Aquino III",
+                "ranking_qa": {
+                    "generic": "The presidents of the Philippines on 13 May 1964 and 21 August 2014 were Diosdado Macapagal and Benigno Aquino III, so who was the latter president?",
+                    "rephrased_1": "The presidents of the Philippines on 13 May 1964 and 21 August 2014 were Diosdado Macapagal and Benigno Aquino III, so who was the latter president?",
+                    "rephrased_2": "Diosdado Macapagal and Benigno Aquino III served as the presidents of the Philippines on 13 May 1964 and 21 August 2014, respectively. Can you identify which one the latter president was?",
+                    "rephrased_3": "On 13 May 1964, Diosdado Macapagal was the president of the Philippines, while Benigno Aquino III held the position on 21 August 2014. Which of them served as the latter president?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 13 May 1964, Diosdado Macapagal was the president of the Philippines. So, who held this position 18362 days later?",
+                    "rephrased_1": "On 13 May 1964, Diosdado Macapagal was the president of the Philippines. So, who held this position 18362 days later?",
+                    "rephrased_2": "Diosdado Macapagal was the Philippines's president on 13 May 1964. Do you know who was in this role after 18362 days?",
+                    "rephrased_3": "Diosdado Macapagal served as the president of the Philippines on 13 May 1964. Can you identify who occupied this position after 18362 days?"
+                }
+            }
+        }
+    },
+    "athletes_byPayment": {
+        "Kylian Mbapp\u00e9": {
+            "answers": [
+                "AS Monaco FC |S: +2016-01-01T00:00:00Z |E: +2017-08-31T00:00:00Z",
+                "Paris Saint-Germain F.C. |S: +2017-08-31T00:00:00Z |E: +2018-06-30T00:00:00Z",
+                "AS Monaco FC |S: +2018-06-30T00:00:00Z |E: +2018-07-01T00:00:00Z",
+                "Paris Saint-Germain F.C. |S: +2018-07-01T00:00:00Z |E: +2024-07-01T00:00:00Z",
+                "Real Madrid |S: +2024-07-01T00:00:00Z"
+            ],
+            "ground_truth": "AS Monaco FC",
+            "ranking_qa": {
+                "generic": "The football clubs of Kylian Mbapp\u00e9 on 30 June 2018 and 9 July 2022 were AS Monaco FC and Paris Saint-Germain F.C., so which team was the former one Kylian Mbapp\u00e9 played for?",
+                "rephrased_1": "The football clubs of Kylian Mbapp\u00e9 on 30 June 2018 and 9 July 2022 were AS Monaco FC and Paris Saint-Germain F.C., so which team was the former one Kylian Mbapp\u00e9 played for?",
+                "rephrased_2": "AS Monaco FC and Paris Saint-Germain F.C. were Kylian Mbapp\u00e9's football clubs on 30 June 2018 and 9 July 2022, respectively. Can you identify which team was the former one Kylian Mbapp\u00e9 played for?",
+                "rephrased_3": "On 30 June 2018, Kylian Mbapp\u00e9 played for AS Monaco FC, while Kylian Mbapp\u00e9 played for Paris Saint-Germain F.C. on 9 July 2022. Which team did Kylian Mbapp\u00e9 formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 9 July 2022, Kylian Mbapp\u00e9 played for Paris Saint-Germain F.C.. So, before 1470 days, which football club did Kylian Mbapp\u00e9 play for?",
+                "rephrased_1": "On 9 July 2022, Kylian Mbapp\u00e9 played for Paris Saint-Germain F.C.. So, before 1470 days, which football club did Kylian Mbapp\u00e9 play for?",
+                "rephrased_2": "Paris Saint-Germain F.C. was Kylian Mbapp\u00e9's football club on 9 July 2022. Can you identify which football club Kylian Mbapp\u00e9 belongs to before 1470 days?",
+                "rephrased_3": "Kylian Mbapp\u00e9 played for Paris Saint-Germain F.C. on 9 July 2022. Do you know which football club Kylian Mbapp\u00e9 played for before 1470 days?"
+            }
+        },
+        "Neymar Jr.": {
+            "answers": [
+                "Santos F.C. |S: +2009-01-01T00:00:00Z |E: +2013-07-01T00:00:00Z",
+                "FC Barcelona |S: +2013-07-01T00:00:00Z |E: +2017-08-03T00:00:00Z",
+                "Paris Saint-Germain F.C. |S: +2017-08-03T00:00:00Z |E: +2023-08-15T00:00:00Z",
+                "Al-Hilal SFC |S: +2023-08-15T00:00:00Z"
+            ],
+            "ground_truth": "Paris Saint-Germain F.C.",
+            "ranking_qa": {
+                "generic": "The football clubs of Neymar Jr. on 6 March 2013 and 11 May 2018 were Santos F.C. and Paris Saint-Germain F.C., so which team was the latter one Neymar Jr. played for?",
+                "rephrased_1": "The football clubs of Neymar Jr. on 6 March 2013 and 11 May 2018 were Santos F.C. and Paris Saint-Germain F.C., so which team was the latter one Neymar Jr. played for?",
+                "rephrased_2": "Santos F.C. and Paris Saint-Germain F.C. were Neymar Jr.'s football clubs on 6 March 2013 and 11 May 2018, respectively. Can you identify which team was the latter one Neymar Jr. played for?",
+                "rephrased_3": "On 6 March 2013, Neymar Jr. played for Santos F.C., while Neymar Jr. played for Paris Saint-Germain F.C. on 11 May 2018. Which team did Neymar Jr. latterly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 6 March 2013, Neymar Jr. played for Santos F.C.. So, after 1892 days, which football club did Neymar Jr. play for?",
+                "rephrased_1": "On 6 March 2013, Neymar Jr. played for Santos F.C.. So, after 1892 days, which football club did Neymar Jr. play for?",
+                "rephrased_2": "Santos F.C. was Neymar Jr.'s football club on 6 March 2013. Can you identify which football club Neymar Jr. belongs to after 1892 days?",
+                "rephrased_3": "Neymar Jr. played for Santos F.C. on 6 March 2013. Do you know which football club Neymar Jr. played for after 1892 days?"
+            }
+        },
+        "Lionel Messi": {
+            "answers": [
+                "FC Barcelona |S: +2004-03-05T00:00:00Z |E: +2021-08-10T00:00:00Z",
+                "Paris Saint-Germain F.C. |S: +2021-08-10T00:00:00Z |E: +2023-07-15T00:00:00Z",
+                "Inter Miami CF |S: +2023-07-15T00:00:00Z"
+            ],
+            "ground_truth": "Paris Saint-Germain F.C.",
+            "ranking_qa": {
+                "generic": "The football clubs of Lionel Messi on 28 October 2020 and 20 April 2022 were FC Barcelona and Paris Saint-Germain F.C., so which team was the latter one Lionel Messi played for?",
+                "rephrased_1": "The football clubs of Lionel Messi on 28 October 2020 and 20 April 2022 were FC Barcelona and Paris Saint-Germain F.C., so which team was the latter one Lionel Messi played for?",
+                "rephrased_2": "FC Barcelona and Paris Saint-Germain F.C. were Lionel Messi's football clubs on 28 October 2020 and 20 April 2022, respectively. Can you identify which team was the latter one Lionel Messi played for?",
+                "rephrased_3": "On 28 October 2020, Lionel Messi played for FC Barcelona, while Lionel Messi played for Paris Saint-Germain F.C. on 20 April 2022. Which team did Lionel Messi latterly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 28 October 2020, Lionel Messi played for FC Barcelona. So, after 539 days, which football club did Lionel Messi play for?",
+                "rephrased_1": "On 28 October 2020, Lionel Messi played for FC Barcelona. So, after 539 days, which football club did Lionel Messi play for?",
+                "rephrased_2": "FC Barcelona was Lionel Messi's football club on 28 October 2020. Can you identify which football club Lionel Messi belongs to after 539 days?",
+                "rephrased_3": "Lionel Messi played for FC Barcelona on 28 October 2020. Do you know which football club Lionel Messi played for after 539 days?"
+            }
+        },
+        "Bradley Beal": {
+            "answers": [
+                "Florida Gators men's basketball |S: +2011-01-01T00:00:00Z |E: +2012-06-28T00:00:00Z",
+                "Washington Wizards |S: +2012-06-28T00:00:00Z |E: +2023-07-01T00:00:00Z",
+                "Phoenix Suns |S: +2023-07-01T00:00:00Z"
+            ],
+            "ground_truth": "Florida Gators men's basketball",
+            "ranking_qa": {
+                "generic": "The basketball teams of Bradley Beal on 4 January 2012 and 22 May 2015 were Florida Gators men's basketball and Washington Wizards, so which team was the former one Bradley Beal played for?",
+                "rephrased_1": "The basketball teams of Bradley Beal on 4 January 2012 and 22 May 2015 were Florida Gators men's basketball and Washington Wizards, so which team was the former one Bradley Beal played for?",
+                "rephrased_2": "Florida Gators men's basketball and Washington Wizards were Bradley Beal's basketball teams on 4 January 2012 and 22 May 2015, respectively. Can you identify which team was the former one Bradley Beal played for?",
+                "rephrased_3": "On 4 January 2012, Bradley Beal played for Florida Gators men's basketball, while Bradley Beal played for Washington Wizards on 22 May 2015. Which team did Bradley Beal formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 22 May 2015, Bradley Beal played for Washington Wizards. So, before 1234 days, which basketball team did Bradley Beal play for?",
+                "rephrased_1": "On 22 May 2015, Bradley Beal played for Washington Wizards. So, before 1234 days, which basketball team did Bradley Beal play for?",
+                "rephrased_2": "Washington Wizards was Bradley Beal's basketball team on 22 May 2015. Can you identify which basketball team Bradley Beal belongs to before 1234 days?",
+                "rephrased_3": "Bradley Beal played for Washington Wizards on 22 May 2015. Do you know which basketball team Bradley Beal played for before 1234 days?"
+            }
+        },
+        "Max Verstappen": {
+            "answers": [
+                "Red Bull Racing |S: +2016-00-00T00:00:00Z",
+                "Scuderia Toro Rosso |S: +2015-00-00T00:00:00Z |E: +2016-00-00T00:00:00Z",
+                "Van Amersfoort Racing |S: +2014-00-00T00:00:00Z |E: +2015-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Scuderia Toro Rosso",
+            "ranking_qa": {
+                "generic": "The Formula 1 teams of Max Verstappen on 24 May 2014 and 18 July 2015 were Van Amersfoort Racing and Scuderia Toro Rosso, so which team was the latter one Max Verstappen drove for?",
+                "rephrased_1": "The Formula 1 teams of Max Verstappen on 24 May 2014 and 18 July 2015 were Van Amersfoort Racing and Scuderia Toro Rosso, so which team was the latter one Max Verstappen drove for?",
+                "rephrased_2": "Van Amersfoort Racing and Scuderia Toro Rosso were Max Verstappen's Formula 1 teams on 24 May 2014 and 18 July 2015, respectively. Can you identify which team was the latter one Max Verstappen drove for?",
+                "rephrased_3": "On 24 May 2014, Max Verstappen drove for Van Amersfoort Racing, while Max Verstappen drove for Scuderia Toro Rosso on 18 July 2015. Which team did Max Verstappen latterly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 24 May 2014, Max Verstappen drove for Van Amersfoort Racing. So, after 420 days, which Formula 1 team did Max Verstappen drive for?",
+                "rephrased_1": "On 24 May 2014, Max Verstappen drove for Van Amersfoort Racing. So, after 420 days, which Formula 1 team did Max Verstappen drive for?",
+                "rephrased_2": "Van Amersfoort Racing was Max Verstappen's Formula 1 team on 24 May 2014. Can you identify which Formula 1 team Max Verstappen belongs to after 420 days?",
+                "rephrased_3": "Max Verstappen drove for Van Amersfoort Racing on 24 May 2014. Do you know which Formula 1 team Max Verstappen drove for after 420 days?"
+            }
+        },
+        "Lewis Hamilton": {
+            "answers": [
+                "McLaren |S: +2007-00-00T00:00:00Z |E: +2012-00-00T00:00:00Z",
+                "Mercedes F1 Team |S: +2013-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Mercedes F1 Team",
+            "ranking_qa": {
+                "generic": "The Formula 1 teams of Lewis Hamilton on 28 July 2010 and 24 September 2024 were McLaren and Mercedes F1 Team, so which team was the latter one Lewis Hamilton drove for?",
+                "rephrased_1": "The Formula 1 teams of Lewis Hamilton on 28 July 2010 and 24 September 2024 were McLaren and Mercedes F1 Team, so which team was the latter one Lewis Hamilton drove for?",
+                "rephrased_2": "McLaren and Mercedes F1 Team were Lewis Hamilton's Formula 1 teams on 28 July 2010 and 24 September 2024, respectively. Can you identify which team was the latter one Lewis Hamilton drove for?",
+                "rephrased_3": "On 28 July 2010, Lewis Hamilton drove for McLaren, while Lewis Hamilton drove for Mercedes F1 Team on 24 September 2024. Which team did Lewis Hamilton latterly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 28 July 2010, Lewis Hamilton drove for McLaren. So, after 5172 days, which Formula 1 team did Lewis Hamilton drive for?",
+                "rephrased_1": "On 28 July 2010, Lewis Hamilton drove for McLaren. So, after 5172 days, which Formula 1 team did Lewis Hamilton drive for?",
+                "rephrased_2": "McLaren was Lewis Hamilton's Formula 1 team on 28 July 2010. Can you identify which Formula 1 team Lewis Hamilton belongs to after 5172 days?",
+                "rephrased_3": "Lewis Hamilton drove for McLaren on 28 July 2010. Do you know which Formula 1 team Lewis Hamilton drove for after 5172 days?"
+            }
+        },
+        "Fernando Alonso": {
+            "answers": [
+                "Renault F1 Team |S: +2002-00-00T00:00:00Z |E: +2006-00-00T00:00:00Z",
+                "McLaren |S: +2007-00-00T00:00:00Z |E: +2007-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2008-00-00T00:00:00Z |E: +2009-00-00T00:00:00Z",
+                "Scuderia Ferrari |S: +2010-00-00T00:00:00Z |E: +2014-00-00T00:00:00Z",
+                "McLaren |S: +2015-00-00T00:00:00Z |E: +2018-00-00T00:00:00Z",
+                "Minardi |S: +2001-00-00T00:00:00Z |E: +2001-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2021-00-00T00:00:00Z |E: +2022-00-00T00:00:00Z",
+                "Aston Martin F1 Team |S: +2023-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Scuderia Ferrari",
+            "ranking_qa": {
+                "generic": "The Formula 1 teams of Fernando Alonso on 10 October 2012 and 11 October 2015 were Scuderia Ferrari and McLaren, so which team was the former one Fernando Alonso drove for?",
+                "rephrased_1": "The Formula 1 teams of Fernando Alonso on 10 October 2012 and 11 October 2015 were Scuderia Ferrari and McLaren, so which team was the former one Fernando Alonso drove for?",
+                "rephrased_2": "Scuderia Ferrari and McLaren were Fernando Alonso's Formula 1 teams on 10 October 2012 and 11 October 2015, respectively. Can you identify which team was the former one Fernando Alonso drove for?",
+                "rephrased_3": "On 10 October 2012, Fernando Alonso drove for Scuderia Ferrari, while Fernando Alonso drove for McLaren on 11 October 2015. Which team did Fernando Alonso formerly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 11 October 2015, Fernando Alonso drove for McLaren. So, before 1096 days, which Formula 1 team did Fernando Alonso drive for?",
+                "rephrased_1": "On 11 October 2015, Fernando Alonso drove for McLaren. So, before 1096 days, which Formula 1 team did Fernando Alonso drive for?",
+                "rephrased_2": "McLaren was Fernando Alonso's Formula 1 team on 11 October 2015. Can you identify which Formula 1 team Fernando Alonso belongs to before 1096 days?",
+                "rephrased_3": "Fernando Alonso drove for McLaren on 11 October 2015. Do you know which Formula 1 team Fernando Alonso drove for before 1096 days?"
+            }
+        },
+        "Charles Leclerc": {
+            "answers": [
+                "Sauber |S: +2018-00-00T00:00:00Z |E: +2019-00-00T00:00:00Z",
+                "Scuderia Ferrari |S: +2019-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Scuderia Ferrari",
+            "ranking_qa": {
+                "generic": "The Formula 1 teams of Charles Leclerc on 10 February 2018 and 29 September 2023 were Sauber and Scuderia Ferrari, so which team was the latter one Charles Leclerc drove for?",
+                "rephrased_1": "The Formula 1 teams of Charles Leclerc on 10 February 2018 and 29 September 2023 were Sauber and Scuderia Ferrari, so which team was the latter one Charles Leclerc drove for?",
+                "rephrased_2": "Sauber and Scuderia Ferrari were Charles Leclerc's Formula 1 teams on 10 February 2018 and 29 September 2023, respectively. Can you identify which team was the latter one Charles Leclerc drove for?",
+                "rephrased_3": "On 10 February 2018, Charles Leclerc drove for Sauber, while Charles Leclerc drove for Scuderia Ferrari on 29 September 2023. Which team did Charles Leclerc latterly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 10 February 2018, Charles Leclerc drove for Sauber. So, after 2057 days, which Formula 1 team did Charles Leclerc drive for?",
+                "rephrased_1": "On 10 February 2018, Charles Leclerc drove for Sauber. So, after 2057 days, which Formula 1 team did Charles Leclerc drive for?",
+                "rephrased_2": "Sauber was Charles Leclerc's Formula 1 team on 10 February 2018. Can you identify which Formula 1 team Charles Leclerc belongs to after 2057 days?",
+                "rephrased_3": "Charles Leclerc drove for Sauber on 10 February 2018. Do you know which Formula 1 team Charles Leclerc drove for after 2057 days?"
+            }
+        },
+        "Pierre Gasly": {
+            "answers": [
+                "Red Bull Racing |S: +2019-00-00T00:00:00Z |E: +2019-08-12T00:00:00Z",
+                "Scuderia Toro Rosso |S: +2017-00-00T00:00:00Z |E: +2018-00-00T00:00:00Z",
+                "Scuderia Toro Rosso |S: +2019-08-12T00:00:00Z |E: +2023-00-00T00:00:00Z",
+                "Alpine F1 Team |S: +2023-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Scuderia Toro Rosso",
+            "ranking_qa": {
+                "generic": "The Formula 1 teams of Pierre Gasly on 26 June 2019 and 8 December 2021 were Red Bull Racing and Scuderia Toro Rosso, so which team was the latter one Pierre Gasly drove for?",
+                "rephrased_1": "The Formula 1 teams of Pierre Gasly on 26 June 2019 and 8 December 2021 were Red Bull Racing and Scuderia Toro Rosso, so which team was the latter one Pierre Gasly drove for?",
+                "rephrased_2": "Red Bull Racing and Scuderia Toro Rosso were Pierre Gasly's Formula 1 teams on 26 June 2019 and 8 December 2021, respectively. Can you identify which team was the latter one Pierre Gasly drove for?",
+                "rephrased_3": "On 26 June 2019, Pierre Gasly drove for Red Bull Racing, while Pierre Gasly drove for Scuderia Toro Rosso on 8 December 2021. Which team did Pierre Gasly latterly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 26 June 2019, Pierre Gasly drove for Red Bull Racing. So, after 896 days, which Formula 1 team did Pierre Gasly drive for?",
+                "rephrased_1": "On 26 June 2019, Pierre Gasly drove for Red Bull Racing. So, after 896 days, which Formula 1 team did Pierre Gasly drive for?",
+                "rephrased_2": "Red Bull Racing was Pierre Gasly's Formula 1 team on 26 June 2019. Can you identify which Formula 1 team Pierre Gasly belongs to after 896 days?",
+                "rephrased_3": "Pierre Gasly drove for Red Bull Racing on 26 June 2019. Do you know which Formula 1 team Pierre Gasly drove for after 896 days?"
+            }
+        }
+    },
+    "organizations": {}
+}

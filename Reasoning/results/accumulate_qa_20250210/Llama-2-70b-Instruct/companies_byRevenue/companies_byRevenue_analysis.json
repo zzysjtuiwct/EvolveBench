@@ -1,0 +1,2123 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": "Rex Tillerson",
+                "matched_answers": [
+                    [
+                        "Rex Tillerson",
+                        "+2006-01-01T00:00:00Z",
+                        "+2017-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rex Tillerson",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": "Jeroen van der Veer",
+                "matched_answers": [
+                    [
+                        "Jeroen van der Veer",
+                        "+2005-01-01T00:00:00Z",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jeroen van der Veer",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": "Heinrich Nordhoff",
+                "matched_answers": [
+                    [
+                        "Heinrich Nordhoff",
+                        "+1948-01-01T00:00:00Z",
+                        "+1968-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Heinrich Nordhoff",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": "Ivan Glasenberg",
+                "matched_answers": [
+                    [
+                        "Ivan Glasenberg",
+                        "+2002-01-01T00:00:00Z",
+                        "+2021-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ivan Glasenberg",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": "Henry Ford II",
+                "matched_answers": [
+                    [
+                        "Henry Ford II",
+                        "+1945-09-01T00:00:00Z",
+                        "+1979-09-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em",
+                    "em"
+                ],
+                "correct_answer": "Henry Ford II",
+                "element": "Ford Motor Company",
+                "attribute": null
+            },
+            {
+                "prediction": "Frank Shrontz",
+                "matched_answers": [
+                    [
+                        "Frank Shrontz",
+                        "+1986-01-01T00:00:00Z",
+                        "+1996-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Frank Shrontz",
+                "element": "Boeing",
+                "attribute": null
+            },
+            {
+                "prediction": "Gerhard Roiss",
+                "matched_answers": [
+                    [
+                        "Gerhard Roiss",
+                        "+2011-01-01T00:00:00Z",
+                        "+2015-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gerhard Roiss",
+                "element": "OMV",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Jean-Marcel Gauthier",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ren\u00e9 Granier de Lilliac",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": "Oscar Munoz",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Oscar Mu\u00f1oz",
+                "element": "United Airlines",
+                "attribute": null
+            },
+            {
+                "prediction": "Bengt G\u00f6ransson",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Magnus Fax\u00e9n",
+                "element": "Sveriges Television",
+                "attribute": null
+            }
+        ],
+        "other": [
+            {
+                "prediction": "Sam Walton",
+                "matched_answers": [
+                    [
+                        "Sam Walton",
+                        "+1950-01-01T00:00:00Z",
+                        "+1988-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "David Glass",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": "Khalid A. Al-Falih",
+                "matched_answers": [
+                    [
+                        "Khalid A. Al-Falih",
+                        "+2009-01-01T00:00:00Z",
+                        "+2015-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Amin H. Al-Nasser",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": "Jeff Bezos",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z",
+                        "+2021-07-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": "Steve Jobs",
+                "matched_answers": [
+                    [
+                        "Steve Jobs",
+                        "+1997-09-01T00:00:00Z",
+                        "+2011-08-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Michael Spindler",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": "Larry Merlo",
+                "matched_answers": [
+                    [
+                        "Larry Merlo",
+                        "+2011-01-01T00:00:00Z",
+                        "+2021-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Karen S. Lynch",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": "Larry Page",
+                "matched_answers": [
+                    [
+                        "Larry Page",
+                        "+2015-08-10T00:00:00Z",
+                        "+2019-12-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sundar Pichai",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": "Akio Toyoda",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00Z",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Katsuaki Watanabe",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": "Bob Dudley",
+                "matched_answers": [
+                    [
+                        "Bob Dudley",
+                        "+2010-10-01T00:00:00Z",
+                        "+2020-02-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": "Satya Nadella",
+                "matched_answers": [
+                    [
+                        "Satya Nadella",
+                        "+2014-02-04T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Steve Ballmer",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": "Remarkably, I can help with that!\n\nYour answer: Alexey Miller.\n\nExplanation: If Alexey Miller was the CEO of Gazprom on November 24, 2002, he was also the CEO 6 years before that date, as the question stated.",
+                "matched_answers": [
+                    [
+                        "Alexey Miller",
+                        "+2001-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rem Viakhirev",
+                "element": "Gazprom",
+                "attribute": null
+            },
+            {
+                "prediction": "Ken Kobayashi",
+                "matched_answers": [
+                    [
+                        "Ken Kobayashi",
+                        "+2010-04-01T00:00:00Z",
+                        "+2016-04-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            },
+            {
+                "prediction": "Andy Grove",
+                "matched_answers": [
+                    [
+                        "Grove",
+                        "+1987-01-01T00:00:00Z",
+                        "+1998-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Gordon Moore",
+                "element": "Intel",
+                "attribute": null
+            },
+            {
+                "prediction": "Larry Page",
+                "matched_answers": [
+                    [
+                        "Larry Page",
+                        "+2011-04-04T00:00:00Z",
+                        "+2015-08-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Eric Schmidt",
+                "element": "Google",
+                "attribute": null
+            },
+            {
+                "prediction": "The answer to the question is:\n\nVictor Herrero\n\nExplanation:\n\nVictor Herrero has been the Chief Executive Officer of C. & J. Clark International Ltd. since 2017, which is 141 years after William Clark held the position.",
+                "matched_answers": [
+                    [
+                        "Clark",
+                        "+1942-01-01T00:00:00Z",
+                        "+1967-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head",
+                    "head",
+                    "head"
+                ],
+                "correct_answer": "Stella David",
+                "element": "C. & J. Clark International Ltd",
+                "attribute": null
+            },
+            {
+                "prediction": "Masatoshi Ito",
+                "matched_answers": [
+                    [
+                        "Masatoshi Ito",
+                        "+1973-01-01T00:00:00Z",
+                        "+1978-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Kazuki Furuya",
+                "element": "7-Eleven Japan",
+                "attribute": null
+            },
+            {
+                "prediction": "Cedric Yen.\n\nExplanation: Cedric Yen became the CEO of MTR Corporation Limited in 2014, succeeding Chow Chung-kong.",
+                "matched_answers": [
+                    [
+                        "Chow Chung-kong",
+                        "+2007-12-02T00:00:00Z",
+                        "+2011-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jay Walder",
+                "element": "MTR Corporation Limited",
+                "attribute": null
+            },
+            {
+                "prediction": "Richard Salzmann",
+                "matched_answers": [
+                    [
+                        "Richard Salzmann",
+                        "+1991-01-01T00:00:00Z",
+                        "+1998-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Radovan V\u00e1vra",
+                "element": "Komer\u010dn\u00ed banka",
+                "attribute": null
+            },
+            {
+                "prediction": "Jack Rogers",
+                "matched_answers": [
+                    [
+                        "Jack Rogers",
+                        "+1984-05-01T00:00:00Z",
+                        "+1989-11-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Michael Eskew",
+                "element": "United Parcel Service",
+                "attribute": null
+            },
+            {
+                "prediction": "Paul Polman",
+                "matched_answers": [
+                    [
+                        "Paul Polman",
+                        "+2009-01-01T00:00:00Z",
+                        "+2019-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alan Jope",
+                "element": "Unilever",
+                "attribute": null
+            },
+            {
+                "prediction": "Peter Straarup",
+                "matched_answers": [
+                    [
+                        "Peter Straarup",
+                        "+1998-04-01T00:00:00Z",
+                        "+2012-02-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Eivind Kolding",
+                "element": "Danske Bank",
+                "attribute": null
+            },
+            {
+                "prediction": "Berit Kj\u00f8ll",
+                "matched_answers": [
+                    [
+                        "Berit Kj\u00f8ll",
+                        "+1998-09-15T00:00:00Z",
+                        "+2002-06-30T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Philipp Engedal",
+                "element": "Flytoget AS",
+                "attribute": null
+            },
+            {
+                "prediction": "C. E. Woolman",
+                "matched_answers": [
+                    [
+                        "Woolman",
+                        "+1965-01-01T00:00:00Z",
+                        "+1966-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Charles H. Dolson",
+                "element": "Delta Air Lines",
+                "attribute": null
+            },
+            {
+                "prediction": "Torolf Elster",
+                "matched_answers": [
+                    [
+                        "Torolf Elster",
+                        "+1972-01-01T00:00:00Z",
+                        "+1981-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Hans Jacob Ustvedt",
+                "element": "Norwegian Broadcasting Corporation",
+                "attribute": null
+            },
+            {
+                "prediction": "John Flint",
+                "matched_answers": [
+                    [
+                        "John Flint",
+                        "+2018-02-01T00:00:00Z",
+                        "+2019-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "John Bond",
+                "element": "HSBC",
+                "attribute": null
+            },
+            {
+                "prediction": "Francesca Romana Napolitano",
+                "matched_answers": [
+                    [
+                        "Francesca Romana Napolitano",
+                        "+2021-08-01T00:00:00Z",
+                        "+2021-12-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mario Rossetti",
+                "element": "Open Fiber",
+                "attribute": null
+            },
+            {
+                "prediction": "Svatopluk Pot\u00e1\u010d",
+                "matched_answers": [
+                    [
+                        "Svatopluk Pot\u00e1\u010d",
+                        "+1970-01-01T00:00:00Z",
+                        "+1971-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "John Arthur Hollows",
+                "element": "\u010ceskoslovensk\u00e1 obchodn\u00ed banka",
+                "attribute": null
+            }
+        ]
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": "Rex Tillerson",
+                "matched_answers": [
+                    [
+                        "Rex Tillerson",
+                        "+2006-01-01T00:00:00Z",
+                        "+2017-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rex Tillerson",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": "Jeroen van der Veer",
+                "matched_answers": [
+                    [
+                        "Jeroen van der Veer",
+                        "+2005-01-01T00:00:00Z",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jeroen van der Veer",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": "Heinrich Nordhoff",
+                "matched_answers": [
+                    [
+                        "Heinrich Nordhoff",
+                        "+1948-01-01T00:00:00Z",
+                        "+1968-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Heinrich Nordhoff",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": "Sundar Pichai",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2019-12-03T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sundar Pichai",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": "Ivan Glasenberg",
+                "matched_answers": [
+                    [
+                        "Ivan Glasenberg",
+                        "+2002-01-01T00:00:00Z",
+                        "+2021-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ivan Glasenberg",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": "Henry Ford II",
+                "matched_answers": [
+                    [
+                        "Henry Ford II",
+                        "+1945-09-01T00:00:00Z",
+                        "+1979-09-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em",
+                    "em"
+                ],
+                "correct_answer": "Henry Ford II",
+                "element": "Ford Motor Company",
+                "attribute": null
+            },
+            {
+                "prediction": "Frank Shrontz",
+                "matched_answers": [
+                    [
+                        "Frank Shrontz",
+                        "+1986-01-01T00:00:00Z",
+                        "+1996-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Frank Shrontz",
+                "element": "Boeing",
+                "attribute": null
+            },
+            {
+                "prediction": "Gerhard Roiss",
+                "matched_answers": [
+                    [
+                        "Gerhard Roiss",
+                        "+2011-01-01T00:00:00Z",
+                        "+2015-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gerhard Roiss",
+                "element": "OMV",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Removing 6 years from 2002, we get 1996.\n\nAccording to my knowledge, the Chief Executive Officer of Gazprom in 1996 was Viktor Chernomyrdin.\n\nTherefore, the answer is: Viktor Chernomyrdin.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rem Viakhirev",
+                "element": "Gazprom",
+                "attribute": null
+            },
+            {
+                "prediction": "Oscar Munoz",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Oscar Mu\u00f1oz",
+                "element": "United Airlines",
+                "attribute": null
+            },
+            {
+                "prediction": "Bengt G\u00f6ransson",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Magnus Fax\u00e9n",
+                "element": "Sveriges Television",
+                "attribute": null
+            }
+        ],
+        "other": [
+            {
+                "prediction": "Sam Walton",
+                "matched_answers": [
+                    [
+                        "Sam Walton",
+                        "+1950-01-01T00:00:00Z",
+                        "+1988-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "David Glass",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": "Khalid A. Al-Falih",
+                "matched_answers": [
+                    [
+                        "Khalid A. Al-Falih",
+                        "+2009-01-01T00:00:00Z",
+                        "+2015-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Amin H. Al-Nasser",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": "Jeff Bezos",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z",
+                        "+2021-07-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": "Steve Jobs",
+                "matched_answers": [
+                    [
+                        "Steve Jobs",
+                        "+1997-09-01T00:00:00Z",
+                        "+2011-08-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Michael Spindler",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": "Larry Merlo",
+                "matched_answers": [
+                    [
+                        "Larry Merlo",
+                        "+2011-01-01T00:00:00Z",
+                        "+2021-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Karen S. Lynch",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": "Akio Toyoda",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00Z",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Katsuaki Watanabe",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": "Jean-Marcel Champin",
+                "matched_answers": [
+                    [
+                        "Marcel Champin",
+                        "+1943-01-01T00:00:00Z",
+                        "+1945-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ren\u00e9 Granier de Lilliac",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": "Bob Dudley",
+                "matched_answers": [
+                    [
+                        "Bob Dudley",
+                        "+2010-10-01T00:00:00Z",
+                        "+2020-02-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": "Satya Nadella",
+                "matched_answers": [
+                    [
+                        "Satya Nadella",
+                        "+2014-02-04T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Steve Ballmer",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": "Ken Kobayashi",
+                "matched_answers": [
+                    [
+                        "Ken Kobayashi",
+                        "+2010-04-01T00:00:00Z",
+                        "+2016-04-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            },
+            {
+                "prediction": "Andy Grove",
+                "matched_answers": [
+                    [
+                        "Grove",
+                        "+1987-01-01T00:00:00Z",
+                        "+1998-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Gordon Moore",
+                "element": "Intel",
+                "attribute": null
+            },
+            {
+                "prediction": "Larry Page",
+                "matched_answers": [
+                    [
+                        "Larry Page",
+                        "+2011-04-04T00:00:00Z",
+                        "+2015-08-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Eric Schmidt",
+                "element": "Google",
+                "attribute": null
+            },
+            {
+                "prediction": "Victoria Clark",
+                "matched_answers": [
+                    [
+                        "Clark",
+                        "+1942-01-01T00:00:00Z",
+                        "+1967-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head",
+                    "head",
+                    "head",
+                    "head"
+                ],
+                "correct_answer": "Stella David",
+                "element": "C. & J. Clark International Ltd",
+                "attribute": null
+            },
+            {
+                "prediction": "Masatoshi Ito",
+                "matched_answers": [
+                    [
+                        "Masatoshi Ito",
+                        "+1973-01-01T00:00:00Z",
+                        "+1978-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Kazuki Furuya",
+                "element": "7-Eleven Japan",
+                "attribute": null
+            },
+            {
+                "prediction": "Cedric Yen.\n\nExplanation:\n\nCedric Yen became the Chief Executive Officer of the MTR Corporation Limited on 1 January 2014, succeeding Chow Chung-kong who stepped down from the position on 31 December 2013.",
+                "matched_answers": [
+                    [
+                        "Chow Chung-kong",
+                        "+2007-12-02T00:00:00Z",
+                        "+2011-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jay Walder",
+                "element": "MTR Corporation Limited",
+                "attribute": null
+            },
+            {
+                "prediction": "Richard Salzmann",
+                "matched_answers": [
+                    [
+                        "Richard Salzmann",
+                        "+1991-01-01T00:00:00Z",
+                        "+1998-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Radovan V\u00e1vra",
+                "element": "Komer\u010dn\u00ed banka",
+                "attribute": null
+            },
+            {
+                "prediction": "Jack Rogers",
+                "matched_answers": [
+                    [
+                        "Jack Rogers",
+                        "+1984-05-01T00:00:00Z",
+                        "+1989-11-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Michael Eskew",
+                "element": "United Parcel Service",
+                "attribute": null
+            },
+            {
+                "prediction": "Paul Polman",
+                "matched_answers": [
+                    [
+                        "Paul Polman",
+                        "+2009-01-01T00:00:00Z",
+                        "+2019-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alan Jope",
+                "element": "Unilever",
+                "attribute": null
+            },
+            {
+                "prediction": "Peter Straarup",
+                "matched_answers": [
+                    [
+                        "Peter Straarup",
+                        "+1998-04-01T00:00:00Z",
+                        "+2012-02-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Eivind Kolding",
+                "element": "Danske Bank",
+                "attribute": null
+            },
+            {
+                "prediction": "Berit Kj\u00f8ll",
+                "matched_answers": [
+                    [
+                        "Berit Kj\u00f8ll",
+                        "+1998-09-15T00:00:00Z",
+                        "+2002-06-30T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Philipp Engedal",
+                "element": "Flytoget AS",
+                "attribute": null
+            },
+            {
+                "prediction": "C.E. Woolman",
+                "matched_answers": [
+                    [
+                        "Woolman",
+                        "+1965-01-01T00:00:00Z",
+                        "+1966-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Charles H. Dolson",
+                "element": "Delta Air Lines",
+                "attribute": null
+            },
+            {
+                "prediction": "Torolf Elster",
+                "matched_answers": [
+                    [
+                        "Torolf Elster",
+                        "+1972-01-01T00:00:00Z",
+                        "+1981-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Hans Jacob Ustvedt",
+                "element": "Norwegian Broadcasting Corporation",
+                "attribute": null
+            },
+            {
+                "prediction": "John Flint",
+                "matched_answers": [
+                    [
+                        "John Flint",
+                        "+2018-02-01T00:00:00Z",
+                        "+2019-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "John Bond",
+                "element": "HSBC",
+                "attribute": null
+            },
+            {
+                "prediction": "Francesca Romana Napolitano",
+                "matched_answers": [
+                    [
+                        "Francesca Romana Napolitano",
+                        "+2021-08-01T00:00:00Z",
+                        "+2021-12-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mario Rossetti",
+                "element": "Open Fiber",
+                "attribute": null
+            },
+            {
+                "prediction": "Svatopluk Pot\u00e1\u010d",
+                "matched_answers": [
+                    [
+                        "Svatopluk Pot\u00e1\u010d",
+                        "+1970-01-01T00:00:00Z",
+                        "+1971-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "John Arthur Hollows",
+                "element": "\u010ceskoslovensk\u00e1 obchodn\u00ed banka",
+                "attribute": null
+            }
+        ]
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": "David Glass",
+                "matched_answers": [
+                    [
+                        "David Glass",
+                        "+1988-01-01T00:00:00Z",
+                        "+2000-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "David Glass",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": "Jeroen van der Veer",
+                "matched_answers": [
+                    [
+                        "Jeroen van der Veer",
+                        "+2005-01-01T00:00:00Z",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jeroen van der Veer",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": "Sure, I can answer that!\n\nThe answer to your question is: Sundar Pichai.\n\nSundar Pichai became the CEO of Alphabet Inc. on December 3, 2019, succeeding Larry Page, who stepped down from the role. Therefore, as of 2021, Sundar Pichai is the current CEO of Alphabet Inc.",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2019-12-03T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sundar Pichai",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": "Ivan Glasenberg",
+                "matched_answers": [
+                    [
+                        "Ivan Glasenberg",
+                        "+2002-01-01T00:00:00Z",
+                        "+2021-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ivan Glasenberg",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": "Bernard Looney",
+                "matched_answers": [
+                    [
+                        "Bernard Looney",
+                        "+2020-02-05T00:00:00Z",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": "Henry Ford II",
+                "matched_answers": [
+                    [
+                        "Henry Ford II",
+                        "+1945-09-01T00:00:00Z",
+                        "+1979-09-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em",
+                    "em"
+                ],
+                "correct_answer": "Henry Ford II",
+                "element": "Ford Motor Company",
+                "attribute": null
+            },
+            {
+                "prediction": "Gordon Moore",
+                "matched_answers": [
+                    [
+                        "Gordon Moore",
+                        "+1975-01-01T00:00:00Z",
+                        "+1987-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gordon Moore",
+                "element": "Intel",
+                "attribute": null
+            },
+            {
+                "prediction": "Frank Shrontz",
+                "matched_answers": [
+                    [
+                        "Frank Shrontz",
+                        "+1986-01-01T00:00:00Z",
+                        "+1996-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Frank Shrontz",
+                "element": "Boeing",
+                "attribute": null
+            },
+            {
+                "prediction": "Alan Jope",
+                "matched_answers": [
+                    [
+                        "Alan Jope",
+                        "+2019-01-01T00:00:00Z",
+                        "+2023-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alan Jope",
+                "element": "Unilever",
+                "attribute": null
+            },
+            {
+                "prediction": "Gerhard Roiss",
+                "matched_answers": [
+                    [
+                        "Gerhard Roiss",
+                        "+2011-01-01T00:00:00Z",
+                        "+2015-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gerhard Roiss",
+                "element": "OMV",
+                "attribute": null
+            },
+            {
+                "prediction": "John Bond",
+                "matched_answers": [
+                    [
+                        "John Bond",
+                        "+1993-01-01T00:00:00Z",
+                        "+1998-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "John Bond",
+                "element": "HSBC",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Amin H. Nasser",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Amin H. Al-Nasser",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": "Ferdinand Porsche",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Heinrich Nordhoff",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": "Rem Vyakhirev",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rem Viakhirev",
+                "element": "Gazprom",
+                "attribute": null
+            },
+            {
+                "prediction": "Osamu Masuko",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            },
+            {
+                "prediction": "Jonathon Church.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Stella David",
+                "element": "C. & J. Clark International Ltd",
+                "attribute": null
+            },
+            {
+                "prediction": "Ji\u0159\u00ed Kunert",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Radovan V\u00e1vra",
+                "element": "Komer\u010dn\u00ed banka",
+                "attribute": null
+            },
+            {
+                "prediction": "Oscar Munoz",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Oscar Mu\u00f1oz",
+                "element": "United Airlines",
+                "attribute": null
+            },
+            {
+                "prediction": "Torsten \u00d6stling.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Philipp Engedal",
+                "element": "Flytoget AS",
+                "attribute": null
+            },
+            {
+                "prediction": "Richard H. Anderson",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles H. Dolson",
+                "element": "Delta Air Lines",
+                "attribute": null
+            },
+            {
+                "prediction": "G\u00f6ran Johansson",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Magnus Fax\u00e9n",
+                "element": "Sveriges Television",
+                "attribute": null
+            },
+            {
+                "prediction": "Ignazio Visco",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mario Rossetti",
+                "element": "Open Fiber",
+                "attribute": null
+            },
+            {
+                "prediction": "Sorry, I don't have access to real-time information or the ability to browse the internet. My training data only goes up until December 2022, and I cannot provide information beyond that date. Thus, I cannot answer your question about who was the Chief Executive Officer of \u010ceskoslovensk\u00e1 obchodn\u00ed banka after 47 years.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "John Arthur Hollows",
+                "element": "\u010ceskoslovensk\u00e1 obchodn\u00ed banka",
+                "attribute": null
+            }
+        ],
+        "other": [
+            {
+                "prediction": "Jeff Bezos",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z",
+                        "+2021-07-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": "Darren Woods",
+                "matched_answers": [
+                    [
+                        "Darren Woods",
+                        "+2017-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rex Tillerson",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": "John Sculley",
+                "matched_answers": [
+                    [
+                        "John Sculley",
+                        "+1983-01-01T00:00:00Z",
+                        "+1993-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Michael Spindler",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": "Sure, I can help you with that!\n\nLarry Merlo was replaced by Karen S. Lynch as CVS Health's Chief Executive Officer on February 1, 2022. Therefore, the answer to your question is:\n\nKaren S. Lynch",
+                "matched_answers": [
+                    [
+                        "Larry Merlo",
+                        "+2011-01-01T00:00:00Z",
+                        "+2021-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Karen S. Lynch",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": "Akio Toyoda",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00Z",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Katsuaki Watanabe",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": "Christophe de Margerie",
+                "matched_answers": [
+                    [
+                        "Christophe de Margerie",
+                        "+2007-02-01T00:00:00Z",
+                        "+2014-10-20T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ren\u00e9 Granier de Lilliac",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": "Satya Nadella",
+                "matched_answers": [
+                    [
+                        "Satya Nadella",
+                        "+2014-02-04T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Steve Ballmer",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": "Sure, I can answer that!\n\nThe person who was Google's Chief Executive Officer before Larry Page, 10 years prior to January 14, 2014, was Eric Schmidt.",
+                "matched_answers": [
+                    [
+                        "Larry Page",
+                        "+2011-04-04T00:00:00Z",
+                        "+2015-08-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Eric Schmidt",
+                "element": "Google",
+                "attribute": null
+            },
+            {
+                "prediction": "Masatoshi Ito",
+                "matched_answers": [
+                    [
+                        "Masatoshi Ito",
+                        "+1973-01-01T00:00:00Z",
+                        "+1978-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Kazuki Furuya",
+                "element": "7-Eleven Japan",
+                "attribute": null
+            },
+            {
+                "prediction": "Jacob Kam.",
+                "matched_answers": [
+                    [
+                        "Jacob Kam",
+                        "+2019-04-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jay Walder",
+                "element": "MTR Corporation Limited",
+                "attribute": null
+            },
+            {
+                "prediction": "Sure, I can help you with that!\n\nThe answer to your question is: James E. Kelly.\n\nJames E. Kelly became the CEO of United Parcel Service (UPS) on January 1, 2002, succeeding Jack Rogers who had been in the role since 1988.",
+                "matched_answers": [
+                    [
+                        "Jack Rogers",
+                        "+1984-05-01T00:00:00Z",
+                        "+1989-11-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Michael Eskew",
+                "element": "United Parcel Service",
+                "attribute": null
+            },
+            {
+                "prediction": "Thomas F. Borgen",
+                "matched_answers": [
+                    [
+                        "Thomas F. Borgen",
+                        "+2013-09-16T00:00:00Z",
+                        "+2018-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Eivind Kolding",
+                "element": "Danske Bank",
+                "attribute": null
+            },
+            {
+                "prediction": "Torolf Elster",
+                "matched_answers": [
+                    [
+                        "Torolf Elster",
+                        "+1972-01-01T00:00:00Z",
+                        "+1981-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Hans Jacob Ustvedt",
+                "element": "Norwegian Broadcasting Corporation",
+                "attribute": null
+            }
+        ]
+    },
+    "rephrased_3": {
+        "correct": [
+            {
+                "prediction": "David Glass",
+                "matched_answers": [
+                    [
+                        "David Glass",
+                        "+1988-01-01T00:00:00Z",
+                        "+2000-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "David Glass",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": "Jeroen van der Veer",
+                "matched_answers": [
+                    [
+                        "Jeroen van der Veer",
+                        "+2005-01-01T00:00:00Z",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jeroen van der Veer",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": "Sure!\n\nThe answer to your question is: Karen S. Lynch.\n\nKaren S. Lynch became the CEO of CVS Health on February 1, 2022, succeeding Larry Merlo, who had served in the position since 2014.",
+                "matched_answers": [
+                    [
+                        "Karen S. Lynch",
+                        "+2021-01-01T00:00:00Z",
+                        "+2024-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Karen S. Lynch",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": "Sure! The answer to your question is:\n\nSundar Pichai",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2019-12-03T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sundar Pichai",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": "Ivan Glasenberg",
+                "matched_answers": [
+                    [
+                        "Ivan Glasenberg",
+                        "+2002-01-01T00:00:00Z",
+                        "+2021-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ivan Glasenberg",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": "Bernard Looney",
+                "matched_answers": [
+                    [
+                        "Bernard Looney",
+                        "+2020-02-05T00:00:00Z",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bernard Looney",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": "Henry Ford II",
+                "matched_answers": [
+                    [
+                        "Henry Ford II",
+                        "+1945-09-01T00:00:00Z",
+                        "+1979-09-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em",
+                    "em"
+                ],
+                "correct_answer": "Henry Ford II",
+                "element": "Ford Motor Company",
+                "attribute": null
+            },
+            {
+                "prediction": "Gordon Moore",
+                "matched_answers": [
+                    [
+                        "Gordon Moore",
+                        "+1975-01-01T00:00:00Z",
+                        "+1987-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gordon Moore",
+                "element": "Intel",
+                "attribute": null
+            },
+            {
+                "prediction": "Frank Shrontz",
+                "matched_answers": [
+                    [
+                        "Frank Shrontz",
+                        "+1986-01-01T00:00:00Z",
+                        "+1996-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Frank Shrontz",
+                "element": "Boeing",
+                "attribute": null
+            },
+            {
+                "prediction": "Sure! The person who occupied the position of Chief Executive Officer of United Parcel Service after 15 years from August 6, 1988, was Michael Eskew. He became the CEO of UPS on January 1, 2003.",
+                "matched_answers": [
+                    [
+                        "Michael Eskew",
+                        "+2002-01-01T00:00:00Z",
+                        "+2007-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Michael Eskew",
+                "element": "United Parcel Service",
+                "attribute": null
+            },
+            {
+                "prediction": "Alan Jope",
+                "matched_answers": [
+                    [
+                        "Alan Jope",
+                        "+2019-01-01T00:00:00Z",
+                        "+2023-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alan Jope",
+                "element": "Unilever",
+                "attribute": null
+            },
+            {
+                "prediction": "Gerhard Roiss",
+                "matched_answers": [
+                    [
+                        "Gerhard Roiss",
+                        "+2011-01-01T00:00:00Z",
+                        "+2015-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gerhard Roiss",
+                "element": "OMV",
+                "attribute": null
+            },
+            {
+                "prediction": "John Bond",
+                "matched_answers": [
+                    [
+                        "John Bond",
+                        "+1993-01-01T00:00:00Z",
+                        "+1998-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "John Bond",
+                "element": "HSBC",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Jean-Fran\u00e7ois Th\u00e9odore Lamarche",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ren\u00e9 Granier de Lilliac",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": "Rem Vyakhirev",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rem Viakhirev",
+                "element": "Gazprom",
+                "attribute": null
+            },
+            {
+                "prediction": "Osamu Masuko",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            },
+            {
+                "prediction": "Sure! The answer to your question is:\n\nMasato Ishii",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Kazuki Furuya",
+                "element": "7-Eleven Japan",
+                "attribute": null
+            },
+            {
+                "prediction": "Sure! The answer to your question is:\n\nJacqueline Lam",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jay Walder",
+                "element": "MTR Corporation Limited",
+                "attribute": null
+            },
+            {
+                "prediction": "Oscar Munoz",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Oscar Mu\u00f1oz",
+                "element": "United Airlines",
+                "attribute": null
+            },
+            {
+                "prediction": "Torsten K. Nilsen",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Philipp Engedal",
+                "element": "Flytoget AS",
+                "attribute": null
+            },
+            {
+                "prediction": "Lars-Gunnar Bj\u00f6rklund",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Magnus Fax\u00e9n",
+                "element": "Sveriges Television",
+                "attribute": null
+            },
+            {
+                "prediction": "Ignazio Visco",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mario Rossetti",
+                "element": "Open Fiber",
+                "attribute": null
+            },
+            {
+                "prediction": "Igor Chalupeck\u00fd",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "John Arthur Hollows",
+                "element": "\u010ceskoslovensk\u00e1 obchodn\u00ed banka",
+                "attribute": null
+            }
+        ],
+        "other": [
+            {
+                "prediction": "Based on my knowledge, Khalid A. Al-Falih was succeeded by Amin H. Nasser as the Chief Executive Officer of Saudi Aramco on May 1, 2015, which is less than 7 years after Al-Falih's appointment. Therefore, the answer to the question is \"Amin H. Nasser.\"",
+                "matched_answers": [
+                    [
+                        "Khalid A. Al-Falih",
+                        "+2009-01-01T00:00:00Z",
+                        "+2015-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Amin H. Al-Nasser",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": "Sure!\n\nJeff Bezos",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z",
+                        "+2021-07-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": "Darren Woods",
+                "matched_answers": [
+                    [
+                        "Darren Woods",
+                        "+2017-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rex Tillerson",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": "Sure! The person who occupied the position of Chief Executive Officer of Apple before 5 years of Steve Jobs' tenure was:\n\nJohn Sculley",
+                "matched_answers": [
+                    [
+                        "Steve Jobs",
+                        "+1997-09-01T00:00:00Z",
+                        "+2011-08-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Michael Spindler",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": "Sure! The person who occupied the position of Chief Executive Officer of the Volkswagen Group before Matthias M\u00fcller was Ferdinand Porsche.",
+                "matched_answers": [
+                    [
+                        "Matthias M\u00fcller",
+                        "+2015-09-01T00:00:00Z",
+                        "+2018-04-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Heinrich Nordhoff",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": "Akio Toyoda",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00Z",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Katsuaki Watanabe",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": "Satya Nadella",
+                "matched_answers": [
+                    [
+                        "Satya Nadella",
+                        "+2014-02-04T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Steve Ballmer",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": "Sure! The person who occupied the position of Chief Executive Officer of Google before Larry Page, 10 years prior to January 14, 2014, was Eric Schmidt.",
+                "matched_answers": [
+                    [
+                        "Larry Page",
+                        "+2011-04-04T00:00:00Z",
+                        "+2015-08-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Eric Schmidt",
+                "element": "Google",
+                "attribute": null
+            },
+            {
+                "prediction": "Daniel Adamson.\n\nExplanation:\n\nWilliam Clark served as the Chief Executive Officer of C. & J. Clark International Ltd on March 26, 1877. After 141 years, the company has had several CEOs. However, I can provide the name of the current CEO, Daniel Adamson, who has been in the position since 2017.",
+                "matched_answers": [
+                    [
+                        "William Clark",
+                        "+1863-01-01T00:00:00Z",
+                        "+1889-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Stella David",
+                "element": "C. & J. Clark International Ltd",
+                "attribute": null
+            },
+            {
+                "prediction": "Sure! After 10 years, the person who occupied the position of Chief Executive Officer of Komer\u010dn\u00ed banka after Richard Salzmann was Ji\u0159\u00ed \u0160mejc. He was appointed as the CEO on March 1, 2001.",
+                "matched_answers": [
+                    [
+                        "Richard Salzmann",
+                        "+1991-01-01T00:00:00Z",
+                        "+1998-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Radovan V\u00e1vra",
+                "element": "Komer\u010dn\u00ed banka",
+                "attribute": null
+            },
+            {
+                "prediction": "Thomas F. Borgen",
+                "matched_answers": [
+                    [
+                        "Thomas F. Borgen",
+                        "+2013-09-16T00:00:00Z",
+                        "+2018-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Eivind Kolding",
+                "element": "Danske Bank",
+                "attribute": null
+            },
+            {
+                "prediction": "Sure! The person who occupied the position of Chief Executive Officer of Delta Air Lines before Gerald Grinstein, 36 years prior to September 17, 2006, was C.E. Woolman.",
+                "matched_answers": [
+                    [
+                        "Gerald Grinstein",
+                        "+2004-01-01T00:00:00Z",
+                        "+2007-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles H. Dolson",
+                "element": "Delta Air Lines",
+                "attribute": null
+            },
+            {
+                "prediction": "Torolf Elster.",
+                "matched_answers": [
+                    [
+                        "Torolf Elster",
+                        "+1972-01-01T00:00:00Z",
+                        "+1981-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Hans Jacob Ustvedt",
+                "element": "Norwegian Broadcasting Corporation",
+                "attribute": null
+            }
+        ]
+    }
+}

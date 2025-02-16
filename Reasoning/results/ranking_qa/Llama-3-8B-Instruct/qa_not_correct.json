@@ -1,0 +1,188 @@
+{
+    "companies_byRevenue": {
+        "Google": {
+            "answers": [
+                "Eric Schmidt |S: +2001-08-01T00:00:00Z |E: +2011-04-04T00:00:00Z",
+                "Larry Page |S: +1998-01-01T00:00:00Z |E: +2001-01-01T00:00:00Z",
+                "Larry Page |S: +2011-04-04T00:00:00Z |E: +2015-08-10T00:00:00Z",
+                "Sundar Pichai |S: +2015-08-10T00:00:00Z"
+            ],
+            "ground_truth": "Eric Schmidt",
+            "ranking_qa": {
+                "generic": "The Chief Executive Officers of Google on 21 October 2003 and 14 January 2014 were Eric Schmidt and Larry Page, so who was the former Chief Executive Officer?",
+                "rephrased_1": "The Chief Executive Officers of Google on 21 October 2003 and 14 January 2014 were Eric Schmidt and Larry Page, so who was the former Chief Executive Officer?",
+                "rephrased_2": "Eric Schmidt and Larry Page served as the Chief Executive Officers of Google on 21 October 2003 and 14 January 2014, respectively. Can you identify which one the former Chief Executive Officer was?",
+                "rephrased_3": "On 21 October 2003, Eric Schmidt was the Chief Executive Officer of Google, while Larry Page held the position on 14 January 2014. Which of them served as the former Chief Executive Officer?"
+            },
+            "accumulate_qa": {
+                "generic": "On 14 January 2014, Larry Page was the Chief Executive Officer of Google. So, who held this position 3738 days before?",
+                "rephrased_1": "On 14 January 2014, Larry Page was the Chief Executive Officer of Google. So, who held this position 3738 days before?",
+                "rephrased_2": "Larry Page was Google's Chief Executive Officer on 14 January 2014. Do you know who was in this role before 3738 days?",
+                "rephrased_3": "Larry Page served as the Chief Executive Officer of Google on 14 January 2014. Can you identify who occupied this position before 3738 days?"
+            }
+        }
+    },
+    "countries_byGDP": {
+        "France": {
+            "Prime Minister of France": {
+                "answers": [
+                    "Manuel Valls |S: +2014-03-31T00:00:00Z |E: +2016-12-06T00:00:00Z",
+                    "Jean-Marc Ayrault |S: +2012-05-16T00:00:00Z |E: +2014-03-31T00:00:00Z",
+                    "Bernard Cazeneuve |S: +2016-12-06T00:00:00Z |E: +2017-05-10T00:00:00Z",
+                    "\u00c9douard Philippe |S: +2017-05-15T00:00:00Z |E: +2020-07-02T00:00:00Z",
+                    "Fran\u00e7ois Fillon |S: +2007-05-17T00:00:00Z |E: +2012-05-10T00:00:00Z",
+                    "Jean Castex |S: +2020-07-03T00:00:00Z |E: +2022-05-16T00:00:00Z",
+                    "\u00c9lisabeth Borne |S: +2022-05-16T00:00:00Z |E: +2024-01-09T00:00:00Z",
+                    "Gabriel Attal |S: +2024-01-09T00:00:00Z |E: +2024-09-05T00:00:00Z",
+                    "Michel Barnier |S: +2024-09-05T00:00:00Z |E: +2024-12-13T00:00:00Z",
+                    "Fran\u00e7ois Bayrou |S: +2024-12-13T00:00:00Z"
+                ],
+                "ground_truth": "Michel Barnier",
+                "ranking_qa": {
+                    "generic": "The prime ministers of France on 7 August 2018 and 8 November 2024 were \u00c9douard Philippe and Michel Barnier, so who was the latter prime minister?",
+                    "rephrased_1": "The prime ministers of France on 7 August 2018 and 8 November 2024 were \u00c9douard Philippe and Michel Barnier, so who was the latter prime minister?",
+                    "rephrased_2": "\u00c9douard Philippe and Michel Barnier served as the prime ministers of France on 7 August 2018 and 8 November 2024, respectively. Can you identify which one the latter prime minister was?",
+                    "rephrased_3": "On 7 August 2018, \u00c9douard Philippe was the prime minister of France, while Michel Barnier held the position on 8 November 2024. Which of them served as the latter prime minister?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 7 August 2018, \u00c9douard Philippe was the prime minister of France. So, who held this position 2285 days later?",
+                    "rephrased_1": "On 7 August 2018, \u00c9douard Philippe was the prime minister of France. So, who held this position 2285 days later?",
+                    "rephrased_2": "\u00c9douard Philippe was France's prime minister on 7 August 2018. Do you know who was in this role after 2285 days?",
+                    "rephrased_3": "\u00c9douard Philippe served as the prime minister of France on 7 August 2018. Can you identify who occupied this position after 2285 days?"
+                }
+            }
+        },
+        "Denmark": {
+            "monarch of Denmark": {
+                "answers": [
+                    "Margrethe II of Denmark |S: +1972-01-14T00:00:00Z |E: +2024-01-14T00:00:00Z",
+                    "Frederick IX of Denmark |S: +1947-04-20T00:00:00Z |E: +1972-01-14T00:00:00Z",
+                    "Christian X of Denmark |S: +1912-05-14T00:00:00Z |E: +1947-04-20T00:00:00Z",
+                    "Frederick VIII of Denmark |S: +1906-01-29T00:00:00Z |E: +1912-05-14T00:00:00Z",
+                    "Christian IX of Denmark |S: +1863-11-15T00:00:00Z |E: +1906-01-29T00:00:00Z",
+                    "Frederick VII of Denmark |S: +1848-01-20T00:00:00Z |E: +1863-11-15T00:00:00Z",
+                    "Christian VIII of Denmark |S: +1839-12-03T00:00:00Z |E: +1848-01-20T00:00:00Z",
+                    "Frederick VI of Denmark |S: +1808-03-13T00:00:00Z |E: +1839-12-03T00:00:00Z",
+                    "Christian VII of Denmark |S: +1766-01-14T00:00:00Z |E: +1808-03-13T00:00:00Z",
+                    "Frederick V of Denmark |S: +1746-08-06T00:00:00Z |E: +1766-01-14T00:00:00Z",
+                    "Christian VI of Denmark |S: +1730-10-12T00:00:00Z |E: +1746-08-06T00:00:00Z",
+                    "Frederick IV of Denmark |S: +1699-08-25T00:00:00Z |E: +1730-10-12T00:00:00Z",
+                    "Christian V of Denmark |S: +1670-02-09T00:00:00Z |E: +1699-08-25T00:00:00Z",
+                    "Frederick III of Denmark |S: +1648-07-06T00:00:00Z |E: +1670-02-09T00:00:00Z",
+                    "Christian IV of Denmark |S: +1588-04-04T00:00:00Z |E: +1648-02-28T00:00:00Z",
+                    "Frederick II of Denmark |S: +1559-01-01T00:00:00Z |E: +1588-04-04T00:00:00Z",
+                    "Christian III of Denmark |S: +1534-07-04T00:00:00Z |E: +1559-01-01T00:00:00Z",
+                    "Frederick I of Denmark |S: +1523-04-13T00:00:00Z |E: +1533-04-10T00:00:00Z",
+                    "Christian II of Denmark |S: +1513-02-20T00:00:00Z |E: +1523-04-13T00:00:00Z",
+                    "John, King of Denmark |S: +1481-05-21T00:00:00Z |E: +1513-02-20T00:00:00Z",
+                    "Christian I of Denmark |S: +1448-09-01T00:00:00Z |E: +1481-05-21T00:00:00Z",
+                    "Christopher of Bavaria |S: +1440-04-09T00:00:00Z |E: +1448-01-06T00:00:00Z",
+                    "Eric of Pomerania |S: +1396-01-01T00:00:00Z |E: +1439-01-01T00:00:00Z",
+                    "Frederik X |S: +2024-01-14T00:00:00Z"
+                ],
+                "ground_truth": "John, King of Denmark",
+                "ranking_qa": {
+                    "generic": "The monarchs of Denmark on 25 July 1491 and 3 January 1987 were John, King of Denmark and Margrethe II of Denmark, so who was the former monarch?",
+                    "rephrased_1": "The monarchs of Denmark on 25 July 1491 and 3 January 1987 were John, King of Denmark and Margrethe II of Denmark, so who was the former monarch?",
+                    "rephrased_2": "John, King of Denmark and Margrethe II of Denmark served as the monarchs of Denmark on 25 July 1491 and 3 January 1987, respectively. Can you identify which one the former monarch was?",
+                    "rephrased_3": "On 25 July 1491, John, King of Denmark was the monarch of Denmark, while Margrethe II of Denmark held the position on 3 January 1987. Which of them served as the former monarch?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 3 January 1987, Margrethe II of Denmark was the monarch of Denmark. So, who held this position 180957 days before?",
+                    "rephrased_1": "On 3 January 1987, Margrethe II of Denmark was the monarch of Denmark. So, who held this position 180957 days before?",
+                    "rephrased_2": "Margrethe II of Denmark was Denmark's monarch on 3 January 1987. Do you know who was in this role before 180957 days?",
+                    "rephrased_3": "Margrethe II of Denmark served as the monarch of Denmark on 3 January 1987. Can you identify who occupied this position before 180957 days?"
+                }
+            }
+        },
+        "Finland": {
+            "President of Finland": {
+                "answers": [
+                    "Sauli Niinist\u00f6 |S: +2012-03-01T00:00:00Z |E: +2024-03-01T00:00:00Z",
+                    "Alexander Stubb |S: +2024-03-01T00:00:00Z"
+                ],
+                "ground_truth": "Alexander Stubb",
+                "ranking_qa": {
+                    "generic": "The presidents of Finland on 2 September 2019 and 12 November 2024 were Sauli Niinist\u00f6 and Alexander Stubb, so who was the latter president?",
+                    "rephrased_1": "The presidents of Finland on 2 September 2019 and 12 November 2024 were Sauli Niinist\u00f6 and Alexander Stubb, so who was the latter president?",
+                    "rephrased_2": "Sauli Niinist\u00f6 and Alexander Stubb served as the presidents of Finland on 2 September 2019 and 12 November 2024, respectively. Can you identify which one the latter president was?",
+                    "rephrased_3": "On 2 September 2019, Sauli Niinist\u00f6 was the president of Finland, while Alexander Stubb held the position on 12 November 2024. Which of them served as the latter president?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 2 September 2019, Sauli Niinist\u00f6 was the president of Finland. So, who held this position 1898 days later?",
+                    "rephrased_1": "On 2 September 2019, Sauli Niinist\u00f6 was the president of Finland. So, who held this position 1898 days later?",
+                    "rephrased_2": "Sauli Niinist\u00f6 was Finland's president on 2 September 2019. Do you know who was in this role after 1898 days?",
+                    "rephrased_3": "Sauli Niinist\u00f6 served as the president of Finland on 2 September 2019. Can you identify who occupied this position after 1898 days?"
+                }
+            }
+        }
+    },
+    "athletes_byPayment": {
+        "Bradley Beal": {
+            "answers": [
+                "Florida Gators men's basketball |S: +2011-01-01T00:00:00Z |E: +2012-06-28T00:00:00Z",
+                "Washington Wizards |S: +2012-06-28T00:00:00Z |E: +2023-07-01T00:00:00Z",
+                "Phoenix Suns |S: +2023-07-01T00:00:00Z"
+            ],
+            "ground_truth": "Florida Gators men's basketball",
+            "ranking_qa": {
+                "generic": "The basketball teams of Bradley Beal on 4 January 2012 and 22 May 2015 were Florida Gators men's basketball and Washington Wizards, so which team was the former one Bradley Beal played for?",
+                "rephrased_1": "The basketball teams of Bradley Beal on 4 January 2012 and 22 May 2015 were Florida Gators men's basketball and Washington Wizards, so which team was the former one Bradley Beal played for?",
+                "rephrased_2": "Florida Gators men's basketball and Washington Wizards were Bradley Beal's basketball teams on 4 January 2012 and 22 May 2015, respectively. Can you identify which team was the former one Bradley Beal played for?",
+                "rephrased_3": "On 4 January 2012, Bradley Beal played for Florida Gators men's basketball, while Bradley Beal played for Washington Wizards on 22 May 2015. Which team did Bradley Beal formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 22 May 2015, Bradley Beal played for Washington Wizards. So, before 1234 days, which basketball team did Bradley Beal play for?",
+                "rephrased_1": "On 22 May 2015, Bradley Beal played for Washington Wizards. So, before 1234 days, which basketball team did Bradley Beal play for?",
+                "rephrased_2": "Washington Wizards was Bradley Beal's basketball team on 22 May 2015. Can you identify which basketball team Bradley Beal belongs to before 1234 days?",
+                "rephrased_3": "Bradley Beal played for Washington Wizards on 22 May 2015. Do you know which basketball team Bradley Beal played for before 1234 days?"
+            }
+        },
+        "Damian Lillard": {
+            "answers": [
+                "Weber State Wildcats men's basketball |S: +2008-01-01T00:00:00Z |E: +2012-07-13T00:00:00Z",
+                "Portland Trail Blazers |S: +2012-07-13T00:00:00Z |E: +2023-09-27T00:00:00Z",
+                "Milwaukee Bucks |S: +2023-09-27T00:00:00Z"
+            ],
+            "ground_truth": "Weber State Wildcats men's basketball",
+            "ranking_qa": {
+                "generic": "The basketball teams of Damian Lillard on 31 March 2010 and 22 July 2014 were Weber State Wildcats men's basketball and Portland Trail Blazers, so which team was the former one Damian Lillard played for?",
+                "rephrased_1": "The basketball teams of Damian Lillard on 31 March 2010 and 22 July 2014 were Weber State Wildcats men's basketball and Portland Trail Blazers, so which team was the former one Damian Lillard played for?",
+                "rephrased_2": "Weber State Wildcats men's basketball and Portland Trail Blazers were Damian Lillard's basketball teams on 31 March 2010 and 22 July 2014, respectively. Can you identify which team was the former one Damian Lillard played for?",
+                "rephrased_3": "On 31 March 2010, Damian Lillard played for Weber State Wildcats men's basketball, while Damian Lillard played for Portland Trail Blazers on 22 July 2014. Which team did Damian Lillard formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 22 July 2014, Damian Lillard played for Portland Trail Blazers. So, before 1574 days, which basketball team did Damian Lillard play for?",
+                "rephrased_1": "On 22 July 2014, Damian Lillard played for Portland Trail Blazers. So, before 1574 days, which basketball team did Damian Lillard play for?",
+                "rephrased_2": "Portland Trail Blazers was Damian Lillard's basketball team on 22 July 2014. Can you identify which basketball team Damian Lillard belongs to before 1574 days?",
+                "rephrased_3": "Damian Lillard played for Portland Trail Blazers on 22 July 2014. Do you know which basketball team Damian Lillard played for before 1574 days?"
+            }
+        },
+        "Fernando Alonso": {
+            "answers": [
+                "Renault F1 Team |S: +2002-00-00T00:00:00Z |E: +2006-00-00T00:00:00Z",
+                "McLaren |S: +2007-00-00T00:00:00Z |E: +2007-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2008-00-00T00:00:00Z |E: +2009-00-00T00:00:00Z",
+                "Scuderia Ferrari |S: +2010-00-00T00:00:00Z |E: +2014-00-00T00:00:00Z",
+                "McLaren |S: +2015-00-00T00:00:00Z |E: +2018-00-00T00:00:00Z",
+                "Minardi |S: +2001-00-00T00:00:00Z |E: +2001-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2021-00-00T00:00:00Z |E: +2022-00-00T00:00:00Z",
+                "Aston Martin F1 Team |S: +2023-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Scuderia Ferrari",
+            "ranking_qa": {
+                "generic": "The Formula 1 teams of Fernando Alonso on 10 October 2012 and 11 October 2015 were Scuderia Ferrari and McLaren, so which team was the former one Fernando Alonso drove for?",
+                "rephrased_1": "The Formula 1 teams of Fernando Alonso on 10 October 2012 and 11 October 2015 were Scuderia Ferrari and McLaren, so which team was the former one Fernando Alonso drove for?",
+                "rephrased_2": "Scuderia Ferrari and McLaren were Fernando Alonso's Formula 1 teams on 10 October 2012 and 11 October 2015, respectively. Can you identify which team was the former one Fernando Alonso drove for?",
+                "rephrased_3": "On 10 October 2012, Fernando Alonso drove for Scuderia Ferrari, while Fernando Alonso drove for McLaren on 11 October 2015. Which team did Fernando Alonso formerly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 11 October 2015, Fernando Alonso drove for McLaren. So, before 1096 days, which Formula 1 team did Fernando Alonso drive for?",
+                "rephrased_1": "On 11 October 2015, Fernando Alonso drove for McLaren. So, before 1096 days, which Formula 1 team did Fernando Alonso drive for?",
+                "rephrased_2": "McLaren was Fernando Alonso's Formula 1 team on 11 October 2015. Can you identify which Formula 1 team Fernando Alonso belongs to before 1096 days?",
+                "rephrased_3": "Fernando Alonso drove for McLaren on 11 October 2015. Do you know which Formula 1 team Fernando Alonso drove for before 1096 days?"
+            }
+        }
+    },
+    "organizations": {}
+}

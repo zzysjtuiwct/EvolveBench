@@ -1,0 +1,27 @@
+{
+    "companies_byRevenue": {},
+    "countries_byGDP": {},
+    "athletes_byPayment": {
+        "Damian Lillard": {
+            "answers": [
+                "Weber State Wildcats men's basketball |S: +2008-01-01T00:00:00Z |E: +2012-07-13T00:00:00Z",
+                "Portland Trail Blazers |S: +2012-07-13T00:00:00Z |E: +2023-09-27T00:00:00Z",
+                "Milwaukee Bucks |S: +2023-09-27T00:00:00Z"
+            ],
+            "ground_truth": "Weber State Wildcats men's basketball",
+            "ranking_qa": {
+                "generic": "The basketball teams of Damian Lillard on 31 March 2010 and 22 July 2014 were Weber State Wildcats men's basketball and Portland Trail Blazers, so which team was the former one Damian Lillard played for?",
+                "rephrased_1": "The basketball teams of Damian Lillard on 31 March 2010 and 22 July 2014 were Weber State Wildcats men's basketball and Portland Trail Blazers, so which team was the former one Damian Lillard played for?",
+                "rephrased_2": "Weber State Wildcats men's basketball and Portland Trail Blazers were Damian Lillard's basketball teams on 31 March 2010 and 22 July 2014, respectively. Can you identify which team was the former one Damian Lillard played for?",
+                "rephrased_3": "On 31 March 2010, Damian Lillard played for Weber State Wildcats men's basketball, while Damian Lillard played for Portland Trail Blazers on 22 July 2014. Which team did Damian Lillard formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 22 July 2014, Damian Lillard played for Portland Trail Blazers. So, before 1574 days, which basketball team did Damian Lillard play for?",
+                "rephrased_1": "On 22 July 2014, Damian Lillard played for Portland Trail Blazers. So, before 1574 days, which basketball team did Damian Lillard play for?",
+                "rephrased_2": "Portland Trail Blazers was Damian Lillard's basketball team on 22 July 2014. Can you identify which basketball team Damian Lillard belongs to before 1574 days?",
+                "rephrased_3": "Damian Lillard played for Portland Trail Blazers on 22 July 2014. Do you know which basketball team Damian Lillard played for before 1574 days?"
+            }
+        }
+    },
+    "organizations": {}
+}

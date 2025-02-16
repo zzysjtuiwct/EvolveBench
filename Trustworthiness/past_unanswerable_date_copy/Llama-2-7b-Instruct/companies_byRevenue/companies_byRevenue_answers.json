@@ -1,0 +1,506 @@
+{
+    "Walmart": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1950\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Walmart is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1950\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current CEO of Walmart is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1950\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The CEO position at Walmart is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1950\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at Walmart is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "The current Chief Executive Officer of Walmart is Sam Walton.",
+            "rephrased_1": "The current CEO of Walmart is Sam Walton.",
+            "rephrased_2": "As of January 1950, the CEO of Walmart is Sam Walton.",
+            "rephrased_3": "As of January 1950, the Chief Executive Officer (CEO) of Walmart is unknown. The first CEO of Walmart, Robson Walton, did not take office until 1983. Prior to that, the company was led by its founder, Sam Walton."
+        }
+    },
+    "Saudi Aramco": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1923\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Saudi Aramco is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1923\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current CEO of Saudi Aramco is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1923\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The CEO position at Saudi Aramco is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1923\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at Saudi Aramco is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Unknown. The current Chief Executive Officer of Saudi Aramco is not a publicly disclosed information, as the company is a state-owned enterprise and its leadership is not typically made public.",
+            "rephrased_1": "Unknown. The current CEO of Saudi Aramco is not a publicly known figure, as the company is a state-owned oil and gas corporation based in Saudi Arabia and its leadership is not disclosed to the public for privacy and security reasons.",
+            "rephrased_2": "Unknown. The information on the current CEO of Saudi Aramco is not available for 1923 as the company was established in 1944 and the CEO position has changed over time.",
+            "rephrased_3": "Unknown. The current Chief Executive Officer of Saudi Aramco is not a publicly known figure, as the company is a state-owned oil and gas company in Saudi Arabia and the identity of the CEO is not disclosed to the public for security and privacy reasons."
+        }
+    },
+    "Amazon": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 May 1986\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Amazon is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 May 1986\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current CEO of Amazon is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 May 1986\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The CEO position at Amazon is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 May 1986\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at Amazon is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Sure, I'd be happy to help! According to my knowledge, the current Chief Executive Officer of Amazon is Jeff Bezos.",
+            "rephrased_1": "Sure! As of May 1986, the current CEO of Amazon is Jeff Bezos.",
+            "rephrased_2": "The CEO of Amazon is Jeff Bezos.",
+            "rephrased_3": "Jeff Bezos"
+        }
+    },
+    "ExxonMobil": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1872\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of ExxonMobil is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1872\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current CEO of ExxonMobil is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1872\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The CEO position at ExxonMobil is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1872\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at ExxonMobil is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Unknown. As of January 1872, ExxonMobil did not exist as a company. The predecessor companies of ExxonMobil, such as Standard Oil and John D. Rockefeller's oil refining business, were established in the late 19th century, but ExxonMobil as a unified company did not come into existence until the 1999 merger of Exxon and Mobil. Therefore, there is no current Chief Executive Officer of ExxonMobil in this time period.",
+            "rephrased_1": "Unknown. As of 1872, ExxonMobil did not exist as a company. The company was formed through the merger of Exxon and Mobil in 1999.",
+            "rephrased_2": "Unknown. The CEO position at ExxonMobil has not been established yet as ExxonMobil was formed in 1999 through the merger of Exxon and Mobil, and the company has had multiple CEOs since its inception.",
+            "rephrased_3": "Unknown. The Chief Executive Officer position at ExxonMobil was not established until 1999, when Exxon and Mobil merged to form ExxonMobil Corporation. Prior to that, the companies had separate CEOs."
+        }
+    },
+    "Apple": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1967\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Apple is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1967\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current CEO of Apple is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1967\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The CEO position at Apple is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1967\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at Apple is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "The current Chief Executive Officer of Apple is:\n\nSteve Jobs",
+            "rephrased_1": "The current CEO of Apple is:\n\nSteve Jobs",
+            "rephrased_2": "The CEO of Apple is currently Steve Jobs.",
+            "rephrased_3": "The position of Chief Executive Officer at Apple is currently held by Steve Jobs."
+        }
+    },
+    "Shell": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1894\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Shell is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1894\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current CEO of Shell is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1894\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The CEO position at Shell is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1894\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at Shell is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Unknown. The current Chief Executive Officer of Royal Dutch Shell, also known as Shell, is not a publicly known figure as of January 1894. The company was founded in 1890 and has had several CEOs throughout its history, but the identity of the current CEO is not available to me.",
+            "rephrased_1": "Unknown. The current CEO of Shell is not a historical figure, as Shell is a modern corporation that was founded in 1907. Therefore, there is no CEO of Shell in 1894.",
+            "rephrased_2": "Unknown. The CEO position at Royal Dutch Shell (Shell) has not been established until 1914, so as of January 1894, there is no CEO.",
+            "rephrased_3": "Unknown. The Chief Executive Officer position at Royal Dutch Shell (Shell) is not a publicly disclosed information as of January 1894."
+        }
+    },
+    "CVS Health": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1953\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of CVS Health is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1953\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current CEO of CVS Health is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1953\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The CEO position at CVS Health is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1953\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at CVS Health is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "The current Chief Executive Officer of CVS Health is Thomas M. Moriarty.",
+            "rephrased_1": "The current CEO of CVS Health is Thomas M. Moriarty.",
+            "rephrased_2": "The CEO of CVS Health is currently held by Karen Lynn Lynch.",
+            "rephrased_3": "As of January 1953, the Chief Executive Officer (CEO) of CVS Health is unknown. CVS Health was not established until 1963, so there was no CEO at the time."
+        }
+    },
+    "Volkswagen Group": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 June 1927\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Volkswagen Group is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 June 1927\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current CEO of Volkswagen Group is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 June 1927\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The CEO position at Volkswagen Group is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 June 1927\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at Volkswagen Group is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "The current Chief Executive Officer of Volkswagen Group is:\n\nUnknown",
+            "rephrased_1": "The current CEO of Volkswagen Group is:\n\nUnknown",
+            "rephrased_2": "The CEO position at Volkswagen Group is currently held by Herbert Diess.",
+            "rephrased_3": "The current Chief Executive Officer (CEO) of Volkswagen Group is Herbert Diess."
+        }
+    },
+    "Alphabet Inc.": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 10 August 2005\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Alphabet Inc. is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 10 August 2005\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current CEO of Alphabet Inc. is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 10 August 2005\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The CEO position at Alphabet Inc. is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 10 August 2005\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at Alphabet Inc. is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "The current Chief Executive Officer of Alphabet Inc. is Sundar Pichai.",
+            "rephrased_1": "Sure, I'd be happy to help! The current CEO of Alphabet Inc. is Sundar Pichai.",
+            "rephrased_2": "The CEO position at Alphabet Inc. is currently held by Sundar Pichai.",
+            "rephrased_3": "The current Chief Executive Officer (CEO) of Alphabet Inc. is Sundar Pichai."
+        }
+    },
+    "Toyota": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1927\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Toyota is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1927\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current CEO of Toyota is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1927\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The CEO position at Toyota is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1927\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at Toyota is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Unknown. The current Chief Executive Officer of Toyota is not a historical figure, as Toyota was not founded until 1937. Therefore, there is no known Chief Executive Officer of Toyota prior to its founding.",
+            "rephrased_1": "Unknown. The current CEO of Toyota is not a matter of public record or easily accessible information as of January 1927. Toyota was founded in 1937, and its leadership structure and executives have changed over time, so the information may not be readily available or accurate.",
+            "rephrased_2": "Unknown. The CEO of Toyota is not a public figure, and their identity is not readily available.",
+            "rephrased_3": "Unknown. The current Chief Executive Officer of Toyota is not a historical figure, as the company was founded in 1937 and did not exist in 1927."
+        }
+    },
+    "TotalEnergies": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1914\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of TotalEnergies is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1914\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current CEO of TotalEnergies is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1914\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The CEO position at TotalEnergies is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1914\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at TotalEnergies is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Unknown. As of January 1914, TotalEnergies did not exist as a company, as it was founded in 1985. Therefore, there was no Chief Executive Officer at that time.",
+            "rephrased_1": "Unknown. The current CEO of TotalEnergies is not a historical figure, as TotalEnergies is a modern energy company that was formed in 2008 through the merger of Total and Elf Aquitaine. Therefore, there is no CEO of TotalEnergies in 1914.",
+            "rephrased_2": "Unknown. The CEO position at TotalEnergies is not a historical figure, as TotalEnergies is a relatively recent company that was formed in 2008 through the merger of Total and Elf Aquitaine. Therefore, there is no CEO position at TotalEnergies that existed in 1914.",
+            "rephrased_3": "Unknown. As of January 1914, the Chief Executive Officer position at TotalEnergies (formerly known as Total SA) has not been established yet, as the company was founded in 1924."
+        }
+    },
+    "Glencore": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1964\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Glencore is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1964\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current CEO of Glencore is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1964\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The CEO position at Glencore is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1964\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at Glencore is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "As of January 1964, the Chief Executive Officer of Glencore is:\n\nUnknown",
+            "rephrased_1": "Unknown. As of January 1964, the CEO of Glencore is not a publicly known figure as the company was founded in 1974 and did not exist at the time.",
+            "rephrased_2": "Unknown. As of January 1964, there is no publicly available information on the CEO of Glencore.",
+            "rephrased_3": "The position of Chief Executive Officer at Glencore is currently held by:\n\nUnknown"
+        }
+    },
+    "BP": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 October 1899\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of BP is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 October 1899\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current CEO of BP is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 October 1899\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The CEO position at BP is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 October 1899\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at BP is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Unknown. As of 1899, BP (formerly British Petroleum) did not have a Chief Executive Officer as a formal position. The company was founded in 1909 and the first CEO was appointed in 1955, so as of 1899, there was no one holding that position.",
+            "rephrased_1": "Unknown. As of 1899, BP (British Petroleum) did not have a CEO as it is a modern corporation that was formed in 1909 through the merger of British Dyestuffs Corporation and Standard Oil of California.",
+            "rephrased_2": "As of October 1899, the CEO position at BP (British Petroleum) is held by John Simon.",
+            "rephrased_3": "Unknown. The Chief Executive Officer position at BP (British Petroleum) was not established until 1950, and the company did not exist under that name until 1909. Therefore, there was no Chief Executive Officer at BP in 1899."
+        }
+    },
+    "Microsoft": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 April 1965\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Microsoft is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 April 1965\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current CEO of Microsoft is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 April 1965\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The CEO position at Microsoft is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 April 1965\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at Microsoft is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Bill Gates",
+            "rephrased_1": "Bill Gates",
+            "rephrased_2": "Bill Gates",
+            "rephrased_3": "Bill Gates"
+        }
+    },
+    "Gazprom": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1982\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Gazprom is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1982\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current CEO of Gazprom is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1982\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The CEO position at Gazprom is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1982\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at Gazprom is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "The current Chief Executive Officer of Gazprom is Alexander Mikhailovich Dyukov.",
+            "rephrased_1": "As of January 1982, the CEO of Gazprom is unknown. The current CEO of Gazprom is not a publicly known figure, as the company's leadership is not readily available information. Gazprom is a Russian state-owned gas company, and its leadership is not publicly disclosed. Therefore, I cannot provide the name of the current CEO of Gazprom.",
+            "rephrased_2": "The CEO position at Gazprom is currently held by Alexei Miller.",
+            "rephrased_3": "The position of Chief Executive Officer at Gazprom is currently held by Aleksey Miller."
+        }
+    },
+    "Mitsubishi": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 April 1860\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Mitsubishi is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 April 1860\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current CEO of Mitsubishi is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 April 1860\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The CEO position at Mitsubishi is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 April 1860\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at Mitsubishi is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Unknown. Mitsubishi is a Japanese multinational corporation that was established in 1870, and it has had several CEOs throughout its history. As of April 1860, there is no recorded information on the current CEO of Mitsubishi.",
+            "rephrased_1": "Unknown. The current CEO of Mitsubishi is not a historical figure, and as such, I cannot provide an answer as of the current year 1860. Mitsubishi was established in 1870, and its first CEO was Yataro Iwasaki, who took office in 1884. Therefore, there was no CEO of Mitsubishi in 1860.",
+            "rephrased_2": "Unknown. The CEO position at Mitsubishi is not a well-documented historical fact, as the company was not established until 1884. Therefore, there is no known CEO of Mitsubishi in 1860.",
+            "rephrased_3": "Unknown. The information you have provided is from 1 April 1860, and Mitsubishi did not exist until 1870, so there was no Chief Executive Officer in that position at that time."
+        }
+    },
+    "Ford Motor Company": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1890\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Ford Motor Company is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1890\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current CEO of Ford Motor Company is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1890\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The CEO position at Ford Motor Company is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1890\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at Ford Motor Company is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Henry Ford was the founder and CEO of Ford Motor Company, so the answer is Henry Ford.",
+            "rephrased_1": "Henry Ford",
+            "rephrased_2": "Henry Ford",
+            "rephrased_3": "Henry Ford"
+        }
+    },
+    "Intel": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1958\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Intel is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1958\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Intel is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1958\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The Chief Executive Officer position at Intel is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1958\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at Intel is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "The current Chief Executive Officer of Intel is:\n\nKirk K. Kokke\n\nSource: Intel's official website and other reliable sources.",
+            "rephrased_1": "The current Chief Executive Officer of Intel is:\n\nKirk K. Kokke\n\nSource: Intel's official website and other reliable sources.",
+            "rephrased_2": "The Chief Executive Officer (CEO) position at Intel is currently held by Gordon Moore.",
+            "rephrased_3": "The position of Chief Executive Officer at Intel is currently held by Gordon Moore."
+        }
+    },
+    "Boeing": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1906\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Boeing is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1906\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Boeing is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1906\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The Chief Executive Officer position at Boeing is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1906\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at Boeing is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "The current Chief Executive Officer of Boeing is William Boeing.",
+            "rephrased_1": "As of January 1906, the Chief Executive Officer of Boeing is unknown. Boeing was founded in 1916, and at that time, the company did not have a Chief Executive Officer position. The first CEO of Boeing, William E. Boeing, was appointed in 1934, and he served in that role until his death in 1956. Since then, there have been several CEOs of Boeing, but as of 1906, there is no record of who the current CEO is.",
+            "rephrased_2": "The Chief Executive Officer (CEO) position at Boeing is currently held by Dennis Muilenburg.",
+            "rephrased_3": "Based on my knowledge, the current Chief Executive Officer (CEO) of Boeing is William E. Boeing."
+        }
+    },
+    "Google": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 August 1991\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Google is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 August 1991\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Google is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 August 1991\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The Chief Executive Officer position at Google is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 August 1991\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at Google is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Larry Page",
+            "rephrased_1": "The current Chief Executive Officer of Google is Sundar Pichai.",
+            "rephrased_2": "The Chief Executive Officer (CEO) of Google is currently Larry Page.",
+            "rephrased_3": "The position of Chief Executive Officer (CEO) at Google is currently held by Sundar Pichai."
+        }
+    },
+    "C. & J. Clark International Ltd": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1821\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of C. & J. Clark International Ltd is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1821\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of C. & J. Clark International Ltd is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1821\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The Chief Executive Officer position at C. & J. Clark International Ltd is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1821\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at C. & J. Clark International Ltd is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Unknown. I am not aware of the current Chief Executive Officer of C. & J. Clark International Ltd as of January 1821, as the company was not established until 1856.",
+            "rephrased_1": "Unknown. I'm just an AI and do not have access to real-time information or the historical records of C. & J. Clark International Ltd, so I cannot provide the name of the current Chief Executive Officer of the company.",
+            "rephrased_2": "Unknown. I do not have access to real-time information about the current executives of C. & J. Clark International Ltd, and the company's website does not provide information on the CEO's name.",
+            "rephrased_3": "Unknown. I'm just an AI and do not have access to real-time information about the current leadership of C. & J. Clark International Ltd. The company's website does not provide information on the current CEO, and I could not find any reliable sources confirming the identity of the CEO as of January 1, 1821."
+        }
+    },
+    "7-Eleven Japan": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1963\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of 7-Eleven Japan is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1963\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of 7-Eleven Japan is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1963\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The Chief Executive Officer position at 7-Eleven Japan is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1963\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at 7-Eleven Japan is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "The current Chief Executive Officer of 7-Eleven Japan is:\n\nTadao Kubo",
+            "rephrased_1": "As of January 1963, the current Chief Executive Officer of 7-Eleven Japan is Unknown.",
+            "rephrased_2": "As of January 1963, the Chief Executive Officer (CEO) position at 7-Eleven Japan is held by Mr. Ken Sekine.",
+            "rephrased_3": "The position of Chief Executive Officer at 7-Eleven Japan is currently held by:\n\nKatsuaki Watanabe"
+        }
+    },
+    "MTR Corporation Limited": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1962\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of MTR Corporation Limited is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1962\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of MTR Corporation Limited is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1962\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The Chief Executive Officer position at MTR Corporation Limited is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1962\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at MTR Corporation Limited is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "The current Chief Executive Officer of MTR Corporation Limited is:\n\nUnknown",
+            "rephrased_1": "As of January 1962, the Chief Executive Officer of MTR Corporation Limited is unknown. The information you are seeking is not available at this time.",
+            "rephrased_2": "As of January 1962, the Chief Executive Officer (CEO) position at MTR Corporation Limited is held by Mr. John F. Kennedy.",
+            "rephrased_3": "Based on my knowledge, the current Chief Executive Officer of MTR Corporation Limited is unknown. The company's website does not provide information on the current CEO's name or tenure."
+        }
+    },
+    "Komer\u010dn\u00ed banka": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1981\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Komer\u010dn\u00ed banka is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1981\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Komer\u010dn\u00ed banka is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1981\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The Chief Executive Officer position at Komer\u010dn\u00ed banka is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1981\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at Komer\u010dn\u00ed banka is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Unknown. I do not have access to real-time information or up-to-date records of the current CEO of Komer\u010dn\u00ed banka. The information you are seeking may be subject to change or may not be publicly available.",
+            "rephrased_1": "Unknown. I don't have access to real-time information or historical records of specific individuals' employment status, including their role as CEO of Komer\u010dn\u00ed banka.",
+            "rephrased_2": "The current Chief Executive Officer (CEO) of Komer\u010dn\u00ed banka is unknown to me. I do not have access to real-time information or historical records of corporate leadership positions. My training data only goes up to 1980, and I cannot provide information beyond that. Please let me know if you have any other questions.",
+            "rephrased_3": "As of January 1981, the Chief Executive Officer (CEO) of Komer\u010dn\u00ed banka is unknown. I do not have access to real-time information or historical records of corporate leadership, so I cannot provide the name of the current CEO of Komer\u010dn\u00ed banka."
+        }
+    },
+    "United Parcel Service": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1897\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of United Parcel Service is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1897\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of United Parcel Service is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1897\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The Chief Executive Officer position at United Parcel Service is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1897\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at United Parcel Service is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Unknown. The current Chief Executive Officer of United Parcel Service (UPS) is not a historical figure, as the company was not founded until 1907.",
+            "rephrased_1": "Unknown. The current Chief Executive Officer of United Parcel Service (UPS) is not a historical figure, as UPS was not founded until 1907.",
+            "rephrased_2": "Based on my knowledge, the Chief Executive Officer (CEO) of United Parcel Service (UPS) is James E. \"Jim\" Casey. He has been serving as the CEO of UPS since 1987.",
+            "rephrased_3": "Unknown. The Chief Executive Officer position at United Parcel Service (UPS) was not established until 1907, so as of the current year (1897), there is no one holding that position."
+        }
+    },
+    "Unilever": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 April 1909\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Unilever is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 April 1909\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Unilever is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 April 1909\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The Chief Executive Officer position at Unilever is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 April 1909\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at Unilever is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "The current Chief Executive Officer of Unilever is Unknown. As of 1909, the CEO of Unilever was not publicly disclosed.",
+            "rephrased_1": "Known. The current Chief Executive Officer of Unilever is Alan Jope.",
+            "rephrased_2": "The Chief Executive Officer (CEO) of Unilever is currently Henry J. Lea.",
+            "rephrased_3": "As of April 1909, the Chief Executive Officer (CEO) of Unilever is unknown. The company was founded in 1929 through the merger of British soap maker Lever Brothers and Dutch margarine producer Margarine Union, and the CEO position has not been established yet."
+        }
+    },
+    "Danske Bank": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 April 1861\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Danske Bank is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 April 1861\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Danske Bank is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 April 1861\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The Chief Executive Officer position at Danske Bank is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 April 1861\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at Danske Bank is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Unknown. As of 1861, Danske Bank did not exist as it was established in 1992.",
+            "rephrased_1": "Unknown. I'm just an AI and do not have access to real-time information or the ability to look into the future, so I cannot provide an answer to this question as the Chief Executive Officer of Danske Bank may have changed since 1861.",
+            "rephrased_2": "Unknown. As of April 1, 1861, the Chief Executive Officer position at Danske Bank did not exist as Danske Bank was not established until 1984.",
+            "rephrased_3": "Unknown. As of 1 April 1861, the position of Chief Executive Officer at Danske Bank did not exist as the bank was not founded until 1972."
+        }
+    },
+    "OMV": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1946\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of OMV is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1946\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of OMV is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1946\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The Chief Executive Officer position at OMV is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1946\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at OMV is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Unknown. As of January 1946, there is no publicly available information on the current Chief Executive Officer of OMV.",
+            "rephrased_1": "Unknown. As of January 1946, OMV (OMV AG) is an Austrian oil and gas company, and I couldn't find any information on the current Chief Executive Officer.",
+            "rephrased_2": "As of January 1946, the Chief Executive Officer (CEO) position at OMV (Oesterreichische Mineral\u00f6lverwaltung) is held by:\n\nUnknown",
+            "rephrased_3": "As of January 1946, the Chief Executive Officer (CEO) of OMV is unknown. The company was founded in 1956 and has undergone several leadership changes over the years, but I do not have access to the most up-to-date information on the current CEO's name. Please let me know if you have any other questions."
+        }
+    },
+    "United Airlines": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1924\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of United Airlines is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1924\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of United Airlines is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1924\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The Chief Executive Officer position at United Airlines is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1924\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at United Airlines is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "The current Chief Executive Officer of United Airlines is:\n\n unknown",
+            "rephrased_1": "My apologies, I'm just an AI and do not have access to real-time information or historical records. As of 1924, United Airlines did not exist as a separate entity, as it was formed in 1934 through the merger of several airlines. Therefore, I cannot provide the name of the current Chief Executive Officer of United Airlines.",
+            "rephrased_2": "The Chief Executive Officer (CEO) of United Airlines is unknown. The current CEO of United Airlines is not a historical figure, as the airline did not exist until 1929. Therefore, I cannot provide an answer to this question.",
+            "rephrased_3": "The position of Chief Executive Officer at United Airlines is currently held by:\n\nClark W. Griggs"
+        }
+    },
+    "Flytoget AS": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1984\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Flytoget AS is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1984\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Flytoget AS is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1984\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The Chief Executive Officer position at Flytoget AS is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1984\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at Flytoget AS is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Unknown",
+            "rephrased_1": "Unknown. I don't have access to real-time information or the ability to browse the internet, so I cannot provide the current CEO of Flytoget AS.",
+            "rephrased_2": "Based on my knowledge, the Chief Executive Officer (CEO) of Flytoget AS is unknown. I do not have access to real-time information on the current CEO of the company. Please note that the information I provide is based on my training data and may not be up-to-date or accurate. If you have any other questions, feel free to ask!",
+            "rephrased_3": "As of January 1984, the Chief Executive Officer (CEO) of Flytoget AS is unknown. The information you provided is prior to 1984, and I do not have access to information beyond that year."
+        }
+    },
+    "Delta Air Lines": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1908\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Delta Air Lines is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1908\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Delta Air Lines is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1908\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The Chief Executive Officer position at Delta Air Lines is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1908\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at Delta Air Lines is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "The current Chief Executive Officer of Delta Air Lines is:\n\n unknown",
+            "rephrased_1": "The current Chief Executive Officer of Delta Air Lines is:\n\nHenry T. Harley",
+            "rephrased_2": "Based on my knowledge, the Chief Executive Officer (CEO) of Delta Air Lines is currently held by Richard H. Anderson.",
+            "rephrased_3": "The position of Chief Executive Officer at Delta Air Lines is currently held by Richard H. Anderson."
+        }
+    },
+    "Norwegian Broadcasting Corporation": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1924\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Norwegian Broadcasting Corporation is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1924\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Norwegian Broadcasting Corporation is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1924\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The Chief Executive Officer position at Norwegian Broadcasting Corporation is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1924\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at Norwegian Broadcasting Corporation is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Unknown. I don't have access to current information on the Norwegian Broadcasting Corporation's Chief Executive Officer as of 1924. The Norwegian Broadcasting Corporation was established in 1923, so the CEO at that time would be unknown to me.",
+            "rephrased_1": "Unknown. The Norwegian Broadcasting Corporation, also known as NRK, was established in 1927, so as of the current year (1924), it does not have a Chief Executive Officer.",
+            "rephrased_2": "Unknown. The Norwegian Broadcasting Corporation, also known as NRK, was established in 1927, and therefore, the Chief Executive Officer position at the time of this question in 1924 would not be known to me.",
+            "rephrased_3": "Unknown. I couldn't find information on the current Chief Executive Officer of Norwegian Broadcasting Corporation."
+        }
+    },
+    "HSBC": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1855\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of HSBC is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1855\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of HSBC is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1855\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The Chief Executive Officer position at HSBC is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1855\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at HSBC is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Unknown. The current Chief Executive Officer of HSBC is not a historical figure, as HSBC was not established until 1865.",
+            "rephrased_1": "Unknown. The current Chief Executive Officer of HSBC is not a historical figure, as HSBC was not established until 1865, more than 10 years after the current year of 1855.",
+            "rephrased_2": "Unknown. The Chief Executive Officer position at HSBC is not a historical figure, so there is no record of who held the position in 1855. HSBC was founded in 1865, so the bank did not exist at the time.",
+            "rephrased_3": "Unknown. The Chief Executive Officer position at HSBC was not established until 1991, when the bank was reorganized and the position was created. Prior to that, the bank was led by a chairman and managing director."
+        }
+    },
+    "Sveriges Television": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1946\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Sveriges Television is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1946\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Sveriges Television is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1946\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The Chief Executive Officer position at Sveriges Television is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1946\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at Sveriges Television is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Unknown. As of January 1946, there is no available information on the current Chief Executive Officer of Sveriges Television.",
+            "rephrased_1": "Unknown. I'm just an AI and do not have access to real-time information or up-to-date data on the current CEOs of organizations, including Sveriges Television. The information you are seeking may have changed since my training data was last updated.",
+            "rephrased_2": "Unknown. I do not have access to real-time information or current events, and therefore cannot provide an answer to this question as of January 1946. The Chief Executive Officer position at Sveriges Television may have changed since then.",
+            "rephrased_3": "Unknown. As of January 1946, there is no publicly available information on the current Chief Executive Officer of Sveriges Television."
+        }
+    },
+    "Open Fiber": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 2008\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Open Fiber is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 2008\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of Open Fiber is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 2008\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The Chief Executive Officer position at Open Fiber is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 2008\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at Open Fiber is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "The current Chief Executive Officer of Open Fiber is Unknown. I do not have access to real-time information on the current CEO of Open Fiber, as this information may not be publicly available or may be subject to change. Please check the Open Fiber website or other reliable sources for the most up-to-date information on the company's leadership.",
+            "rephrased_1": "The current Chief Executive Officer of Open Fiber is Unknown. Open Fiber is a relatively new company, and as of January 2008, there is no publicly available information on the identity of its CEO.",
+            "rephrased_2": "As of January 2008, the Chief Executive Officer (CEO) of Open Fiber is Unknown. According to the Open Fiber website, the CEO position is not currently filled.",
+            "rephrased_3": "Unknown. I couldn't find any information on the current CEO of Open Fiber."
+        }
+    },
+    "\u010ceskoslovensk\u00e1 obchodn\u00ed banka": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1960\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of \u010ceskoslovensk\u00e1 obchodn\u00ed banka is?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1960\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The current Chief Executive Officer of \u010ceskoslovensk\u00e1 obchodn\u00ed banka is?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1960\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The Chief Executive Officer position at \u010ceskoslovensk\u00e1 obchodn\u00ed banka is currently held by?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nToday Date: 1 January 1960\n\nGiven a question, you should answer it using your own knowledge. Remember, please output 'Unknown' only if the answer does not exist. Otherwise, output the name only.\n\nQUESTION: The position of Chief Executive Officer at \u010ceskoslovensk\u00e1 obchodn\u00ed banka is currently held by?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Unknown. I don't have access to real-time information or historical records of specific individuals' employment details, especially those from 60 years ago. Therefore, I cannot provide the current CEO of \u010ceskoslovensk\u00e1 obchodn\u00ed banka at the time you asked.",
+            "rephrased_1": "Unknown. I'm just an AI and do not have access to real-time information or historical records of specific individuals' employment statuses. Additionally, my training data may not cover all possible topics or events. Please provide more context or clarify the question if you have any further information.",
+            "rephrased_2": "Unknown. I do not have access to real-time information or historical records, and I cannot guarantee the accuracy of my responses. However, I can suggest some possible sources where you may be able to find the information you are looking for:\n\n* \u010ceskoslovensk\u00e1 obchodn\u00ed banka (CSOB) is a Czech bank that was established in 1990. Prior to that, it was known as \u010ceskoslovensk\u00e1 obchodn\u00ed banka, a.s. (COB).\n* The Chief Executive Officer (CEO) of CSOB is not a publicly disclosed",
+            "rephrased_3": "Unknown. I don't have access to real-time information or historical records, so I cannot provide the current or past holders of the position of Chief Executive Officer at \u010ceskoslovensk\u00e1 obchodn\u00ed banka."
+        }
+    }
+}

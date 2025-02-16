@@ -1,0 +1,647 @@
+{
+    "companies_byRevenue": {
+        "Alphabet Inc.": {
+            "questions": {
+                "generic": "The current Chief Executive Officer of Alphabet Inc. is",
+                "rephrased_1": "The current CEO of Alphabet Inc. is",
+                "rephrased_2": "The CEO position at Alphabet Inc. is currently held by",
+                "rephrased_3": "The position of Chief Executive Officer at Alphabet Inc. is currently held by"
+            },
+            "answers": [
+                "Larry Page |S: +2015-08-10T00:00:00Z |E: +2019-12-03T00:00:00Z",
+                "Sundar Pichai |S: +2019-12-03T00:00:00Z"
+            ]
+        },
+        "Google": {
+            "questions": {
+                "generic": "The current Chief Executive Officer of Google is",
+                "rephrased_1": "The current Chief Executive Officer of Google is",
+                "rephrased_2": "The Chief Executive Officer position at Google is currently held by",
+                "rephrased_3": "The position of Chief Executive Officer at Google is currently held by"
+            },
+            "answers": [
+                "Eric Schmidt |S: +2001-08-01T00:00:00Z |E: +2011-04-04T00:00:00Z",
+                "Larry Page |S: +1998-01-01T00:00:00Z |E: +2001-01-01T00:00:00Z",
+                "Larry Page |S: +2011-04-04T00:00:00Z |E: +2015-08-10T00:00:00Z",
+                "Sundar Pichai |S: +2015-08-10T00:00:00Z"
+            ]
+        }
+    },
+    "countries_byGDP": {
+        "Thailand": {
+            "King of Thailand": {
+                "questions": {
+                    "generic": "The head of state in Thailand is",
+                    "rephrased_1": "The current King of Thailand is",
+                    "rephrased_2": "The name of the current King of Thailand is",
+                    "rephrased_3": "The position of the King of Thailand is currently held by"
+                },
+                "answers": [
+                    "Bhumibol Adulyadej |S: +1946-06-09T00:00:00Z |E: +2016-10-13T00:00:00Z",
+                    "Vajiralongkorn |S: +2016-12-01T00:00:00Z"
+                ]
+            }
+        },
+        "Japan": {
+            "Emperor of Japan": {
+                "questions": {
+                    "generic": "The head of state in Japan is",
+                    "rephrased_1": "The current Emperor of Japan is",
+                    "rephrased_2": "The name of the current Emperor of Japan is",
+                    "rephrased_3": "The position of the Emperor of Japan is currently held by"
+                },
+                "answers": [
+                    "Akihito |S: +1989-01-07T00:00:00Z |E: +2019-05-01T00:00:00Z",
+                    "Naruhito |S: +2019-05-01T00:00:00Z"
+                ]
+            }
+        },
+        "France": {
+            "Prime Minister of France": {
+                "questions": {
+                    "generic": "The head of government in France is",
+                    "rephrased_1": "The current Prime Minister of France is",
+                    "rephrased_2": "The name of the current Prime Minister of France is",
+                    "rephrased_3": "The position of the Prime Minister of France is currently held by"
+                },
+                "answers": [
+                    "Manuel Valls |S: +2014-03-31T00:00:00Z |E: +2016-12-06T00:00:00Z",
+                    "Jean-Marc Ayrault |S: +2012-05-16T00:00:00Z |E: +2014-03-31T00:00:00Z",
+                    "Bernard Cazeneuve |S: +2016-12-06T00:00:00Z |E: +2017-05-10T00:00:00Z",
+                    "\u00c9douard Philippe |S: +2017-05-15T00:00:00Z |E: +2020-07-02T00:00:00Z",
+                    "Fran\u00e7ois Fillon |S: +2007-05-17T00:00:00Z |E: +2012-05-10T00:00:00Z",
+                    "Jean Castex |S: +2020-07-03T00:00:00Z |E: +2022-05-16T00:00:00Z",
+                    "\u00c9lisabeth Borne |S: +2022-05-16T00:00:00Z |E: +2024-01-09T00:00:00Z",
+                    "Gabriel Attal |S: +2024-01-09T00:00:00Z |E: +2024-09-05T00:00:00Z",
+                    "Michel Barnier |S: +2024-09-05T00:00:00Z |E: +2024-12-13T00:00:00Z",
+                    "Fran\u00e7ois Bayrou |S: +2024-12-13T00:00:00Z"
+                ]
+            }
+        },
+        "Canada": {
+            "monarch of Canada": {
+                "questions": {
+                    "generic": "The head of state in Canada is",
+                    "rephrased_1": "The current monarch of Canada is",
+                    "rephrased_2": "The name of the current monarch of Canada is",
+                    "rephrased_3": "The position of the monarch of Canada is currently held by"
+                },
+                "answers": [
+                    "Elizabeth II |S: +1952-02-06T00:00:00Z |E: +2022-09-08T00:00:00Z",
+                    "George VI |S: +1936-12-11T00:00:00Z |E: +1952-02-06T00:00:00Z",
+                    "Edward VIII |S: +1936-01-20T00:00:00Z |E: +1936-12-11T00:00:00Z",
+                    "George V |S: +1910-05-06T00:00:00Z |E: +1936-01-20T00:00:00Z",
+                    "Edward VII |S: +1901-01-22T00:00:00Z |E: +1910-05-06T00:00:00Z",
+                    "Victoria |S: +1867-07-01T00:00:00Z |E: +1910-05-06T00:00:00Z",
+                    "Charles III of the United Kingdom |S: +2022-09-08T00:00:00Z"
+                ]
+            }
+        },
+        "Australia": {
+            "monarch of Australia": {
+                "questions": {
+                    "generic": "The head of state in Australia is",
+                    "rephrased_1": "The current monarch of Australia is",
+                    "rephrased_2": "The name of the current monarch of Australia is",
+                    "rephrased_3": "The position of the monarch of Australia is currently held by"
+                },
+                "answers": [
+                    "Elizabeth II |S: +1952-02-06T00:00:00Z |E: +2022-09-08T00:00:00Z",
+                    "Quentin Bryce |S: +2008-09-05T00:00:00Z |E: +2014-03-27T00:00:00Z",
+                    "Michael Jeffery |S: +2003-08-11T00:00:00Z |E: +2008-09-04T00:00:00Z",
+                    "Peter Hollingworth |S: +2001-06-29T00:00:00Z |E: +2003-05-29T00:00:00Z",
+                    "William Deane |S: +1996-02-16T00:00:00Z |E: +2001-06-28T00:00:00Z",
+                    "Bill Hayden |S: +1989-02-16T00:00:00Z |E: +1996-02-15T00:00:00Z",
+                    "Ninian Stephen |S: +1982-07-29T00:00:00Z |E: +1989-02-15T00:00:00Z",
+                    "Zelman Cowen |S: +1977-12-08T00:00:00Z |E: +1982-07-28T00:00:00Z",
+                    "John Kerr |S: +1974-07-11T00:00:00Z |E: +1977-12-07T00:00:00Z",
+                    "Paul Hasluck |S: +1969-04-30T00:00:00Z |E: +1974-07-10T00:00:00Z",
+                    "Richard Casey, Baron Casey |S: +1965-05-07T00:00:00Z |E: +1969-04-29T00:00:00Z",
+                    "William Sidney, 1st Viscount De L'Isle |S: +1961-08-03T00:00:00Z |E: +1965-05-06T00:00:00Z",
+                    "William Morrison, 1st Viscount Dunrossil |S: +1960-02-02T00:00:00Z |E: +1961-08-02T00:00:00Z",
+                    "William Slim, 1st Viscount Slim |S: +1953-05-08T00:00:00Z |E: +1960-02-01T00:00:00Z",
+                    "Bill McKell |S: +1947-03-11T00:00:00Z |E: +1953-05-07T00:00:00Z",
+                    "Charles III of the United Kingdom |S: +2022-09-08T00:00:00Z"
+                ]
+            }
+        },
+        "Spain": {
+            "Monarch of Spain": {
+                "questions": {
+                    "generic": "The head of state in Spain is",
+                    "rephrased_1": "The current Monarch of Spain is",
+                    "rephrased_2": "The name of the current Monarch of Spain is",
+                    "rephrased_3": "The position of the Monarch of Spain is currently held by"
+                },
+                "answers": [
+                    "Felipe VI of Spain |S: +2014-06-19T00:00:00Z",
+                    "Juan Carlos I of Spain |S: +1975-11-22T00:00:00Z |E: +2014-06-19T00:00:00Z"
+                ]
+            }
+        },
+        "Netherlands": {
+            "King of the Netherlands": {
+                "questions": {
+                    "generic": "The head of state in Netherlands is",
+                    "rephrased_1": "The current King of the Netherlands is",
+                    "rephrased_2": "The name of the current King of the Netherlands is",
+                    "rephrased_3": "The position of the King of the Netherlands is currently held by"
+                },
+                "answers": [
+                    "Willem-Alexander of the Netherlands |S: +2013-04-30T00:00:00Z",
+                    "Beatrix of the Netherlands |S: +1980-04-30T00:00:00Z |E: +2013-04-30T00:00:00Z",
+                    "Juliana of the Netherlands |S: +1948-09-04T00:00:00Z |E: +1980-04-30T00:00:00Z",
+                    "Wilhelmina of the Netherlands |S: +1890-11-23T00:00:00Z |E: +1948-09-04T00:00:00Z",
+                    "William III of the Netherlands |S: +1849-03-17T00:00:00Z |E: +1890-11-23T00:00:00Z",
+                    "William II of the Netherlands |S: +1840-10-07T00:00:00Z |E: +1849-03-17T00:00:00Z",
+                    "William I of the Netherlands |S: +1815-03-16T00:00:00Z |E: +1840-10-07T00:00:00Z"
+                ]
+            }
+        },
+        "Sweden": {
+            "Monarch of Sweden": {
+                "questions": {
+                    "generic": "The head of state in Sweden is",
+                    "rephrased_1": "The current Monarch of Sweden is",
+                    "rephrased_2": "The name of the current Monarch of Sweden is",
+                    "rephrased_3": "The position of the Monarch of Sweden is currently held by"
+                },
+                "answers": [
+                    "Carl XVI Gustaf of Sweden |S: +1973-09-15T00:00:00Z",
+                    "Gustaf VI Adolf of Sweden |S: +1950-10-29T00:00:00Z |E: +1973-09-15T00:00:00Z",
+                    "Gustaf V of Sweden |S: +1907-12-08T00:00:00Z |E: +1950-10-29T00:00:00Z",
+                    "Oscar II of Sweden |S: +1872-09-18T00:00:00Z |E: +1907-12-08T00:00:00Z",
+                    "Charles XV of Sweden |S: +1859-07-08T00:00:00Z |E: +1872-09-18T00:00:00Z",
+                    "Oscar I of Sweden |S: +1844-03-08T00:00:00Z |E: +1859-07-08T00:00:00Z",
+                    "Charles XIV John of Sweden |S: +1818-02-05T00:00:00Z |E: +1844-03-08T00:00:00Z"
+                ]
+            }
+        },
+        "Norway": {
+            "Monarch of Norway": {
+                "questions": {
+                    "generic": "The head of state in Norway is",
+                    "rephrased_1": "The current Monarch of Norway is",
+                    "rephrased_2": "The name of the current Monarch of Norway is",
+                    "rephrased_3": "The position of the Monarch of Norway is currently held by"
+                },
+                "answers": [
+                    "Harald V of Norway |S: +1991-01-17T00:00:00Z",
+                    "Olav V of Norway |S: +1957-09-21T00:00:00Z |E: +1991-01-17T00:00:00Z",
+                    "Haakon VII of Norway |S: +1905-11-18T00:00:00Z |E: +1957-09-21T00:00:00Z"
+                ]
+            }
+        },
+        "Denmark": {
+            "monarch of Denmark": {
+                "questions": {
+                    "generic": "The head of state in Denmark is",
+                    "rephrased_1": "The current monarch of Denmark is",
+                    "rephrased_2": "The name of the current monarch of Denmark is",
+                    "rephrased_3": "The position of the monarch of Denmark is currently held by"
+                },
+                "answers": [
+                    "Margrethe II of Denmark |S: +1972-01-14T00:00:00Z |E: +2024-01-14T00:00:00Z",
+                    "Frederick IX of Denmark |S: +1947-04-20T00:00:00Z |E: +1972-01-14T00:00:00Z",
+                    "Christian X of Denmark |S: +1912-05-14T00:00:00Z |E: +1947-04-20T00:00:00Z",
+                    "Frederick VIII of Denmark |S: +1906-01-29T00:00:00Z |E: +1912-05-14T00:00:00Z",
+                    "Christian IX of Denmark |S: +1863-11-15T00:00:00Z |E: +1906-01-29T00:00:00Z",
+                    "Frederick VII of Denmark |S: +1848-01-20T00:00:00Z |E: +1863-11-15T00:00:00Z",
+                    "Christian VIII of Denmark |S: +1839-12-03T00:00:00Z |E: +1848-01-20T00:00:00Z",
+                    "Frederick VI of Denmark |S: +1808-03-13T00:00:00Z |E: +1839-12-03T00:00:00Z",
+                    "Christian VII of Denmark |S: +1766-01-14T00:00:00Z |E: +1808-03-13T00:00:00Z",
+                    "Frederick V of Denmark |S: +1746-08-06T00:00:00Z |E: +1766-01-14T00:00:00Z",
+                    "Christian VI of Denmark |S: +1730-10-12T00:00:00Z |E: +1746-08-06T00:00:00Z",
+                    "Frederick IV of Denmark |S: +1699-08-25T00:00:00Z |E: +1730-10-12T00:00:00Z",
+                    "Christian V of Denmark |S: +1670-02-09T00:00:00Z |E: +1699-08-25T00:00:00Z",
+                    "Frederick III of Denmark |S: +1648-07-06T00:00:00Z |E: +1670-02-09T00:00:00Z",
+                    "Christian IV of Denmark |S: +1588-04-04T00:00:00Z |E: +1648-02-28T00:00:00Z",
+                    "Frederick II of Denmark |S: +1559-01-01T00:00:00Z |E: +1588-04-04T00:00:00Z",
+                    "Christian III of Denmark |S: +1534-07-04T00:00:00Z |E: +1559-01-01T00:00:00Z",
+                    "Frederick I of Denmark |S: +1523-04-13T00:00:00Z |E: +1533-04-10T00:00:00Z",
+                    "Christian II of Denmark |S: +1513-02-20T00:00:00Z |E: +1523-04-13T00:00:00Z",
+                    "John, King of Denmark |S: +1481-05-21T00:00:00Z |E: +1513-02-20T00:00:00Z",
+                    "Christian I of Denmark |S: +1448-09-01T00:00:00Z |E: +1481-05-21T00:00:00Z",
+                    "Christopher of Bavaria |S: +1440-04-09T00:00:00Z |E: +1448-01-06T00:00:00Z",
+                    "Eric of Pomerania |S: +1396-01-01T00:00:00Z |E: +1439-01-01T00:00:00Z",
+                    "Frederik X |S: +2024-01-14T00:00:00Z"
+                ]
+            }
+        },
+        "Portugal": {
+            "President of Portugal": {
+                "questions": {
+                    "generic": "The head of state in Portugal is",
+                    "rephrased_1": "The current President of Portugal is",
+                    "rephrased_2": "The name of the current President of Portugal is",
+                    "rephrased_3": "The position of the President of Portugal is currently held by"
+                },
+                "answers": [
+                    "An\u00edbal Cavaco Silva |S: +2006-03-09T00:00:00Z |E: +2016-03-09T00:00:00Z",
+                    "Marcelo Rebelo de Sousa |S: +2016-03-09T00:00:00Z",
+                    "Jorge Sampaio |S: +1996-03-09T00:00:00Z |E: +2006-03-09T00:00:00Z",
+                    "M\u00e1rio Soares |S: +1986-03-09T00:00:00Z |E: +1996-03-09T00:00:00Z"
+                ]
+            }
+        }
+    },
+    "athletes_byPayment": {
+        "Fernando Alonso": {
+            "questions": {
+                "generic": "The current team of Fernando Alonso is",
+                "rephrased_1": "The Formula 1 team Fernando Alonso currently drives for is",
+                "rephrased_2": "Fernando Alonso is currently racing for",
+                "rephrased_3": "The team Fernando Alonso is currently racing for in Formula 1 is"
+            },
+            "answers": [
+                "Renault F1 Team |S: +2002-00-00T00:00:00Z |E: +2006-00-00T00:00:00Z",
+                "McLaren |S: +2007-00-00T00:00:00Z |E: +2007-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2008-00-00T00:00:00Z |E: +2009-00-00T00:00:00Z",
+                "Scuderia Ferrari |S: +2010-00-00T00:00:00Z |E: +2014-00-00T00:00:00Z",
+                "McLaren |S: +2015-00-00T00:00:00Z |E: +2018-00-00T00:00:00Z",
+                "Minardi |S: +2001-00-00T00:00:00Z |E: +2001-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2021-00-00T00:00:00Z |E: +2022-00-00T00:00:00Z",
+                "Aston Martin F1 Team |S: +2023-00-00T00:00:00Z"
+            ]
+        },
+        "Lionel Messi": {
+            "questions": {
+                "generic": "The current team of Lionel Messi is",
+                "rephrased_1": "The football team Lionel Messi currently plays for is",
+                "rephrased_2": "Lionel Messi is currently playing for",
+                "rephrased_3": "The current football club of Lionel Messi is"
+            },
+            "answers": [
+                "FC Barcelona |S: +2004-03-05T00:00:00Z |E: +2021-08-10T00:00:00Z",
+                "Paris Saint-Germain F.C. |S: +2021-08-10T00:00:00Z |E: +2023-07-15T00:00:00Z",
+                "Inter Miami CF |S: +2023-07-15T00:00:00Z"
+            ]
+        },
+        "Kylian Mbapp\u00e9": {
+            "questions": {
+                "generic": "The current team of Kylian Mbapp\u00e9 is",
+                "rephrased_1": "The football team Kylian Mbapp\u00e9 currently plays for is",
+                "rephrased_2": "Kylian Mbapp\u00e9 is currently playing for",
+                "rephrased_3": "The current football club of Kylian Mbapp\u00e9 is"
+            },
+            "answers": [
+                "AS Monaco FC |S: +2016-01-01T00:00:00Z |E: +2017-08-31T00:00:00Z",
+                "Paris Saint-Germain F.C. |S: +2017-08-31T00:00:00Z |E: +2018-06-30T00:00:00Z",
+                "AS Monaco FC |S: +2018-06-30T00:00:00Z |E: +2018-07-01T00:00:00Z",
+                "Paris Saint-Germain F.C. |S: +2018-07-01T00:00:00Z |E: +2024-07-01T00:00:00Z",
+                "Real Madrid |S: +2024-07-01T00:00:00Z"
+            ]
+        },
+        "Karim Benzema": {
+            "questions": {
+                "generic": "The current team of Karim Benzema is",
+                "rephrased_1": "The football team Karim Benzema currently plays for is",
+                "rephrased_2": "Karim Benzema is currently playing for",
+                "rephrased_3": "The current football club of Karim Benzema is"
+            },
+            "answers": [
+                "Olympique Lyonnais |S: +2005-07-01T00:00:00Z |E: +2009-07-09T00:00:00Z",
+                "Real Madrid CF |S: +2009-07-09T00:00:00Z |E: +2023-07-01T00:00:00Z",
+                "Al Ittihad FC |S: +2023-07-01T00:00:00Z"
+            ]
+        },
+        "Erling Haaland": {
+            "questions": {
+                "generic": "The current team of Erling Haaland is",
+                "rephrased_1": "The football team Erling Haaland currently plays for is",
+                "rephrased_2": "Erling Haaland is currently playing for",
+                "rephrased_3": "The current football club of Erling Haaland is"
+            },
+            "answers": [
+                "Bryne FK |S: +2015-09-08T00:00:00Z |E: +2017-02-01T00:00:00Z",
+                "Molde FK |S: +2017-02-01T00:00:00Z |E: +2019-01-01T00:00:00Z",
+                "FC Red Bull Salzburg |S: +2019-01-01T00:00:00Z |E: +2020-01-01T00:00:00Z",
+                "Borussia Dortmund |S: +2020-01-01T00:00:00Z |E: +2022-07-01T00:00:00Z",
+                "Manchester City F.C. |S: +2022-07-01T00:00:00Z"
+            ]
+        },
+        "Mohamed Salah": {
+            "questions": {
+                "generic": "The current team of Mohamed Salah is",
+                "rephrased_1": "The football team Mohamed Salah currently plays for is",
+                "rephrased_2": "Mohamed Salah is currently playing for",
+                "rephrased_3": "The current football club of Mohamed Salah is"
+            },
+            "answers": [
+                "Al Mokawloon Al Arab SC |S: +2010-05-01T00:00:00Z |E: +2012-07-01T00:00:00Z",
+                "FC Basel |S: +2012-07-01T00:00:00Z |E: +2014-01-26T00:00:00Z",
+                "Chelsea F.C. |S: +2014-01-26T00:00:00Z |E: +2015-02-02T00:00:00Z",
+                "ACF Fiorentina |S: +2015-02-02T00:00:00Z |E: +2015-06-30T00:00:00Z",
+                "Chelsea F.C. |S: +2015-06-30T00:00:00Z |E: +2015-08-06T00:00:00Z",
+                "A.S. Roma |S: +2015-08-06T00:00:00Z |E: +2016-06-30T00:00:00Z",
+                "Chelsea F.C. |S: +2016-06-30T00:00:00Z |E: +2016-07-01T00:00:00Z",
+                "A.S. Roma |S: +2016-07-01T00:00:00Z |E: +2017-07-01T00:00:00Z",
+                "Liverpool F.C. |S: +2017-07-01T00:00:00Z"
+            ]
+        },
+        "Kevin De Bruyne": {
+            "questions": {
+                "generic": "The current team of Kevin De Bruyne is",
+                "rephrased_1": "The football team Kevin De Bruyne currently plays for is",
+                "rephrased_2": "Kevin De Bruyne is currently playing for",
+                "rephrased_3": "The current football club of Kevin De Bruyne is"
+            },
+            "answers": [
+                "K.R.C. Genk |S: +2008-07-01T00:00:00Z |E: +2012-01-31T00:00:00Z",
+                "Chelsea F.C. |S: +2012-01-31T00:00:00Z |E: +2012-02-01T00:00:00Z",
+                "K.R.C. Genk |S: +2012-02-01T00:00:00Z |E: +2012-06-30T00:00:00Z",
+                "Chelsea F.C. |S: +2012-06-30T00:00:00Z |E: +2012-08-02T00:00:00Z",
+                "SV Werder Bremen |S: +2012-08-02T00:00:00Z |E: +2013-06-30T00:00:00Z",
+                "Chelsea F.C. |S: +2013-06-30T00:00:00Z |E: +2014-01-18T00:00:00Z",
+                "VfL Wolfsburg |S: +2014-01-18T00:00:00Z |E: +2015-08-30T00:00:00Z",
+                "Manchester City F.C. |S: +2015-08-30T00:00:00Z"
+            ]
+        },
+        "Harry Kane": {
+            "questions": {
+                "generic": "The current team of Harry Kane is",
+                "rephrased_1": "The football team Harry Kane currently plays for is",
+                "rephrased_2": "Harry Kane is currently playing for",
+                "rephrased_3": "The current football club of Harry Kane is"
+            },
+            "answers": [
+                "Tottenham Hotspur F.C. |S: +2010-07-01T00:00:00Z |E: +2011-01-07T00:00:00Z",
+                "Leyton Orient F.C. |S: +2011-01-07T00:00:00Z |E: +2011-05-31T00:00:00Z",
+                "Tottenham Hotspur F.C. |S: +2011-05-31T00:00:00Z |E: +2012-01-01T00:00:00Z",
+                "Millwall F.C. |S: +2012-01-01T00:00:00Z |E: +2012-05-31T00:00:00Z",
+                "Tottenham Hotspur F.C. |S: +2012-05-31T00:00:00Z |E: +2012-08-31T00:00:00Z",
+                "Norwich City F.C. |S: +2012-08-31T00:00:00Z |E: +2013-02-01T00:00:00Z",
+                "Tottenham Hotspur F.C. |S: +2013-02-01T00:00:00Z |E: +2013-02-21T00:00:00Z",
+                "Leicester City |S: +2013-02-21T00:00:00Z |E: +2013-05-14T00:00:00Z",
+                "Tottenham Hotspur F.C. |S: +2013-05-14T00:00:00Z |E: +2013-08-12T00:00:00Z",
+                "FC Bayern Munich |S: +2013-08-12T00:00:00Z"
+            ]
+        },
+        "Stephen Curry": {
+            "questions": {
+                "generic": "The current team of Stephen Curry is",
+                "rephrased_1": "The basketball team Stephen Curry currently plays for is",
+                "rephrased_2": "Stephen Curry is currently playing for",
+                "rephrased_3": "The current basketball team Stephen Curry plays for is"
+            },
+            "answers": [
+                "Davidson Wildcats men's basketball |S: +2006-00-00T00:00:00Z |E: +2009-00-00T00:00:00Z",
+                "Golden State Warriors |S: +2009-06-25T00:00:00Z"
+            ]
+        },
+        "Kevin Durant": {
+            "questions": {
+                "generic": "The current team of Kevin Durant is",
+                "rephrased_1": "The basketball team Kevin Durant currently plays for is",
+                "rephrased_2": "Kevin Durant is currently playing for",
+                "rephrased_3": "The current basketball team Kevin Durant plays for is"
+            },
+            "answers": [
+                "Texas Longhorns men's basketball |S: +2006-00-00T00:00:00Z |E: +2007-01-01T00:00:00Z",
+                "Seattle SuperSonics |S: +2007-01-01T00:00:00Z |E: +2008-01-01T00:00:00Z",
+                "Oklahoma City Thunder |S: +2008-01-01T00:00:00Z |E: +2016-07-05T00:00:00Z",
+                "Golden State Warriors |S: +2016-07-05T00:00:00Z |E: +2019-07-01T00:00:00Z",
+                "Brooklyn Nets |S: +2019-07-01T00:00:00Z |E: +2023-02-09T00:00:00Z",
+                "Phoenix Suns |S: +2023-02-09T00:00:00Z"
+            ]
+        },
+        "Nikola Jokic": {
+            "questions": {
+                "generic": "The current team of Nikola Jokic is",
+                "rephrased_1": "The basketball team Nikola Jokic currently plays for is",
+                "rephrased_2": "Nikola Jokic is currently playing for",
+                "rephrased_3": "The current basketball team Nikola Jokic plays for is"
+            },
+            "answers": [
+                "KK Mega Basket |S: +2012-00-00T00:00:00Z |E: +2015-07-28T00:00:00Z",
+                "Denver Nuggets |S: +2015-07-28T00:00:00Z"
+            ]
+        },
+        "Bradley Beal": {
+            "questions": {
+                "generic": "The current team of Bradley Beal is",
+                "rephrased_1": "The basketball team Bradley Beal currently plays for is",
+                "rephrased_2": "Bradley Beal is currently playing for",
+                "rephrased_3": "The current basketball team Bradley Beal plays for is"
+            },
+            "answers": [
+                "Florida Gators men's basketball |S: +2011-01-01T00:00:00Z |E: +2012-06-28T00:00:00Z",
+                "Washington Wizards |S: +2012-06-28T00:00:00Z |E: +2023-07-01T00:00:00Z",
+                "Phoenix Suns |S: +2023-07-01T00:00:00Z"
+            ]
+        },
+        "Giannis Antetokounmpo": {
+            "questions": {
+                "generic": "The current team of Giannis Antetokounmpo is",
+                "rephrased_1": "The basketball team Giannis Antetokounmpo currently plays for is",
+                "rephrased_2": "Giannis Antetokounmpo is currently playing for",
+                "rephrased_3": "The current basketball team Giannis Antetokounmpo plays for is"
+            },
+            "answers": [
+                "Filathlitikos B.C. |S: +2011-01-01T00:00:00Z |E: +2013-07-30T00:00:00Z",
+                "Milwaukee Bucks |S: +2013-07-30T00:00:00Z"
+            ]
+        },
+        "Damian Lillard": {
+            "questions": {
+                "generic": "The current team of Damian Lillard is",
+                "rephrased_1": "The basketball team Damian Lillard currently plays for is",
+                "rephrased_2": "Damian Lillard is currently playing for",
+                "rephrased_3": "The current basketball team Damian Lillard plays for is"
+            },
+            "answers": [
+                "Weber State Wildcats men's basketball |S: +2008-01-01T00:00:00Z |E: +2012-07-13T00:00:00Z",
+                "Portland Trail Blazers |S: +2012-07-13T00:00:00Z |E: +2023-09-27T00:00:00Z",
+                "Milwaukee Bucks |S: +2023-09-27T00:00:00Z"
+            ]
+        },
+        "Kawhi Leonard": {
+            "questions": {
+                "generic": "The current team of Kawhi Leonard is",
+                "rephrased_1": "The basketball team Kawhi Leonard currently plays for is",
+                "rephrased_2": "Kawhi Leonard is currently playing for",
+                "rephrased_3": "The current basketball team Kawhi Leonard plays for is"
+            },
+            "answers": [
+                "San Diego State Aztecs men's basketball |S: +2009-01-01T00:00:00Z |E: +2011-12-10T00:00:00Z",
+                "San Antonio Spurs |S: +2011-12-10T00:00:00Z |E: +2018-07-18T00:00:00Z",
+                "Toronto Raptors |S: +2018-07-18T00:00:00Z |E: +2019-07-06T00:00:00Z",
+                "Los Angeles Clippers |S: +2019-07-06T00:00:00Z"
+            ]
+        },
+        "Paul George": {
+            "questions": {
+                "generic": "The current team of Paul George is",
+                "rephrased_1": "The basketball team Paul George currently plays for is",
+                "rephrased_2": "Paul George is currently playing for",
+                "rephrased_3": "The current basketball team Paul George plays for is"
+            },
+            "answers": [
+                "Fresno State Bulldogs men's basketball |S: +2008-01-01T00:00:00Z |E: +2010-06-24T00:00:00Z",
+                "Indiana Pacers |S: +2010-06-24T00:00:00Z |E: +2017-06-30T00:00:00Z",
+                "Oklahoma City Thunder |S: +2017-06-30T00:00:00Z |E: +2019-07-06T00:00:00Z",
+                "Los Angeles Clippers |S: +2019-07-06T00:00:00Z |E: +2021-07-01T00:00:00Z",
+                "Philadelphia 76ers |S: +2021-07-01T00:00:00Z"
+            ]
+        },
+        "Max Verstappen": {
+            "questions": {
+                "generic": "The current team of Max Verstappen is",
+                "rephrased_1": "The Formula 1 team Max Verstappen currently drives for is",
+                "rephrased_2": "Max Verstappen is currently racing for",
+                "rephrased_3": "The team Max Verstappen is currently racing for in Formula 1 is"
+            },
+            "answers": [
+                "Red Bull Racing |S: +2016-00-00T00:00:00Z",
+                "Scuderia Toro Rosso |S: +2015-00-00T00:00:00Z |E: +2016-00-00T00:00:00Z",
+                "Van Amersfoort Racing |S: +2014-00-00T00:00:00Z |E: +2015-00-00T00:00:00Z"
+            ]
+        },
+        "Lewis Hamilton": {
+            "questions": {
+                "generic": "The current team of Lewis Hamilton is",
+                "rephrased_1": "The Formula 1 team Lewis Hamilton currently drives for is",
+                "rephrased_2": "Lewis Hamilton is currently racing for",
+                "rephrased_3": "The team Lewis Hamilton is currently racing for in Formula 1 is"
+            },
+            "answers": [
+                "McLaren |S: +2007-00-00T00:00:00Z |E: +2012-00-00T00:00:00Z",
+                "Mercedes F1 Team |S: +2013-00-00T00:00:00Z"
+            ]
+        },
+        "Sergio P\u00e9rez": {
+            "questions": {
+                "generic": "The current team of Sergio P\u00e9rez is",
+                "rephrased_1": "The Formula 1 team Sergio P\u00e9rez currently drives for is",
+                "rephrased_2": "Sergio P\u00e9rez is currently racing for",
+                "rephrased_3": "The team Sergio P\u00e9rez is currently racing for in Formula 1 is"
+            },
+            "answers": [
+                "Racing Point F1 Team |S: +2019-00-00T00:00:00Z |E: +2020-00-00T00:00:00Z",
+                "Red Bull Racing |S: +2021-00-00T00:00:00Z"
+            ]
+        },
+        "Charles Leclerc": {
+            "questions": {
+                "generic": "The current team of Charles Leclerc is",
+                "rephrased_1": "The Formula 1 team Charles Leclerc currently drives for is",
+                "rephrased_2": "Charles Leclerc is currently racing for",
+                "rephrased_3": "The team Charles Leclerc is currently racing for in Formula 1 is"
+            },
+            "answers": [
+                "Sauber |S: +2018-00-00T00:00:00Z |E: +2019-00-00T00:00:00Z",
+                "Scuderia Ferrari |S: +2019-00-00T00:00:00Z"
+            ]
+        },
+        "Carlos Sainz Jr.": {
+            "questions": {
+                "generic": "The current team of Carlos Sainz Jr. is",
+                "rephrased_1": "The Formula 1 team Carlos Sainz Jr. currently drives for is",
+                "rephrased_2": "Carlos Sainz Jr. is currently racing for",
+                "rephrased_3": "The team Carlos Sainz Jr. is currently racing for in Formula 1 is"
+            },
+            "answers": [
+                "McLaren |S: +2019-00-00T00:00:00Z |E: +2020-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2017-00-00T00:00:00Z |E: +2018-00-00T00:00:00Z",
+                "Scuderia Toro Rosso |S: +2015-00-00T00:00:00Z |E: +2017-00-00T00:00:00Z",
+                "Scuderia Ferrari |S: +2021-00-00T00:00:00Z"
+            ]
+        },
+        "George Russell": {
+            "questions": {
+                "generic": "The current team of George Russell is",
+                "rephrased_1": "The Formula 1 team George Russell currently drives for is",
+                "rephrased_2": "George Russell is currently racing for",
+                "rephrased_3": "The team George Russell is currently racing for in Formula 1 is"
+            },
+            "answers": [
+                "Williams Racing |S: +2018-00-00T00:00:00Z |E: +2021-00-00T00:00:00Z",
+                "Mercedes F1 Team |S: +2022-00-00T00:00:00Z"
+            ]
+        },
+        "Pierre Gasly": {
+            "questions": {
+                "generic": "The current team of Pierre Gasly is",
+                "rephrased_1": "The Formula 1 team Pierre Gasly currently drives for is",
+                "rephrased_2": "Pierre Gasly is currently racing for",
+                "rephrased_3": "The team Pierre Gasly is currently racing for in Formula 1 is"
+            },
+            "answers": [
+                "Red Bull Racing |S: +2019-00-00T00:00:00Z |E: +2019-08-12T00:00:00Z",
+                "Scuderia Toro Rosso |S: +2017-00-00T00:00:00Z |E: +2018-00-00T00:00:00Z",
+                "Scuderia Toro Rosso |S: +2019-08-12T00:00:00Z |E: +2023-00-00T00:00:00Z",
+                "Alpine F1 Team |S: +2023-00-00T00:00:00Z"
+            ]
+        }
+    },
+    "organizations": {
+        "North Atlantic Treaty Organization": {
+            "general secretary": {
+                "questions": {
+                    "generic": "The general secretary of North Atlantic Treaty Organization is",
+                    "rephrased_1": "The position of general secretary at North Atlantic Treaty Organization is currently held by",
+                    "rephrased_2": "The general secretary position at North Atlantic Treaty Organization is currently held by",
+                    "rephrased_3": "The name of the current general secretary at North Atlantic Treaty Organization is"
+                },
+                "answers": [
+                    "Jens Stoltenberg |S: +2014-10-01T00:00:00Z |E: +2024-10-01T00:00:00Z",
+                    "Anders Fogh Rasmussen |S: +2009-08-01T00:00:00Z |E: +2014-09-30T00:00:00Z",
+                    "Jaap de Hoop Scheffer |S: +2004-01-01T00:00:00Z |E: +2009-07-31T00:00:00Z",
+                    "Alessandro Minuto-Rizzo |S: +2003-12-17T00:00:00Z |E: +2003-12-31T00:00:00Z",
+                    "George Robertson, Baron Robertson of Port Ellen |S: +1999-10-14T00:00:00Z |E: +2003-12-17T00:00:00Z",
+                    "Javier Solana |S: +1995-12-05T00:00:00Z |E: +1999-10-06T00:00:00Z",
+                    "Sergio Balanzino |S: +1995-10-20T00:00:00Z |E: +1995-12-05T00:00:00Z",
+                    "Willy Claes |S: +1994-10-17T00:00:00Z |E: +1995-10-20T00:00:00Z",
+                    "Sergio Balanzino |S: +1994-08-13T00:00:00Z |E: +1994-10-17T00:00:00Z",
+                    "Manfred W\u00f6rner |S: +1988-07-01T00:00:00Z |E: +1994-08-13T00:00:00Z",
+                    "Peter Carington, 6th Baron Carrington |S: +1984-06-25T00:00:00Z |E: +1988-07-01T00:00:00Z",
+                    "Joseph Luns |S: +1971-10-01T00:00:00Z |E: +1984-06-25T00:00:00Z",
+                    "Manlio Brosio |S: +1964-08-01T00:00:00Z |E: +1971-10-01T00:00:00Z",
+                    "Dirk Stikker |S: +1961-04-21T00:00:00Z |E: +1964-08-01T00:00:00Z",
+                    "Paul-Henri Spaak |S: +1957-05-16T00:00:00Z |E: +1961-04-21T00:00:00Z",
+                    "Hastings Ismay, 1st Baron Ismay |S: +1952-04-04T00:00:00Z |E: +1957-05-16T00:00:00Z",
+                    "Mark Rutte |S: +2024-10-01T00:00:00Z"
+                ]
+            },
+            "headquarters location": {
+                "questions": {
+                    "generic": "The headquarters location of North Atlantic Treaty Organization is",
+                    "rephrased_1": "The current central location of North Atlantic Treaty Organization is",
+                    "rephrased_2": "The current main office location of North Atlantic Treaty Organization is",
+                    "rephrased_3": "The head office of North Atlantic Treaty Organization is currently located in"
+                },
+                "answers": [
+                    "City of Brussels |S: +1967-10-16T00:00:00Z |E: +2017-05-25T00:00:00Z",
+                    "16th arrondissement of Paris |S: +1959-12-16T00:00:00Z |E: +1967-00-00T00:00:00Z",
+                    "London |S: +1950-00-00T00:00:00Z |E: +1952-04-15T00:00:00Z",
+                    "Palais de Chaillot |S: +1952-04-16T00:00:00Z |E: +1959-12-15T00:00:00Z",
+                    "City of Brussels |S: +2017-05-25T00:00:00Z"
+                ]
+            }
+        },
+        "International Olympic Committee": {
+            "chairperson": {
+                "questions": {
+                    "generic": "The chairperson of International Olympic Committee is",
+                    "rephrased_1": "The position of chairperson at International Olympic Committee is currently held by",
+                    "rephrased_2": "The chairperson position at International Olympic Committee is currently held by",
+                    "rephrased_3": "The name of the current chairperson at International Olympic Committee is"
+                },
+                "answers": [
+                    "Dimitrios Vikelas |S: +1894-00-00T00:00:00Z |E: +1896-00-00T00:00:00Z",
+                    "Pierre de Coubertin |S: +1896-00-00T00:00:00Z |E: +1916-00-00T00:00:00Z",
+                    "Godefroy de Blonay |S: +1916-00-00T00:00:00Z |E: +1919-00-00T00:00:00Z",
+                    "Pierre de Coubertin |S: +1919-00-00T00:00:00Z |E: +1925-00-00T00:00:00Z",
+                    "Henri de Baillet-Latour |S: +1925-00-00T00:00:00Z |E: +1942-00-00T00:00:00Z",
+                    "Sigfrid Edstr\u00f6m |S: +1942-00-00T00:00:00Z |E: +1946-00-00T00:00:00Z",
+                    "Sigfrid Edstr\u00f6m |S: +1946-00-00T00:00:00Z |E: +1952-00-00T00:00:00Z",
+                    "Avery Brundage |S: +1952-00-00T00:00:00Z |E: +1972-00-00T00:00:00Z",
+                    "Michael Morris, 3rd Baron Killanin |S: +1972-00-00T00:00:00Z |E: +1980-00-00T00:00:00Z",
+                    "Juan Antonio Samaranch |S: +1980-00-00T00:00:00Z |E: +2001-00-00T00:00:00Z",
+                    "Jacques Rogge |S: +2001-00-00T00:00:00Z |E: +2013-00-00T00:00:00Z",
+                    "Thomas Bach |S: +2013-09-10T00:00:00Z"
+                ]
+            }
+        }
+    }
+}

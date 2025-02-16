@@ -1,0 +1,81 @@
+{
+    "companies_byRevenue": {},
+    "countries_byGDP": {
+        "France": {
+            "Prime Minister of France": {
+                "answers": [
+                    "Manuel Valls |S: +2014-03-31T00:00:00Z |E: +2016-12-06T00:00:00Z",
+                    "Jean-Marc Ayrault |S: +2012-05-16T00:00:00Z |E: +2014-03-31T00:00:00Z",
+                    "Bernard Cazeneuve |S: +2016-12-06T00:00:00Z |E: +2017-05-10T00:00:00Z",
+                    "\u00c9douard Philippe |S: +2017-05-15T00:00:00Z |E: +2020-07-02T00:00:00Z",
+                    "Fran\u00e7ois Fillon |S: +2007-05-17T00:00:00Z |E: +2012-05-10T00:00:00Z",
+                    "Jean Castex |S: +2020-07-03T00:00:00Z |E: +2022-05-16T00:00:00Z",
+                    "\u00c9lisabeth Borne |S: +2022-05-16T00:00:00Z |E: +2024-01-09T00:00:00Z",
+                    "Gabriel Attal |S: +2024-01-09T00:00:00Z |E: +2024-09-05T00:00:00Z",
+                    "Michel Barnier |S: +2024-09-05T00:00:00Z |E: +2024-12-13T00:00:00Z",
+                    "Fran\u00e7ois Bayrou |S: +2024-12-13T00:00:00Z"
+                ],
+                "ground_truth": "Michel Barnier",
+                "ranking_qa": {
+                    "generic": "The prime ministers of France on 7 August 2018 and 8 November 2024 were \u00c9douard Philippe and Michel Barnier, so who was the latter prime minister?",
+                    "rephrased_1": "The prime ministers of France on 7 August 2018 and 8 November 2024 were \u00c9douard Philippe and Michel Barnier, so who was the latter prime minister?",
+                    "rephrased_2": "\u00c9douard Philippe and Michel Barnier served as the prime ministers of France on 7 August 2018 and 8 November 2024, respectively. Can you identify which one the latter prime minister was?",
+                    "rephrased_3": "On 7 August 2018, \u00c9douard Philippe was the prime minister of France, while Michel Barnier held the position on 8 November 2024. Which of them served as the latter prime minister?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 7 August 2018, \u00c9douard Philippe was the prime minister of France. So, who held this position 2285 days later?",
+                    "rephrased_1": "On 7 August 2018, \u00c9douard Philippe was the prime minister of France. So, who held this position 2285 days later?",
+                    "rephrased_2": "\u00c9douard Philippe was France's prime minister on 7 August 2018. Do you know who was in this role after 2285 days?",
+                    "rephrased_3": "\u00c9douard Philippe served as the prime minister of France on 7 August 2018. Can you identify who occupied this position after 2285 days?"
+                }
+            }
+        }
+    },
+    "athletes_byPayment": {
+        "Lewis Hamilton": {
+            "answers": [
+                "McLaren |S: +2007-00-00T00:00:00Z |E: +2012-00-00T00:00:00Z",
+                "Mercedes F1 Team |S: +2013-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Mercedes F1 Team",
+            "ranking_qa": {
+                "generic": "The Formula 1 teams of Lewis Hamilton on 28 July 2010 and 24 September 2024 were McLaren and Mercedes F1 Team, so which team was the latter one Lewis Hamilton drove for?",
+                "rephrased_1": "The Formula 1 teams of Lewis Hamilton on 28 July 2010 and 24 September 2024 were McLaren and Mercedes F1 Team, so which team was the latter one Lewis Hamilton drove for?",
+                "rephrased_2": "McLaren and Mercedes F1 Team were Lewis Hamilton's Formula 1 teams on 28 July 2010 and 24 September 2024, respectively. Can you identify which team was the latter one Lewis Hamilton drove for?",
+                "rephrased_3": "On 28 July 2010, Lewis Hamilton drove for McLaren, while Lewis Hamilton drove for Mercedes F1 Team on 24 September 2024. Which team did Lewis Hamilton latterly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 28 July 2010, Lewis Hamilton drove for McLaren. So, after 5172 days, which Formula 1 team did Lewis Hamilton drive for?",
+                "rephrased_1": "On 28 July 2010, Lewis Hamilton drove for McLaren. So, after 5172 days, which Formula 1 team did Lewis Hamilton drive for?",
+                "rephrased_2": "McLaren was Lewis Hamilton's Formula 1 team on 28 July 2010. Can you identify which Formula 1 team Lewis Hamilton belongs to after 5172 days?",
+                "rephrased_3": "Lewis Hamilton drove for McLaren on 28 July 2010. Do you know which Formula 1 team Lewis Hamilton drove for after 5172 days?"
+            }
+        },
+        "Fernando Alonso": {
+            "answers": [
+                "Renault F1 Team |S: +2002-00-00T00:00:00Z |E: +2006-00-00T00:00:00Z",
+                "McLaren |S: +2007-00-00T00:00:00Z |E: +2007-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2008-00-00T00:00:00Z |E: +2009-00-00T00:00:00Z",
+                "Scuderia Ferrari |S: +2010-00-00T00:00:00Z |E: +2014-00-00T00:00:00Z",
+                "McLaren |S: +2015-00-00T00:00:00Z |E: +2018-00-00T00:00:00Z",
+                "Minardi |S: +2001-00-00T00:00:00Z |E: +2001-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2021-00-00T00:00:00Z |E: +2022-00-00T00:00:00Z",
+                "Aston Martin F1 Team |S: +2023-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Scuderia Ferrari",
+            "ranking_qa": {
+                "generic": "The Formula 1 teams of Fernando Alonso on 10 October 2012 and 11 October 2015 were Scuderia Ferrari and McLaren, so which team was the former one Fernando Alonso drove for?",
+                "rephrased_1": "The Formula 1 teams of Fernando Alonso on 10 October 2012 and 11 October 2015 were Scuderia Ferrari and McLaren, so which team was the former one Fernando Alonso drove for?",
+                "rephrased_2": "Scuderia Ferrari and McLaren were Fernando Alonso's Formula 1 teams on 10 October 2012 and 11 October 2015, respectively. Can you identify which team was the former one Fernando Alonso drove for?",
+                "rephrased_3": "On 10 October 2012, Fernando Alonso drove for Scuderia Ferrari, while Fernando Alonso drove for McLaren on 11 October 2015. Which team did Fernando Alonso formerly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 11 October 2015, Fernando Alonso drove for McLaren. So, before 1096 days, which Formula 1 team did Fernando Alonso drive for?",
+                "rephrased_1": "On 11 October 2015, Fernando Alonso drove for McLaren. So, before 1096 days, which Formula 1 team did Fernando Alonso drive for?",
+                "rephrased_2": "McLaren was Fernando Alonso's Formula 1 team on 11 October 2015. Can you identify which Formula 1 team Fernando Alonso belongs to before 1096 days?",
+                "rephrased_3": "Fernando Alonso drove for McLaren on 11 October 2015. Do you know which Formula 1 team Fernando Alonso drove for before 1096 days?"
+            }
+        }
+    },
+    "organizations": {}
+}

@@ -1,0 +1,916 @@
+{
+    "companies_byRevenue": {
+        "Alphabet Inc.": {
+            "questions": {
+                "generic": "What is the name of the Chief Executive Officer of Alphabet Inc. from 10 August 2015 to 3 December 2019?",
+                "rephrased_1": "What is the name of the Chief Executive Officer of Alphabet Inc. from 10 August 2015 to 3 December 2019?",
+                "rephrased_2": "Who served as the Chief Executive Officer of the Alphabet Inc. from 10 August 2015 to 3 December 2019?",
+                "rephrased_3": "From 10 August 2015 to 3 December 2019, who was the Chief Executive Officer of the Alphabet Inc.?"
+            },
+            "answers": [
+                "Larry Page |S: +2015-08-10T00:00:00Z |E: +2019-12-03T00:00:00Z",
+                "Sundar Pichai |S: +2019-12-03T00:00:00Z"
+            ],
+            "ground_truth": "Larry Page"
+        },
+        "C. & J. Clark International Ltd": {
+            "questions": {
+                "generic": "What is the name of the Chief Executive Officer of C. & J. Clark International Ltd from 11 March 2019 to 1 April 2022?",
+                "rephrased_1": "What is the name of the Chief Executive Officer of C. & J. Clark International Ltd from 11 March 2019 to 1 April 2022?",
+                "rephrased_2": "Who served as the Chief Executive Officer of the C. & J. Clark International Ltd from 11 March 2019 to 1 April 2022?",
+                "rephrased_3": "From 11 March 2019 to 1 April 2022, who was the Chief Executive Officer of the C. & J. Clark International Ltd?"
+            },
+            "answers": [
+                "Tim Parker |S: +1996-01-01T00:00:00Z |E: +2002-01-01T00:00:00Z",
+                "William Clark |S: +1863-01-01T00:00:00Z |E: +1889-01-01T00:00:00Z",
+                "Daniel Clark |S: +1973-01-01T00:00:00Z |E: +1986-01-01T00:00:00Z",
+                "Francis Clark |S: +1889-01-01T00:00:00Z |E: +1942-01-01T00:00:00Z",
+                "Mike Shearwood |S: +2017-01-01T00:00:00Z |E: +2018-06-01T00:00:00Z",
+                "Melissa Potter |S: +2010-01-01T00:00:00Z |E: +2015-09-01T00:00:00Z",
+                "Peter Bolliger |S: +2002-01-01T00:00:00Z |E: +2010-01-01T00:00:00Z",
+                "Giorgio Presca |S: +2019-03-11T00:00:00Z |E: +2022-04-01T00:00:00Z",
+                "Stella David |S: +2018-06-01T00:00:00Z |E: +2019-02-01T00:00:00Z",
+                "John Clothier |S: +1986-01-01T00:00:00Z |E: +1996-01-01T00:00:00Z",
+                "Bancroft Clark |S: +1942-01-01T00:00:00Z |E: +1967-01-01T00:00:00Z",
+                "Peter Clothier |S: +1967-01-01T00:00:00Z |E: +1973-01-01T00:00:00Z",
+                "Jonathan Ram |S: +2022-04-01T00:00:00Z"
+            ],
+            "ground_truth": "Giorgio Presca"
+        },
+        "Walmart": {
+            "questions": {
+                "generic": "What is the name of the Chief Executive Officer of Walmart from 1 January 2000 to 1 January 2009?",
+                "rephrased_1": "What is the name of the Chief Executive Officer of Walmart from 1 January 2000 to 1 January 2009?",
+                "rephrased_2": "Who served as the Chief Executive Officer of the Walmart from 1 January 2000 to 1 January 2009?",
+                "rephrased_3": "From 1 January 2000 to 1 January 2009, who was the Chief Executive Officer of the Walmart?"
+            },
+            "answers": [
+                "Doug McMillon |S: +2014-00-00T00:00:00Z",
+                "Mike Duke |S: +2009-00-00T00:00:00Z |E: +2014-00-00T00:00:00Z",
+                "Lee Scott |S: +2000-00-00T00:00:00Z |E: +2009-00-00T00:00:00Z",
+                "David Glass |S: +1988-00-00T00:00:00Z |E: +2000-00-00T00:00:00Z",
+                "Sam Walton |S: +1950-00-00T00:00:00Z |E: +1988-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Lee Scott"
+        },
+        "Apple": {
+            "questions": {
+                "generic": "What is the name of the Chief Executive Officer of Apple from 1 January 1996 to 1 January 1997?",
+                "rephrased_1": "What is the name of the Chief Executive Officer of Apple from 1 January 1996 to 1 January 1997?",
+                "rephrased_2": "Who served as the Chief Executive Officer of the Apple from 1 January 1996 to 1 January 1997?",
+                "rephrased_3": "From 1 January 1996 to 1 January 1997, who was the Chief Executive Officer of the Apple?"
+            },
+            "answers": [
+                "Michael Scott |S: +1977-01-01T00:00:00Z |E: +1981-01-01T00:00:00Z",
+                "Mike Markkula |S: +1981-01-01T00:00:00Z |E: +1983-01-01T00:00:00Z",
+                "John Sculley |S: +1983-01-01T00:00:00Z |E: +1993-01-01T00:00:00Z",
+                "Michael Spindler |S: +1993-01-01T00:00:00Z |E: +1996-01-01T00:00:00Z",
+                "Gil Amelio |S: +1996-01-01T00:00:00Z |E: +1997-01-01T00:00:00Z",
+                "Steve Jobs |S: +1997-09-01T00:00:00Z |E: +2011-08-23T00:00:00Z",
+                "Tim Cook |S: +2011-08-24T00:00:00Z"
+            ],
+            "ground_truth": "Gil Amelio"
+        },
+        "TotalEnergies": {
+            "questions": {
+                "generic": "What is the name of the Chief Executive Officer of TotalEnergies from 1 January 1995 to 1 January 2007?",
+                "rephrased_1": "What is the name of the Chief Executive Officer of TotalEnergies from 1 January 1995 to 1 January 2007?",
+                "rephrased_2": "Who served as the Chief Executive Officer of the TotalEnergies from 1 January 1995 to 1 January 2007?",
+                "rephrased_3": "From 1 January 1995 to 1 January 2007, who was the Chief Executive Officer of the TotalEnergies?"
+            },
+            "answers": [
+                "Christophe de Margerie |S: +2007-02-01T00:00:00Z |E: +2014-10-20T00:00:00Z",
+                "Thierry Desmarest |S: +1995-00-00T00:00:00Z |E: +2007-00-00T00:00:00Z",
+                "Serge Tchuruk |S: +1990-00-00T00:00:00Z |E: +1995-00-00T00:00:00Z",
+                "Fran\u00e7ois-Xavier Ortoli |S: +1984-00-00T00:00:00Z |E: +1990-00-00T00:00:00Z",
+                "Ren\u00e9 Granier de Lilliac |S: +1971-00-00T00:00:00Z |E: +1984-00-00T00:00:00Z",
+                "Victor de Metz |S: +1945-00-00T00:00:00Z |E: +1971-00-00T00:00:00Z",
+                "Jules M\u00e9ny |S: +1928-00-00T00:00:00Z |E: +1943-00-00T00:00:00Z",
+                "Anas Farouki |S: +1924-00-00T00:00:00Z |E: +1928-00-00T00:00:00Z",
+                "Patrick Pouyann\u00e9 |S: +2014-10-00T00:00:00Z",
+                "Marcel Champin |S: +1943-00-00T00:00:00Z |E: +1945-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Thierry Desmarest"
+        }
+    },
+    "countries_byGDP": {
+        "Russia": {
+            "Prime Minister of Russia": {
+                "questions": {
+                    "generic": "What is the name of the prime minister of Russia from 8 May 2012 to 16 January 2020?",
+                    "rephrased_1": "What is the name of the prime minister of Russia from 8 May 2012 to 16 January 2020?",
+                    "rephrased_2": "Who served as the prime minister of Russia from 8 May 2012 to 16 January 2020?",
+                    "rephrased_3": "From 8 May 2012 to 16 January 2020, who was the prime minister of Russia?"
+                },
+                "answers": [
+                    "Boris Yeltsin |S: +1991-11-06T00:00:00Z |E: +1992-06-15T00:00:00Z",
+                    "Yegor Gaidar |S: +1992-06-15T00:00:00Z |E: +1992-12-15T00:00:00Z",
+                    "Viktor Chernomyrdin |S: +1992-12-14T00:00:00Z |E: +1998-03-23T00:00:00Z",
+                    "Sergey Kiriyenko |S: +1998-03-23T00:00:00Z |E: +1998-08-23T00:00:00Z",
+                    "Viktor Chernomyrdin |S: +1998-08-23T00:00:00Z |E: +1998-09-11T00:00:00Z",
+                    "Yevgeny Primakov |S: +1998-09-11T00:00:00Z |E: +1999-05-12T00:00:00Z",
+                    "Sergei Stepashin |S: +1999-05-12T00:00:00Z |E: +1999-08-09T00:00:00Z",
+                    "Vladimir Putin |S: +1999-08-09T00:00:00Z |E: +2000-05-07T00:00:00Z",
+                    "Mikhail Kasyanov |S: +2000-05-07T00:00:00Z |E: +2004-02-24T00:00:00Z",
+                    "Viktor Khristenko |S: +2004-02-24T00:00:00Z |E: +2004-03-05T00:00:00Z",
+                    "Mikhail Fradkov |S: +2004-03-05T00:00:00Z |E: +2007-09-14T00:00:00Z",
+                    "Victor Zubkov |S: +2007-09-14T00:00:00Z |E: +2008-05-08T00:00:00Z",
+                    "Vladimir Putin |S: +2008-05-08T00:00:00Z |E: +2012-05-07T00:00:00Z",
+                    "Victor Zubkov |S: +2012-05-07T00:00:00Z |E: +2012-05-08T00:00:00Z",
+                    "Dmitry Medvedev |S: +2012-05-08T00:00:00Z |E: +2020-01-16T00:00:00Z",
+                    "Mikhail Mishustin |S: +2020-01-16T00:00:00Z"
+                ],
+                "ground_truth": "Dmitry Medvedev"
+            }
+        },
+        "Australia": {
+            "monarch of Australia": {
+                "questions": {
+                    "generic": "What is the name of the monarch of Australia from 29 July 1982 to 15 February 1989?",
+                    "rephrased_1": "What is the name of the monarch of Australia from 29 July 1982 to 15 February 1989?",
+                    "rephrased_2": "Who served as the monarch of Australia from 29 July 1982 to 15 February 1989?",
+                    "rephrased_3": "From 29 July 1982 to 15 February 1989, who was the monarch of Australia?"
+                },
+                "answers": [
+                    "Elizabeth II |S: +1952-02-06T00:00:00Z |E: +2022-09-08T00:00:00Z",
+                    "Quentin Bryce |S: +2008-09-05T00:00:00Z |E: +2014-03-27T00:00:00Z",
+                    "Michael Jeffery |S: +2003-08-11T00:00:00Z |E: +2008-09-04T00:00:00Z",
+                    "Peter Hollingworth |S: +2001-06-29T00:00:00Z |E: +2003-05-29T00:00:00Z",
+                    "William Deane |S: +1996-02-16T00:00:00Z |E: +2001-06-28T00:00:00Z",
+                    "Bill Hayden |S: +1989-02-16T00:00:00Z |E: +1996-02-15T00:00:00Z",
+                    "Ninian Stephen |S: +1982-07-29T00:00:00Z |E: +1989-02-15T00:00:00Z",
+                    "Zelman Cowen |S: +1977-12-08T00:00:00Z |E: +1982-07-28T00:00:00Z",
+                    "John Kerr |S: +1974-07-11T00:00:00Z |E: +1977-12-07T00:00:00Z",
+                    "Paul Hasluck |S: +1969-04-30T00:00:00Z |E: +1974-07-10T00:00:00Z",
+                    "Richard Casey, Baron Casey |S: +1965-05-07T00:00:00Z |E: +1969-04-29T00:00:00Z",
+                    "William Sidney, 1st Viscount De L'Isle |S: +1961-08-03T00:00:00Z |E: +1965-05-06T00:00:00Z",
+                    "William Morrison, 1st Viscount Dunrossil |S: +1960-02-02T00:00:00Z |E: +1961-08-02T00:00:00Z",
+                    "William Slim, 1st Viscount Slim |S: +1953-05-08T00:00:00Z |E: +1960-02-01T00:00:00Z",
+                    "Bill McKell |S: +1947-03-11T00:00:00Z |E: +1953-05-07T00:00:00Z",
+                    "Charles III of the United Kingdom |S: +2022-09-08T00:00:00Z"
+                ],
+                "ground_truth": "Ninian Stephen"
+            }
+        },
+        "Norway": {
+            "Monarch of Norway": {
+                "questions": {
+                    "generic": "What is the name of the monarch of Norway from 21 September 1957 to 17 January 1991?",
+                    "rephrased_1": "What is the name of the monarch of Norway from 21 September 1957 to 17 January 1991?",
+                    "rephrased_2": "Who served as the monarch of Norway from 21 September 1957 to 17 January 1991?",
+                    "rephrased_3": "From 21 September 1957 to 17 January 1991, who was the monarch of Norway?"
+                },
+                "answers": [
+                    "Harald V of Norway |S: +1991-01-17T00:00:00Z",
+                    "Olav V of Norway |S: +1957-09-21T00:00:00Z |E: +1991-01-17T00:00:00Z",
+                    "Haakon VII of Norway |S: +1905-11-18T00:00:00Z |E: +1957-09-21T00:00:00Z"
+                ],
+                "ground_truth": "Olav V of Norway"
+            }
+        },
+        "Israel": {
+            "Prime Minister of Israel": {
+                "questions": {
+                    "generic": "What is the name of the prime minister of Israel from 6 July 1999 to 7 March 2001?",
+                    "rephrased_1": "What is the name of the prime minister of Israel from 6 July 1999 to 7 March 2001?",
+                    "rephrased_2": "Who served as the prime minister of Israel from 6 July 1999 to 7 March 2001?",
+                    "rephrased_3": "From 6 July 1999 to 7 March 2001, who was the prime minister of Israel?"
+                },
+                "answers": [
+                    "Benjamin Netanyahu |S: +2009-03-31T00:00:00Z |E: +2021-06-13T00:00:00Z",
+                    "David Ben-Gurion |S: +1948-05-17T00:00:00Z |E: +1954-01-26T00:00:00Z",
+                    "Moshe Sharett |S: +1954-01-26T00:00:00Z |E: +1955-11-03T00:00:00Z",
+                    "David Ben-Gurion |S: +1955-11-03T00:00:00Z |E: +1963-06-26T00:00:00Z",
+                    "Levi Eshkol |S: +1963-06-26T00:00:00Z |E: +1969-02-26T00:00:00Z",
+                    "Golda Meir |S: +1969-03-17T00:00:00Z |E: +1974-06-03T00:00:00Z",
+                    "Yizhak Rabin |S: +1974-06-03T00:00:00Z |E: +1977-06-20T00:00:00Z",
+                    "Menachem Begin |S: +1977-06-20T00:00:00Z |E: +1983-10-10T00:00:00Z",
+                    "Yitzhak Shamir |S: +1986-10-20T00:00:00Z |E: +1992-07-13T00:00:00Z",
+                    "Shimon Peres |S: +1984-09-13T00:00:00Z |E: +1986-10-20T00:00:00Z",
+                    "Yitzhak Shamir |S: +1986-10-20T00:00:00Z |E: +1992-07-13T00:00:00Z",
+                    "Yizhak Rabin |S: +1992-07-13T00:00:00Z |E: +1995-11-04T00:00:00Z",
+                    "Shimon Peres |S: +1995-11-04T00:00:00Z |E: +1996-06-18T00:00:00Z",
+                    "Benjamin Netanyahu |S: +1996-06-18T00:00:00Z |E: +1999-07-06T00:00:00Z",
+                    "Ehud Barak |S: +1999-07-06T00:00:00Z |E: +2001-03-07T00:00:00Z",
+                    "Ariel Sharon |S: +2001-03-07T00:00:00Z |E: +2006-04-14T00:00:00Z",
+                    "Ehud Olmert |S: +2006-04-14T00:00:00Z |E: +2009-03-31T00:00:00Z",
+                    "Naftali Bennett |S: +2021-06-13T00:00:00Z |E: +2022-07-01T00:00:00Z",
+                    "Yair Lapid |S: +2022-07-01T00:00:00Z |E: +2022-12-29T00:00:00Z",
+                    "Benjamin Netanyahu |S: +2022-12-29T00:00:00Z"
+                ],
+                "ground_truth": "Ehud Barak"
+            }
+        },
+        "Thailand": {
+            "Prime Minister of Thailand": {
+                "questions": {
+                    "generic": "What is the name of the prime minister of Thailand from 22 August 2023 to 14 August 2024?",
+                    "rephrased_1": "What is the name of the prime minister of Thailand from 22 August 2023 to 14 August 2024?",
+                    "rephrased_2": "Who served as the prime minister of Thailand from 22 August 2023 to 14 August 2024?",
+                    "rephrased_3": "From 22 August 2023 to 14 August 2024, who was the prime minister of Thailand?"
+                },
+                "answers": [
+                    "Niwatthamrong Boonsongpaisan |S: +2014-05-07T00:00:00Z |E: +2014-05-22T00:00:00Z",
+                    "Prayut Chan-o-cha |S: +2014-05-22T00:00:00Z |E: +2023-08-22T00:00:00Z",
+                    "Srettha Thavisin |S: +2023-08-22T00:00:00Z |E: +2024-08-14T00:00:00Z",
+                    "Paetongtarn Shinawatra |S: +2024-08-14T00:00:00Z"
+                ],
+                "ground_truth": "Srettha Thavisin"
+            }
+        },
+        "Pakistan": {
+            "President of Pakistan": {
+                "questions": {
+                    "generic": "What is the name of the president of Pakistan from 1 January 2013 to 1 January 2018?",
+                    "rephrased_1": "What is the name of the president of Pakistan from 1 January 2013 to 1 January 2018?",
+                    "rephrased_2": "Who served as the president of Pakistan from 1 January 2013 to 1 January 2018?",
+                    "rephrased_3": "From 1 January 2013 to 1 January 2018, who was the president of Pakistan?"
+                },
+                "answers": [
+                    "Arif Alvi |S: +2018-09-09T00:00:00Z |E: +2024-03-10T00:00:00Z",
+                    "Mamnoon Hussain |S: +2013-00-00T00:00:00Z |E: +2018-00-00T00:00:00Z",
+                    "Asif Ali Zardari |S: +2024-03-10T00:00:00Z"
+                ],
+                "ground_truth": "Mamnoon Hussain"
+            }
+        },
+        "Czech Republic": {
+            "Prime Minister of the Czech Republic": {
+                "questions": {
+                    "generic": "What is the name of the prime minister of the Czech Republic from 16 August 2006 to 8 May 2009?",
+                    "rephrased_1": "What is the name of the prime minister of the Czech Republic from 16 August 2006 to 8 May 2009?",
+                    "rephrased_2": "Who served as the prime minister of the Czech Republic from 16 August 2006 to 8 May 2009?",
+                    "rephrased_3": "From 16 August 2006 to 8 May 2009, who was the prime minister of the Czech Republic?"
+                },
+                "answers": [
+                    "Petr Fiala |S: +2021-11-28T00:00:00Z",
+                    "Andrej Babi\u0161 |S: +2017-12-06T00:00:00Z |E: +2021-11-28T00:00:00Z",
+                    "Bohuslav Sobotka |S: +2014-01-29T00:00:00Z |E: +2017-12-13T00:00:00Z",
+                    "Ji\u0159\u00ed Rusnok |S: +2013-06-25T00:00:00Z |E: +2014-01-29T00:00:00Z",
+                    "Petr Ne\u010das |S: +2010-06-28T00:00:00Z |E: +2013-07-10T00:00:00Z",
+                    "Jan Fischer |S: +2009-04-09T00:00:00Z |E: +2010-07-10T00:00:00Z",
+                    "Mirek Topol\u00e1nek |S: +2006-08-16T00:00:00Z |E: +2009-05-08T00:00:00Z",
+                    "Ji\u0159\u00ed Paroubek |S: +2005-04-25T00:00:00Z |E: +2006-09-04T00:00:00Z",
+                    "Stanislav Gross |S: +2004-08-04T00:00:00Z |E: +2005-04-25T00:00:00Z",
+                    "Vladim\u00edr \u0160pidla |S: +2002-07-15T00:00:00Z |E: +2004-08-04T00:00:00Z",
+                    "Milo\u0161 Zeman |S: +1998-07-17T00:00:00Z |E: +2002-07-15T00:00:00Z",
+                    "Josef To\u0161ovsk\u00fd |S: +1997-12-17T00:00:00Z |E: +1998-07-22T00:00:00Z",
+                    "V\u00e1clav Klaus |S: +1993-01-01T00:00:00Z |E: +1998-01-02T00:00:00Z"
+                ],
+                "ground_truth": "Mirek Topol\u00e1nek"
+            }
+        },
+        "Finland": {
+            "Prime Minister of Finland": {
+                "questions": {
+                    "generic": "What is the name of the prime minister of Finland from 24 June 2014 to 28 May 2015?",
+                    "rephrased_1": "What is the name of the prime minister of Finland from 24 June 2014 to 28 May 2015?",
+                    "rephrased_2": "Who served as the prime minister of Finland from 24 June 2014 to 28 May 2015?",
+                    "rephrased_3": "From 24 June 2014 to 28 May 2015, who was the prime minister of Finland?"
+                },
+                "answers": [
+                    "Alexander Stubb |S: +2014-06-24T00:00:00Z |E: +2015-05-28T00:00:00Z",
+                    "Juha Sipil\u00e4 |S: +2015-05-29T00:00:00Z |E: +2019-06-06T00:00:00Z",
+                    "Antti Rinne |S: +2019-06-06T00:00:00Z |E: +2019-12-10T00:00:00Z",
+                    "Sanna Marin |S: +2019-12-10T00:00:00Z |E: +2023-06-20T00:00:00Z",
+                    "Petteri Orpo |S: +2023-06-20T00:00:00Z"
+                ],
+                "ground_truth": "Alexander Stubb"
+            }
+        },
+        "Iraq": {
+            "Prime Minister of Iraq": {
+                "questions": {
+                    "generic": "What is the name of the prime minister of Iraq from 7 May 2020 to 27 October 2022?",
+                    "rephrased_1": "What is the name of the prime minister of Iraq from 7 May 2020 to 27 October 2022?",
+                    "rephrased_2": "Who served as the prime minister of Iraq from 7 May 2020 to 27 October 2022?",
+                    "rephrased_3": "From 7 May 2020 to 27 October 2022, who was the prime minister of Iraq?"
+                },
+                "answers": [
+                    "Mustafa Al-Kadhimi |S: +2020-05-07T00:00:00Z |E: +2022-10-27T00:00:00Z",
+                    "Mohammed Shia' Al Sudani |S: +2022-10-27T00:00:00Z"
+                ],
+                "ground_truth": "Mustafa Al-Kadhimi"
+            }
+        },
+        "Portugal": {
+            "President of Portugal": {
+                "questions": {
+                    "generic": "What is the name of the president of Portugal from 9 March 1996 to 9 March 2006?",
+                    "rephrased_1": "What is the name of the president of Portugal from 9 March 1996 to 9 March 2006?",
+                    "rephrased_2": "Who served as the president of Portugal from 9 March 1996 to 9 March 2006?",
+                    "rephrased_3": "From 9 March 1996 to 9 March 2006, who was the president of Portugal?"
+                },
+                "answers": [
+                    "An\u00edbal Cavaco Silva |S: +2006-03-09T00:00:00Z |E: +2016-03-09T00:00:00Z",
+                    "Marcelo Rebelo de Sousa |S: +2016-03-09T00:00:00Z",
+                    "Jorge Sampaio |S: +1996-03-09T00:00:00Z |E: +2006-03-09T00:00:00Z",
+                    "M\u00e1rio Soares |S: +1986-03-09T00:00:00Z |E: +1996-03-09T00:00:00Z"
+                ],
+                "ground_truth": "Jorge Sampaio"
+            }
+        },
+        "China": {
+            "President of the People's Republic of China": {
+                "questions": {
+                    "generic": "What is the name of the president of China from 27 April 1959 to 31 October 1968?",
+                    "rephrased_1": "What is the name of the president of China from 27 April 1959 to 31 October 1968?",
+                    "rephrased_2": "Who served as the president of China from 27 April 1959 to 31 October 1968?",
+                    "rephrased_3": "From 27 April 1959 to 31 October 1968, who was the president of China?"
+                },
+                "answers": [
+                    "Xi Jinping |S: +2013-03-14T00:00:00Z",
+                    "Hu Jintao |S: +2003-03-15T00:00:00Z |E: +2013-03-14T00:00:00Z",
+                    "Zhemin Jiang |S: +1993-03-27T00:00:00Z |E: +2003-03-15T00:00:00Z",
+                    "Yang Shangkun |S: +1988-04-08T00:00:00Z |E: +1993-03-27T00:00:00Z",
+                    "Li Xiannian |S: +1983-06-18T00:00:00Z |E: +1988-04-08T00:00:00Z",
+                    "Ye Jianying |S: +1978-03-05T00:00:00Z |E: +1983-06-18T00:00:00Z",
+                    "Soong Ching-ling |S: +1976-07-06T00:00:00Z |E: +1978-03-05T00:00:00Z",
+                    "Zhu De |S: +1975-01-17T00:00:00Z |E: +1976-07-06T00:00:00Z",
+                    "Dong Biwu |S: +1968-10-31T00:00:00Z |E: +1975-01-17T00:00:00Z",
+                    "Liu Shaoqi |S: +1959-04-27T00:00:00Z |E: +1968-10-31T00:00:00Z",
+                    "Mao Zedong |S: +1949-10-01T00:00:00Z |E: +1959-04-27T00:00:00Z",
+                    "Soong Ching-ling |S: +1968-10-31T00:00:00Z |E: +1975-01-17T00:00:00Z"
+                ],
+                "ground_truth": "Liu Shaoqi"
+            }
+        },
+        "Germany": {
+            "president of Germany": {
+                "questions": {
+                    "generic": "What is the name of the president of Germany from 1 July 1974 to 30 June 1979?",
+                    "rephrased_1": "What is the name of the president of Germany from 1 July 1974 to 30 June 1979?",
+                    "rephrased_2": "Who served as the president of Germany from 1 July 1974 to 30 June 1979?",
+                    "rephrased_3": "From 1 July 1974 to 30 June 1979, who was the president of Germany?"
+                },
+                "answers": [
+                    "Theodor Heuss |S: +1949-09-12T00:00:00Z |E: +1959-09-12T00:00:00Z",
+                    "Heinrich L\u00fcbke |S: +1959-09-13T00:00:00Z |E: +1969-06-30T00:00:00Z",
+                    "Gustav Heinemann |S: +1969-07-01T00:00:00Z |E: +1974-06-30T00:00:00Z",
+                    "Walter Scheel |S: +1974-07-01T00:00:00Z |E: +1979-06-30T00:00:00Z",
+                    "Karl Carstens |S: +1979-07-01T00:00:00Z |E: +1984-06-30T00:00:00Z",
+                    "Richard von Weizs\u00e4cker |S: +1984-07-01T00:00:00Z |E: +1994-06-30T00:00:00Z",
+                    "Roman Herzog |S: +1994-07-01T00:00:00Z |E: +1999-06-30T00:00:00Z",
+                    "Johannes Rau |S: +1999-07-01T00:00:00Z |E: +2004-06-30T00:00:00Z",
+                    "Horst K\u00f6hler |S: +2004-07-01T00:00:00Z |E: +2010-05-31T00:00:00Z",
+                    "Christian Wulff |S: +2010-06-30T00:00:00Z |E: +2012-02-17T00:00:00Z",
+                    "Joachim Gauck |S: +2012-03-18T00:00:00Z |E: +2017-03-18T00:00:00Z",
+                    "Frank-Walter Steinmeier |S: +2017-03-19T00:00:00Z"
+                ],
+                "ground_truth": "Walter Scheel"
+            },
+            "Federal Chancellor of Germany": {
+                "questions": {
+                    "generic": "What is the name of the federal chancellor of Germany from 22 October 1969 to 7 May 1974?",
+                    "rephrased_1": "What is the name of the federal chancellor of Germany from 22 October 1969 to 7 May 1974?",
+                    "rephrased_2": "Who served as the federal chancellor of Germany from 22 October 1969 to 7 May 1974?",
+                    "rephrased_3": "From 22 October 1969 to 7 May 1974, who was the federal chancellor of Germany?"
+                },
+                "answers": [
+                    "Konrad Adenauer |S: +1949-09-20T00:00:00Z |E: +1963-10-11T00:00:00Z",
+                    "Ludwig Erhard |S: +1963-10-17T00:00:00Z |E: +1966-11-30T00:00:00Z",
+                    "Kurt Georg Kiesinger |S: +1966-12-01T00:00:00Z |E: +1969-10-21T00:00:00Z",
+                    "Willy Brandt |S: +1969-10-22T00:00:00Z |E: +1974-05-07T00:00:00Z",
+                    "Walter Scheel |S: +1974-05-07T00:00:00Z |E: +1974-05-16T00:00:00Z",
+                    "Helmut Schmidt |S: +1974-05-16T00:00:00Z |E: +1982-10-01T00:00:00Z",
+                    "Helmut Kohl |S: +1982-10-04T00:00:00Z |E: +1998-10-26T00:00:00Z",
+                    "Gerhard Schr\u00f6der |S: +1998-10-27T00:00:00Z |E: +2005-10-18T00:00:00Z",
+                    "Angela Merkel |S: +2005-11-22T00:00:00Z |E: +2021-12-08T00:00:00Z",
+                    "Olaf Scholz |S: +2021-12-08T00:00:00Z"
+                ],
+                "ground_truth": "Willy Brandt"
+            }
+        },
+        "Netherlands": {
+            "Prime Minister of the Netherlands": {
+                "questions": {
+                    "generic": "What is the name of the prime minister of the Netherlands from 19 May 1959 to 24 July 1963?",
+                    "rephrased_1": "What is the name of the prime minister of the Netherlands from 19 May 1959 to 24 July 1963?",
+                    "rephrased_2": "Who served as the prime minister of the Netherlands from 19 May 1959 to 24 July 1963?",
+                    "rephrased_3": "From 19 May 1959 to 24 July 1963, who was the prime minister of the Netherlands?"
+                },
+                "answers": [
+                    "Mark Rutte |S: +2010-10-14T00:00:00Z |E: +2024-07-02T00:00:00Z",
+                    "Jan Peter Balkenende |S: +2002-07-22T00:00:00Z |E: +2010-10-14T00:00:00Z",
+                    "Wim Kok |S: +1994-08-22T00:00:00Z |E: +2002-07-22T00:00:00Z",
+                    "Ruud Lubbers |S: +1982-11-04T00:00:00Z |E: +1994-08-22T00:00:00Z",
+                    "Dries van Agt |S: +1977-12-19T00:00:00Z |E: +1982-11-04T00:00:00Z",
+                    "Joop den Uyl |S: +1973-05-11T00:00:00Z |E: +1977-12-19T00:00:00Z",
+                    "Barend Biesheuvel |S: +1971-07-06T00:00:00Z |E: +1973-05-11T00:00:00Z",
+                    "Piet de Jong |S: +1967-04-05T00:00:00Z |E: +1971-07-06T00:00:00Z",
+                    "Jelle Zijlstra |S: +1966-11-22T00:00:00Z |E: +1967-04-05T00:00:00Z",
+                    "Jo Cals |S: +1965-04-14T00:00:00Z |E: +1966-11-22T00:00:00Z",
+                    "Victor Marijnen |S: +1963-07-24T00:00:00Z |E: +1965-04-14T00:00:00Z",
+                    "Jan de Quay |S: +1959-05-19T00:00:00Z |E: +1963-07-24T00:00:00Z",
+                    "Louis Beel |S: +1958-12-22T00:00:00Z |E: +1959-05-19T00:00:00Z",
+                    "Willem Drees |S: +1948-08-07T00:00:00Z |E: +1958-12-22T00:00:00Z",
+                    "Louis Beel |S: +1946-07-03T00:00:00Z |E: +1948-08-07T00:00:00Z",
+                    "Wim Schermerhorn |S: +1945-06-24T00:00:00Z |E: +1946-07-03T00:00:00Z",
+                    "Pieter Sjoerds Gerbrandy |S: +1940-09-03T00:00:00Z |E: +1945-06-24T00:00:00Z",
+                    "Dirk Jan de Geer |S: +1939-08-10T00:00:00Z |E: +1940-09-03T00:00:00Z",
+                    "Hendrikus Colijn |S: +1933-05-26T00:00:00Z |E: +1939-08-10T00:00:00Z",
+                    "Charles Ruijs de Beerenbrouck |S: +1929-08-10T00:00:00Z |E: +1933-05-26T00:00:00Z",
+                    "Dirk Jan de Geer |S: +1926-03-08T00:00:00Z |E: +1929-08-10T00:00:00Z",
+                    "Hendrikus Colijn |S: +1925-08-04T00:00:00Z |E: +1926-03-08T00:00:00Z",
+                    "Charles Ruijs de Beerenbrouck |S: +1918-09-09T00:00:00Z |E: +1925-08-04T00:00:00Z",
+                    "Dick Schoof |S: +2024-07-02T00:00:00Z"
+                ],
+                "ground_truth": "Jan de Quay"
+            }
+        },
+        "Austria": {
+            "Federal Chancellor of Austria": {
+                "questions": {
+                    "generic": "What is the name of the federal chancellor of Austria from 17 May 2016 to 18 December 2017?",
+                    "rephrased_1": "What is the name of the federal chancellor of Austria from 17 May 2016 to 18 December 2017?",
+                    "rephrased_2": "Who served as the federal chancellor of Austria from 17 May 2016 to 18 December 2017?",
+                    "rephrased_3": "From 17 May 2016 to 18 December 2017, who was the federal chancellor of Austria?"
+                },
+                "answers": [
+                    "Werner Faymann |S: +2008-12-02T00:00:00Z |E: +2016-05-09T00:00:00Z",
+                    "Alfred Gusenbauer |S: +2007-01-11T00:00:00Z |E: +2008-12-02T00:00:00Z",
+                    "Wolfgang Sch\u00fcssel |S: +2000-02-04T00:00:00Z |E: +2007-01-11T00:00:00Z",
+                    "Viktor Klima |S: +1997-01-28T00:00:00Z |E: +2000-02-04T00:00:00Z",
+                    "Franz Vranitzky |S: +1986-06-16T00:00:00Z |E: +1997-01-20T00:00:00Z",
+                    "Fred Sinowatz |S: +1983-05-24T00:00:00Z |E: +1986-06-16T00:00:00Z",
+                    "Bruno Kreisky |S: +1970-04-21T00:00:00Z |E: +1983-05-24T00:00:00Z",
+                    "Josef Klaus |S: +1964-04-02T00:00:00Z |E: +1970-03-03T00:00:00Z",
+                    "Alfons Gorbach |S: +1961-04-11T00:00:00Z |E: +1964-02-25T00:00:00Z",
+                    "Julius Raab |S: +1953-04-02T00:00:00Z |E: +1961-04-11T00:00:00Z",
+                    "Leopold Figl |S: +1949-12-20T00:00:00Z |E: +1953-02-25T00:00:00Z",
+                    "Karl Renner |S: +1945-04-27T00:00:00Z |E: +1945-12-20T00:00:00Z",
+                    "Christian Kern |S: +2016-05-17T00:00:00Z |E: +2017-12-18T00:00:00Z",
+                    "Sebastian Kurz |S: +2017-12-18T00:00:00Z |E: +2019-05-28T00:00:00Z",
+                    "Hartwig L\u00f6ger |S: +2019-05-28T00:00:00Z |E: +2019-06-03T00:00:00Z",
+                    "Brigitte Bierlein |S: +2019-06-03T00:00:00Z |E: +2020-01-07T00:00:00Z",
+                    "Sebastian Kurz |S: +2020-01-07T00:00:00Z |E: +2021-10-11T00:00:00Z",
+                    "Alexander Schallenberg |S: +2021-10-11T00:00:00Z |E: +2021-12-06T00:00:00Z",
+                    "Karl Nehammer |S: +2021-12-06T00:00:00Z"
+                ],
+                "ground_truth": "Christian Kern"
+            }
+        },
+        "Denmark": {
+            "monarch of Denmark": {
+                "questions": {
+                    "generic": "What is the name of the monarch of Denmark from 13 April 1523 to 10 April 1533?",
+                    "rephrased_1": "What is the name of the monarch of Denmark from 13 April 1523 to 10 April 1533?",
+                    "rephrased_2": "Who served as the monarch of Denmark from 13 April 1523 to 10 April 1533?",
+                    "rephrased_3": "From 13 April 1523 to 10 April 1533, who was the monarch of Denmark?"
+                },
+                "answers": [
+                    "Margrethe II of Denmark |S: +1972-01-14T00:00:00Z |E: +2024-01-14T00:00:00Z",
+                    "Frederick IX of Denmark |S: +1947-04-20T00:00:00Z |E: +1972-01-14T00:00:00Z",
+                    "Christian X of Denmark |S: +1912-05-14T00:00:00Z |E: +1947-04-20T00:00:00Z",
+                    "Frederick VIII of Denmark |S: +1906-01-29T00:00:00Z |E: +1912-05-14T00:00:00Z",
+                    "Christian IX of Denmark |S: +1863-11-15T00:00:00Z |E: +1906-01-29T00:00:00Z",
+                    "Frederick VII of Denmark |S: +1848-01-20T00:00:00Z |E: +1863-11-15T00:00:00Z",
+                    "Christian VIII of Denmark |S: +1839-12-03T00:00:00Z |E: +1848-01-20T00:00:00Z",
+                    "Frederick VI of Denmark |S: +1808-03-13T00:00:00Z |E: +1839-12-03T00:00:00Z",
+                    "Christian VII of Denmark |S: +1766-01-14T00:00:00Z |E: +1808-03-13T00:00:00Z",
+                    "Frederick V of Denmark |S: +1746-08-06T00:00:00Z |E: +1766-01-14T00:00:00Z",
+                    "Christian VI of Denmark |S: +1730-10-12T00:00:00Z |E: +1746-08-06T00:00:00Z",
+                    "Frederick IV of Denmark |S: +1699-08-25T00:00:00Z |E: +1730-10-12T00:00:00Z",
+                    "Christian V of Denmark |S: +1670-02-09T00:00:00Z |E: +1699-08-25T00:00:00Z",
+                    "Frederick III of Denmark |S: +1648-07-06T00:00:00Z |E: +1670-02-09T00:00:00Z",
+                    "Christian IV of Denmark |S: +1588-04-04T00:00:00Z |E: +1648-02-28T00:00:00Z",
+                    "Frederick II of Denmark |S: +1559-01-01T00:00:00Z |E: +1588-04-04T00:00:00Z",
+                    "Christian III of Denmark |S: +1534-07-04T00:00:00Z |E: +1559-01-01T00:00:00Z",
+                    "Frederick I of Denmark |S: +1523-04-13T00:00:00Z |E: +1533-04-10T00:00:00Z",
+                    "Christian II of Denmark |S: +1513-02-20T00:00:00Z |E: +1523-04-13T00:00:00Z",
+                    "John, King of Denmark |S: +1481-05-21T00:00:00Z |E: +1513-02-20T00:00:00Z",
+                    "Christian I of Denmark |S: +1448-09-01T00:00:00Z |E: +1481-05-21T00:00:00Z",
+                    "Christopher of Bavaria |S: +1440-04-09T00:00:00Z |E: +1448-01-06T00:00:00Z",
+                    "Eric of Pomerania |S: +1396-01-01T00:00:00Z |E: +1439-01-01T00:00:00Z",
+                    "Frederik X |S: +2024-01-14T00:00:00Z"
+                ],
+                "ground_truth": "Frederick I of Denmark"
+            }
+        },
+        "Romania": {
+            "President of Romania": {
+                "questions": {
+                    "generic": "What is the name of the president of Romania from 2 June 1952 to 7 January 1958?",
+                    "rephrased_1": "What is the name of the president of Romania from 2 June 1952 to 7 January 1958?",
+                    "rephrased_2": "Who served as the president of Romania from 2 June 1952 to 7 January 1958?",
+                    "rephrased_3": "From 2 June 1952 to 7 January 1958, who was the president of Romania?"
+                },
+                "answers": [
+                    "Traian B\u0103sescu |S: +2004-12-21T00:00:00Z |E: +2014-12-21T00:00:00Z",
+                    "Klaus Iohannis |S: +2014-12-21T00:00:00Z",
+                    "Ion Iliescu |S: +1990-05-20T00:00:00Z |E: +1996-11-29T00:00:00Z",
+                    "Ion Iliescu |S: +2000-12-20T00:00:00Z |E: +2004-12-20T00:00:00Z",
+                    "Emil Constantinescu |S: +1996-11-29T00:00:00Z |E: +2000-12-20T00:00:00Z",
+                    "Nicolae Ceau\u0219escu |S: +1974-04-29T00:00:00Z |E: +1989-12-25T00:00:00Z",
+                    "Nicolae Ceau\u0219escu |S: +1967-12-09T00:00:00Z |E: +1974-04-29T00:00:00Z",
+                    "Chivu Stoica |S: +1965-03-24T00:00:00Z |E: +1967-12-09T00:00:00Z",
+                    "Gheorghe Gheorghiu-Dej |S: +1961-03-21T00:00:00Z |E: +1965-03-19T00:00:00Z",
+                    "Ion Gheorghe Maurer |S: +1958-01-11T00:00:00Z |E: +1961-03-21T00:00:00Z",
+                    "Petru Groza |S: +1952-06-02T00:00:00Z |E: +1958-01-07T00:00:00Z",
+                    "Constantin Ion Parhon |S: +1947-12-30T00:00:00Z |E: +1952-06-02T00:00:00Z",
+                    "Michael I of Romania |S: +1940-09-06T00:00:00Z |E: +1947-12-30T00:00:00Z",
+                    "Carol II of Romania |S: +1930-06-08T00:00:00Z |E: +1940-09-06T00:00:00Z",
+                    "Michael I of Romania |S: +1927-07-20T00:00:00Z |E: +1930-06-08T00:00:00Z",
+                    "Ferdinand I of Romania |S: +1914-10-10T00:00:00Z |E: +1927-07-20T00:00:00Z",
+                    "Carol I of Romania |S: +1881-05-10T00:00:00Z |E: +1914-10-10T00:00:00Z",
+                    "Carol I of Romania |S: +1866-05-10T00:00:00Z |E: +1881-05-10T00:00:00Z",
+                    "Alexandru Ioan Cuza |S: +1862-01-24T00:00:00Z |E: +1866-02-23T00:00:00Z"
+                ],
+                "ground_truth": "Petru Groza"
+            }
+        },
+        "Italy": {
+            "President of Italy": {
+                "questions": {
+                    "generic": "What is the name of the president of Italy from 28 May 1992 to 15 May 1999?",
+                    "rephrased_1": "What is the name of the president of Italy from 28 May 1992 to 15 May 1999?",
+                    "rephrased_2": "Who served as the president of Italy from 28 May 1992 to 15 May 1999?",
+                    "rephrased_3": "From 28 May 1992 to 15 May 1999, who was the president of Italy?"
+                },
+                "answers": [
+                    "Carlo Azeglio Ciampi |S: +1999-05-18T00:00:00Z |E: +2006-05-15T00:00:00Z",
+                    "Oscar Luigi Scalfaro |S: +1992-05-28T00:00:00Z |E: +1999-05-15T00:00:00Z",
+                    "Francesco Cossiga |S: +1985-07-03T00:00:00Z |E: +1992-04-28T00:00:00Z",
+                    "Sandro Pertini |S: +1978-07-09T00:00:00Z |E: +1985-06-29T00:00:00Z",
+                    "Giovanni Leone |S: +1971-12-29T00:00:00Z |E: +1978-06-15T00:00:00Z",
+                    "Giuseppe Saragat |S: +1964-12-29T00:00:00Z |E: +1971-12-29T00:00:00Z",
+                    "Antonio Segni |S: +1962-05-11T00:00:00Z |E: +1964-12-06T00:00:00Z",
+                    "Giovanni Gronchi |S: +1955-05-11T00:00:00Z |E: +1962-05-11T00:00:00Z",
+                    "Luigi Einaudi |S: +1948-05-12T00:00:00Z |E: +1955-05-11T00:00:00Z",
+                    "Enrico de Nicola |S: +1946-07-01T00:00:00Z |E: +1948-05-12T00:00:00Z",
+                    "Alcide De Gasperi |S: +1946-06-13T00:00:00Z |E: +1946-06-30T00:00:00Z",
+                    "Giorgio Napolitano |S: +2006-05-15T00:00:00Z |E: +2015-01-14T00:00:00Z",
+                    "Sergio Mattarella |S: +2015-02-03T00:00:00Z"
+                ],
+                "ground_truth": "Oscar Luigi Scalfaro"
+            }
+        },
+        "Indonesia": {
+            "President of Indonesia": {
+                "questions": {
+                    "generic": "What is the name of the president of Indonesia from 20 October 1999 to 23 July 2001?",
+                    "rephrased_1": "What is the name of the president of Indonesia from 20 October 1999 to 23 July 2001?",
+                    "rephrased_2": "Who served as the president of Indonesia from 20 October 1999 to 23 July 2001?",
+                    "rephrased_3": "From 20 October 1999 to 23 July 2001, who was the president of Indonesia?"
+                },
+                "answers": [
+                    "Bacharuddin Jusuf Habibie |S: +1998-05-21T00:00:00Z |E: +1999-10-20T00:00:00Z",
+                    "Sukarno |S: +1945-08-18T00:00:00Z |E: +1967-03-12T00:00:00Z",
+                    "Megawati Soekarnoputri |S: +2001-07-23T00:00:00Z |E: +2004-10-20T00:00:00Z",
+                    "Joko Widodo |S: +2014-10-20T00:00:00Z |E: +2024-10-20T00:00:00Z",
+                    "Suharto |S: +1967-03-12T00:00:00Z |E: +1998-05-21T00:00:00Z",
+                    "Abdurrahman Wahid |S: +1999-10-20T00:00:00Z |E: +2001-07-23T00:00:00Z",
+                    "Susilo Bambang Yudhoyono |S: +2004-10-20T00:00:00Z |E: +2014-10-20T00:00:00Z",
+                    "Prabowo Subianto |S: +2024-10-20T00:00:00Z"
+                ],
+                "ground_truth": "Abdurrahman Wahid"
+            }
+        },
+        "Philippines": {
+            "President of the Philippines": {
+                "questions": {
+                    "generic": "What is the name of the president of the Philippines from 28 May 1946 to 15 April 1948?",
+                    "rephrased_1": "What is the name of the president of the Philippines from 28 May 1946 to 15 April 1948?",
+                    "rephrased_2": "Who served as the president of the Philippines from 28 May 1946 to 15 April 1948?",
+                    "rephrased_3": "From 28 May 1946 to 15 April 1948, who was the president of the Philippines?"
+                },
+                "answers": [
+                    "Benigno Aquino III |S: +2010-06-30T00:00:00Z |E: +2016-06-30T00:00:00Z",
+                    "Emilio Aguinaldo |S: +1899-01-23T00:00:00Z |E: +1901-03-23T00:00:00Z",
+                    "Ramon Magsaysay |S: +1953-12-30T00:00:00Z |E: +1957-03-17T00:00:00Z",
+                    "Rodrigo Duterte |S: +2016-06-30T00:00:00Z |E: +2022-06-30T00:00:00Z",
+                    "Sergio Osme\u00f1a |S: +1944-08-01T00:00:00Z |E: +1946-05-28T00:00:00Z",
+                    "Diosdado Macapagal |S: +1961-12-30T00:00:00Z |E: +1965-12-30T00:00:00Z",
+                    "Manuel L. Quezon |S: +1935-11-25T00:00:00Z |E: +1944-08-01T00:00:00Z",
+                    "Corazon Aquino |S: +1986-02-25T00:00:00Z |E: +1992-06-30T00:00:00Z",
+                    "Elpidio Quirino |S: +1948-04-17T00:00:00Z |E: +1953-12-30T00:00:00Z",
+                    "Carlos P. Garcia |S: +1957-03-18T00:00:00Z |E: +1961-12-30T00:00:00Z",
+                    "Gloria Macapagal Arroyo |S: +2001-01-20T00:00:00Z |E: +2010-06-30T00:00:00Z",
+                    "Joseph Estrada |S: +1998-06-30T00:00:00Z |E: +2001-01-20T00:00:00Z",
+                    "Manuel Roxas |S: +1946-05-28T00:00:00Z |E: +1948-04-15T00:00:00Z",
+                    "Bongbong Marcos |S: +2022-06-30T00:00:00Z",
+                    "Fidel Ramos |S: +1992-06-30T00:00:00Z |E: +1998-06-30T00:00:00Z",
+                    "Ferdinand Marcos |S: +1965-12-30T00:00:00Z |E: +1986-02-25T00:00:00Z",
+                    "Jose P. Laurel |S: +1943-10-14T00:00:00Z |E: +1945-08-17T00:00:00Z"
+                ],
+                "ground_truth": "Manuel Roxas"
+            }
+        }
+    },
+    "athletes_byPayment": {
+        "Cristiano Ronaldo": {
+            "questions": {
+                "generic": "What is the name of the football club Cristiano Ronaldo played for from 10 July 2018 to 31 August 2021?",
+                "rephrased_1": "What is the name of the football club Cristiano Ronaldo played for from 10 July 2018 to 31 August 2021?",
+                "rephrased_2": "Which football club does Cristiano Ronaldo play for from 10 July 2018 to 31 August 2021?",
+                "rephrased_3": "From 10 July 2018 to 31 August 2021, which football club does Cristiano Ronaldo play for?"
+            },
+            "answers": [
+                "Sporting CP |S: +2002-07-01T00:00:00Z |E: +2003-08-12T00:00:00Z",
+                "Manchester United F.C. |S: +2003-08-12T00:00:00Z |E: +2009-07-06T00:00:00Z",
+                "Real Madrid CF |S: +2009-07-06T00:00:00Z |E: +2018-07-10T00:00:00Z",
+                "Juventus FC |S: +2018-07-10T00:00:00Z |E: +2021-08-31T00:00:00Z",
+                "Manchester United F.C. |S: +2021-08-31T00:00:00Z |E: +2022-11-22T00:00:00Z",
+                "Al-Nassr |S: +2023-01-00T00:00:00Z"
+            ],
+            "ground_truth": "Juventus FC"
+        },
+        "Lionel Messi": {
+            "questions": {
+                "generic": "What is the name of the football club Lionel Messi played for from 5 March 2004 to 10 August 2021?",
+                "rephrased_1": "What is the name of the football club Lionel Messi played for from 5 March 2004 to 10 August 2021?",
+                "rephrased_2": "Which football club does Lionel Messi play for from 5 March 2004 to 10 August 2021?",
+                "rephrased_3": "From 5 March 2004 to 10 August 2021, which football club does Lionel Messi play for?"
+            },
+            "answers": [
+                "FC Barcelona |S: +2004-03-05T00:00:00Z |E: +2021-08-10T00:00:00Z",
+                "Paris Saint-Germain F.C. |S: +2021-08-10T00:00:00Z |E: +2023-07-15T00:00:00Z",
+                "Inter Miami CF |S: +2023-07-15T00:00:00Z"
+            ],
+            "ground_truth": "FC Barcelona"
+        },
+        "Fernando Alonso": {
+            "questions": {
+                "generic": "What is the name of the Formula 1 team Fernando Alonso drove for from 1 January 2021 to 1 January 2022?",
+                "rephrased_1": "What is the name of the Formula 1 team Fernando Alonso drove for from 1 January 2021 to 1 January 2022?",
+                "rephrased_2": "Which Formula 1 team does Fernando Alonso drive for from 1 January 2021 to 1 January 2022?",
+                "rephrased_3": "From 1 January 2021 to 1 January 2022, which Formula 1 team does Fernando Alonso drive for?"
+            },
+            "answers": [
+                "Renault F1 Team |S: +2002-00-00T00:00:00Z |E: +2006-00-00T00:00:00Z",
+                "McLaren |S: +2007-00-00T00:00:00Z |E: +2007-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2008-00-00T00:00:00Z |E: +2009-00-00T00:00:00Z",
+                "Scuderia Ferrari |S: +2010-00-00T00:00:00Z |E: +2014-00-00T00:00:00Z",
+                "McLaren |S: +2015-00-00T00:00:00Z |E: +2018-00-00T00:00:00Z",
+                "Minardi |S: +2001-00-00T00:00:00Z |E: +2001-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2021-00-00T00:00:00Z |E: +2022-00-00T00:00:00Z",
+                "Aston Martin F1 Team |S: +2023-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Renault F1 Team"
+        },
+        "Kylian Mbapp\u00e9": {
+            "questions": {
+                "generic": "What is the name of the football club Kylian Mbapp\u00e9 played for from 1 July 2018 to 1 July 2024?",
+                "rephrased_1": "What is the name of the football club Kylian Mbapp\u00e9 played for from 1 July 2018 to 1 July 2024?",
+                "rephrased_2": "Which football club does Kylian Mbapp\u00e9 play for from 1 July 2018 to 1 July 2024?",
+                "rephrased_3": "From 1 July 2018 to 1 July 2024, which football club does Kylian Mbapp\u00e9 play for?"
+            },
+            "answers": [
+                "AS Monaco FC |S: +2016-01-01T00:00:00Z |E: +2017-08-31T00:00:00Z",
+                "Paris Saint-Germain F.C. |S: +2017-08-31T00:00:00Z |E: +2018-06-30T00:00:00Z",
+                "AS Monaco FC |S: +2018-06-30T00:00:00Z |E: +2018-07-01T00:00:00Z",
+                "Paris Saint-Germain F.C. |S: +2018-07-01T00:00:00Z |E: +2024-07-01T00:00:00Z",
+                "Real Madrid |S: +2024-07-01T00:00:00Z"
+            ],
+            "ground_truth": "Paris Saint-Germain F.C."
+        },
+        "Karim Benzema": {
+            "questions": {
+                "generic": "What is the name of the football club Karim Benzema played for from 1 July 2005 to 9 July 2009?",
+                "rephrased_1": "What is the name of the football club Karim Benzema played for from 1 July 2005 to 9 July 2009?",
+                "rephrased_2": "Which football club does Karim Benzema play for from 1 July 2005 to 9 July 2009?",
+                "rephrased_3": "From 1 July 2005 to 9 July 2009, which football club does Karim Benzema play for?"
+            },
+            "answers": [
+                "Olympique Lyonnais |S: +2005-07-01T00:00:00Z |E: +2009-07-09T00:00:00Z",
+                "Real Madrid CF |S: +2009-07-09T00:00:00Z |E: +2023-07-01T00:00:00Z",
+                "Al Ittihad FC |S: +2023-07-01T00:00:00Z"
+            ],
+            "ground_truth": "Olympique Lyonnais"
+        },
+        "Erling Haaland": {
+            "questions": {
+                "generic": "What is the name of the football club Erling Haaland played for from 1 January 2019 to 1 January 2020?",
+                "rephrased_1": "What is the name of the football club Erling Haaland played for from 1 January 2019 to 1 January 2020?",
+                "rephrased_2": "Which football club does Erling Haaland play for from 1 January 2019 to 1 January 2020?",
+                "rephrased_3": "From 1 January 2019 to 1 January 2020, which football club does Erling Haaland play for?"
+            },
+            "answers": [
+                "Bryne FK |S: +2015-09-08T00:00:00Z |E: +2017-02-01T00:00:00Z",
+                "Molde FK |S: +2017-02-01T00:00:00Z |E: +2019-01-01T00:00:00Z",
+                "FC Red Bull Salzburg |S: +2019-01-01T00:00:00Z |E: +2020-01-01T00:00:00Z",
+                "Borussia Dortmund |S: +2020-01-01T00:00:00Z |E: +2022-07-01T00:00:00Z",
+                "Manchester City F.C. |S: +2022-07-01T00:00:00Z"
+            ],
+            "ground_truth": "FC Red Bull Salzburg"
+        },
+        "Sadio Man\u00e9": {
+            "questions": {
+                "generic": "What is the name of the football club Sadio Man\u00e9 played for from 1 July 2022 to 1 August 2023?",
+                "rephrased_1": "What is the name of the football club Sadio Man\u00e9 played for from 1 July 2022 to 1 August 2023?",
+                "rephrased_2": "Which football club does Sadio Man\u00e9 play for from 1 July 2022 to 1 August 2023?",
+                "rephrased_3": "From 1 July 2022 to 1 August 2023, which football club does Sadio Man\u00e9 play for?"
+            },
+            "answers": [
+                "FC Metz |S: +2010-01-01T00:00:00Z |E: +2012-08-31T00:00:00Z",
+                "FC Red Bull Salzburg |S: +2012-08-31T00:00:00Z |E: +2014-09-01T00:00:00Z",
+                "Southampton F.C. |S: +2014-09-01T00:00:00Z |E: +2016-07-01T00:00:00Z",
+                "Liverpool F.C. |S: +2016-07-01T00:00:00Z |E: +2022-07-01T00:00:00Z",
+                "FC Bayern Munich |S: +2022-07-01T00:00:00Z |E: +2023-08-01T00:00:00Z",
+                "Al-Nassr |S: +2023-08-01T00:00:00Z"
+            ],
+            "ground_truth": "FC Bayern Munich"
+        },
+        "Kevin De Bruyne": {
+            "questions": {
+                "generic": "What is the name of the football club Kevin De Bruyne played for from 2 August 2012 to 30 June 2013?",
+                "rephrased_1": "What is the name of the football club Kevin De Bruyne played for from 2 August 2012 to 30 June 2013?",
+                "rephrased_2": "Which football club does Kevin De Bruyne play for from 2 August 2012 to 30 June 2013?",
+                "rephrased_3": "From 2 August 2012 to 30 June 2013, which football club does Kevin De Bruyne play for?"
+            },
+            "answers": [
+                "K.R.C. Genk |S: +2008-07-01T00:00:00Z |E: +2012-01-31T00:00:00Z",
+                "Chelsea F.C. |S: +2012-01-31T00:00:00Z |E: +2012-02-01T00:00:00Z",
+                "K.R.C. Genk |S: +2012-02-01T00:00:00Z |E: +2012-06-30T00:00:00Z",
+                "Chelsea F.C. |S: +2012-06-30T00:00:00Z |E: +2012-08-02T00:00:00Z",
+                "SV Werder Bremen |S: +2012-08-02T00:00:00Z |E: +2013-06-30T00:00:00Z",
+                "Chelsea F.C. |S: +2013-06-30T00:00:00Z |E: +2014-01-18T00:00:00Z",
+                "VfL Wolfsburg |S: +2014-01-18T00:00:00Z |E: +2015-08-30T00:00:00Z",
+                "Manchester City F.C. |S: +2015-08-30T00:00:00Z"
+            ],
+            "ground_truth": "SV Werder Bremen"
+        },
+        "Harry Kane": {
+            "questions": {
+                "generic": "What is the name of the football club Harry Kane played for from 21 February 2013 to 14 May 2013?",
+                "rephrased_1": "What is the name of the football club Harry Kane played for from 21 February 2013 to 14 May 2013?",
+                "rephrased_2": "Which football club does Harry Kane play for from 21 February 2013 to 14 May 2013?",
+                "rephrased_3": "From 21 February 2013 to 14 May 2013, which football club does Harry Kane play for?"
+            },
+            "answers": [
+                "Tottenham Hotspur F.C. |S: +2010-07-01T00:00:00Z |E: +2011-01-07T00:00:00Z",
+                "Leyton Orient F.C. |S: +2011-01-07T00:00:00Z |E: +2011-05-31T00:00:00Z",
+                "Tottenham Hotspur F.C. |S: +2011-05-31T00:00:00Z |E: +2012-01-01T00:00:00Z",
+                "Millwall F.C. |S: +2012-01-01T00:00:00Z |E: +2012-05-31T00:00:00Z",
+                "Tottenham Hotspur F.C. |S: +2012-05-31T00:00:00Z |E: +2012-08-31T00:00:00Z",
+                "Norwich City F.C. |S: +2012-08-31T00:00:00Z |E: +2013-02-01T00:00:00Z",
+                "Tottenham Hotspur F.C. |S: +2013-02-01T00:00:00Z |E: +2013-02-21T00:00:00Z",
+                "Leicester City |S: +2013-02-21T00:00:00Z |E: +2013-05-14T00:00:00Z",
+                "Tottenham Hotspur F.C. |S: +2013-05-14T00:00:00Z |E: +2013-08-12T00:00:00Z",
+                "FC Bayern Munich |S: +2013-08-12T00:00:00Z"
+            ],
+            "ground_truth": "Leicester City"
+        },
+        "Stephen Curry": {
+            "questions": {
+                "generic": "What is the name of the basketball team Stephen Curry played for from 1 January 2006 to 1 January 2009?",
+                "rephrased_1": "What is the name of the basketball team Stephen Curry played for from 1 January 2006 to 1 January 2009?",
+                "rephrased_2": "Which basketball team does Stephen Curry play for from 1 January 2006 to 1 January 2009?",
+                "rephrased_3": "From 1 January 2006 to 1 January 2009, which basketball team does Stephen Curry play for?"
+            },
+            "answers": [
+                "Davidson Wildcats men's basketball |S: +2006-00-00T00:00:00Z |E: +2009-00-00T00:00:00Z",
+                "Golden State Warriors |S: +2009-06-25T00:00:00Z"
+            ],
+            "ground_truth": "Davidson Wildcats men's basketball"
+        },
+        "Nikola Jokic": {
+            "questions": {
+                "generic": "What is the name of the basketball team Nikola Jokic played for from 1 January 2012 to 28 July 2015?",
+                "rephrased_1": "What is the name of the basketball team Nikola Jokic played for from 1 January 2012 to 28 July 2015?",
+                "rephrased_2": "Which basketball team does Nikola Jokic play for from 1 January 2012 to 28 July 2015?",
+                "rephrased_3": "From 1 January 2012 to 28 July 2015, which basketball team does Nikola Jokic play for?"
+            },
+            "answers": [
+                "KK Mega Basket |S: +2012-00-00T00:00:00Z |E: +2015-07-28T00:00:00Z",
+                "Denver Nuggets |S: +2015-07-28T00:00:00Z"
+            ],
+            "ground_truth": "KK Mega Basket"
+        },
+        "Giannis Antetokounmpo": {
+            "questions": {
+                "generic": "What is the name of the basketball team Giannis Antetokounmpo played for from 1 January 2011 to 30 July 2013?",
+                "rephrased_1": "What is the name of the basketball team Giannis Antetokounmpo played for from 1 January 2011 to 30 July 2013?",
+                "rephrased_2": "Which basketball team does Giannis Antetokounmpo play for from 1 January 2011 to 30 July 2013?",
+                "rephrased_3": "From 1 January 2011 to 30 July 2013, which basketball team does Giannis Antetokounmpo play for?"
+            },
+            "answers": [
+                "Filathlitikos B.C. |S: +2011-01-01T00:00:00Z |E: +2013-07-30T00:00:00Z",
+                "Milwaukee Bucks |S: +2013-07-30T00:00:00Z"
+            ],
+            "ground_truth": "Filathlitikos B.C."
+        },
+        "Kawhi Leonard": {
+            "questions": {
+                "generic": "What is the name of the basketball team Kawhi Leonard played for from 18 July 2018 to 6 July 2019?",
+                "rephrased_1": "What is the name of the basketball team Kawhi Leonard played for from 18 July 2018 to 6 July 2019?",
+                "rephrased_2": "Which basketball team does Kawhi Leonard play for from 18 July 2018 to 6 July 2019?",
+                "rephrased_3": "From 18 July 2018 to 6 July 2019, which basketball team does Kawhi Leonard play for?"
+            },
+            "answers": [
+                "San Diego State Aztecs men's basketball |S: +2009-01-01T00:00:00Z |E: +2011-12-10T00:00:00Z",
+                "San Antonio Spurs |S: +2011-12-10T00:00:00Z |E: +2018-07-18T00:00:00Z",
+                "Toronto Raptors |S: +2018-07-18T00:00:00Z |E: +2019-07-06T00:00:00Z",
+                "Los Angeles Clippers |S: +2019-07-06T00:00:00Z"
+            ],
+            "ground_truth": "Toronto Raptors"
+        },
+        "Max Verstappen": {
+            "questions": {
+                "generic": "What is the name of the Formula 1 team Max Verstappen drove for from 1 January 2014 to 1 January 2015?",
+                "rephrased_1": "What is the name of the Formula 1 team Max Verstappen drove for from 1 January 2014 to 1 January 2015?",
+                "rephrased_2": "Which Formula 1 team does Max Verstappen drive for from 1 January 2014 to 1 January 2015?",
+                "rephrased_3": "From 1 January 2014 to 1 January 2015, which Formula 1 team does Max Verstappen drive for?"
+            },
+            "answers": [
+                "Red Bull Racing |S: +2016-00-00T00:00:00Z",
+                "Scuderia Toro Rosso |S: +2015-00-00T00:00:00Z |E: +2016-00-00T00:00:00Z",
+                "Van Amersfoort Racing |S: +2014-00-00T00:00:00Z |E: +2015-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Van Amersfoort Racing"
+        },
+        "Lewis Hamilton": {
+            "questions": {
+                "generic": "What is the name of the Formula 1 team Lewis Hamilton drove for from 1 January 2007 to 1 January 2012?",
+                "rephrased_1": "What is the name of the Formula 1 team Lewis Hamilton drove for from 1 January 2007 to 1 January 2012?",
+                "rephrased_2": "Which Formula 1 team does Lewis Hamilton drive for from 1 January 2007 to 1 January 2012?",
+                "rephrased_3": "From 1 January 2007 to 1 January 2012, which Formula 1 team does Lewis Hamilton drive for?"
+            },
+            "answers": [
+                "McLaren |S: +2007-00-00T00:00:00Z |E: +2012-00-00T00:00:00Z",
+                "Mercedes F1 Team |S: +2013-00-00T00:00:00Z"
+            ],
+            "ground_truth": "McLaren"
+        },
+        "Charles Leclerc": {
+            "questions": {
+                "generic": "What is the name of the Formula 1 team Charles Leclerc drove for from 1 January 2018 to 1 January 2019?",
+                "rephrased_1": "What is the name of the Formula 1 team Charles Leclerc drove for from 1 January 2018 to 1 January 2019?",
+                "rephrased_2": "Which Formula 1 team does Charles Leclerc drive for from 1 January 2018 to 1 January 2019?",
+                "rephrased_3": "From 1 January 2018 to 1 January 2019, which Formula 1 team does Charles Leclerc drive for?"
+            },
+            "answers": [
+                "Sauber |S: +2018-00-00T00:00:00Z |E: +2019-00-00T00:00:00Z",
+                "Scuderia Ferrari |S: +2019-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Sauber"
+        },
+        "George Russell": {
+            "questions": {
+                "generic": "What is the name of the Formula 1 team George Russell drove for from 1 January 2018 to 1 January 2021?",
+                "rephrased_1": "What is the name of the Formula 1 team George Russell drove for from 1 January 2018 to 1 January 2021?",
+                "rephrased_2": "Which Formula 1 team does George Russell drive for from 1 January 2018 to 1 January 2021?",
+                "rephrased_3": "From 1 January 2018 to 1 January 2021, which Formula 1 team does George Russell drive for?"
+            },
+            "answers": [
+                "Williams Racing |S: +2018-00-00T00:00:00Z |E: +2021-00-00T00:00:00Z",
+                "Mercedes F1 Team |S: +2022-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Williams Racing"
+        }
+    },
+    "organizations": {
+        "International Olympic Committee": {
+            "chairperson": {
+                "questions": {
+                    "generic": "What is the name of the chairperson of the International Olympic Committee from 1 January 1916 to 1 January 1919?",
+                    "rephrased_1": "What is the name of the chairperson of the International Olympic Committee from 1 January 1916 to 1 January 1919?",
+                    "rephrased_2": "Who served as the chairperson of the International Olympic Committee from 1 January 1916 to 1 January 1919?",
+                    "rephrased_3": "From 1 January 1916 to 1 January 1919, who was the chairperson of the International Olympic Committee?"
+                },
+                "answers": [
+                    "Dimitrios Vikelas |S: +1894-00-00T00:00:00Z |E: +1896-00-00T00:00:00Z",
+                    "Pierre de Coubertin |S: +1896-00-00T00:00:00Z |E: +1916-00-00T00:00:00Z",
+                    "Godefroy de Blonay |S: +1916-00-00T00:00:00Z |E: +1919-00-00T00:00:00Z",
+                    "Pierre de Coubertin |S: +1919-00-00T00:00:00Z |E: +1925-00-00T00:00:00Z",
+                    "Henri de Baillet-Latour |S: +1925-00-00T00:00:00Z |E: +1942-00-00T00:00:00Z",
+                    "Sigfrid Edstr\u00f6m |S: +1942-00-00T00:00:00Z |E: +1946-00-00T00:00:00Z",
+                    "Sigfrid Edstr\u00f6m |S: +1946-00-00T00:00:00Z |E: +1952-00-00T00:00:00Z",
+                    "Avery Brundage |S: +1952-00-00T00:00:00Z |E: +1972-00-00T00:00:00Z",
+                    "Michael Morris, 3rd Baron Killanin |S: +1972-00-00T00:00:00Z |E: +1980-00-00T00:00:00Z",
+                    "Juan Antonio Samaranch |S: +1980-00-00T00:00:00Z |E: +2001-00-00T00:00:00Z",
+                    "Jacques Rogge |S: +2001-00-00T00:00:00Z |E: +2013-00-00T00:00:00Z",
+                    "Thomas Bach |S: +2013-09-10T00:00:00Z"
+                ],
+                "ground_truth": "Godefroy de Blonay"
+            }
+        },
+        "Jamia Millia Islamia": {
+            "Chancellor": {
+                "questions": {
+                    "generic": "What is the name of the chancellor of the Jamia Millia Islamia from 1 January 1978 to 1 January 1983?",
+                    "rephrased_1": "What is the name of the chancellor of the Jamia Millia Islamia from 1 January 1978 to 1 January 1983?",
+                    "rephrased_2": "Who served as the chancellor of the Jamia Millia Islamia from 1 January 1978 to 1 January 1983?",
+                    "rephrased_3": "From 1 January 1978 to 1 January 1983, who was the chancellor of the Jamia Millia Islamia?"
+                },
+                "answers": [
+                    "Maulana Mohammad Ali |S: +1920-01-01T00:00:00Z |E: +1923-01-01T00:00:00Z",
+                    "Abdul Majeed Khwaja |S: +1923-01-01T00:00:00Z |E: +1925-01-01T00:00:00Z",
+                    "Zakir Husain |S: +1926-01-01T00:00:00Z |E: +1948-01-01T00:00:00Z",
+                    "Mohammad Mujeeb |S: +1948-01-01T00:00:00Z |E: +1973-01-01T00:00:00Z",
+                    "Masud Husain Khan |S: +1973-01-01T00:00:00Z |E: +1978-01-01T00:00:00Z",
+                    "Anwar Jamal Kidwai |S: +1978-01-01T00:00:00Z |E: +1983-01-01T00:00:00Z",
+                    "Ali Ashraf |S: +1983-01-01T00:00:00Z |E: +1989-01-01T00:00:00Z",
+                    "Zahoor Qasim |S: +1989-01-01T00:00:00Z |E: +1991-01-01T00:00:00Z",
+                    "Mohammad Ahmed Zaki |S: +1997-01-01T00:00:00Z |E: +2000-01-01T00:00:00Z",
+                    "Mushirul Hasan |S: +2004-01-01T00:00:00Z |E: +2009-01-01T00:00:00Z",
+                    "Najeeb Jung |S: +2009-01-01T00:00:00Z |E: +2013-01-01T00:00:00Z",
+                    "Talat Ahmad |S: +2014-01-01T00:00:00Z |E: +2018-01-01T00:00:00Z",
+                    "Najma Akhtar |S: +2019-01-01T00:00:00Z |E: +2023-01-01T00:00:00Z",
+                    "Mazhar Asif |S: +2024-01-01T00:00:00Z"
+                ],
+                "ground_truth": "Anwar Jamal Kidwai"
+            }
+        }
+    }
+}

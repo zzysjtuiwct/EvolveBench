@@ -1,0 +1,1896 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": "Sam Walton.",
+                "matched_answers": [
+                    [
+                        "Sam Walton",
+                        "+1950-01-01T00:00:00Z",
+                        "+1988-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sam Walton",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": "Khalid A. Al-Falih.",
+                "matched_answers": [
+                    [
+                        "Khalid A. Al-Falih",
+                        "+2009-01-01T00:00:00Z",
+                        "+2015-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Khalid A. Al-Falih",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": "Jeff Bezos.",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z",
+                        "+2021-07-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jeff Bezos",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": "Lee Raymond.",
+                "matched_answers": [
+                    [
+                        "Lee Raymond",
+                        "+1999-01-01T00:00:00Z",
+                        "+2005-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Lee Raymond",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": "Akio Toyoda.",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00Z",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Akio Toyoda",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": "Ivan Glasenberg.",
+                "matched_answers": [
+                    [
+                        "Ivan Glasenberg",
+                        "+2002-01-01T00:00:00Z",
+                        "+2021-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ivan Glasenberg",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": "Bob Dudley.",
+                "matched_answers": [
+                    [
+                        "Bob Dudley",
+                        "+2010-10-01T00:00:00Z",
+                        "+2020-02-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bob Dudley",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": "Bill Gates.",
+                "matched_answers": [
+                    [
+                        "Bill Gates",
+                        "+1975-04-01T00:00:00Z",
+                        "+2000-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bill Gates",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": "Alexei Miller.",
+                "matched_answers": [
+                    [
+                        "Miller",
+                        "+2001-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            },
+            {
+                "prediction": "Paul Otellini.",
+                "matched_answers": [
+                    [
+                        "Paul Otellini",
+                        "+2005-05-18T00:00:00Z",
+                        "+2013-05-02T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paul Otellini",
+                "element": "Intel",
+                "attribute": null
+            },
+            {
+                "prediction": "Dennis Muilenburg.",
+                "matched_answers": [
+                    [
+                        "Dennis Muilenburg",
+                        "+2015-07-01T00:00:00Z",
+                        "+2019-12-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Dennis Muilenburg",
+                "element": "Boeing",
+                "attribute": null
+            },
+            {
+                "prediction": "Sundar Pichai",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2015-08-10T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sundar Pichai",
+                "element": "Google",
+                "attribute": null
+            },
+            {
+                "prediction": "Paul Polman.",
+                "matched_answers": [
+                    [
+                        "Paul Polman",
+                        "+2009-01-01T00:00:00Z",
+                        "+2019-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paul Polman",
+                "element": "Unilever",
+                "attribute": null
+            },
+            {
+                "prediction": "The name of the Chief Executive Officer of the Norwegian Broadcasting Corporation when Miron Cristea was the Prime Minister of Romania was:\n\nOlav Midttun",
+                "matched_answers": [
+                    [
+                        "Olav Midttun",
+                        "+1934-01-01T00:00:00Z",
+                        "+1940-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Olav Midttun",
+                "element": "Norwegian Broadcasting Corporation",
+                "attribute": null
+            },
+            {
+                "prediction": "Sure, I can answer that!\n\nThe name of the Chief Executive Officer of HSBC during Fakhruddin Ahmed's tenure as Prime Minister of Bangladesh was Michael Geoghegan.",
+                "matched_answers": [
+                    [
+                        "Michael Geoghegan",
+                        "+2006-01-01T00:00:00Z",
+                        "+2011-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Michael Geoghegan",
+                "element": "HSBC",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "The name of the Chief Executive Officer of the Volkswagen Group when Ren\u00e9 Coty was the President of the French Republic was:\n\nHANS MONDENS",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Heinrich Nordhoff",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": "Tsuyoshi Higashi.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            },
+            {
+                "prediction": "The name of the Chief Executive Officer of 7-Eleven Japan when Vladim\u00edr \u0160pidla was the Prime Minister of the Czech Republic was Toshifumi Yoshizaki.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Toshir\u014d Yamaguchi",
+                "element": "7-Eleven Japan",
+                "attribute": null
+            },
+            {
+                "prediction": "The name of the Chief Executive Officer of the MTR Corporation Limited during the tenure of Jan Fischer as the Prime Minister of the Czech Republic was:\n\nAndrew Webb.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Chow Chung-kong",
+                "element": "MTR Corporation Limited",
+                "attribute": null
+            },
+            {
+                "prediction": "Sure, I can help you with that! The name of the Chief Executive Officer of Komer\u010dn\u00ed banka when Ahmet Davuto\u011flu was the Prime Minister of Turkey was:\n\nEmre K\u0131l\u0131\u00e7",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Albert Le Dirac'h",
+                "element": "Komer\u010dn\u00ed banka",
+                "attribute": null
+            },
+            {
+                "prediction": "Thomas B. Winkler.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Thomas F. Borgen",
+                "element": "Danske Bank",
+                "attribute": null
+            },
+            {
+                "prediction": "Sure, I can help you with that! The name of the Chief Executive Officer of OMV when Beata Szyd\u0142o was the Prime Minister of Poland was:\n\nMarten Frits van der Linden.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rainer Seele",
+                "element": "OMV",
+                "attribute": null
+            },
+            {
+                "prediction": "The name of the Chief Executive Officer of United Airlines when R. Venkataraman was the President of India was:\n\nJimmy R. Hood.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Stephen M. Wolf",
+                "element": "United Airlines",
+                "attribute": null
+            },
+            {
+                "prediction": "The name of the Chief Executive Officer of Flytoget AS when Julia Gillard was the Prime Minister of Australia was:\n\nOle Petter Kjesbu.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Linda Bernander Silseth",
+                "element": "Flytoget AS",
+                "attribute": null
+            },
+            {
+                "prediction": "Sure, I can help you with that!\n\nThe name of the Chief Executive Officer of Delta Air Lines when Marek Belka was the Prime Minister of Poland was:\n\nLee MacMenamin",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gerald Grinstein",
+                "element": "Delta Air Lines",
+                "attribute": null
+            },
+            {
+                "prediction": "The name of the Chief Executive Officer of Sveriges Television when Ciriaco De Mita was the Prime Minister of Italy was:\n\nJan Emanuelsson",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sam Nilsson",
+                "element": "Sveriges Television",
+                "attribute": null
+            },
+            {
+                "prediction": "The name of the Chief Executive Officer of Open Fiber when Viorica D\u0103ncil\u0103 was the Prime Minister of Romania was:\n\nIulian Stanciu.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Elisabetta Ripa",
+                "element": "Open Fiber",
+                "attribute": null
+            },
+            {
+                "prediction": "The name of the Chief Executive Officer of \u010ceskoslovensk\u00e1 obchodn\u00ed banka when Mikhail Kasyanov was the Prime Minister of Russia was:\n\nPetr Kellner.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Pavel Kav\u00e1nek",
+                "element": "\u010ceskoslovensk\u00e1 obchodn\u00ed banka",
+                "attribute": null
+            }
+        ],
+        "other": [
+            {
+                "prediction": "Steve Jobs.",
+                "matched_answers": [
+                    [
+                        "Steve Jobs",
+                        "+1997-09-01T00:00:00Z",
+                        "+2011-08-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "John Sculley",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": "Peter Voser.",
+                "matched_answers": [
+                    [
+                        "Peter Voser",
+                        "+2009-01-01T00:00:00Z",
+                        "+2013-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jeroen van der Veer",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": "Larry Merlo.",
+                "matched_answers": [
+                    [
+                        "Larry Merlo",
+                        "+2011-01-01T00:00:00Z",
+                        "+2021-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Karen S. Lynch",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": "Sundar Pichai.",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2019-12-03T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Larry Page",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": "Thierry Desmarest.",
+                "matched_answers": [
+                    [
+                        "Thierry Desmarest",
+                        "+1995-01-01T00:00:00Z",
+                        "+2007-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Serge Tchuruk",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": "Alan Mulally.",
+                "matched_answers": [
+                    [
+                        "Alan Mulally",
+                        "+2006-09-01T00:00:00Z",
+                        "+2014-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "William Clay Ford",
+                "element": "Ford Motor Company",
+                "attribute": null
+            },
+            {
+                "prediction": "Sure, I can help with that! The name of the Chief Executive Officer of C. & J. Clark International Ltd when Itamar Franco was the President of Brazil was:\n\nPeter A. Wood.",
+                "matched_answers": [
+                    [
+                        "Clark",
+                        "+1942-01-01T00:00:00Z",
+                        "+1967-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head",
+                    "head",
+                    "head",
+                    "head"
+                ],
+                "correct_answer": "John Clothier",
+                "element": "C. & J. Clark International Ltd",
+                "attribute": null
+            },
+            {
+                "prediction": "Sure, I can answer that! The name of the Chief Executive Officer of United Parcel Service when Fernando Collor de Mello was the President of Brazil was David Abney.",
+                "matched_answers": [
+                    [
+                        "David Abney",
+                        "+2014-01-01T00:00:00Z",
+                        "+2020-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Kent C. Nelson",
+                "element": "United Parcel Service",
+                "attribute": null
+            }
+        ]
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": "Sam Walton.",
+                "matched_answers": [
+                    [
+                        "Sam Walton",
+                        "+1950-01-01T00:00:00Z",
+                        "+1988-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sam Walton",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": "Khalid A. Al-Falih.",
+                "matched_answers": [
+                    [
+                        "Khalid A. Al-Falih",
+                        "+2009-01-01T00:00:00Z",
+                        "+2015-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Khalid A. Al-Falih",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": "Jeff Bezos.",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z",
+                        "+2021-07-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jeff Bezos",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": "Lee Raymond.",
+                "matched_answers": [
+                    [
+                        "Lee Raymond",
+                        "+1999-01-01T00:00:00Z",
+                        "+2005-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Lee Raymond",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": "Akio Toyoda.",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00Z",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Akio Toyoda",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": "Ivan Glasenberg.",
+                "matched_answers": [
+                    [
+                        "Ivan Glasenberg",
+                        "+2002-01-01T00:00:00Z",
+                        "+2021-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ivan Glasenberg",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": "Bob Dudley.",
+                "matched_answers": [
+                    [
+                        "Bob Dudley",
+                        "+2010-10-01T00:00:00Z",
+                        "+2020-02-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bob Dudley",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": "Bill Gates.",
+                "matched_answers": [
+                    [
+                        "Bill Gates",
+                        "+1975-04-01T00:00:00Z",
+                        "+2000-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bill Gates",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": "Alexei Miller.",
+                "matched_answers": [
+                    [
+                        "Miller",
+                        "+2001-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            },
+            {
+                "prediction": "Paul Otellini.",
+                "matched_answers": [
+                    [
+                        "Paul Otellini",
+                        "+2005-05-18T00:00:00Z",
+                        "+2013-05-02T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paul Otellini",
+                "element": "Intel",
+                "attribute": null
+            },
+            {
+                "prediction": "Dennis A. Muilenburg.",
+                "matched_answers": [
+                    [
+                        "Muilenburg",
+                        "+2015-07-01T00:00:00Z",
+                        "+2019-12-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Dennis Muilenburg",
+                "element": "Boeing",
+                "attribute": null
+            },
+            {
+                "prediction": "The name of the Chief Executive Officer of 7-Eleven Japan during Vladim\u00edr \u0160pidla's tenure as Prime Minister of the Czech Republic was Takenori Yamaguchi.",
+                "matched_answers": [
+                    [
+                        "Yamaguchi",
+                        "+2002-01-01T00:00:00Z",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Toshir\u014d Yamaguchi",
+                "element": "7-Eleven Japan",
+                "attribute": null
+            },
+            {
+                "prediction": "Paul Polman.",
+                "matched_answers": [
+                    [
+                        "Paul Polman",
+                        "+2009-01-01T00:00:00Z",
+                        "+2019-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paul Polman",
+                "element": "Unilever",
+                "attribute": null
+            },
+            {
+                "prediction": "The name of the Chief Executive Officer of Danske Bank during Tr\u1ea7n \u0110\u1ea1i Quang's presidency in Vietnam was Thomas Borgen.",
+                "matched_answers": [
+                    [
+                        "Borgen",
+                        "+2013-09-16T00:00:00Z",
+                        "+2018-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Thomas F. Borgen",
+                "element": "Danske Bank",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "The name of the Chief Executive Officer of the Volkswagen Group when Ren\u00e9 Coty was the President of the French Republic was:\n\nHans Trippel.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Heinrich Nordhoff",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": "Tsuyoshi Higashi.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            },
+            {
+                "prediction": "Sure, I can help you with that!\n\nThe name of the Chief Executive Officer of the MTR Corporation Limited when Jan Fischer was the Prime Minister of the Czech Republic was:\n\nPeter M. K. Yuen",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Chow Chung-kong",
+                "element": "MTR Corporation Limited",
+                "attribute": null
+            },
+            {
+                "prediction": "The name of the Chief Executive Officer of Komer\u010dn\u00ed banka when Ahmet Davuto\u011flu was the Prime Minister of Turkey was:\n\nH\u00fcseyin Erkan",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Albert Le Dirac'h",
+                "element": "Komer\u010dn\u00ed banka",
+                "attribute": null
+            },
+            {
+                "prediction": "Sure, I can answer that! The name of the Chief Executive Officer of OMV when Beata Szyd\u0142o was the Prime Minister of Poland was:\n\nMartin Belaisch",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rainer Seele",
+                "element": "OMV",
+                "attribute": null
+            },
+            {
+                "prediction": "The name of the Chief Executive Officer of United Airlines when R. Venkataraman was the President of India was:\n\nJimmy Carter",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Stephen M. Wolf",
+                "element": "United Airlines",
+                "attribute": null
+            },
+            {
+                "prediction": "The name of the Chief Executive Officer of Flytoget AS when Julia Gillard was the Prime Minister of Australia was:\n\nRune Bjerke.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Linda Bernander Silseth",
+                "element": "Flytoget AS",
+                "attribute": null
+            },
+            {
+                "prediction": "Leon F. Kellner.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gerald Grinstein",
+                "element": "Delta Air Lines",
+                "attribute": null
+            },
+            {
+                "prediction": "The name of the Chief Executive Officer of the Norwegian Broadcasting Corporation when Miron Cristea was the Prime Minister of Romania was:\n\nOddvar S. Hoved\u00f8en",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Olav Midttun",
+                "element": "Norwegian Broadcasting Corporation",
+                "attribute": null
+            },
+            {
+                "prediction": "Sure, I can help you with that!\n\nThe name of the Chief Executive Officer (CEO) of HSBC when Fakhruddin Ahmed was the Prime Minister of Bangladesh was:\n\nMervyn Davies.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Michael Geoghegan",
+                "element": "HSBC",
+                "attribute": null
+            },
+            {
+                "prediction": "Jan Emanuelsson",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sam Nilsson",
+                "element": "Sveriges Television",
+                "attribute": null
+            },
+            {
+                "prediction": "The name of the Chief Executive Officer of Open Fiber when Viorica D\u0103ncil\u0103 was the Prime Minister of Romania was:\n\nIonu\u021b \u021a\u0103ran.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Elisabetta Ripa",
+                "element": "Open Fiber",
+                "attribute": null
+            },
+            {
+                "prediction": "Petr Kellner.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Pavel Kav\u00e1nek",
+                "element": "\u010ceskoslovensk\u00e1 obchodn\u00ed banka",
+                "attribute": null
+            }
+        ],
+        "other": [
+            {
+                "prediction": "Steve Jobs.",
+                "matched_answers": [
+                    [
+                        "Steve Jobs",
+                        "+1997-09-01T00:00:00Z",
+                        "+2011-08-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "John Sculley",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": "Peter Voser.",
+                "matched_answers": [
+                    [
+                        "Peter Voser",
+                        "+2009-01-01T00:00:00Z",
+                        "+2013-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jeroen van der Veer",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": "Larry Merlo",
+                "matched_answers": [
+                    [
+                        "Larry Merlo",
+                        "+2011-01-01T00:00:00Z",
+                        "+2021-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Karen S. Lynch",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": "Sundar Pichai",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2019-12-03T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Larry Page",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": "Thierry Desmarest.",
+                "matched_answers": [
+                    [
+                        "Thierry Desmarest",
+                        "+1995-01-01T00:00:00Z",
+                        "+2007-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Serge Tchuruk",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": "Alan Mulally.",
+                "matched_answers": [
+                    [
+                        "Alan Mulally",
+                        "+2006-09-01T00:00:00Z",
+                        "+2014-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "William Clay Ford",
+                "element": "Ford Motor Company",
+                "attribute": null
+            },
+            {
+                "prediction": "Larry Page.",
+                "matched_answers": [
+                    [
+                        "Larry Page",
+                        "+2011-04-04T00:00:00Z",
+                        "+2015-08-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sundar Pichai",
+                "element": "Google",
+                "attribute": null
+            },
+            {
+                "prediction": "Sure, I can help you with that!\n\nThe name of the Chief Executive Officer of C. & J. Clark International Ltd when Itamar Franco was the President of Brazil was:\n\nPeter H. Cowle",
+                "matched_answers": [
+                    [
+                        "Clark",
+                        "+1942-01-01T00:00:00Z",
+                        "+1967-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head",
+                    "head",
+                    "head",
+                    "head"
+                ],
+                "correct_answer": "John Clothier",
+                "element": "C. & J. Clark International Ltd",
+                "attribute": null
+            },
+            {
+                "prediction": "The name of the Chief Executive Officer of United Parcel Service when Fernando Collor de Mello was the President of Brazil was:\n\nDavid Abney",
+                "matched_answers": [
+                    [
+                        "David Abney",
+                        "+2014-01-01T00:00:00Z",
+                        "+2020-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Kent C. Nelson",
+                "element": "United Parcel Service",
+                "attribute": null
+            }
+        ]
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": "Sam Walton.",
+                "matched_answers": [
+                    [
+                        "Sam Walton",
+                        "+1950-01-01T00:00:00Z",
+                        "+1988-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sam Walton",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": "Khalid A. Al-Falih.",
+                "matched_answers": [
+                    [
+                        "Khalid A. Al-Falih",
+                        "+2009-01-01T00:00:00Z",
+                        "+2015-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Khalid A. Al-Falih",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": "Jeff Bezos.",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z",
+                        "+2021-07-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jeff Bezos",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": "Lee Raymond.",
+                "matched_answers": [
+                    [
+                        "Lee Raymond",
+                        "+1999-01-01T00:00:00Z",
+                        "+2005-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Lee Raymond",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": "Akio Toyoda.",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00Z",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Akio Toyoda",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": "Ivan Glasenberg.",
+                "matched_answers": [
+                    [
+                        "Ivan Glasenberg",
+                        "+2002-01-01T00:00:00Z",
+                        "+2021-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ivan Glasenberg",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": "Bob Dudley.",
+                "matched_answers": [
+                    [
+                        "Bob Dudley",
+                        "+2010-10-01T00:00:00Z",
+                        "+2020-02-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bob Dudley",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": "Bill Gates.",
+                "matched_answers": [
+                    [
+                        "Bill Gates",
+                        "+1975-04-01T00:00:00Z",
+                        "+2000-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bill Gates",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": "Alexei Miller.",
+                "matched_answers": [
+                    [
+                        "Miller",
+                        "+2001-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            },
+            {
+                "prediction": "Paul Otellini.",
+                "matched_answers": [
+                    [
+                        "Paul Otellini",
+                        "+2005-05-18T00:00:00Z",
+                        "+2013-05-02T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paul Otellini",
+                "element": "Intel",
+                "attribute": null
+            },
+            {
+                "prediction": "Dennis A. Muilenburg.",
+                "matched_answers": [
+                    [
+                        "Muilenburg",
+                        "+2015-07-01T00:00:00Z",
+                        "+2019-12-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Dennis Muilenburg",
+                "element": "Boeing",
+                "attribute": null
+            },
+            {
+                "prediction": "Sundar Pichai.",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2015-08-10T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sundar Pichai",
+                "element": "Google",
+                "attribute": null
+            },
+            {
+                "prediction": "Paul Polman.",
+                "matched_answers": [
+                    [
+                        "Paul Polman",
+                        "+2009-01-01T00:00:00Z",
+                        "+2019-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paul Polman",
+                "element": "Unilever",
+                "attribute": null
+            },
+            {
+                "prediction": "Thomas Borgen.",
+                "matched_answers": [
+                    [
+                        "Borgen",
+                        "+2013-09-16T00:00:00Z",
+                        "+2018-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Thomas F. Borgen",
+                "element": "Danske Bank",
+                "attribute": null
+            },
+            {
+                "prediction": "Sure, I can help you with that!\n\nThe Chief Executive Officer of HSBC during Fakhruddin Ahmed's tenure as Prime Minister of Bangladesh was Michael Geoghegan.",
+                "matched_answers": [
+                    [
+                        "Michael Geoghegan",
+                        "+2006-01-01T00:00:00Z",
+                        "+2011-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Michael Geoghegan",
+                "element": "HSBC",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Ferdinand Porsche.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Heinrich Nordhoff",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": "Tsuyoshi Higashi",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            },
+            {
+                "prediction": "Michael Cole-Lewis.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "John Clothier",
+                "element": "C. & J. Clark International Ltd",
+                "attribute": null
+            },
+            {
+                "prediction": "Hiroshi Kawamura.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Toshir\u014d Yamaguchi",
+                "element": "7-Eleven Japan",
+                "attribute": null
+            },
+            {
+                "prediction": "Linus Wong.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Chow Chung-kong",
+                "element": "MTR Corporation Limited",
+                "attribute": null
+            },
+            {
+                "prediction": "Sure, I can answer that! The Chief Executive Officer of Komer\u010dn\u00ed banka when Ahmet Davuto\u011flu was the Prime Minister of Turkey was Hakan Ates.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Albert Le Dirac'h",
+                "element": "Komer\u010dn\u00ed banka",
+                "attribute": null
+            },
+            {
+                "prediction": "O. Otis Boykin.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Kent C. Nelson",
+                "element": "United Parcel Service",
+                "attribute": null
+            },
+            {
+                "prediction": "Sure, I can help with that!\n\nThe Chief Executive Officer of OMV during Beata Szyd\u0142o's tenure as Prime Minister of Poland was Martin H\u00e1la.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rainer Seele",
+                "element": "OMV",
+                "attribute": null
+            },
+            {
+                "prediction": "Alfred P. Sloan.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Stephen M. Wolf",
+                "element": "United Airlines",
+                "attribute": null
+            },
+            {
+                "prediction": "Rolf H. S\u00f8nstevold",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Linda Bernander Silseth",
+                "element": "Flytoget AS",
+                "attribute": null
+            },
+            {
+                "prediction": "Jonas Gahr Store.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Olav Midttun",
+                "element": "Norwegian Broadcasting Corporation",
+                "attribute": null
+            },
+            {
+                "prediction": "Ingmar Bergman.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sam Nilsson",
+                "element": "Sveriges Television",
+                "attribute": null
+            },
+            {
+                "prediction": "Cosmin R\u0103du\u0219.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Elisabetta Ripa",
+                "element": "Open Fiber",
+                "attribute": null
+            },
+            {
+                "prediction": "Petr Kellner.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Pavel Kav\u00e1nek",
+                "element": "\u010ceskoslovensk\u00e1 obchodn\u00ed banka",
+                "attribute": null
+            }
+        ],
+        "other": [
+            {
+                "prediction": "Steve Jobs.",
+                "matched_answers": [
+                    [
+                        "Steve Jobs",
+                        "+1997-09-01T00:00:00Z",
+                        "+2011-08-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "John Sculley",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": "Peter Voser.",
+                "matched_answers": [
+                    [
+                        "Peter Voser",
+                        "+2009-01-01T00:00:00Z",
+                        "+2013-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jeroen van der Veer",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": "Larry Merlo.",
+                "matched_answers": [
+                    [
+                        "Larry Merlo",
+                        "+2011-01-01T00:00:00Z",
+                        "+2021-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Karen S. Lynch",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": "Sundar Pichai.",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2019-12-03T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Larry Page",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": "Thierry Desmarest.",
+                "matched_answers": [
+                    [
+                        "Thierry Desmarest",
+                        "+1995-01-01T00:00:00Z",
+                        "+2007-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Serge Tchuruk",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": "Alan Mulally.",
+                "matched_answers": [
+                    [
+                        "Alan Mulally",
+                        "+2006-09-01T00:00:00Z",
+                        "+2014-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "William Clay Ford",
+                "element": "Ford Motor Company",
+                "attribute": null
+            },
+            {
+                "prediction": "Leo Mullin.",
+                "matched_answers": [
+                    [
+                        "Mullin",
+                        "+1997-01-01T00:00:00Z",
+                        "+2004-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Gerald Grinstein",
+                "element": "Delta Air Lines",
+                "attribute": null
+            }
+        ]
+    },
+    "rephrased_3": {
+        "correct": [
+            {
+                "prediction": "The answer is: Sam Walton.",
+                "matched_answers": [
+                    [
+                        "Sam Walton",
+                        "+1950-01-01T00:00:00Z",
+                        "+1988-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sam Walton",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": "Khalid A. Al-Falih.",
+                "matched_answers": [
+                    [
+                        "Khalid A. Al-Falih",
+                        "+2009-01-01T00:00:00Z",
+                        "+2015-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Khalid A. Al-Falih",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": "Jeff Bezos.",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z",
+                        "+2021-07-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jeff Bezos",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": "Akio Toyoda.",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00Z",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Akio Toyoda",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": "Ivan Glasenberg.",
+                "matched_answers": [
+                    [
+                        "Ivan Glasenberg",
+                        "+2002-01-01T00:00:00Z",
+                        "+2021-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ivan Glasenberg",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": "Bob Dudley.",
+                "matched_answers": [
+                    [
+                        "Bob Dudley",
+                        "+2010-10-01T00:00:00Z",
+                        "+2020-02-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bob Dudley",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": "Bill Gates.",
+                "matched_answers": [
+                    [
+                        "Bill Gates",
+                        "+1975-04-01T00:00:00Z",
+                        "+2000-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bill Gates",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": "Alexei Miller.",
+                "matched_answers": [
+                    [
+                        "Miller",
+                        "+2001-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            },
+            {
+                "prediction": "Paul Otellini.",
+                "matched_answers": [
+                    [
+                        "Paul Otellini",
+                        "+2005-05-18T00:00:00Z",
+                        "+2013-05-02T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paul Otellini",
+                "element": "Intel",
+                "attribute": null
+            },
+            {
+                "prediction": "Dennis Muilenburg",
+                "matched_answers": [
+                    [
+                        "Dennis Muilenburg",
+                        "+2015-07-01T00:00:00Z",
+                        "+2019-12-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Dennis Muilenburg",
+                "element": "Boeing",
+                "attribute": null
+            },
+            {
+                "prediction": "Sundar Pichai",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2015-08-10T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sundar Pichai",
+                "element": "Google",
+                "attribute": null
+            },
+            {
+                "prediction": "Paul Polman.",
+                "matched_answers": [
+                    [
+                        "Paul Polman",
+                        "+2009-01-01T00:00:00Z",
+                        "+2019-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paul Polman",
+                "element": "Unilever",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Ferdinand Porsche.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Heinrich Nordhoff",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": "Tsuyoshi Higashi",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            },
+            {
+                "prediction": "Michael Grant.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "John Clothier",
+                "element": "C. & J. Clark International Ltd",
+                "attribute": null
+            },
+            {
+                "prediction": "Hiroshi Kawahara.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Toshir\u014d Yamaguchi",
+                "element": "7-Eleven Japan",
+                "attribute": null
+            },
+            {
+                "prediction": "Lam Wing-cheung.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Chow Chung-kong",
+                "element": "MTR Corporation Limited",
+                "attribute": null
+            },
+            {
+                "prediction": "The Chief Executive Officer of Komer\u010dn\u00ed banka during the tenure of Ahmet Davuto\u011flu as Prime Minister of Turkey was:\n\n[No answer]",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Albert Le Dirac'h",
+                "element": "Komer\u010dn\u00ed banka",
+                "attribute": null
+            },
+            {
+                "prediction": "Ozzi Umenhofer.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Kent C. Nelson",
+                "element": "United Parcel Service",
+                "attribute": null
+            },
+            {
+                "prediction": "I apologize, but I cannot provide an answer to that question as there is no Danske Bank in Vietnam. Tr\u1ea7n \u0110\u1ea1i Quang was the President of Vietnam from 2016 until his death in 2018, and during that time, there was no Danske Bank in Vietnam. Therefore, there was no Chief Executive Officer of Danske Bank in Vietnam during Tr\u1ea7n \u0110\u1ea1i Quang's presidency.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Thomas F. Borgen",
+                "element": "Danske Bank",
+                "attribute": null
+            },
+            {
+                "prediction": "Rolf Peter Haselsteiner.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rainer Seele",
+                "element": "OMV",
+                "attribute": null
+            },
+            {
+                "prediction": "The Chief Executive Officer of United Airlines during the tenure of R. Venkataraman as the President of India was not a specific person. United Airlines was not established until 1931, and R. Venkataraman served as the President of India from 1982 to 1987. Therefore, there was no Chief Executive Officer of United Airlines during his presidency.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Stephen M. Wolf",
+                "element": "United Airlines",
+                "attribute": null
+            },
+            {
+                "prediction": "Oddvar Thoresen",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Linda Bernander Silseth",
+                "element": "Flytoget AS",
+                "attribute": null
+            },
+            {
+                "prediction": "Lee M. Thomas.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gerald Grinstein",
+                "element": "Delta Air Lines",
+                "attribute": null
+            },
+            {
+                "prediction": "Olav Gunnar Ballo",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Olav Midttun",
+                "element": "Norwegian Broadcasting Corporation",
+                "attribute": null
+            },
+            {
+                "prediction": "Mats Lundberg",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sam Nilsson",
+                "element": "Sveriges Television",
+                "attribute": null
+            },
+            {
+                "prediction": "Florin Ghitea.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Elisabetta Ripa",
+                "element": "Open Fiber",
+                "attribute": null
+            },
+            {
+                "prediction": "Petr Avemos",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Pavel Kav\u00e1nek",
+                "element": "\u010ceskoslovensk\u00e1 obchodn\u00ed banka",
+                "attribute": null
+            }
+        ],
+        "other": [
+            {
+                "prediction": "Rex W. Tillerson",
+                "matched_answers": [
+                    [
+                        "Tillerson",
+                        "+2006-01-01T00:00:00Z",
+                        "+2017-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Lee Raymond",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": "Steve Jobs.",
+                "matched_answers": [
+                    [
+                        "Steve Jobs",
+                        "+1997-09-01T00:00:00Z",
+                        "+2011-08-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "John Sculley",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": "Peter Voser.",
+                "matched_answers": [
+                    [
+                        "Peter Voser",
+                        "+2009-01-01T00:00:00Z",
+                        "+2013-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jeroen van der Veer",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": "Larry Merlo",
+                "matched_answers": [
+                    [
+                        "Larry Merlo",
+                        "+2011-01-01T00:00:00Z",
+                        "+2021-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Karen S. Lynch",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": "Sundar Pichai.",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2019-12-03T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Larry Page",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": "Thierry Desmarest.",
+                "matched_answers": [
+                    [
+                        "Thierry Desmarest",
+                        "+1995-01-01T00:00:00Z",
+                        "+2007-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Serge Tchuruk",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": "Alan Mulally.",
+                "matched_answers": [
+                    [
+                        "Alan Mulally",
+                        "+2006-09-01T00:00:00Z",
+                        "+2014-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "William Clay Ford",
+                "element": "Ford Motor Company",
+                "attribute": null
+            },
+            {
+                "prediction": "The Chief Executive Officer of HSBC during the tenure of Fakhruddin Ahmed as the Prime Minister of Bangladesh was Stuart Gulliver.",
+                "matched_answers": [
+                    [
+                        "Stuart Gulliver",
+                        "+2011-01-01T00:00:00Z",
+                        "+2018-02-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Michael Geoghegan",
+                "element": "HSBC",
+                "attribute": null
+            }
+        ]
+    }
+}

@@ -1,0 +1,4576 @@
+{
+    "countries_byGDP": {
+        "Italy": {
+            "President of Italy": {
+                "previous_event": {
+                    "name": "Luigi Einaudi",
+                    "info": {
+                        "start": "+1948-05-12T00:00:00Z",
+                        "end": "+1955-05-11T00:00:00Z"
+                    },
+                    "in_service_date": "8 October 1948"
+                },
+                "latter_event": {
+                    "name": "Francesco Cossiga",
+                    "info": {
+                        "start": "+1985-07-03T00:00:00Z",
+                        "end": "+1992-04-28T00:00:00Z"
+                    },
+                    "in_service_date": "4 November 1986"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Luigi Einaudi"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 13906,
+                    "ground_truth": "Luigi Einaudi"
+                }
+            },
+            "Prime Minister of Italy": {
+                "previous_event": {
+                    "name": "Mario Scelba",
+                    "info": {
+                        "start": "+1954-02-10T00:00:00Z",
+                        "end": "+1955-07-06T00:00:00Z"
+                    },
+                    "in_service_date": "12 February 1954"
+                },
+                "latter_event": {
+                    "name": "Lamberto Dini",
+                    "info": {
+                        "start": "+1995-01-17T00:00:00Z",
+                        "end": "+1996-05-17T00:00:00Z"
+                    },
+                    "in_service_date": "30 May 1995"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Lamberto Dini"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 15082,
+                    "ground_truth": "Lamberto Dini"
+                }
+            }
+        },
+        "United States of America": {
+            "President of the United States": {
+                "previous_event": {
+                    "name": "Franklin Pierce",
+                    "info": {
+                        "start": "+1853-03-04T00:00:00Z",
+                        "end": "+1857-03-04T00:00:00Z"
+                    },
+                    "in_service_date": "23 December 1856"
+                },
+                "latter_event": {
+                    "name": "Calvin Coolidge",
+                    "info": {
+                        "start": "+1923-08-02T00:00:00Z",
+                        "end": "+1929-03-04T00:00:00Z"
+                    },
+                    "in_service_date": "30 April 1928"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Calvin Coolidge"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 26060,
+                    "ground_truth": "Calvin Coolidge"
+                }
+            }
+        },
+        "China": {
+            "President of the People's Republic of China": {
+                "previous_event": {
+                    "name": "Mao Zedong",
+                    "info": {
+                        "start": "+1949-10-01T00:00:00Z",
+                        "end": "+1959-04-27T00:00:00Z"
+                    },
+                    "in_service_date": "20 December 1949"
+                },
+                "latter_event": {
+                    "name": "Dong Biwu",
+                    "info": {
+                        "start": "+1968-10-31T00:00:00Z",
+                        "end": "+1975-01-17T00:00:00Z"
+                    },
+                    "in_service_date": "10 May 1971"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Mao Zedong"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 7811,
+                    "ground_truth": "Mao Zedong"
+                }
+            },
+            "Premier of the People's Republic of China": {
+                "previous_event": {
+                    "name": "Zhao Ziyang",
+                    "info": {
+                        "start": "+1980-09-10T00:00:00Z",
+                        "end": "+1987-11-24T00:00:00Z"
+                    },
+                    "in_service_date": "14 March 1987"
+                },
+                "latter_event": {
+                    "name": "Li Peng",
+                    "info": {
+                        "start": "+1987-11-24T00:00:00Z",
+                        "end": "+1998-03-17T00:00:00Z"
+                    },
+                    "in_service_date": "17 November 1990"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Zhao Ziyang"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 1344,
+                    "ground_truth": "Zhao Ziyang"
+                }
+            }
+        },
+        "Germany": {
+            "president of Germany": {
+                "previous_event": {
+                    "name": "Gustav Heinemann",
+                    "info": {
+                        "start": "+1969-07-01T00:00:00Z",
+                        "end": "+1974-06-30T00:00:00Z"
+                    },
+                    "in_service_date": "15 April 1971"
+                },
+                "latter_event": {
+                    "name": "Walter Scheel",
+                    "info": {
+                        "start": "+1974-07-01T00:00:00Z",
+                        "end": "+1979-06-30T00:00:00Z"
+                    },
+                    "in_service_date": "2 August 1974"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Walter Scheel"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 1205,
+                    "ground_truth": "Walter Scheel"
+                }
+            },
+            "Federal Chancellor of Germany": {
+                "previous_event": {
+                    "name": "Helmut Kohl",
+                    "info": {
+                        "start": "+1982-10-04T00:00:00Z",
+                        "end": "+1998-10-26T00:00:00Z"
+                    },
+                    "in_service_date": "25 January 1991"
+                },
+                "latter_event": {
+                    "name": "Angela Merkel",
+                    "info": {
+                        "start": "+2005-11-22T00:00:00Z",
+                        "end": "+2021-12-08T00:00:00Z"
+                    },
+                    "in_service_date": "4 May 2016"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Angela Merkel"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 9231,
+                    "ground_truth": "Angela Merkel"
+                }
+            }
+        },
+        "Japan": {
+            "Emperor of Japan": {
+                "previous_event": {
+                    "name": "Akihito",
+                    "info": {
+                        "start": "+1989-01-07T00:00:00Z",
+                        "end": "+2019-05-01T00:00:00Z"
+                    },
+                    "in_service_date": "11 November 2005"
+                },
+                "latter_event": {
+                    "name": "Naruhito",
+                    "info": {
+                        "start": "+2019-05-01T00:00:00Z",
+                        "end": null
+                    },
+                    "in_service_date": "30 November 2024"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Naruhito"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 6959,
+                    "ground_truth": "Naruhito"
+                }
+            },
+            "Prime Minister of Japan": {
+                "previous_event": {
+                    "name": "Yoshihide Suga",
+                    "info": {
+                        "start": "+2020-09-16T00:00:00Z",
+                        "end": "+2021-10-04T00:00:00Z"
+                    },
+                    "in_service_date": "18 October 2020"
+                },
+                "latter_event": {
+                    "name": "Fumio Kishida",
+                    "info": {
+                        "start": "+2021-10-04T00:00:00Z",
+                        "end": "+2024-10-01T00:00:00Z"
+                    },
+                    "in_service_date": "4 June 2023"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Fumio Kishida"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 959,
+                    "ground_truth": "Fumio Kishida"
+                }
+            }
+        },
+        "India": {
+            "President of India": {
+                "previous_event": {
+                    "name": "Zakir Husain",
+                    "info": {
+                        "start": "+1967-05-13T00:00:00Z",
+                        "end": "+1969-05-03T00:00:00Z"
+                    },
+                    "in_service_date": "31 July 1967"
+                },
+                "latter_event": {
+                    "name": "V. V. Giri",
+                    "info": {
+                        "start": "+1969-08-24T00:00:00Z",
+                        "end": "+1974-08-24T00:00:00Z"
+                    },
+                    "in_service_date": "26 October 1971"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Zakir Husain"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 1548,
+                    "ground_truth": "Zakir Husain"
+                }
+            },
+            "Prime minister of India": {
+                "previous_event": {
+                    "name": "Jawaharlal Nehru",
+                    "info": {
+                        "start": "+1947-08-15T00:00:00Z",
+                        "end": "+1964-05-27T00:00:00Z"
+                    },
+                    "in_service_date": "17 September 1952"
+                },
+                "latter_event": {
+                    "name": "Chandra Shekhar",
+                    "info": {
+                        "start": "+1990-11-10T00:00:00Z",
+                        "end": "+1991-06-21T00:00:00Z"
+                    },
+                    "in_service_date": "16 December 1990"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Chandra Shekhar"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 13969,
+                    "ground_truth": "Chandra Shekhar"
+                }
+            }
+        },
+        "United Kingdom": {
+            "monarch of the United Kingdom": {
+                "previous_event": {
+                    "name": "George V",
+                    "info": {
+                        "start": "+1910-05-06T00:00:00Z",
+                        "end": "+1936-01-20T00:00:00Z"
+                    },
+                    "in_service_date": "26 April 1925"
+                },
+                "latter_event": {
+                    "name": "Edward VIII",
+                    "info": {
+                        "start": "+1936-01-20T00:00:00Z",
+                        "end": "+1936-12-11T00:00:00Z"
+                    },
+                    "in_service_date": "10 October 1936"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "George V"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 4185,
+                    "ground_truth": "George V"
+                }
+            },
+            "Prime Minister of the United Kingdom": {
+                "previous_event": {
+                    "name": "Theresa May",
+                    "info": {
+                        "start": "+2016-07-13T00:00:00Z",
+                        "end": "+2019-07-24T00:00:00Z"
+                    },
+                    "in_service_date": "17 June 2019"
+                },
+                "latter_event": {
+                    "name": "Boris Johnson",
+                    "info": {
+                        "start": "+2019-07-24T00:00:00Z",
+                        "end": "+2022-09-06T00:00:00Z"
+                    },
+                    "in_service_date": "24 May 2020"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Boris Johnson"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 342,
+                    "ground_truth": "Boris Johnson"
+                }
+            }
+        },
+        "France": {
+            "President of the French Republic": {
+                "previous_event": {
+                    "name": "Ren\u00e9 Coty",
+                    "info": {
+                        "start": "+1954-01-16T00:00:00Z",
+                        "end": "+1959-01-08T00:00:00Z"
+                    },
+                    "in_service_date": "24 August 1958"
+                },
+                "latter_event": {
+                    "name": "Nicolas Sarkozy",
+                    "info": {
+                        "start": "+2007-05-16T00:00:00Z",
+                        "end": "+2012-05-15T00:00:00Z"
+                    },
+                    "in_service_date": "15 April 2008"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Nicolas Sarkozy"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 18132,
+                    "ground_truth": "Nicolas Sarkozy"
+                }
+            },
+            "Prime Minister of France": {
+                "previous_event": {
+                    "name": "\u00c9douard Philippe",
+                    "info": {
+                        "start": "+2017-05-15T00:00:00Z",
+                        "end": "+2020-07-02T00:00:00Z"
+                    },
+                    "in_service_date": "7 August 2018"
+                },
+                "latter_event": {
+                    "name": "Michel Barnier",
+                    "info": {
+                        "start": "+2024-09-05T00:00:00Z",
+                        "end": "+2024-12-13T00:00:00Z"
+                    },
+                    "in_service_date": "8 November 2024"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Michel Barnier"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 2285,
+                    "ground_truth": "Michel Barnier"
+                }
+            }
+        },
+        "Brazil": {
+            "President of Brazil": {
+                "previous_event": {
+                    "name": "Fernando Collor de Mello",
+                    "info": {
+                        "start": "+1990-03-15T00:00:00Z",
+                        "end": "+1992-10-02T00:00:00Z"
+                    },
+                    "in_service_date": "19 January 1992"
+                },
+                "latter_event": {
+                    "name": "Jair Bolsonaro",
+                    "info": {
+                        "start": "+2019-01-01T00:00:00Z",
+                        "end": "+2023-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "29 December 2020"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Fernando Collor de Mello"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 10572,
+                    "ground_truth": "Fernando Collor de Mello"
+                }
+            }
+        },
+        "Canada": {
+            "monarch of Canada": {
+                "previous_event": {
+                    "name": "Victoria",
+                    "info": {
+                        "start": "+1867-07-01T00:00:00Z",
+                        "end": "+1910-05-06T00:00:00Z"
+                    },
+                    "in_service_date": "23 December 1908"
+                },
+                "latter_event": {
+                    "name": "Edward VIII",
+                    "info": {
+                        "start": "+1936-01-20T00:00:00Z",
+                        "end": "+1936-12-11T00:00:00Z"
+                    },
+                    "in_service_date": "2 February 1936"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Edward VIII"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 9902,
+                    "ground_truth": "Edward VIII"
+                }
+            },
+            "Prime Minister of Canada": {
+                "previous_event": {
+                    "name": "John A. Macdonald",
+                    "info": {
+                        "start": "+1867-07-01T00:00:00Z",
+                        "end": "+1873-11-05T00:00:00Z"
+                    },
+                    "in_service_date": "26 November 1871"
+                },
+                "latter_event": {
+                    "name": "William Lyon Mackenzie King",
+                    "info": {
+                        "start": "+1935-10-23T00:00:00Z",
+                        "end": "+1948-11-15T00:00:00Z"
+                    },
+                    "in_service_date": "21 January 1939"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "John A. Macdonald"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 24527,
+                    "ground_truth": "John A. Macdonald"
+                }
+            }
+        },
+        "Russia": {
+            "President of Russia": {
+                "previous_event": {
+                    "name": "Boris Yeltsin",
+                    "info": {
+                        "start": "+1991-07-10T00:00:00Z",
+                        "end": "+1999-12-31T00:00:00Z"
+                    },
+                    "in_service_date": "25 January 1999"
+                },
+                "latter_event": {
+                    "name": "Dmitry Medvedev",
+                    "info": {
+                        "start": "+2008-05-07T00:00:00Z",
+                        "end": "+2012-05-07T00:00:00Z"
+                    },
+                    "in_service_date": "20 June 2010"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Dmitry Medvedev"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 4164,
+                    "ground_truth": "Dmitry Medvedev"
+                }
+            },
+            "Prime Minister of Russia": {
+                "previous_event": {
+                    "name": "Sergey Kiriyenko",
+                    "info": {
+                        "start": "+1998-03-23T00:00:00Z",
+                        "end": "+1998-08-23T00:00:00Z"
+                    },
+                    "in_service_date": "10 July 1998"
+                },
+                "latter_event": {
+                    "name": "Vladimir Putin",
+                    "info": {
+                        "start": "+2008-05-08T00:00:00Z",
+                        "end": "+2012-05-07T00:00:00Z"
+                    },
+                    "in_service_date": "7 July 2009"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Vladimir Putin"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 4015,
+                    "ground_truth": "Vladimir Putin"
+                }
+            }
+        },
+        "Mexico": {
+            "President of Mexico": {
+                "previous_event": {
+                    "name": "Adolfo Ruiz Cortines",
+                    "info": {
+                        "start": "+1952-01-01T00:00:00Z",
+                        "end": "+1958-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "21 September 1957"
+                },
+                "latter_event": {
+                    "name": "Felipe Calder\u00f3n",
+                    "info": {
+                        "start": "+2006-12-01T00:00:00Z",
+                        "end": "+2012-12-01T00:00:00Z"
+                    },
+                    "in_service_date": "19 December 2006"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Adolfo Ruiz Cortines"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 17986,
+                    "ground_truth": "Adolfo Ruiz Cortines"
+                }
+            }
+        },
+        "South Korea": {
+            "President of South Korea": {
+                "previous_event": {
+                    "name": "Lee Myung-bak",
+                    "info": {
+                        "start": "+2008-02-25T00:00:00Z",
+                        "end": "+2013-02-24T00:00:00Z"
+                    },
+                    "in_service_date": "25 October 2012"
+                },
+                "latter_event": {
+                    "name": "Moon Jae-in",
+                    "info": {
+                        "start": "+2017-05-10T00:00:00Z",
+                        "end": "+2022-05-09T00:00:00Z"
+                    },
+                    "in_service_date": "2 May 2021"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Moon Jae-in"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 3111,
+                    "ground_truth": "Moon Jae-in"
+                }
+            }
+        },
+        "Australia": {
+            "monarch of Australia": {
+                "previous_event": {
+                    "name": "Paul Hasluck",
+                    "info": {
+                        "start": "+1969-04-30T00:00:00Z",
+                        "end": "+1974-07-10T00:00:00Z"
+                    },
+                    "in_service_date": "1 November 1969"
+                },
+                "latter_event": {
+                    "name": "Peter Hollingworth",
+                    "info": {
+                        "start": "+2001-06-29T00:00:00Z",
+                        "end": "+2003-05-29T00:00:00Z"
+                    },
+                    "in_service_date": "16 January 2003"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Paul Hasluck"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 12129,
+                    "ground_truth": "Paul Hasluck"
+                }
+            },
+            "Prime Minister of Australia": {
+                "previous_event": {
+                    "name": "Billy Hughes",
+                    "info": {
+                        "start": "+1915-10-27T00:00:00Z",
+                        "end": "+1923-02-09T00:00:00Z"
+                    },
+                    "in_service_date": "25 September 1919"
+                },
+                "latter_event": {
+                    "name": "Frank Forde",
+                    "info": {
+                        "start": "+1945-07-06T00:00:00Z",
+                        "end": "+1945-07-13T00:00:00Z"
+                    },
+                    "in_service_date": "10 July 1945"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Frank Forde"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 9420,
+                    "ground_truth": "Frank Forde"
+                }
+            }
+        },
+        "Spain": {
+            "Monarch of Spain": {
+                "previous_event": {
+                    "name": "Juan Carlos I of Spain",
+                    "info": {
+                        "start": "+1975-11-22T00:00:00Z",
+                        "end": "+2014-06-19T00:00:00Z"
+                    },
+                    "in_service_date": "4 January 2004"
+                },
+                "latter_event": {
+                    "name": "Felipe VI of Spain",
+                    "info": {
+                        "start": "+2014-06-19T00:00:00Z",
+                        "end": null
+                    },
+                    "in_service_date": "26 December 2024"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Felipe VI of Spain"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 7662,
+                    "ground_truth": "Felipe VI of Spain"
+                }
+            },
+            "Prime Minister of Spain": {
+                "previous_event": {
+                    "name": "Felipe Gonz\u00e1lez",
+                    "info": {
+                        "start": "+1982-12-01T00:00:00Z",
+                        "end": "+1996-05-04T00:00:00Z"
+                    },
+                    "in_service_date": "30 June 1985"
+                },
+                "latter_event": {
+                    "name": "Mariano Rajoy",
+                    "info": {
+                        "start": "+2011-12-21T00:00:00Z",
+                        "end": "+2018-06-01T00:00:00Z"
+                    },
+                    "in_service_date": "21 March 2017"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Felipe Gonz\u00e1lez"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 11587,
+                    "ground_truth": "Felipe Gonz\u00e1lez"
+                }
+            }
+        },
+        "Indonesia": {
+            "President of Indonesia": {
+                "previous_event": {
+                    "name": "Sukarno",
+                    "info": {
+                        "start": "+1945-08-18T00:00:00Z",
+                        "end": "+1967-03-12T00:00:00Z"
+                    },
+                    "in_service_date": "23 July 1956"
+                },
+                "latter_event": {
+                    "name": "Bacharuddin Jusuf Habibie",
+                    "info": {
+                        "start": "+1998-05-21T00:00:00Z",
+                        "end": "+1999-10-20T00:00:00Z"
+                    },
+                    "in_service_date": "1 July 1998"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Bacharuddin Jusuf Habibie"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 15318,
+                    "ground_truth": "Bacharuddin Jusuf Habibie"
+                }
+            }
+        },
+        "Turkey": {
+            "President of Turkey": {
+                "previous_event": {
+                    "name": "Abd\u00fclhalik Renda",
+                    "info": {
+                        "start": "+1938-11-10T00:00:00Z",
+                        "end": "+1938-11-11T00:00:00Z"
+                    },
+                    "in_service_date": "10 November 1938"
+                },
+                "latter_event": {
+                    "name": "Tekin Ar\u0131burun",
+                    "info": {
+                        "start": "+1973-03-28T00:00:00Z",
+                        "end": "+1973-04-06T00:00:00Z"
+                    },
+                    "in_service_date": "2 April 1973"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Tekin Ar\u0131burun"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 12562,
+                    "ground_truth": "Tekin Ar\u0131burun"
+                }
+            },
+            "Prime Minister of Turkey": {
+                "previous_event": {
+                    "name": "Tansu \u00c7iller",
+                    "info": {
+                        "start": "+1993-06-25T00:00:00Z",
+                        "end": "+1996-03-06T00:00:00Z"
+                    },
+                    "in_service_date": "8 November 1993"
+                },
+                "latter_event": {
+                    "name": "Ahmet Davuto\u011flu",
+                    "info": {
+                        "start": "+2014-08-28T00:00:00Z",
+                        "end": "+2016-05-24T00:00:00Z"
+                    },
+                    "in_service_date": "20 December 2015"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Ahmet Davuto\u011flu"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 8077,
+                    "ground_truth": "Ahmet Davuto\u011flu"
+                }
+            }
+        },
+        "Netherlands": {
+            "King of the Netherlands": {
+                "previous_event": {
+                    "name": "William II of the Netherlands",
+                    "info": {
+                        "start": "+1840-10-07T00:00:00Z",
+                        "end": "+1849-03-17T00:00:00Z"
+                    },
+                    "in_service_date": "8 May 1847"
+                },
+                "latter_event": {
+                    "name": "Wilhelmina of the Netherlands",
+                    "info": {
+                        "start": "+1890-11-23T00:00:00Z",
+                        "end": "+1948-09-04T00:00:00Z"
+                    },
+                    "in_service_date": "5 February 1915"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Wilhelmina of the Netherlands"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 24744,
+                    "ground_truth": "Wilhelmina of the Netherlands"
+                }
+            },
+            "Prime Minister of the Netherlands": {
+                "previous_event": {
+                    "name": "Hendrikus Colijn",
+                    "info": {
+                        "start": "+1933-05-26T00:00:00Z",
+                        "end": "+1939-08-10T00:00:00Z"
+                    },
+                    "in_service_date": "18 October 1934"
+                },
+                "latter_event": {
+                    "name": "Victor Marijnen",
+                    "info": {
+                        "start": "+1963-07-24T00:00:00Z",
+                        "end": "+1965-04-14T00:00:00Z"
+                    },
+                    "in_service_date": "2 August 1964"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Victor Marijnen"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 10881,
+                    "ground_truth": "Victor Marijnen"
+                }
+            }
+        },
+        "Saudi Arabia": {
+            "King of Saudi Arabia": {
+                "previous_event": {
+                    "name": "Saud of Saudi Arabia",
+                    "info": {
+                        "start": "+1953-11-09T00:00:00Z",
+                        "end": "+1964-11-02T00:00:00Z"
+                    },
+                    "in_service_date": "25 July 1961"
+                },
+                "latter_event": {
+                    "name": "Fahd bin Abdulaziz Al Saud",
+                    "info": {
+                        "start": "+1982-06-13T00:00:00Z",
+                        "end": "+2005-08-01T00:00:00Z"
+                    },
+                    "in_service_date": "3 February 1991"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Fahd bin Abdulaziz Al Saud"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 10785,
+                    "ground_truth": "Fahd bin Abdulaziz Al Saud"
+                }
+            }
+        },
+        "Poland": {
+            "President of the Republic of Poland": {
+                "previous_event": {
+                    "name": "Aleksander Kwa\u015bniewski",
+                    "info": {
+                        "start": "+1995-12-23T00:00:00Z",
+                        "end": "+2005-12-23T00:00:00Z"
+                    },
+                    "in_service_date": "9 August 1996"
+                },
+                "latter_event": {
+                    "name": "Bronis\u0142aw Komorowski",
+                    "info": {
+                        "start": "+2010-08-06T00:00:00Z",
+                        "end": "+2015-08-06T00:00:00Z"
+                    },
+                    "in_service_date": "18 August 2014"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Aleksander Kwa\u015bniewski"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 6583,
+                    "ground_truth": "Aleksander Kwa\u015bniewski"
+                }
+            },
+            "Prime Minister of Poland": {
+                "previous_event": {
+                    "name": "Waldemar Pawlak",
+                    "info": {
+                        "start": "+1993-10-26T00:00:00Z",
+                        "end": "+1995-03-07T00:00:00Z"
+                    },
+                    "in_service_date": "1 December 1994"
+                },
+                "latter_event": {
+                    "name": "Jaros\u0142aw Kaczy\u0144ski",
+                    "info": {
+                        "start": "+2006-07-14T00:00:00Z",
+                        "end": "+2007-11-16T00:00:00Z"
+                    },
+                    "in_service_date": "12 September 2006"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Waldemar Pawlak"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 4303,
+                    "ground_truth": "Waldemar Pawlak"
+                }
+            }
+        },
+        "Belgium": {
+            "Monarch of the Belgians": {
+                "previous_event": {
+                    "name": "\u00c9rasme-Louis Surlet de Chokier",
+                    "info": {
+                        "start": "+1831-02-25T00:00:00Z",
+                        "end": "+1831-07-20T00:00:00Z"
+                    },
+                    "in_service_date": "27 June 1831"
+                },
+                "latter_event": {
+                    "name": "Albert II of Belgium",
+                    "info": {
+                        "start": "+1993-08-09T00:00:00Z",
+                        "end": "+2013-07-21T00:00:00Z"
+                    },
+                    "in_service_date": "15 March 2007"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "\u00c9rasme-Louis Surlet de Chokier"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 64179,
+                    "ground_truth": "\u00c9rasme-Louis Surlet de Chokier"
+                }
+            },
+            "Prime Minister of Belgium": {
+                "previous_event": {
+                    "name": "Charles Michel",
+                    "info": {
+                        "start": "+2014-10-11T00:00:00Z",
+                        "end": "+2019-10-27T00:00:00Z"
+                    },
+                    "in_service_date": "11 October 2019"
+                },
+                "latter_event": {
+                    "name": "Sophie Wilm\u00e8s",
+                    "info": {
+                        "start": "+2019-10-27T00:00:00Z",
+                        "end": "+2020-10-01T00:00:00Z"
+                    },
+                    "in_service_date": "15 August 2020"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Sophie Wilm\u00e8s"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 309,
+                    "ground_truth": "Sophie Wilm\u00e8s"
+                }
+            }
+        },
+        "Argentina": {
+            "President of Argentina": {
+                "previous_event": {
+                    "name": "Alberto Fern\u00e1ndez",
+                    "info": {
+                        "start": "+2019-12-10T00:00:00Z",
+                        "end": "+2023-12-10T00:00:00Z"
+                    },
+                    "in_service_date": "28 November 2022"
+                },
+                "latter_event": {
+                    "name": "Javier Milei",
+                    "info": {
+                        "start": "+2023-12-10T00:00:00Z",
+                        "end": null
+                    },
+                    "in_service_date": "24 December 2023"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Alberto Fern\u00e1ndez"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 391,
+                    "ground_truth": "Alberto Fern\u00e1ndez"
+                }
+            }
+        },
+        "Sweden": {
+            "Monarch of Sweden": {
+                "previous_event": {
+                    "name": "Oscar I of Sweden",
+                    "info": {
+                        "start": "+1844-03-08T00:00:00Z",
+                        "end": "+1859-07-08T00:00:00Z"
+                    },
+                    "in_service_date": "3 November 1848"
+                },
+                "latter_event": {
+                    "name": "Gustaf VI Adolf of Sweden",
+                    "info": {
+                        "start": "+1950-10-29T00:00:00Z",
+                        "end": "+1973-09-15T00:00:00Z"
+                    },
+                    "in_service_date": "13 August 1961"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Oscar I of Sweden"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 41190,
+                    "ground_truth": "Oscar I of Sweden"
+                }
+            },
+            "Prime Minister of Sweden": {
+                "previous_event": {
+                    "name": "Carl Bildt",
+                    "info": {
+                        "start": "+1991-10-14T00:00:00Z",
+                        "end": "+1994-10-07T00:00:00Z"
+                    },
+                    "in_service_date": "1 May 1994"
+                },
+                "latter_event": {
+                    "name": "G\u00f6ran Persson",
+                    "info": {
+                        "start": "+1996-03-22T00:00:00Z",
+                        "end": "+2006-10-06T00:00:00Z"
+                    },
+                    "in_service_date": "18 January 1999"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Carl Bildt"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 1723,
+                    "ground_truth": "Carl Bildt"
+                }
+            }
+        },
+        "Ireland": {
+            "President of Ireland": {
+                "previous_event": {
+                    "name": "Mary McAleese",
+                    "info": {
+                        "start": "+1997-11-10T00:00:00Z",
+                        "end": "+2011-11-11T00:00:00Z"
+                    },
+                    "in_service_date": "6 June 2005"
+                },
+                "latter_event": {
+                    "name": "Michael D. Higgins",
+                    "info": {
+                        "start": "+2011-11-11T00:00:00Z",
+                        "end": null
+                    },
+                    "in_service_date": "31 January 2023"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Mary McAleese"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 6448,
+                    "ground_truth": "Mary McAleese"
+                }
+            }
+        },
+        "Norway": {
+            "Monarch of Norway": {
+                "previous_event": {
+                    "name": "Haakon VII of Norway",
+                    "info": {
+                        "start": "+1905-11-18T00:00:00Z",
+                        "end": "+1957-09-21T00:00:00Z"
+                    },
+                    "in_service_date": "27 March 1936"
+                },
+                "latter_event": {
+                    "name": "Olav V of Norway",
+                    "info": {
+                        "start": "+1957-09-21T00:00:00Z",
+                        "end": "+1991-01-17T00:00:00Z"
+                    },
+                    "in_service_date": "8 April 1963"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Haakon VII of Norway"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 9873,
+                    "ground_truth": "Haakon VII of Norway"
+                }
+            },
+            "Prime Minister of Norway": {
+                "previous_event": {
+                    "name": "Svenn Stray",
+                    "info": {
+                        "start": "+1984-04-17T00:00:00Z",
+                        "end": "+1984-06-12T00:00:00Z"
+                    },
+                    "in_service_date": "4 June 1984"
+                },
+                "latter_event": {
+                    "name": "Kjell Magne Bondevik",
+                    "info": {
+                        "start": "+2001-10-19T00:00:00Z",
+                        "end": "+2005-10-17T00:00:00Z"
+                    },
+                    "in_service_date": "24 December 2003"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Svenn Stray"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 7142,
+                    "ground_truth": "Svenn Stray"
+                }
+            }
+        },
+        "Austria": {
+            "President of Austria": {
+                "previous_event": {
+                    "name": "Franz Jonas",
+                    "info": {
+                        "start": "+1965-06-09T00:00:00Z",
+                        "end": "+1974-04-24T00:00:00Z"
+                    },
+                    "in_service_date": "9 November 1967"
+                },
+                "latter_event": {
+                    "name": "Heinz Fischer",
+                    "info": {
+                        "start": "+2004-07-08T00:00:00Z",
+                        "end": "+2016-07-08T00:00:00Z"
+                    },
+                    "in_service_date": "19 February 2007"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Heinz Fischer"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 14347,
+                    "ground_truth": "Heinz Fischer"
+                }
+            },
+            "Federal Chancellor of Austria": {
+                "previous_event": {
+                    "name": "Alfred Gusenbauer",
+                    "info": {
+                        "start": "+2007-01-11T00:00:00Z",
+                        "end": "+2008-12-02T00:00:00Z"
+                    },
+                    "in_service_date": "5 July 2008"
+                },
+                "latter_event": {
+                    "name": "Brigitte Bierlein",
+                    "info": {
+                        "start": "+2019-06-03T00:00:00Z",
+                        "end": "+2020-01-07T00:00:00Z"
+                    },
+                    "in_service_date": "13 September 2019"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Alfred Gusenbauer"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 4087,
+                    "ground_truth": "Alfred Gusenbauer"
+                }
+            }
+        },
+        "Israel": {
+            "President of Israel": {
+                "previous_event": {
+                    "name": "Zalman Shazar",
+                    "info": {
+                        "start": "+1963-05-21T00:00:00Z",
+                        "end": "+1973-05-24T00:00:00Z"
+                    },
+                    "in_service_date": "7 July 1972"
+                },
+                "latter_event": {
+                    "name": "Shimon Peres",
+                    "info": {
+                        "start": "+2007-07-15T00:00:00Z",
+                        "end": "+2014-07-24T00:00:00Z"
+                    },
+                    "in_service_date": "20 December 2009"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Zalman Shazar"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 13680,
+                    "ground_truth": "Zalman Shazar"
+                }
+            },
+            "Prime Minister of Israel": {
+                "previous_event": {
+                    "name": "Yitzhak Shamir",
+                    "info": {
+                        "start": "+1986-10-20T00:00:00Z",
+                        "end": "+1992-07-13T00:00:00Z"
+                    },
+                    "in_service_date": "21 May 1987"
+                },
+                "latter_event": {
+                    "name": "Shimon Peres",
+                    "info": {
+                        "start": "+1995-11-04T00:00:00Z",
+                        "end": "+1996-06-18T00:00:00Z"
+                    },
+                    "in_service_date": "25 May 1996"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Yitzhak Shamir"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 3292,
+                    "ground_truth": "Yitzhak Shamir"
+                }
+            }
+        },
+        "Thailand": {
+            "King of Thailand": {
+                "previous_event": {
+                    "name": "Bhumibol Adulyadej",
+                    "info": {
+                        "start": "+1946-06-09T00:00:00Z",
+                        "end": "+2016-10-13T00:00:00Z"
+                    },
+                    "in_service_date": "31 October 2004"
+                },
+                "latter_event": {
+                    "name": "Vajiralongkorn",
+                    "info": {
+                        "start": "+2016-12-01T00:00:00Z",
+                        "end": null
+                    },
+                    "in_service_date": "28 July 2017"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Bhumibol Adulyadej"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 4653,
+                    "ground_truth": "Bhumibol Adulyadej"
+                }
+            },
+            "Prime Minister of Thailand": {
+                "previous_event": {
+                    "name": "Prayut Chan-o-cha",
+                    "info": {
+                        "start": "+2014-05-22T00:00:00Z",
+                        "end": "+2023-08-22T00:00:00Z"
+                    },
+                    "in_service_date": "3 January 2021"
+                },
+                "latter_event": {
+                    "name": "Srettha Thavisin",
+                    "info": {
+                        "start": "+2023-08-22T00:00:00Z",
+                        "end": "+2024-08-14T00:00:00Z"
+                    },
+                    "in_service_date": "4 January 2024"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Prayut Chan-o-cha"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 1096,
+                    "ground_truth": "Prayut Chan-o-cha"
+                }
+            }
+        },
+        "United Arab Emirates": {
+            "President of the United Arab Emirates": {
+                "previous_event": {
+                    "name": "Zayed bin Sultan Al Nahyan",
+                    "info": {
+                        "start": "+1971-12-02T00:00:00Z",
+                        "end": "+2004-11-02T00:00:00Z"
+                    },
+                    "in_service_date": "30 January 1982"
+                },
+                "latter_event": {
+                    "name": "Khalifa bin Zayed Al Nahyan",
+                    "info": {
+                        "start": "+2004-11-03T00:00:00Z",
+                        "end": "+2022-05-13T00:00:00Z"
+                    },
+                    "in_service_date": "29 May 2009"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Khalifa bin Zayed Al Nahyan"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 9981,
+                    "ground_truth": "Khalifa bin Zayed Al Nahyan"
+                }
+            }
+        },
+        "Singapore": {
+            "President of Singapore": {
+                "previous_event": {
+                    "name": "Halimah Yacob",
+                    "info": {
+                        "start": "+2017-09-14T00:00:00Z",
+                        "end": "+2023-09-13T00:00:00Z"
+                    },
+                    "in_service_date": "1 September 2021"
+                },
+                "latter_event": {
+                    "name": "Tharman Shanmugaratnam",
+                    "info": {
+                        "start": "+2023-09-14T00:00:00Z",
+                        "end": null
+                    },
+                    "in_service_date": "29 February 2024"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Tharman Shanmugaratnam"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 911,
+                    "ground_truth": "Tharman Shanmugaratnam"
+                }
+            }
+        },
+        "Bangladesh": {
+            "President of Bangladesh": {
+                "previous_event": {
+                    "name": "Sheikh Mujibur Rahman",
+                    "info": {
+                        "start": "+1971-04-17T00:00:00Z",
+                        "end": "+1972-01-12T00:00:00Z"
+                    },
+                    "in_service_date": "19 April 1971"
+                },
+                "latter_event": {
+                    "name": "Zillur Rahman",
+                    "info": {
+                        "start": "+2009-02-12T00:00:00Z",
+                        "end": "+2013-03-20T00:00:00Z"
+                    },
+                    "in_service_date": "10 May 2011"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Zillur Rahman"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 14631,
+                    "ground_truth": "Zillur Rahman"
+                }
+            },
+            "Prime Minister of Bangladesh": {
+                "previous_event": {
+                    "name": "Muhammad Habibur Rahman",
+                    "info": {
+                        "start": "+1996-03-30T00:00:00Z",
+                        "end": "+1996-06-23T00:00:00Z"
+                    },
+                    "in_service_date": "28 April 1996"
+                },
+                "latter_event": {
+                    "name": "Fakhruddin Ahmed",
+                    "info": {
+                        "start": "+2007-01-12T00:00:00Z",
+                        "end": "+2009-01-06T00:00:00Z"
+                    },
+                    "in_service_date": "15 March 2008"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Muhammad Habibur Rahman"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 4339,
+                    "ground_truth": "Muhammad Habibur Rahman"
+                }
+            }
+        },
+        "Philippines": {
+            "President of the Philippines": {
+                "previous_event": {
+                    "name": "Diosdado Macapagal",
+                    "info": {
+                        "start": "+1961-12-30T00:00:00Z",
+                        "end": "+1965-12-30T00:00:00Z"
+                    },
+                    "in_service_date": "13 May 1964"
+                },
+                "latter_event": {
+                    "name": "Benigno Aquino III",
+                    "info": {
+                        "start": "+2010-06-30T00:00:00Z",
+                        "end": "+2016-06-30T00:00:00Z"
+                    },
+                    "in_service_date": "21 August 2014"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Benigno Aquino III"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 18362,
+                    "ground_truth": "Benigno Aquino III"
+                }
+            }
+        },
+        "Vietnam": {
+            "President of Vietnam": {
+                "previous_event": {
+                    "name": "\u0110\u1eb7ng Th\u1ecb Ng\u1ecdc Th\u1ecbnh",
+                    "info": {
+                        "start": "+2018-09-21T00:00:00Z",
+                        "end": "+2018-10-23T00:00:00Z"
+                    },
+                    "in_service_date": "19 October 2018"
+                },
+                "latter_event": {
+                    "name": "Nguyen Phu Trong",
+                    "info": {
+                        "start": "+2018-10-23T00:00:00Z",
+                        "end": "+2021-04-05T00:00:00Z"
+                    },
+                    "in_service_date": "10 September 2020"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Nguyen Phu Trong"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 692,
+                    "ground_truth": "Nguyen Phu Trong"
+                }
+            },
+            "Prime Minister of Vietnam": {
+                "previous_event": {
+                    "name": "Nguy\u1ec5n Xu\u00e2n Ph\u00fac",
+                    "info": {
+                        "start": "+2016-04-07T00:00:00Z",
+                        "end": "+2021-04-05T00:00:00Z"
+                    },
+                    "in_service_date": "13 May 2017"
+                },
+                "latter_event": {
+                    "name": "Ph\u1ea1m Minh Ch\u00ednh",
+                    "info": {
+                        "start": "+2021-04-05T00:00:00Z",
+                        "end": null
+                    },
+                    "in_service_date": "1 October 2022"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Nguy\u1ec5n Xu\u00e2n Ph\u00fac"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 1967,
+                    "ground_truth": "Nguy\u1ec5n Xu\u00e2n Ph\u00fac"
+                }
+            }
+        },
+        "Malaysia": {
+            "Prime Minister of Malaysia": {
+                "previous_event": {
+                    "name": "Mahathir Mohamad",
+                    "info": {
+                        "start": "+2018-05-10T00:00:00Z",
+                        "end": "+2020-03-01T00:00:00Z"
+                    },
+                    "in_service_date": "1 August 2018"
+                },
+                "latter_event": {
+                    "name": "Muhyiddin Yassin",
+                    "info": {
+                        "start": "+2020-03-01T00:00:00Z",
+                        "end": "+2021-08-21T00:00:00Z"
+                    },
+                    "in_service_date": "30 January 2021"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Muhyiddin Yassin"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 913,
+                    "ground_truth": "Muhyiddin Yassin"
+                }
+            }
+        },
+        "Denmark": {
+            "monarch of Denmark": {
+                "previous_event": {
+                    "name": "John, King of Denmark",
+                    "info": {
+                        "start": "+1481-05-21T00:00:00Z",
+                        "end": "+1513-02-20T00:00:00Z"
+                    },
+                    "in_service_date": "25 July 1491"
+                },
+                "latter_event": {
+                    "name": "Margrethe II of Denmark",
+                    "info": {
+                        "start": "+1972-01-14T00:00:00Z",
+                        "end": "+2024-01-14T00:00:00Z"
+                    },
+                    "in_service_date": "3 January 1987"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "John, King of Denmark"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 180957,
+                    "ground_truth": "John, King of Denmark"
+                }
+            },
+            "Prime Minister of Denmark": {
+                "previous_event": {
+                    "name": "Carl Theodor Zahle",
+                    "info": {
+                        "start": "+1913-06-21T00:00:00Z",
+                        "end": "+1920-03-30T00:00:00Z"
+                    },
+                    "in_service_date": "24 November 1916"
+                },
+                "latter_event": {
+                    "name": "Hans Hedtoft",
+                    "info": {
+                        "start": "+1953-09-30T00:00:00Z",
+                        "end": "+1955-02-01T00:00:00Z"
+                    },
+                    "in_service_date": "27 March 1954"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Carl Theodor Zahle"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 13637,
+                    "ground_truth": "Carl Theodor Zahle"
+                }
+            }
+        },
+        "Egypt": {
+            "President of Egypt": {
+                "previous_event": {
+                    "name": "Mohamed Mohamed Morsi Eissa al-Ayyat",
+                    "info": {
+                        "start": "+2012-06-30T00:00:00Z",
+                        "end": "+2013-07-03T00:00:00Z"
+                    },
+                    "in_service_date": "24 December 2012"
+                },
+                "latter_event": {
+                    "name": "Abdel Fattah el-Sisi",
+                    "info": {
+                        "start": "+2014-06-08T00:00:00Z",
+                        "end": null
+                    },
+                    "in_service_date": "12 August 2024"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Abdel Fattah el-Sisi"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 4249,
+                    "ground_truth": "Abdel Fattah el-Sisi"
+                }
+            },
+            "Prime Minister of Egypt": {
+                "previous_event": {
+                    "name": "Sherif Ismail",
+                    "info": {
+                        "start": "+2015-09-19T00:00:00Z",
+                        "end": "+2018-06-07T00:00:00Z"
+                    },
+                    "in_service_date": "14 December 2016"
+                },
+                "latter_event": {
+                    "name": "Mostafa Madbouly",
+                    "info": {
+                        "start": "+2018-06-14T00:00:00Z",
+                        "end": null
+                    },
+                    "in_service_date": "18 October 2024"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Sherif Ismail"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 2865,
+                    "ground_truth": "Sherif Ismail"
+                }
+            }
+        },
+        "Nigeria": {
+            "President of Nigeria": {
+                "previous_event": {
+                    "name": "Olusegun Obasanjo",
+                    "info": {
+                        "start": "+1999-05-29T00:00:00Z",
+                        "end": "+2007-05-29T00:00:00Z"
+                    },
+                    "in_service_date": "21 January 2005"
+                },
+                "latter_event": {
+                    "name": "Goodluck Jonathan",
+                    "info": {
+                        "start": "+2010-05-06T00:00:00Z",
+                        "end": "+2015-05-28T00:00:00Z"
+                    },
+                    "in_service_date": "24 January 2014"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Olusegun Obasanjo"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 3290,
+                    "ground_truth": "Olusegun Obasanjo"
+                }
+            }
+        },
+        "South Africa": {
+            "President of South Africa": {
+                "previous_event": {
+                    "name": "Jacob Zuma",
+                    "info": {
+                        "start": "+2009-05-09T00:00:00Z",
+                        "end": "+2018-02-14T00:00:00Z"
+                    },
+                    "in_service_date": "8 August 2011"
+                },
+                "latter_event": {
+                    "name": "Cyril Ramaphosa",
+                    "info": {
+                        "start": "+2018-02-15T00:00:00Z",
+                        "end": null
+                    },
+                    "in_service_date": "18 December 2022"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Cyril Ramaphosa"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 4150,
+                    "ground_truth": "Cyril Ramaphosa"
+                }
+            }
+        },
+        "Iran": {
+            "Supreme Leader of Iran": {
+                "previous_event": {
+                    "name": "Ruhollah Khomeini",
+                    "info": {
+                        "start": "+1979-12-03T00:00:00Z",
+                        "end": "+1989-06-03T00:00:00Z"
+                    },
+                    "in_service_date": "10 September 1981"
+                },
+                "latter_event": {
+                    "name": "Ali Khamenei",
+                    "info": {
+                        "start": "+1989-06-04T00:00:00Z",
+                        "end": null
+                    },
+                    "in_service_date": "29 May 2016"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Ruhollah Khomeini"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 12680,
+                    "ground_truth": "Ruhollah Khomeini"
+                }
+            },
+            "President of Iran": {
+                "previous_event": {
+                    "name": "Ali Khamenei",
+                    "info": {
+                        "start": "+1981-10-13T00:00:00Z",
+                        "end": "+1989-08-03T00:00:00Z"
+                    },
+                    "in_service_date": "4 July 1984"
+                },
+                "latter_event": {
+                    "name": "Mohammad Khatami",
+                    "info": {
+                        "start": "+1997-08-03T00:00:00Z",
+                        "end": "+2005-08-03T00:00:00Z"
+                    },
+                    "in_service_date": "29 April 1999"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Ali Khamenei"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 5412,
+                    "ground_truth": "Ali Khamenei"
+                }
+            }
+        },
+        "Colombia": {
+            "President of Colombia": {
+                "previous_event": {
+                    "name": "Iv\u00e1n Duque",
+                    "info": {
+                        "start": "+2018-08-07T00:00:00Z",
+                        "end": "+2022-08-07T00:00:00Z"
+                    },
+                    "in_service_date": "16 November 2018"
+                },
+                "latter_event": {
+                    "name": "Gustavo Petro",
+                    "info": {
+                        "start": "+2022-08-07T00:00:00Z",
+                        "end": null
+                    },
+                    "in_service_date": "27 July 2024"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Gustavo Petro"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 2080,
+                    "ground_truth": "Gustavo Petro"
+                }
+            }
+        },
+        "Romania": {
+            "President of Romania": {
+                "previous_event": {
+                    "name": "Alexandru Ioan Cuza",
+                    "info": {
+                        "start": "+1862-01-24T00:00:00Z",
+                        "end": "+1866-02-23T00:00:00Z"
+                    },
+                    "in_service_date": "2 July 1864"
+                },
+                "latter_event": {
+                    "name": "Emil Constantinescu",
+                    "info": {
+                        "start": "+1996-11-29T00:00:00Z",
+                        "end": "+2000-12-20T00:00:00Z"
+                    },
+                    "in_service_date": "8 March 1997"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Alexandru Ioan Cuza"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 48461,
+                    "ground_truth": "Alexandru Ioan Cuza"
+                }
+            },
+            "Prime Minister of Romania": {
+                "previous_event": {
+                    "name": "Octavian Goga",
+                    "info": {
+                        "start": "+1937-12-29T00:00:00Z",
+                        "end": "+1938-02-10T00:00:00Z"
+                    },
+                    "in_service_date": "3 January 1938"
+                },
+                "latter_event": {
+                    "name": "Ion Gheorghe Maurer",
+                    "info": {
+                        "start": "+1961-03-21T00:00:00Z",
+                        "end": "+1974-02-27T00:00:00Z"
+                    },
+                    "in_service_date": "2 September 1968"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Octavian Goga"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 11200,
+                    "ground_truth": "Octavian Goga"
+                }
+            }
+        },
+        "Chile": {
+            "President of Chile": {
+                "previous_event": {
+                    "name": "Patricio Aylwin",
+                    "info": {
+                        "start": "+1990-03-11T00:00:00Z",
+                        "end": "+1994-03-11T00:00:00Z"
+                    },
+                    "in_service_date": "14 July 1992"
+                },
+                "latter_event": {
+                    "name": "Eduardo Frei Ruiz-Tagle",
+                    "info": {
+                        "start": "+1994-03-11T00:00:00Z",
+                        "end": "+2000-03-11T00:00:00Z"
+                    },
+                    "in_service_date": "30 July 1994"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Patricio Aylwin"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 746,
+                    "ground_truth": "Patricio Aylwin"
+                }
+            }
+        },
+        "Pakistan": {
+            "President of Pakistan": {
+                "previous_event": {
+                    "name": "Mamnoon Hussain",
+                    "info": {
+                        "start": "+2013-01-01T00:00:00Z",
+                        "end": "+2018-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "8 September 2016"
+                },
+                "latter_event": {
+                    "name": "Arif Alvi",
+                    "info": {
+                        "start": "+2018-09-09T00:00:00Z",
+                        "end": "+2024-03-10T00:00:00Z"
+                    },
+                    "in_service_date": "12 November 2020"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Mamnoon Hussain"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 1526,
+                    "ground_truth": "Mamnoon Hussain"
+                }
+            },
+            "Prime Minister of Pakistan": {
+                "previous_event": {
+                    "name": "Mir Hazar Khan Khoso",
+                    "info": {
+                        "start": "+2013-03-25T00:00:00Z",
+                        "end": "+2013-06-05T00:00:00Z"
+                    },
+                    "in_service_date": "24 May 2013"
+                },
+                "latter_event": {
+                    "name": "Shahid Khaqan Abbasi",
+                    "info": {
+                        "start": "+2017-08-01T00:00:00Z",
+                        "end": "+2018-05-31T00:00:00Z"
+                    },
+                    "in_service_date": "11 November 2017"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Shahid Khaqan Abbasi"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 1632,
+                    "ground_truth": "Shahid Khaqan Abbasi"
+                }
+            }
+        },
+        "Czech Republic": {
+            "President of the Czech Republic": {
+                "previous_event": {
+                    "name": "V\u00e1clav Klaus",
+                    "info": {
+                        "start": "+2003-03-07T00:00:00Z",
+                        "end": "+2013-03-07T00:00:00Z"
+                    },
+                    "in_service_date": "31 May 2006"
+                },
+                "latter_event": {
+                    "name": "Milo\u0161 Zeman",
+                    "info": {
+                        "start": "+2013-03-08T00:00:00Z",
+                        "end": "+2023-03-08T00:00:00Z"
+                    },
+                    "in_service_date": "18 August 2014"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "V\u00e1clav Klaus"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 3001,
+                    "ground_truth": "V\u00e1clav Klaus"
+                }
+            },
+            "Prime Minister of the Czech Republic": {
+                "previous_event": {
+                    "name": "Mirek Topol\u00e1nek",
+                    "info": {
+                        "start": "+2006-08-16T00:00:00Z",
+                        "end": "+2009-05-08T00:00:00Z"
+                    },
+                    "in_service_date": "23 August 2008"
+                },
+                "latter_event": {
+                    "name": "Ji\u0159\u00ed Rusnok",
+                    "info": {
+                        "start": "+2013-06-25T00:00:00Z",
+                        "end": "+2014-01-29T00:00:00Z"
+                    },
+                    "in_service_date": "25 August 2013"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Mirek Topol\u00e1nek"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 1828,
+                    "ground_truth": "Mirek Topol\u00e1nek"
+                }
+            }
+        },
+        "Finland": {
+            "President of Finland": {
+                "previous_event": {
+                    "name": "Sauli Niinist\u00f6",
+                    "info": {
+                        "start": "+2012-03-01T00:00:00Z",
+                        "end": "+2024-03-01T00:00:00Z"
+                    },
+                    "in_service_date": "2 September 2019"
+                },
+                "latter_event": {
+                    "name": "Alexander Stubb",
+                    "info": {
+                        "start": "+2024-03-01T00:00:00Z",
+                        "end": null
+                    },
+                    "in_service_date": "12 November 2024"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Alexander Stubb"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 1898,
+                    "ground_truth": "Alexander Stubb"
+                }
+            },
+            "Prime Minister of Finland": {
+                "previous_event": {
+                    "name": "Alexander Stubb",
+                    "info": {
+                        "start": "+2014-06-24T00:00:00Z",
+                        "end": "+2015-05-28T00:00:00Z"
+                    },
+                    "in_service_date": "4 October 2014"
+                },
+                "latter_event": {
+                    "name": "Sanna Marin",
+                    "info": {
+                        "start": "+2019-12-10T00:00:00Z",
+                        "end": "+2023-06-20T00:00:00Z"
+                    },
+                    "in_service_date": "17 March 2020"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Alexander Stubb"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 1991,
+                    "ground_truth": "Alexander Stubb"
+                }
+            }
+        },
+        "Iraq": {
+            "President of Iraq": {
+                "previous_event": {
+                    "name": "Barham Salih",
+                    "info": {
+                        "start": "+2018-10-02T00:00:00Z",
+                        "end": "+2022-10-17T00:00:00Z"
+                    },
+                    "in_service_date": "11 December 2020"
+                },
+                "latter_event": {
+                    "name": "Abdul Latif Rashid",
+                    "info": {
+                        "start": "+2022-10-17T00:00:00Z",
+                        "end": null
+                    },
+                    "in_service_date": "20 February 2024"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Barham Salih"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 1166,
+                    "ground_truth": "Barham Salih"
+                }
+            },
+            "Prime Minister of Iraq": {
+                "previous_event": {
+                    "name": "Mustafa Al-Kadhimi",
+                    "info": {
+                        "start": "+2020-05-07T00:00:00Z",
+                        "end": "+2022-10-27T00:00:00Z"
+                    },
+                    "in_service_date": "2 June 2021"
+                },
+                "latter_event": {
+                    "name": "Mohammed Shia' Al Sudani",
+                    "info": {
+                        "start": "+2022-10-27T00:00:00Z",
+                        "end": null
+                    },
+                    "in_service_date": "5 August 2023"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Mohammed Shia' Al Sudani"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 794,
+                    "ground_truth": "Mohammed Shia' Al Sudani"
+                }
+            }
+        },
+        "Portugal": {
+            "President of Portugal": {
+                "previous_event": {
+                    "name": "M\u00e1rio Soares",
+                    "info": {
+                        "start": "+1986-03-09T00:00:00Z",
+                        "end": "+1996-03-09T00:00:00Z"
+                    },
+                    "in_service_date": "5 February 1991"
+                },
+                "latter_event": {
+                    "name": "An\u00edbal Cavaco Silva",
+                    "info": {
+                        "start": "+2006-03-09T00:00:00Z",
+                        "end": "+2016-03-09T00:00:00Z"
+                    },
+                    "in_service_date": "24 March 2015"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "An\u00edbal Cavaco Silva"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 8813,
+                    "ground_truth": "An\u00edbal Cavaco Silva"
+                }
+            },
+            "Prime Minister of Portugal": {
+                "previous_event": {
+                    "name": "Pedro Passos Coelho",
+                    "info": {
+                        "start": "+2011-06-21T00:00:00Z",
+                        "end": "+2015-11-26T00:00:00Z"
+                    },
+                    "in_service_date": "31 March 2015"
+                },
+                "latter_event": {
+                    "name": "Ant\u00f3nio Costa",
+                    "info": {
+                        "start": "+2015-11-26T00:00:00Z",
+                        "end": "+2024-04-02T00:00:00Z"
+                    },
+                    "in_service_date": "9 January 2019"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Ant\u00f3nio Costa"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 1380,
+                    "ground_truth": "Ant\u00f3nio Costa"
+                }
+            }
+        }
+    },
+    "athletes_byPayment": {
+        "Cristiano Ronaldo": {
+            "previous_event": {
+                "name": "Sporting CP",
+                "info": {
+                    "start": "+2002-07-01T00:00:00Z",
+                    "end": "+2003-08-12T00:00:00Z"
+                },
+                "in_service_date": "12 September 2002"
+            },
+            "latter_event": {
+                "name": "Real Madrid CF",
+                "info": {
+                    "start": "+2009-07-06T00:00:00Z",
+                    "end": "+2018-07-10T00:00:00Z"
+                },
+                "in_service_date": "22 June 2011"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Real Madrid CF"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 3205,
+                "ground_truth": "Real Madrid CF"
+            }
+        },
+        "Lionel Messi": {
+            "previous_event": {
+                "name": "FC Barcelona",
+                "info": {
+                    "start": "+2004-03-05T00:00:00Z",
+                    "end": "+2021-08-10T00:00:00Z"
+                },
+                "in_service_date": "28 October 2020"
+            },
+            "latter_event": {
+                "name": "Paris Saint-Germain F.C.",
+                "info": {
+                    "start": "+2021-08-10T00:00:00Z",
+                    "end": "+2023-07-15T00:00:00Z"
+                },
+                "in_service_date": "20 April 2022"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Paris Saint-Germain F.C."
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 539,
+                "ground_truth": "Paris Saint-Germain F.C."
+            }
+        },
+        "Neymar Jr.": {
+            "previous_event": {
+                "name": "Santos F.C.",
+                "info": {
+                    "start": "+2009-01-01T00:00:00Z",
+                    "end": "+2013-07-01T00:00:00Z"
+                },
+                "in_service_date": "6 March 2013"
+            },
+            "latter_event": {
+                "name": "Paris Saint-Germain F.C.",
+                "info": {
+                    "start": "+2017-08-03T00:00:00Z",
+                    "end": "+2023-08-15T00:00:00Z"
+                },
+                "in_service_date": "11 May 2018"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Paris Saint-Germain F.C."
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 1892,
+                "ground_truth": "Paris Saint-Germain F.C."
+            }
+        },
+        "Kylian Mbapp\u00e9": {
+            "previous_event": {
+                "name": "AS Monaco FC",
+                "info": {
+                    "start": "+2018-06-30T00:00:00Z",
+                    "end": "+2018-07-01T00:00:00Z"
+                },
+                "in_service_date": "30 June 2018"
+            },
+            "latter_event": {
+                "name": "Paris Saint-Germain F.C.",
+                "info": {
+                    "start": "+2018-07-01T00:00:00Z",
+                    "end": "+2024-07-01T00:00:00Z"
+                },
+                "in_service_date": "9 July 2022"
+            },
+            "task_ranking": {
+                "former_or_latter": "former",
+                "ground_truth": "AS Monaco FC"
+            },
+            "task_accumulate": {
+                "former_or_latter": "former",
+                "days_diff": 1470,
+                "ground_truth": "AS Monaco FC"
+            }
+        },
+        "Karim Benzema": {
+            "previous_event": {
+                "name": "Olympique Lyonnais",
+                "info": {
+                    "start": "+2005-07-01T00:00:00Z",
+                    "end": "+2009-07-09T00:00:00Z"
+                },
+                "in_service_date": "7 November 2007"
+            },
+            "latter_event": {
+                "name": "Real Madrid CF",
+                "info": {
+                    "start": "+2009-07-09T00:00:00Z",
+                    "end": "+2023-07-01T00:00:00Z"
+                },
+                "in_service_date": "23 November 2010"
+            },
+            "task_ranking": {
+                "former_or_latter": "former",
+                "ground_truth": "Olympique Lyonnais"
+            },
+            "task_accumulate": {
+                "former_or_latter": "former",
+                "days_diff": 1112,
+                "ground_truth": "Olympique Lyonnais"
+            }
+        },
+        "Erling Haaland": {
+            "previous_event": {
+                "name": "Bryne FK",
+                "info": {
+                    "start": "+2015-09-08T00:00:00Z",
+                    "end": "+2017-02-01T00:00:00Z"
+                },
+                "in_service_date": "12 April 2016"
+            },
+            "latter_event": {
+                "name": "FC Red Bull Salzburg",
+                "info": {
+                    "start": "+2019-01-01T00:00:00Z",
+                    "end": "+2020-01-01T00:00:00Z"
+                },
+                "in_service_date": "9 August 2019"
+            },
+            "task_ranking": {
+                "former_or_latter": "former",
+                "ground_truth": "Bryne FK"
+            },
+            "task_accumulate": {
+                "former_or_latter": "former",
+                "days_diff": 1214,
+                "ground_truth": "Bryne FK"
+            }
+        },
+        "Mohamed Salah": {
+            "previous_event": {
+                "name": "ACF Fiorentina",
+                "info": {
+                    "start": "+2015-02-02T00:00:00Z",
+                    "end": "+2015-06-30T00:00:00Z"
+                },
+                "in_service_date": "17 February 2015"
+            },
+            "latter_event": {
+                "name": "A.S. Roma",
+                "info": {
+                    "start": "+2016-07-01T00:00:00Z",
+                    "end": "+2017-07-01T00:00:00Z"
+                },
+                "in_service_date": "12 February 2017"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "A.S. Roma"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 726,
+                "ground_truth": "A.S. Roma"
+            }
+        },
+        "Sadio Man\u00e9": {
+            "previous_event": {
+                "name": "FC Metz",
+                "info": {
+                    "start": "+2010-01-01T00:00:00Z",
+                    "end": "+2012-08-31T00:00:00Z"
+                },
+                "in_service_date": "28 July 2012"
+            },
+            "latter_event": {
+                "name": "Liverpool F.C.",
+                "info": {
+                    "start": "+2016-07-01T00:00:00Z",
+                    "end": "+2022-07-01T00:00:00Z"
+                },
+                "in_service_date": "11 June 2018"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Liverpool F.C."
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 2144,
+                "ground_truth": "Liverpool F.C."
+            }
+        },
+        "Kevin De Bruyne": {
+            "previous_event": {
+                "name": "K.R.C. Genk",
+                "info": {
+                    "start": "+2012-02-01T00:00:00Z",
+                    "end": "+2012-06-30T00:00:00Z"
+                },
+                "in_service_date": "27 February 2012"
+            },
+            "latter_event": {
+                "name": "VfL Wolfsburg",
+                "info": {
+                    "start": "+2014-01-18T00:00:00Z",
+                    "end": "+2015-08-30T00:00:00Z"
+                },
+                "in_service_date": "14 May 2015"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "VfL Wolfsburg"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 1172,
+                "ground_truth": "VfL Wolfsburg"
+            }
+        },
+        "Harry Kane": {
+            "previous_event": {
+                "name": "Leyton Orient F.C.",
+                "info": {
+                    "start": "+2011-01-07T00:00:00Z",
+                    "end": "+2011-05-31T00:00:00Z"
+                },
+                "in_service_date": "30 May 2011"
+            },
+            "latter_event": {
+                "name": "Leicester City",
+                "info": {
+                    "start": "+2013-02-21T00:00:00Z",
+                    "end": "+2013-05-14T00:00:00Z"
+                },
+                "in_service_date": "2 April 2013"
+            },
+            "task_ranking": {
+                "former_or_latter": "former",
+                "ground_truth": "Leyton Orient F.C."
+            },
+            "task_accumulate": {
+                "former_or_latter": "former",
+                "days_diff": 673,
+                "ground_truth": "Leyton Orient F.C."
+            }
+        },
+        "Stephen Curry": {
+            "previous_event": {
+                "name": "Davidson Wildcats men's basketball",
+                "info": {
+                    "start": "+2006-01-01T00:00:00Z",
+                    "end": "+2009-01-01T00:00:00Z"
+                },
+                "in_service_date": "5 April 2008"
+            },
+            "latter_event": {
+                "name": "Golden State Warriors",
+                "info": {
+                    "start": "+2009-06-25T00:00:00Z",
+                    "end": null
+                },
+                "in_service_date": "19 February 2014"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Golden State Warriors"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 2146,
+                "ground_truth": "Golden State Warriors"
+            }
+        },
+        "Kevin Durant": {
+            "previous_event": {
+                "name": "Texas Longhorns men's basketball",
+                "info": {
+                    "start": "+2006-01-01T00:00:00Z",
+                    "end": "+2007-01-01T00:00:00Z"
+                },
+                "in_service_date": "21 June 2006"
+            },
+            "latter_event": {
+                "name": "Golden State Warriors",
+                "info": {
+                    "start": "+2016-07-05T00:00:00Z",
+                    "end": "+2019-07-01T00:00:00Z"
+                },
+                "in_service_date": "8 February 2017"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Golden State Warriors"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 3885,
+                "ground_truth": "Golden State Warriors"
+            }
+        },
+        "LeBron James": {
+            "previous_event": {
+                "name": "Miami Heat",
+                "info": {
+                    "start": "+2010-07-10T00:00:00Z",
+                    "end": "+2014-06-25T00:00:00Z"
+                },
+                "in_service_date": "7 May 2014"
+            },
+            "latter_event": {
+                "name": "Cleveland Cavaliers",
+                "info": {
+                    "start": "+2014-06-25T00:00:00Z",
+                    "end": "+2018-07-01T00:00:00Z"
+                },
+                "in_service_date": "9 December 2017"
+            },
+            "task_ranking": {
+                "former_or_latter": "former",
+                "ground_truth": "Miami Heat"
+            },
+            "task_accumulate": {
+                "former_or_latter": "former",
+                "days_diff": 1312,
+                "ground_truth": "Miami Heat"
+            }
+        },
+        "Nikola Jokic": {
+            "previous_event": {
+                "name": "KK Mega Basket",
+                "info": {
+                    "start": "+2012-01-01T00:00:00Z",
+                    "end": "+2015-07-28T00:00:00Z"
+                },
+                "in_service_date": "22 July 2015"
+            },
+            "latter_event": {
+                "name": "Denver Nuggets",
+                "info": {
+                    "start": "+2015-07-28T00:00:00Z",
+                    "end": null
+                },
+                "in_service_date": "14 May 2021"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Denver Nuggets"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 2123,
+                "ground_truth": "Denver Nuggets"
+            }
+        },
+        "Bradley Beal": {
+            "previous_event": {
+                "name": "Florida Gators men's basketball",
+                "info": {
+                    "start": "+2011-01-01T00:00:00Z",
+                    "end": "+2012-06-28T00:00:00Z"
+                },
+                "in_service_date": "4 January 2012"
+            },
+            "latter_event": {
+                "name": "Washington Wizards",
+                "info": {
+                    "start": "+2012-06-28T00:00:00Z",
+                    "end": "+2023-07-01T00:00:00Z"
+                },
+                "in_service_date": "22 May 2015"
+            },
+            "task_ranking": {
+                "former_or_latter": "former",
+                "ground_truth": "Florida Gators men's basketball"
+            },
+            "task_accumulate": {
+                "former_or_latter": "former",
+                "days_diff": 1234,
+                "ground_truth": "Florida Gators men's basketball"
+            }
+        },
+        "Giannis Antetokounmpo": {
+            "previous_event": {
+                "name": "Filathlitikos B.C.",
+                "info": {
+                    "start": "+2011-01-01T00:00:00Z",
+                    "end": "+2013-07-30T00:00:00Z"
+                },
+                "in_service_date": "8 January 2013"
+            },
+            "latter_event": {
+                "name": "Milwaukee Bucks",
+                "info": {
+                    "start": "+2013-07-30T00:00:00Z",
+                    "end": null
+                },
+                "in_service_date": "28 May 2014"
+            },
+            "task_ranking": {
+                "former_or_latter": "former",
+                "ground_truth": "Filathlitikos B.C."
+            },
+            "task_accumulate": {
+                "former_or_latter": "former",
+                "days_diff": 505,
+                "ground_truth": "Filathlitikos B.C."
+            }
+        },
+        "Damian Lillard": {
+            "previous_event": {
+                "name": "Weber State Wildcats men's basketball",
+                "info": {
+                    "start": "+2008-01-01T00:00:00Z",
+                    "end": "+2012-07-13T00:00:00Z"
+                },
+                "in_service_date": "31 March 2010"
+            },
+            "latter_event": {
+                "name": "Portland Trail Blazers",
+                "info": {
+                    "start": "+2012-07-13T00:00:00Z",
+                    "end": "+2023-09-27T00:00:00Z"
+                },
+                "in_service_date": "22 July 2014"
+            },
+            "task_ranking": {
+                "former_or_latter": "former",
+                "ground_truth": "Weber State Wildcats men's basketball"
+            },
+            "task_accumulate": {
+                "former_or_latter": "former",
+                "days_diff": 1574,
+                "ground_truth": "Weber State Wildcats men's basketball"
+            }
+        },
+        "Kawhi Leonard": {
+            "previous_event": {
+                "name": "San Diego State Aztecs men's basketball",
+                "info": {
+                    "start": "+2009-01-01T00:00:00Z",
+                    "end": "+2011-12-10T00:00:00Z"
+                },
+                "in_service_date": "16 October 2011"
+            },
+            "latter_event": {
+                "name": "San Antonio Spurs",
+                "info": {
+                    "start": "+2011-12-10T00:00:00Z",
+                    "end": "+2018-07-18T00:00:00Z"
+                },
+                "in_service_date": "7 December 2013"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "San Antonio Spurs"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 783,
+                "ground_truth": "San Antonio Spurs"
+            }
+        },
+        "Paul George": {
+            "previous_event": {
+                "name": "Fresno State Bulldogs men's basketball",
+                "info": {
+                    "start": "+2008-01-01T00:00:00Z",
+                    "end": "+2010-06-24T00:00:00Z"
+                },
+                "in_service_date": "13 May 2008"
+            },
+            "latter_event": {
+                "name": "Indiana Pacers",
+                "info": {
+                    "start": "+2010-06-24T00:00:00Z",
+                    "end": "+2017-06-30T00:00:00Z"
+                },
+                "in_service_date": "28 June 2016"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Indiana Pacers"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 2968,
+                "ground_truth": "Indiana Pacers"
+            }
+        },
+        "Max Verstappen": {
+            "previous_event": {
+                "name": "Van Amersfoort Racing",
+                "info": {
+                    "start": "+2014-01-01T00:00:00Z",
+                    "end": "+2015-01-01T00:00:00Z"
+                },
+                "in_service_date": "24 May 2014"
+            },
+            "latter_event": {
+                "name": "Scuderia Toro Rosso",
+                "info": {
+                    "start": "+2015-01-01T00:00:00Z",
+                    "end": "+2016-01-01T00:00:00Z"
+                },
+                "in_service_date": "18 July 2015"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Scuderia Toro Rosso"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 420,
+                "ground_truth": "Scuderia Toro Rosso"
+            }
+        },
+        "Lewis Hamilton": {
+            "previous_event": {
+                "name": "McLaren",
+                "info": {
+                    "start": "+2007-01-01T00:00:00Z",
+                    "end": "+2012-01-01T00:00:00Z"
+                },
+                "in_service_date": "28 July 2010"
+            },
+            "latter_event": {
+                "name": "Mercedes F1 Team",
+                "info": {
+                    "start": "+2013-01-01T00:00:00Z",
+                    "end": null
+                },
+                "in_service_date": "24 September 2024"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Mercedes F1 Team"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 5172,
+                "ground_truth": "Mercedes F1 Team"
+            }
+        },
+        "Fernando Alonso": {
+            "previous_event": {
+                "name": "Scuderia Ferrari",
+                "info": {
+                    "start": "+2010-01-01T00:00:00Z",
+                    "end": "+2014-01-01T00:00:00Z"
+                },
+                "in_service_date": "10 October 2012"
+            },
+            "latter_event": {
+                "name": "McLaren",
+                "info": {
+                    "start": "+2015-01-01T00:00:00Z",
+                    "end": "+2018-01-01T00:00:00Z"
+                },
+                "in_service_date": "11 October 2015"
+            },
+            "task_ranking": {
+                "former_or_latter": "former",
+                "ground_truth": "Scuderia Ferrari"
+            },
+            "task_accumulate": {
+                "former_or_latter": "former",
+                "days_diff": 1096,
+                "ground_truth": "Scuderia Ferrari"
+            }
+        },
+        "Sergio P\u00e9rez": {
+            "previous_event": {
+                "name": "Racing Point F1 Team",
+                "info": {
+                    "start": "+2019-01-01T00:00:00Z",
+                    "end": "+2020-01-01T00:00:00Z"
+                },
+                "in_service_date": "19 October 2019"
+            },
+            "latter_event": {
+                "name": "Red Bull Racing",
+                "info": {
+                    "start": "+2021-01-01T00:00:00Z",
+                    "end": null
+                },
+                "in_service_date": "26 October 2021"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Red Bull Racing"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 738,
+                "ground_truth": "Red Bull Racing"
+            }
+        },
+        "Charles Leclerc": {
+            "previous_event": {
+                "name": "Sauber",
+                "info": {
+                    "start": "+2018-01-01T00:00:00Z",
+                    "end": "+2019-01-01T00:00:00Z"
+                },
+                "in_service_date": "10 February 2018"
+            },
+            "latter_event": {
+                "name": "Scuderia Ferrari",
+                "info": {
+                    "start": "+2019-01-01T00:00:00Z",
+                    "end": null
+                },
+                "in_service_date": "29 September 2023"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Scuderia Ferrari"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 2057,
+                "ground_truth": "Scuderia Ferrari"
+            }
+        },
+        "Carlos Sainz Jr.": {
+            "previous_event": {
+                "name": "Scuderia Toro Rosso",
+                "info": {
+                    "start": "+2015-01-01T00:00:00Z",
+                    "end": "+2017-01-01T00:00:00Z"
+                },
+                "in_service_date": "6 May 2015"
+            },
+            "latter_event": {
+                "name": "Renault F1 Team",
+                "info": {
+                    "start": "+2017-01-01T00:00:00Z",
+                    "end": "+2018-01-01T00:00:00Z"
+                },
+                "in_service_date": "3 August 2017"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Renault F1 Team"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 820,
+                "ground_truth": "Renault F1 Team"
+            }
+        },
+        "George Russell": {
+            "previous_event": {
+                "name": "Williams Racing",
+                "info": {
+                    "start": "+2018-01-01T00:00:00Z",
+                    "end": "+2021-01-01T00:00:00Z"
+                },
+                "in_service_date": "19 May 2018"
+            },
+            "latter_event": {
+                "name": "Mercedes F1 Team",
+                "info": {
+                    "start": "+2022-01-01T00:00:00Z",
+                    "end": null
+                },
+                "in_service_date": "9 October 2024"
+            },
+            "task_ranking": {
+                "former_or_latter": "former",
+                "ground_truth": "Williams Racing"
+            },
+            "task_accumulate": {
+                "former_or_latter": "former",
+                "days_diff": 2335,
+                "ground_truth": "Williams Racing"
+            }
+        },
+        "Pierre Gasly": {
+            "previous_event": {
+                "name": "Red Bull Racing",
+                "info": {
+                    "start": "+2019-01-01T00:00:00Z",
+                    "end": "+2019-08-12T00:00:00Z"
+                },
+                "in_service_date": "26 June 2019"
+            },
+            "latter_event": {
+                "name": "Scuderia Toro Rosso",
+                "info": {
+                    "start": "+2019-08-12T00:00:00Z",
+                    "end": "+2023-01-01T00:00:00Z"
+                },
+                "in_service_date": "8 December 2021"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Scuderia Toro Rosso"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 896,
+                "ground_truth": "Scuderia Toro Rosso"
+            }
+        }
+    },
+    "companies_byRevenue": {
+        "Walmart": {
+            "previous_event": {
+                "name": "Sam Walton",
+                "info": {
+                    "start": "+1950-01-01T00:00:00Z",
+                    "end": "+1988-01-01T00:00:00Z"
+                },
+                "in_service_date": "1 January 1964"
+            },
+            "latter_event": {
+                "name": "David Glass",
+                "info": {
+                    "start": "+1988-01-01T00:00:00Z",
+                    "end": "+2000-01-01T00:00:00Z"
+                },
+                "in_service_date": "17 December 1994"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "David Glass"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 11308,
+                "ground_truth": "David Glass"
+            }
+        },
+        "Saudi Aramco": {
+            "previous_event": {
+                "name": "Khalid A. Al-Falih",
+                "info": {
+                    "start": "+2009-01-01T00:00:00Z",
+                    "end": "+2015-01-01T00:00:00Z"
+                },
+                "in_service_date": "17 August 2014"
+            },
+            "latter_event": {
+                "name": "Amin H. Al-Nasser",
+                "info": {
+                    "start": "+2015-01-01T00:00:00Z",
+                    "end": null
+                },
+                "in_service_date": "21 April 2021"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Amin H. Al-Nasser"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 2439,
+                "ground_truth": "Amin H. Al-Nasser"
+            }
+        },
+        "Amazon": {
+            "previous_event": {
+                "name": "Jeff Bezos",
+                "info": {
+                    "start": "+1996-05-01T00:00:00Z",
+                    "end": "+2021-07-05T00:00:00Z"
+                },
+                "in_service_date": "25 July 2016"
+            },
+            "latter_event": {
+                "name": "Andy Jassy",
+                "info": {
+                    "start": "+2021-07-06T00:00:00Z",
+                    "end": null
+                },
+                "in_service_date": "23 December 2023"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Andy Jassy"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 2707,
+                "ground_truth": "Andy Jassy"
+            }
+        },
+        "ExxonMobil": {
+            "previous_event": {
+                "name": "Lee Raymond",
+                "info": {
+                    "start": "+1999-01-01T00:00:00Z",
+                    "end": "+2005-01-01T00:00:00Z"
+                },
+                "in_service_date": "28 December 2004"
+            },
+            "latter_event": {
+                "name": "Rex Tillerson",
+                "info": {
+                    "start": "+2006-01-01T00:00:00Z",
+                    "end": "+2017-01-01T00:00:00Z"
+                },
+                "in_service_date": "19 November 2014"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Rex Tillerson"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 3613,
+                "ground_truth": "Rex Tillerson"
+            }
+        },
+        "Apple": {
+            "previous_event": {
+                "name": "Michael Spindler",
+                "info": {
+                    "start": "+1993-01-01T00:00:00Z",
+                    "end": "+1996-01-01T00:00:00Z"
+                },
+                "in_service_date": "24 June 1993"
+            },
+            "latter_event": {
+                "name": "Steve Jobs",
+                "info": {
+                    "start": "+1997-09-01T00:00:00Z",
+                    "end": "+2011-08-23T00:00:00Z"
+                },
+                "in_service_date": "2 October 1998"
+            },
+            "task_ranking": {
+                "former_or_latter": "former",
+                "ground_truth": "Michael Spindler"
+            },
+            "task_accumulate": {
+                "former_or_latter": "former",
+                "days_diff": 1926,
+                "ground_truth": "Michael Spindler"
+            }
+        },
+        "Shell": {
+            "previous_event": {
+                "name": "Jeroen van der Veer",
+                "info": {
+                    "start": "+2005-01-01T00:00:00Z",
+                    "end": "+2009-01-01T00:00:00Z"
+                },
+                "in_service_date": "2 November 2006"
+            },
+            "latter_event": {
+                "name": "Ben van Beurden",
+                "info": {
+                    "start": "+2014-01-01T00:00:00Z",
+                    "end": "+2022-12-31T00:00:00Z"
+                },
+                "in_service_date": "11 November 2020"
+            },
+            "task_ranking": {
+                "former_or_latter": "former",
+                "ground_truth": "Jeroen van der Veer"
+            },
+            "task_accumulate": {
+                "former_or_latter": "former",
+                "days_diff": 5123,
+                "ground_truth": "Jeroen van der Veer"
+            }
+        },
+        "CVS Health": {
+            "previous_event": {
+                "name": "Larry Merlo",
+                "info": {
+                    "start": "+2011-01-01T00:00:00Z",
+                    "end": "+2021-01-01T00:00:00Z"
+                },
+                "in_service_date": "21 June 2019"
+            },
+            "latter_event": {
+                "name": "Karen S. Lynch",
+                "info": {
+                    "start": "+2021-01-01T00:00:00Z",
+                    "end": "+2024-01-01T00:00:00Z"
+                },
+                "in_service_date": "25 September 2022"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Karen S. Lynch"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 1192,
+                "ground_truth": "Karen S. Lynch"
+            }
+        },
+        "Volkswagen Group": {
+            "previous_event": {
+                "name": "Heinrich Nordhoff",
+                "info": {
+                    "start": "+1948-01-01T00:00:00Z",
+                    "end": "+1968-01-01T00:00:00Z"
+                },
+                "in_service_date": "19 September 1953"
+            },
+            "latter_event": {
+                "name": "Matthias M\u00fcller",
+                "info": {
+                    "start": "+2015-09-01T00:00:00Z",
+                    "end": "+2018-04-01T00:00:00Z"
+                },
+                "in_service_date": "15 October 2016"
+            },
+            "task_ranking": {
+                "former_or_latter": "former",
+                "ground_truth": "Heinrich Nordhoff"
+            },
+            "task_accumulate": {
+                "former_or_latter": "former",
+                "days_diff": 23037,
+                "ground_truth": "Heinrich Nordhoff"
+            }
+        },
+        "Alphabet Inc.": {
+            "previous_event": {
+                "name": "Larry Page",
+                "info": {
+                    "start": "+2015-08-10T00:00:00Z",
+                    "end": "+2019-12-03T00:00:00Z"
+                },
+                "in_service_date": "21 April 2016"
+            },
+            "latter_event": {
+                "name": "Sundar Pichai",
+                "info": {
+                    "start": "+2019-12-03T00:00:00Z",
+                    "end": null
+                },
+                "in_service_date": "9 January 2021"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Sundar Pichai"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 1724,
+                "ground_truth": "Sundar Pichai"
+            }
+        },
+        "Toyota": {
+            "previous_event": {
+                "name": "Katsuaki Watanabe",
+                "info": {
+                    "start": "+2005-01-01T00:00:00Z",
+                    "end": "+2009-01-01T00:00:00Z"
+                },
+                "in_service_date": "10 December 2008"
+            },
+            "latter_event": {
+                "name": "Akio Toyoda",
+                "info": {
+                    "start": "+2009-01-01T00:00:00Z",
+                    "end": "+2023-01-01T00:00:00Z"
+                },
+                "in_service_date": "2 March 2014"
+            },
+            "task_ranking": {
+                "former_or_latter": "former",
+                "ground_truth": "Katsuaki Watanabe"
+            },
+            "task_accumulate": {
+                "former_or_latter": "former",
+                "days_diff": 1908,
+                "ground_truth": "Katsuaki Watanabe"
+            }
+        },
+        "TotalEnergies": {
+            "previous_event": {
+                "name": "Marcel Champin",
+                "info": {
+                    "start": "+1943-01-01T00:00:00Z",
+                    "end": "+1945-01-01T00:00:00Z"
+                },
+                "in_service_date": "9 June 1943"
+            },
+            "latter_event": {
+                "name": "Ren\u00e9 Granier de Lilliac",
+                "info": {
+                    "start": "+1971-01-01T00:00:00Z",
+                    "end": "+1984-01-01T00:00:00Z"
+                },
+                "in_service_date": "6 June 1976"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Ren\u00e9 Granier de Lilliac"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 12051,
+                "ground_truth": "Ren\u00e9 Granier de Lilliac"
+            }
+        },
+        "Glencore": {
+            "previous_event": {
+                "name": "Ivan Glasenberg",
+                "info": {
+                    "start": "+2002-01-01T00:00:00Z",
+                    "end": "+2021-06-01T00:00:00Z"
+                },
+                "in_service_date": "21 July 2008"
+            },
+            "latter_event": {
+                "name": "Gary Nagle",
+                "info": {
+                    "start": "+2021-07-01T00:00:00Z",
+                    "end": null
+                },
+                "in_service_date": "17 October 2021"
+            },
+            "task_ranking": {
+                "former_or_latter": "former",
+                "ground_truth": "Ivan Glasenberg"
+            },
+            "task_accumulate": {
+                "former_or_latter": "former",
+                "days_diff": 4836,
+                "ground_truth": "Ivan Glasenberg"
+            }
+        },
+        "BP": {
+            "previous_event": {
+                "name": "Bob Dudley",
+                "info": {
+                    "start": "+2010-10-01T00:00:00Z",
+                    "end": "+2020-02-05T00:00:00Z"
+                },
+                "in_service_date": "24 August 2016"
+            },
+            "latter_event": {
+                "name": "Bernard Looney",
+                "info": {
+                    "start": "+2020-02-05T00:00:00Z",
+                    "end": "+2023-01-01T00:00:00Z"
+                },
+                "in_service_date": "13 April 2021"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Bernard Looney"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 1693,
+                "ground_truth": "Bernard Looney"
+            }
+        },
+        "Microsoft": {
+            "previous_event": {
+                "name": "Bill Gates",
+                "info": {
+                    "start": "+1975-04-01T00:00:00Z",
+                    "end": "+2000-01-01T00:00:00Z"
+                },
+                "in_service_date": "30 December 1982"
+            },
+            "latter_event": {
+                "name": "Steve Ballmer",
+                "info": {
+                    "start": "+2000-01-01T00:00:00Z",
+                    "end": "+2014-02-04T00:00:00Z"
+                },
+                "in_service_date": "17 June 2013"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Steve Ballmer"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 11127,
+                "ground_truth": "Steve Ballmer"
+            }
+        },
+        "Gazprom": {
+            "previous_event": {
+                "name": "Rem Viakhirev",
+                "info": {
+                    "start": "+1992-01-01T00:00:00Z",
+                    "end": "+2001-01-01T00:00:00Z"
+                },
+                "in_service_date": "16 January 1997"
+            },
+            "latter_event": {
+                "name": "Alexey Miller",
+                "info": {
+                    "start": "+2001-01-01T00:00:00Z",
+                    "end": null
+                },
+                "in_service_date": "24 November 2002"
+            },
+            "task_ranking": {
+                "former_or_latter": "former",
+                "ground_truth": "Rem Viakhirev"
+            },
+            "task_accumulate": {
+                "former_or_latter": "former",
+                "days_diff": 2138,
+                "ground_truth": "Rem Viakhirev"
+            }
+        },
+        "Mitsubishi": {
+            "previous_event": {
+                "name": "Ken Kobayashi",
+                "info": {
+                    "start": "+2010-04-01T00:00:00Z",
+                    "end": "+2016-04-01T00:00:00Z"
+                },
+                "in_service_date": "23 September 2014"
+            },
+            "latter_event": {
+                "name": "Takehiko Kakiuchi",
+                "info": {
+                    "start": "+2016-04-01T00:00:00Z",
+                    "end": "+2022-01-01T00:00:00Z"
+                },
+                "in_service_date": "15 January 2021"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Takehiko Kakiuchi"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 2306,
+                "ground_truth": "Takehiko Kakiuchi"
+            }
+        },
+        "Ford Motor Company": {
+            "previous_event": {
+                "name": "Henry Ford II",
+                "info": {
+                    "start": "+1945-09-01T00:00:00Z",
+                    "end": "+1979-09-01T00:00:00Z"
+                },
+                "in_service_date": "12 February 1953"
+            },
+            "latter_event": {
+                "name": "Jacques Nasser",
+                "info": {
+                    "start": "+1999-01-01T00:00:00Z",
+                    "end": "+2001-10-01T00:00:00Z"
+                },
+                "in_service_date": "20 May 1999"
+            },
+            "task_ranking": {
+                "former_or_latter": "former",
+                "ground_truth": "Henry Ford II"
+            },
+            "task_accumulate": {
+                "former_or_latter": "former",
+                "days_diff": 16898,
+                "ground_truth": "Henry Ford II"
+            }
+        },
+        "Intel": {
+            "previous_event": {
+                "name": "Gordon Moore",
+                "info": {
+                    "start": "+1975-01-01T00:00:00Z",
+                    "end": "+1987-01-01T00:00:00Z"
+                },
+                "in_service_date": "3 August 1982"
+            },
+            "latter_event": {
+                "name": "Bob Swan",
+                "info": {
+                    "start": "+2018-06-21T00:00:00Z",
+                    "end": "+2021-02-15T00:00:00Z"
+                },
+                "in_service_date": "16 January 2021"
+            },
+            "task_ranking": {
+                "former_or_latter": "former",
+                "ground_truth": "Gordon Moore"
+            },
+            "task_accumulate": {
+                "former_or_latter": "former",
+                "days_diff": 14046,
+                "ground_truth": "Gordon Moore"
+            }
+        },
+        "Boeing": {
+            "previous_event": {
+                "name": "Thornton Wilson",
+                "info": {
+                    "start": "+1969-01-01T00:00:00Z",
+                    "end": "+1986-01-01T00:00:00Z"
+                },
+                "in_service_date": "16 June 1978"
+            },
+            "latter_event": {
+                "name": "Frank Shrontz",
+                "info": {
+                    "start": "+1986-01-01T00:00:00Z",
+                    "end": "+1996-01-01T00:00:00Z"
+                },
+                "in_service_date": "24 June 1986"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Frank Shrontz"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 2930,
+                "ground_truth": "Frank Shrontz"
+            }
+        },
+        "Google": {
+            "previous_event": {
+                "name": "Eric Schmidt",
+                "info": {
+                    "start": "+2001-08-01T00:00:00Z",
+                    "end": "+2011-04-04T00:00:00Z"
+                },
+                "in_service_date": "21 October 2003"
+            },
+            "latter_event": {
+                "name": "Larry Page",
+                "info": {
+                    "start": "+2011-04-04T00:00:00Z",
+                    "end": "+2015-08-10T00:00:00Z"
+                },
+                "in_service_date": "14 January 2014"
+            },
+            "task_ranking": {
+                "former_or_latter": "former",
+                "ground_truth": "Eric Schmidt"
+            },
+            "task_accumulate": {
+                "former_or_latter": "former",
+                "days_diff": 3738,
+                "ground_truth": "Eric Schmidt"
+            }
+        },
+        "C. & J. Clark International Ltd": {
+            "previous_event": {
+                "name": "William Clark",
+                "info": {
+                    "start": "+1863-01-01T00:00:00Z",
+                    "end": "+1889-01-01T00:00:00Z"
+                },
+                "in_service_date": "26 March 1877"
+            },
+            "latter_event": {
+                "name": "Stella David",
+                "info": {
+                    "start": "+2018-06-01T00:00:00Z",
+                    "end": "+2019-02-01T00:00:00Z"
+                },
+                "in_service_date": "14 August 2018"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Stella David"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 51640,
+                "ground_truth": "Stella David"
+            }
+        },
+        "7-Eleven Japan": {
+            "previous_event": {
+                "name": "Masatoshi Ito",
+                "info": {
+                    "start": "+1973-01-01T00:00:00Z",
+                    "end": "+1978-01-01T00:00:00Z"
+                },
+                "in_service_date": "5 March 1973"
+            },
+            "latter_event": {
+                "name": "Kazuki Furuya",
+                "info": {
+                    "start": "+2016-01-01T00:00:00Z",
+                    "end": "+2019-01-01T00:00:00Z"
+                },
+                "in_service_date": "4 January 2016"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Kazuki Furuya"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 15645,
+                "ground_truth": "Kazuki Furuya"
+            }
+        },
+        "MTR Corporation Limited": {
+            "previous_event": {
+                "name": "Chow Chung-kong",
+                "info": {
+                    "start": "+2007-12-02T00:00:00Z",
+                    "end": "+2011-12-31T00:00:00Z"
+                },
+                "in_service_date": "7 January 2009"
+            },
+            "latter_event": {
+                "name": "Jay Walder",
+                "info": {
+                    "start": "+2012-01-01T00:00:00Z",
+                    "end": "+2014-08-15T00:00:00Z"
+                },
+                "in_service_date": "14 January 2014"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Jay Walder"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 1833,
+                "ground_truth": "Jay Walder"
+            }
+        },
+        "Komer\u010dn\u00ed banka": {
+            "previous_event": {
+                "name": "Richard Salzmann",
+                "info": {
+                    "start": "+1991-01-01T00:00:00Z",
+                    "end": "+1998-01-01T00:00:00Z"
+                },
+                "in_service_date": "6 March 1991"
+            },
+            "latter_event": {
+                "name": "Radovan V\u00e1vra",
+                "info": {
+                    "start": "+2000-01-01T00:00:00Z",
+                    "end": "+2001-01-01T00:00:00Z"
+                },
+                "in_service_date": "31 October 2000"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Radovan V\u00e1vra"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 3527,
+                "ground_truth": "Radovan V\u00e1vra"
+            }
+        },
+        "United Parcel Service": {
+            "previous_event": {
+                "name": "Jack Rogers",
+                "info": {
+                    "start": "+1984-05-01T00:00:00Z",
+                    "end": "+1989-11-01T00:00:00Z"
+                },
+                "in_service_date": "6 August 1988"
+            },
+            "latter_event": {
+                "name": "Michael Eskew",
+                "info": {
+                    "start": "+2002-01-01T00:00:00Z",
+                    "end": "+2007-01-01T00:00:00Z"
+                },
+                "in_service_date": "3 February 2004"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Michael Eskew"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 5659,
+                "ground_truth": "Michael Eskew"
+            }
+        },
+        "Unilever": {
+            "previous_event": {
+                "name": "Paul Polman",
+                "info": {
+                    "start": "+2009-01-01T00:00:00Z",
+                    "end": "+2019-01-01T00:00:00Z"
+                },
+                "in_service_date": "28 November 2016"
+            },
+            "latter_event": {
+                "name": "Alan Jope",
+                "info": {
+                    "start": "+2019-01-01T00:00:00Z",
+                    "end": "+2023-06-01T00:00:00Z"
+                },
+                "in_service_date": "11 November 2019"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Alan Jope"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 1078,
+                "ground_truth": "Alan Jope"
+            }
+        },
+        "Danske Bank": {
+            "previous_event": {
+                "name": "Peter Straarup",
+                "info": {
+                    "start": "+1998-04-01T00:00:00Z",
+                    "end": "+2012-02-15T00:00:00Z"
+                },
+                "in_service_date": "15 December 2006"
+            },
+            "latter_event": {
+                "name": "Eivind Kolding",
+                "info": {
+                    "start": "+2012-02-15T00:00:00Z",
+                    "end": "+2013-09-16T00:00:00Z"
+                },
+                "in_service_date": "31 March 2013"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Eivind Kolding"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 2298,
+                "ground_truth": "Eivind Kolding"
+            }
+        },
+        "OMV": {
+            "previous_event": {
+                "name": "Wolfgang Ruttenstorfer",
+                "info": {
+                    "start": "+2001-01-01T00:00:00Z",
+                    "end": "+2011-01-01T00:00:00Z"
+                },
+                "in_service_date": "11 September 2007"
+            },
+            "latter_event": {
+                "name": "Gerhard Roiss",
+                "info": {
+                    "start": "+2011-01-01T00:00:00Z",
+                    "end": "+2015-01-01T00:00:00Z"
+                },
+                "in_service_date": "10 May 2012"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Gerhard Roiss"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 1703,
+                "ground_truth": "Gerhard Roiss"
+            }
+        },
+        "United Airlines": {
+            "previous_event": {
+                "name": "Jeff Smisek",
+                "info": {
+                    "start": "+2012-01-01T00:00:00Z",
+                    "end": "+2015-09-08T00:00:00Z"
+                },
+                "in_service_date": "24 March 2014"
+            },
+            "latter_event": {
+                "name": "Oscar Mu\u00f1oz",
+                "info": {
+                    "start": "+2015-09-08T00:00:00Z",
+                    "end": "+2020-01-01T00:00:00Z"
+                },
+                "in_service_date": "25 June 2018"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Oscar Mu\u00f1oz"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 1554,
+                "ground_truth": "Oscar Mu\u00f1oz"
+            }
+        },
+        "Flytoget AS": {
+            "previous_event": {
+                "name": "Berit Kj\u00f8ll",
+                "info": {
+                    "start": "+1998-09-15T00:00:00Z",
+                    "end": "+2002-06-30T00:00:00Z"
+                },
+                "in_service_date": "2 September 2000"
+            },
+            "latter_event": {
+                "name": "Philipp Engedal",
+                "info": {
+                    "start": "+2017-01-01T00:00:00Z",
+                    "end": "+2023-04-11T00:00:00Z"
+                },
+                "in_service_date": "9 August 2022"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Philipp Engedal"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 8011,
+                "ground_truth": "Philipp Engedal"
+            }
+        },
+        "Delta Air Lines": {
+            "previous_event": {
+                "name": "Charles H. Dolson",
+                "info": {
+                    "start": "+1970-01-01T00:00:00Z",
+                    "end": "+1971-01-01T00:00:00Z"
+                },
+                "in_service_date": "6 November 1970"
+            },
+            "latter_event": {
+                "name": "Gerald Grinstein",
+                "info": {
+                    "start": "+2004-01-01T00:00:00Z",
+                    "end": "+2007-01-01T00:00:00Z"
+                },
+                "in_service_date": "17 September 2006"
+            },
+            "task_ranking": {
+                "former_or_latter": "former",
+                "ground_truth": "Charles H. Dolson"
+            },
+            "task_accumulate": {
+                "former_or_latter": "former",
+                "days_diff": 13099,
+                "ground_truth": "Charles H. Dolson"
+            }
+        },
+        "Norwegian Broadcasting Corporation": {
+            "previous_event": {
+                "name": "Hans Jacob Ustvedt",
+                "info": {
+                    "start": "+1962-01-01T00:00:00Z",
+                    "end": "+1972-01-01T00:00:00Z"
+                },
+                "in_service_date": "23 October 1966"
+            },
+            "latter_event": {
+                "name": "Torolf Elster",
+                "info": {
+                    "start": "+1972-01-01T00:00:00Z",
+                    "end": "+1981-01-01T00:00:00Z"
+                },
+                "in_service_date": "11 June 1973"
+            },
+            "task_ranking": {
+                "former_or_latter": "former",
+                "ground_truth": "Hans Jacob Ustvedt"
+            },
+            "task_accumulate": {
+                "former_or_latter": "former",
+                "days_diff": 2423,
+                "ground_truth": "Hans Jacob Ustvedt"
+            }
+        },
+        "HSBC": {
+            "previous_event": {
+                "name": "John Bond",
+                "info": {
+                    "start": "+1993-01-01T00:00:00Z",
+                    "end": "+1998-01-01T00:00:00Z"
+                },
+                "in_service_date": "28 March 1996"
+            },
+            "latter_event": {
+                "name": "John Flint",
+                "info": {
+                    "start": "+2018-02-01T00:00:00Z",
+                    "end": "+2019-08-01T00:00:00Z"
+                },
+                "in_service_date": "22 August 2018"
+            },
+            "task_ranking": {
+                "former_or_latter": "former",
+                "ground_truth": "John Bond"
+            },
+            "task_accumulate": {
+                "former_or_latter": "former",
+                "days_diff": 8182,
+                "ground_truth": "John Bond"
+            }
+        },
+        "Sveriges Television": {
+            "previous_event": {
+                "name": "Magnus Fax\u00e9n",
+                "info": {
+                    "start": "+1979-01-01T00:00:00Z",
+                    "end": "+1981-01-01T00:00:00Z"
+                },
+                "in_service_date": "14 March 1980"
+            },
+            "latter_event": {
+                "name": "Sam Nilsson",
+                "info": {
+                    "start": "+1981-01-01T00:00:00Z",
+                    "end": "+1999-01-01T00:00:00Z"
+                },
+                "in_service_date": "14 October 1995"
+            },
+            "task_ranking": {
+                "former_or_latter": "former",
+                "ground_truth": "Magnus Fax\u00e9n"
+            },
+            "task_accumulate": {
+                "former_or_latter": "former",
+                "days_diff": 5692,
+                "ground_truth": "Magnus Fax\u00e9n"
+            }
+        },
+        "Open Fiber": {
+            "previous_event": {
+                "name": "Francesca Romana Napolitano",
+                "info": {
+                    "start": "+2021-08-01T00:00:00Z",
+                    "end": "+2021-12-01T00:00:00Z"
+                },
+                "in_service_date": "24 October 2021"
+            },
+            "latter_event": {
+                "name": "Mario Rossetti",
+                "info": {
+                    "start": "+2021-12-01T00:00:00Z",
+                    "end": "+2023-09-01T00:00:00Z"
+                },
+                "in_service_date": "29 April 2023"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "Mario Rossetti"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 552,
+                "ground_truth": "Mario Rossetti"
+            }
+        },
+        "\u010ceskoslovensk\u00e1 obchodn\u00ed banka": {
+            "previous_event": {
+                "name": "Svatopluk Pot\u00e1\u010d",
+                "info": {
+                    "start": "+1970-01-01T00:00:00Z",
+                    "end": "+1971-01-01T00:00:00Z"
+                },
+                "in_service_date": "1 October 1970"
+            },
+            "latter_event": {
+                "name": "John Arthur Hollows",
+                "info": {
+                    "start": "+2014-01-01T00:00:00Z",
+                    "end": "+2022-01-01T00:00:00Z"
+                },
+                "in_service_date": "20 November 2017"
+            },
+            "task_ranking": {
+                "former_or_latter": "latter",
+                "ground_truth": "John Arthur Hollows"
+            },
+            "task_accumulate": {
+                "former_or_latter": "latter",
+                "days_diff": 17217,
+                "ground_truth": "John Arthur Hollows"
+            }
+        }
+    },
+    "organizations": {
+        "United Nations": {
+            "general secretary": {
+                "previous_event": {
+                    "name": "U Thant",
+                    "info": {
+                        "start": "+1961-11-03T00:00:00Z",
+                        "end": "+1971-12-31T00:00:00Z"
+                    },
+                    "in_service_date": "28 October 1967"
+                },
+                "latter_event": {
+                    "name": "Javier P\u00e9rez de Cu\u00e9llar",
+                    "info": {
+                        "start": "+1982-01-01T00:00:00Z",
+                        "end": "+1991-12-31T00:00:00Z"
+                    },
+                    "in_service_date": "28 August 1986"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "U Thant"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 6879,
+                    "ground_truth": "U Thant"
+                }
+            }
+        },
+        "World Bank": {
+            "chairperson": {
+                "previous_event": {
+                    "name": "Kristalina Georgieva",
+                    "info": {
+                        "start": "+2019-02-20T00:00:00Z",
+                        "end": "+2019-04-09T00:00:00Z"
+                    },
+                    "in_service_date": "21 February 2019"
+                },
+                "latter_event": {
+                    "name": "David Malpass",
+                    "info": {
+                        "start": "+2019-04-09T00:00:00Z",
+                        "end": "+2023-06-01T00:00:00Z"
+                    },
+                    "in_service_date": "11 November 2021"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "David Malpass"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 994,
+                    "ground_truth": "David Malpass"
+                }
+            }
+        },
+        "International Atomic Energy Agency": {
+            "director / manager": {
+                "previous_event": {
+                    "name": "Sigvard Arne Eklund",
+                    "info": {
+                        "start": "+1961-01-01T00:00:00Z",
+                        "end": "+1981-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "16 September 1961"
+                },
+                "latter_event": {
+                    "name": "Yukiya Amano",
+                    "info": {
+                        "start": "+2009-12-01T00:00:00Z",
+                        "end": "+2019-07-18T00:00:00Z"
+                    },
+                    "in_service_date": "5 December 2009"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Yukiya Amano"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 17612,
+                    "ground_truth": "Yukiya Amano"
+                }
+            }
+        },
+        "North Atlantic Treaty Organization": {
+            "general secretary": {
+                "previous_event": {
+                    "name": "Paul-Henri Spaak",
+                    "info": {
+                        "start": "+1957-05-16T00:00:00Z",
+                        "end": "+1961-04-21T00:00:00Z"
+                    },
+                    "in_service_date": "13 June 1958"
+                },
+                "latter_event": {
+                    "name": "Javier Solana",
+                    "info": {
+                        "start": "+1995-12-05T00:00:00Z",
+                        "end": "+1999-10-06T00:00:00Z"
+                    },
+                    "in_service_date": "19 August 1998"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Javier Solana"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 14677,
+                    "ground_truth": "Javier Solana"
+                }
+            },
+            "headquarters location": {
+                "previous_event": {
+                    "name": "London",
+                    "info": {
+                        "start": "+1950-01-01T00:00:00Z",
+                        "end": "+1952-04-15T00:00:00Z"
+                    },
+                    "in_service_date": "22 November 1950"
+                },
+                "latter_event": {
+                    "name": "Palais de Chaillot",
+                    "info": {
+                        "start": "+1952-04-16T00:00:00Z",
+                        "end": "+1959-12-15T00:00:00Z"
+                    },
+                    "in_service_date": "25 December 1958"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "London"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 2955,
+                    "ground_truth": "London"
+                }
+            }
+        },
+        "International Olympic Committee": {
+            "chairperson": {
+                "previous_event": {
+                    "name": "Dimitrios Vikelas",
+                    "info": {
+                        "start": "+1894-01-01T00:00:00Z",
+                        "end": "+1896-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "17 March 1895"
+                },
+                "latter_event": {
+                    "name": "Michael Morris, 3rd Baron Killanin",
+                    "info": {
+                        "start": "+1972-01-01T00:00:00Z",
+                        "end": "+1980-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "8 March 1978"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Dimitrios Vikelas"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 30306,
+                    "ground_truth": "Dimitrios Vikelas"
+                }
+            }
+        },
+        "Marc Bloch University": {
+            "President": {
+                "previous_event": {
+                    "name": "Daniel Payot",
+                    "info": {
+                        "start": "+1998-01-01T00:00:00Z",
+                        "end": "+2002-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "4 February 1999"
+                },
+                "latter_event": {
+                    "name": "Fran\u00e7ois-Xavier Cuche",
+                    "info": {
+                        "start": "+2002-01-01T00:00:00Z",
+                        "end": "+2007-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "27 January 2002"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Fran\u00e7ois-Xavier Cuche"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 1088,
+                    "ground_truth": "Fran\u00e7ois-Xavier Cuche"
+                }
+            }
+        },
+        "Institut national des langues et civilisations orientales": {
+            "President": {
+                "previous_event": {
+                    "name": "Fran\u00e7ois de Labriolle",
+                    "info": {
+                        "start": "+1986-01-01T00:00:00Z",
+                        "end": "+1993-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "3 December 1986"
+                },
+                "latter_event": {
+                    "name": "Manuelle Franck",
+                    "info": {
+                        "start": "+2013-01-01T00:00:00Z",
+                        "end": "+2019-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "2 July 2014"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Manuelle Franck"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 10073,
+                    "ground_truth": "Manuelle Franck"
+                }
+            }
+        },
+        "Paris Dauphine University": {
+            "President": {
+                "previous_event": {
+                    "name": "Paul Didier",
+                    "info": {
+                        "start": "+1971-01-01T00:00:00Z",
+                        "end": "+1975-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "10 October 1973"
+                },
+                "latter_event": {
+                    "name": "Bernard de Montmorillon",
+                    "info": {
+                        "start": "+1999-01-01T00:00:00Z",
+                        "end": "+2007-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "28 March 2000"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Paul Didier"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 9666,
+                    "ground_truth": "Paul Didier"
+                }
+            }
+        },
+        "Novosibirsk State University": {
+            "Rector": {
+                "previous_event": {
+                    "name": "Spartak Belyaev",
+                    "info": {
+                        "start": "+1965-01-01T00:00:00Z",
+                        "end": "+1978-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "31 July 1969"
+                },
+                "latter_event": {
+                    "name": "Nikolay Dikansky",
+                    "info": {
+                        "start": "+1997-01-01T00:00:00Z",
+                        "end": "+2007-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "13 March 2000"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Nikolay Dikansky"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 11183,
+                    "ground_truth": "Nikolay Dikansky"
+                }
+            }
+        },
+        "Johns Hopkins University": {
+            "President": {
+                "previous_event": {
+                    "name": "Frank Johnson Goodnow",
+                    "info": {
+                        "start": "+1914-10-01T00:00:00Z",
+                        "end": "+1929-06-01T00:00:00Z"
+                    },
+                    "in_service_date": "6 March 1927"
+                },
+                "latter_event": {
+                    "name": "William C. Richardson",
+                    "info": {
+                        "start": "+1990-06-01T00:00:00Z",
+                        "end": "+1995-06-01T00:00:00Z"
+                    },
+                    "in_service_date": "19 June 1991"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "William C. Richardson"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 23481,
+                    "ground_truth": "William C. Richardson"
+                }
+            }
+        },
+        "University of Shizuoka": {
+            "President": {
+                "previous_event": {
+                    "name": "Takeshi Hoshi",
+                    "info": {
+                        "start": "+1993-04-01T00:00:00Z",
+                        "end": "+1999-03-31T00:00:00Z"
+                    },
+                    "in_service_date": "19 August 1995"
+                },
+                "latter_event": {
+                    "name": "Masaru Nishigaki",
+                    "info": {
+                        "start": "+2005-04-01T00:00:00Z",
+                        "end": "+2009-01-31T00:00:00Z"
+                    },
+                    "in_service_date": "9 October 2007"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Masaru Nishigaki"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 4434,
+                    "ground_truth": "Masaru Nishigaki"
+                }
+            }
+        },
+        "Jamia Millia Islamia": {
+            "Chancellor": {
+                "previous_event": {
+                    "name": "Mohammad Mujeeb",
+                    "info": {
+                        "start": "+1948-01-01T00:00:00Z",
+                        "end": "+1973-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "29 January 1969"
+                },
+                "latter_event": {
+                    "name": "Ali Ashraf",
+                    "info": {
+                        "start": "+1983-01-01T00:00:00Z",
+                        "end": "+1989-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "25 January 1986"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Mohammad Mujeeb"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 6205,
+                    "ground_truth": "Mohammad Mujeeb"
+                }
+            }
+        },
+        "University of Reims": {
+            "President": {
+                "previous_event": {
+                    "name": "Lucien Bernard",
+                    "info": {
+                        "start": "+1977-01-01T00:00:00Z",
+                        "end": "+1982-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "20 June 1977"
+                },
+                "latter_event": {
+                    "name": "G\u00e9rard Mary",
+                    "info": {
+                        "start": "+2002-01-01T00:00:00Z",
+                        "end": "+2007-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "17 September 2002"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "G\u00e9rard Mary"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 9220,
+                    "ground_truth": "G\u00e9rard Mary"
+                }
+            }
+        },
+        "Kyoto University": {
+            "President": {
+                "previous_event": {
+                    "name": "Hiroshi Matsumoto",
+                    "info": {
+                        "start": "+2008-10-01T00:00:00Z",
+                        "end": "+2014-09-30T00:00:00Z"
+                    },
+                    "in_service_date": "8 December 2009"
+                },
+                "latter_event": {
+                    "name": "Juichi Yamagiwa",
+                    "info": {
+                        "start": "+2014-10-01T00:00:00Z",
+                        "end": "+2020-09-30T00:00:00Z"
+                    },
+                    "in_service_date": "16 February 2019"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Hiroshi Matsumoto"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 3357,
+                    "ground_truth": "Hiroshi Matsumoto"
+                }
+            }
+        },
+        "Birzeit University": {
+            "President": {
+                "previous_event": {
+                    "name": "Gabi Baramki",
+                    "info": {
+                        "start": "+1974-01-01T00:00:00Z",
+                        "end": "+1993-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "29 April 1980"
+                },
+                "latter_event": {
+                    "name": "Beshara Doumani",
+                    "info": {
+                        "start": "+2021-01-01T00:00:00Z",
+                        "end": "+2023-08-01T00:00:00Z"
+                    },
+                    "in_service_date": "18 May 2022"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Gabi Baramki"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 15359,
+                    "ground_truth": "Gabi Baramki"
+                }
+            }
+        },
+        "University of Maryland, Baltimore County": {
+            "President": {
+                "previous_event": {
+                    "name": "Albin Owings Kuhn",
+                    "info": {
+                        "start": "+1966-01-01T00:00:00Z",
+                        "end": "+1971-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "10 September 1966"
+                },
+                "latter_event": {
+                    "name": "Freeman A. Hrabowski III",
+                    "info": {
+                        "start": "+1992-01-01T00:00:00Z",
+                        "end": "+2022-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "6 March 2015"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Albin Owings Kuhn"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 17709,
+                    "ground_truth": "Albin Owings Kuhn"
+                }
+            }
+        },
+        "Wittenberg University": {
+            "President": {
+                "previous_event": {
+                    "name": "John Nissley Stauffer",
+                    "info": {
+                        "start": "+1963-01-01T00:00:00Z",
+                        "end": "+1968-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "10 February 1967"
+                },
+                "latter_event": {
+                    "name": "Laurie Joyner",
+                    "info": {
+                        "start": "+2012-01-01T00:00:00Z",
+                        "end": "+2015-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "25 April 2013"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Laurie Joyner"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 16876,
+                    "ground_truth": "Laurie Joyner"
+                }
+            }
+        },
+        "University of La R\u00e9union": {
+            "President": {
+                "previous_event": {
+                    "name": "Serge Svizzero",
+                    "info": {
+                        "start": "+2004-01-01T00:00:00Z",
+                        "end": "+2008-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "2 June 2004"
+                },
+                "latter_event": {
+                    "name": "Mohamed Rochdi",
+                    "info": {
+                        "start": "+2008-01-01T00:00:00Z",
+                        "end": "+2016-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "25 December 2015"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Mohamed Rochdi"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 4223,
+                    "ground_truth": "Mohamed Rochdi"
+                }
+            }
+        },
+        "Bluffton University": {
+            "President": {
+                "previous_event": {
+                    "name": "Samuel K. Mosiman",
+                    "info": {
+                        "start": "+1910-01-01T00:00:00Z",
+                        "end": "+1935-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "31 March 1934"
+                },
+                "latter_event": {
+                    "name": "Robert S. Kreider",
+                    "info": {
+                        "start": "+1965-01-01T00:00:00Z",
+                        "end": "+1972-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "18 November 1966"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Samuel K. Mosiman"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 11920,
+                    "ground_truth": "Samuel K. Mosiman"
+                }
+            }
+        },
+        "University of Orl\u00e9ans": {
+            "President": {
+                "previous_event": {
+                    "name": "Didier Billard",
+                    "info": {
+                        "start": "+1992-01-01T00:00:00Z",
+                        "end": "+1997-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "14 April 1996"
+                },
+                "latter_event": {
+                    "name": "Youssoufi Tour\u00e9",
+                    "info": {
+                        "start": "+2009-01-01T00:00:00Z",
+                        "end": "+2016-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "15 August 2015"
+                },
+                "task_ranking": {
+                    "former_or_latter": "former",
+                    "ground_truth": "Didier Billard"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "former",
+                    "days_diff": 7062,
+                    "ground_truth": "Didier Billard"
+                }
+            }
+        },
+        "Northeastern University": {
+            "President": {
+                "previous_event": {
+                    "name": "Kenneth G. Ryder",
+                    "info": {
+                        "start": "+1975-01-01T00:00:00Z",
+                        "end": "+1989-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "2 February 1987"
+                },
+                "latter_event": {
+                    "name": "Richard M. Freeland",
+                    "info": {
+                        "start": "+1996-01-01T00:00:00Z",
+                        "end": "+2006-01-01T00:00:00Z"
+                    },
+                    "in_service_date": "7 May 1999"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Richard M. Freeland"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 4477,
+                    "ground_truth": "Richard M. Freeland"
+                }
+            }
+        },
+        "University of Tokyo": {
+            "President": {
+                "previous_event": {
+                    "name": "Junichi Hamada",
+                    "info": {
+                        "start": "+2009-04-01T00:00:00Z",
+                        "end": "+2015-03-31T00:00:00Z"
+                    },
+                    "in_service_date": "16 January 2014"
+                },
+                "latter_event": {
+                    "name": "Makoto Gonokami",
+                    "info": {
+                        "start": "+2015-04-01T00:00:00Z",
+                        "end": "+2021-03-31T00:00:00Z"
+                    },
+                    "in_service_date": "25 January 2016"
+                },
+                "task_ranking": {
+                    "former_or_latter": "latter",
+                    "ground_truth": "Makoto Gonokami"
+                },
+                "task_accumulate": {
+                    "former_or_latter": "latter",
+                    "days_diff": 739,
+                    "ground_truth": "Makoto Gonokami"
+                }
+            }
+        }
+    }
+}

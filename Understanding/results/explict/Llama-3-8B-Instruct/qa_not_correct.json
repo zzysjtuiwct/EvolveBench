@@ -1,0 +1,977 @@
+{
+    "companies_byRevenue": {
+        "CVS Health": {
+            "implict": {
+                "generic": "What was the name of the Chief Executive Officer of CVS Health when Naftali Bennett was the Prime Minister of Israel?",
+                "rephrased_1": "What was the name of the Chief Executive Officer of CVS Health when Naftali Bennett was the Prime Minister of Israel?",
+                "rephrased_2": "Who served as the Chief Executive Officer of CVS Health when Naftali Bennett was the Prime Minister of Israel?",
+                "rephrased_3": "When Naftali Bennett was the Prime Minister of Israel, who was the Chief Executive Officer of CVS Health?"
+            },
+            "explict": {
+                "generic": "What was the name of the Chief Executive Officer of CVS Health from 13 June 2021 to 1 July 2022?",
+                "rephrased_1": "What was the name of the Chief Executive Officer of CVS Health from 13 June 2021 to 1 July 2022?",
+                "rephrased_2": "Who served as the Chief Executive Officer of CVS Health from 13 June 2021 to 1 July 2022?",
+                "rephrased_3": "From 13 June 2021 to 1 July 2022, who was the Chief Executive Officer of CVS Health?"
+            },
+            "answers": [
+                "Larry Merlo |S: +2011-00-00T00:00:00Z |E: +2021-00-00T00:00:00Z",
+                "Karen S. Lynch |S: +2021-00-00T00:00:00Z |E: +2024-00-00T00:00:00Z",
+                "David Joyner |S: +2024-00-00T00:00:00Z"
+            ],
+            "ground_truth": {
+                "name": "Karen S. Lynch",
+                "start": "2021-01-01",
+                "end": "2024-01-01"
+            },
+            "co_event": {
+                "name": "Naftali Bennett",
+                "start": "2021-06-13",
+                "end": "2022-07-01",
+                "element": "Israel",
+                "attribute": "Prime Minister of Israel",
+                "description": "The head of government in Israel is"
+            }
+        },
+        "C. & J. Clark International Ltd": {
+            "implict": {
+                "generic": "What was the name of the Chief Executive Officer of C. & J. Clark International Ltd when Itamar Franco was the President of Brazil?",
+                "rephrased_1": "What was the name of the Chief Executive Officer of C. & J. Clark International Ltd when Itamar Franco was the President of Brazil?",
+                "rephrased_2": "Who served as the Chief Executive Officer of C. & J. Clark International Ltd when Itamar Franco was the President of Brazil?",
+                "rephrased_3": "When Itamar Franco was the President of Brazil, who was the Chief Executive Officer of C. & J. Clark International Ltd?"
+            },
+            "explict": {
+                "generic": "What was the name of the Chief Executive Officer of C. & J. Clark International Ltd from 29 December 1992 to 31 December 1994?",
+                "rephrased_1": "What was the name of the Chief Executive Officer of C. & J. Clark International Ltd from 29 December 1992 to 31 December 1994?",
+                "rephrased_2": "Who served as the Chief Executive Officer of C. & J. Clark International Ltd from 29 December 1992 to 31 December 1994?",
+                "rephrased_3": "From 29 December 1992 to 31 December 1994, who was the Chief Executive Officer of C. & J. Clark International Ltd?"
+            },
+            "answers": [
+                "Tim Parker |S: +1996-01-01T00:00:00Z |E: +2002-01-01T00:00:00Z",
+                "William Clark |S: +1863-01-01T00:00:00Z |E: +1889-01-01T00:00:00Z",
+                "Daniel Clark |S: +1973-01-01T00:00:00Z |E: +1986-01-01T00:00:00Z",
+                "Francis Clark |S: +1889-01-01T00:00:00Z |E: +1942-01-01T00:00:00Z",
+                "Mike Shearwood |S: +2017-01-01T00:00:00Z |E: +2018-06-01T00:00:00Z",
+                "Melissa Potter |S: +2010-01-01T00:00:00Z |E: +2015-09-01T00:00:00Z",
+                "Peter Bolliger |S: +2002-01-01T00:00:00Z |E: +2010-01-01T00:00:00Z",
+                "Giorgio Presca |S: +2019-03-11T00:00:00Z |E: +2022-04-01T00:00:00Z",
+                "Stella David |S: +2018-06-01T00:00:00Z |E: +2019-02-01T00:00:00Z",
+                "John Clothier |S: +1986-01-01T00:00:00Z |E: +1996-01-01T00:00:00Z",
+                "Bancroft Clark |S: +1942-01-01T00:00:00Z |E: +1967-01-01T00:00:00Z",
+                "Peter Clothier |S: +1967-01-01T00:00:00Z |E: +1973-01-01T00:00:00Z",
+                "Jonathan Ram |S: +2022-04-01T00:00:00Z"
+            ],
+            "ground_truth": {
+                "name": "John Clothier",
+                "start": "1986-01-01",
+                "end": "1996-01-01"
+            },
+            "co_event": {
+                "name": "Itamar Franco",
+                "start": "1992-12-29",
+                "end": "1994-12-31",
+                "element": "Brazil",
+                "attribute": "President of Brazil",
+                "description": "The head of state in Brazil is"
+            }
+        },
+        "7-Eleven Japan": {
+            "implict": {
+                "generic": "What was the name of the Chief Executive Officer of 7-Eleven Japan when Vladim\u00edr \u0160pidla was the Prime Minister of the Czech Republic?",
+                "rephrased_1": "What was the name of the Chief Executive Officer of 7-Eleven Japan when Vladim\u00edr \u0160pidla was the Prime Minister of the Czech Republic?",
+                "rephrased_2": "Who served as the Chief Executive Officer of 7-Eleven Japan when Vladim\u00edr \u0160pidla was the Prime Minister of the Czech Republic?",
+                "rephrased_3": "When Vladim\u00edr \u0160pidla was the Prime Minister of the Czech Republic, who was the Chief Executive Officer of 7-Eleven Japan?"
+            },
+            "explict": {
+                "generic": "What was the name of the Chief Executive Officer of 7-Eleven Japan from 15 July 2002 to 4 August 2004?",
+                "rephrased_1": "What was the name of the Chief Executive Officer of 7-Eleven Japan from 15 July 2002 to 4 August 2004?",
+                "rephrased_2": "Who served as the Chief Executive Officer of 7-Eleven Japan from 15 July 2002 to 4 August 2004?",
+                "rephrased_3": "From 15 July 2002 to 4 August 2004, who was the Chief Executive Officer of 7-Eleven Japan?"
+            },
+            "answers": [
+                "Masatoshi Ito |S: +1973-01-01T00:00:00Z |E: +1978-01-01T00:00:00Z",
+                "Ry\u016bichi Isaka |S: +2009-01-01T00:00:00Z |E: +2016-01-01T00:00:00Z",
+                "Toshifumi Suzuki |S: +1978-01-01T00:00:00Z |E: +1992-01-01T00:00:00Z",
+                "Fumihiko Nagamatsu |S: +2019-01-01T00:00:00Z",
+                "Toshir\u014d Yamaguchi |S: +2002-01-01T00:00:00Z |E: +2009-01-01T00:00:00Z",
+                "Hiroo Kurita |S: +1992-01-01T00:00:00Z |E: +1997-01-01T00:00:00Z",
+                "Kazuki Furuya |S: +2016-01-01T00:00:00Z |E: +2019-01-01T00:00:00Z"
+            ],
+            "ground_truth": {
+                "name": "Toshir\u014d Yamaguchi",
+                "start": "2002-01-01",
+                "end": "2009-01-01"
+            },
+            "co_event": {
+                "name": "Vladim\u00edr \u0160pidla",
+                "start": "2002-07-15",
+                "end": "2004-08-04",
+                "element": "Czech Republic",
+                "attribute": "Prime Minister of the Czech Republic",
+                "description": "The head of government in Czech Republic is"
+            }
+        },
+        "MTR Corporation Limited": {
+            "implict": {
+                "generic": "What was the name of the Chief Executive Officer of the MTR Corporation Limited when Jan Fischer was the Prime Minister of the Czech Republic?",
+                "rephrased_1": "What was the name of the Chief Executive Officer of the MTR Corporation Limited when Jan Fischer was the Prime Minister of the Czech Republic?",
+                "rephrased_2": "Who served as the Chief Executive Officer of the MTR Corporation Limited when Jan Fischer was the Prime Minister of the Czech Republic?",
+                "rephrased_3": "When Jan Fischer was the Prime Minister of the Czech Republic, who was the Chief Executive Officer of the MTR Corporation Limited?"
+            },
+            "explict": {
+                "generic": "What was the name of the Chief Executive Officer of the MTR Corporation Limited from 9 April 2009 to 10 July 2010?",
+                "rephrased_1": "What was the name of the Chief Executive Officer of the MTR Corporation Limited from 9 April 2009 to 10 July 2010?",
+                "rephrased_2": "Who served as the Chief Executive Officer of the MTR Corporation Limited from 9 April 2009 to 10 July 2010?",
+                "rephrased_3": "From 9 April 2009 to 10 July 2010, who was the Chief Executive Officer of the MTR Corporation Limited?"
+            },
+            "answers": [
+                "Jay Walder |S: +2012-01-01T00:00:00Z |E: +2014-08-15T00:00:00Z",
+                "Jack So |S: +1995-01-01T00:00:00Z |E: +2003-01-01T00:00:00Z",
+                "Chow Chung-kong |S: +2007-12-02T00:00:00Z |E: +2011-12-31T00:00:00Z",
+                "Chow Chung-kong |S: +2003-12-01T00:00:00Z |E: +2007-12-01T00:00:00Z",
+                "Lincoln Leong |S: +2014-08-01T00:00:00Z |E: +2015-03-15T00:00:00Z",
+                "Lincoln Leong |S: +2015-03-16T00:00:00Z |E: +2019-03-31T00:00:00Z",
+                "Jacob Kam |S: +2019-04-01T00:00:00Z"
+            ],
+            "ground_truth": {
+                "name": "Chow Chung-kong",
+                "start": "2007-12-02",
+                "end": "2011-12-31"
+            },
+            "co_event": {
+                "name": "Jan Fischer",
+                "start": "2009-04-09",
+                "end": "2010-07-10",
+                "element": "Czech Republic",
+                "attribute": "Prime Minister of the Czech Republic",
+                "description": "The head of government in Czech Republic is"
+            }
+        },
+        "Komer\u010dn\u00ed banka": {
+            "implict": {
+                "generic": "What was the name of the Chief Executive Officer of Komer\u010dn\u00ed banka when Ahmet Davuto\u011flu was the Prime Minister of Turkey?",
+                "rephrased_1": "What was the name of the Chief Executive Officer of Komer\u010dn\u00ed banka when Ahmet Davuto\u011flu was the Prime Minister of Turkey?",
+                "rephrased_2": "Who served as the Chief Executive Officer of Komer\u010dn\u00ed banka when Ahmet Davuto\u011flu was the Prime Minister of Turkey?",
+                "rephrased_3": "When Ahmet Davuto\u011flu was the Prime Minister of Turkey, who was the Chief Executive Officer of Komer\u010dn\u00ed banka?"
+            },
+            "explict": {
+                "generic": "What was the name of the Chief Executive Officer of Komer\u010dn\u00ed banka from 28 August 2014 to 24 May 2016?",
+                "rephrased_1": "What was the name of the Chief Executive Officer of Komer\u010dn\u00ed banka from 28 August 2014 to 24 May 2016?",
+                "rephrased_2": "Who served as the Chief Executive Officer of Komer\u010dn\u00ed banka from 28 August 2014 to 24 May 2016?",
+                "rephrased_3": "From 28 August 2014 to 24 May 2016, who was the Chief Executive Officer of Komer\u010dn\u00ed banka?"
+            },
+            "answers": [
+                "Richard Salzmann |S: +1991-01-01T00:00:00Z |E: +1998-01-01T00:00:00Z",
+                "Albert Le Dirac'h |S: +2013-01-01T00:00:00Z |E: +2017-01-01T00:00:00Z",
+                "Radovan V\u00e1vra |S: +2000-01-01T00:00:00Z |E: +2001-01-01T00:00:00Z",
+                "Jan Juchelka |S: +2017-01-01T00:00:00Z"
+            ],
+            "ground_truth": {
+                "name": "Albert Le Dirac'h",
+                "start": "2013-01-01",
+                "end": "2017-01-01"
+            },
+            "co_event": {
+                "name": "Ahmet Davuto\u011flu",
+                "start": "2014-08-28",
+                "end": "2016-05-24",
+                "element": "Turkey",
+                "attribute": "Prime Minister of Turkey",
+                "description": "The head of government in Turkey is"
+            }
+        },
+        "Walmart": {
+            "implict": {
+                "generic": "What was the name of the Chief Executive Officer of Walmart when Gustav Heinemann was the president of Germany?",
+                "rephrased_1": "What was the name of the Chief Executive Officer of Walmart when Gustav Heinemann was the president of Germany?",
+                "rephrased_2": "Who served as the Chief Executive Officer of Walmart when Gustav Heinemann was the president of Germany?",
+                "rephrased_3": "When Gustav Heinemann was the president of Germany, who was the Chief Executive Officer of Walmart?"
+            },
+            "explict": {
+                "generic": "What was the name of the Chief Executive Officer of Walmart from 1 July 1969 to 30 June 1974?",
+                "rephrased_1": "What was the name of the Chief Executive Officer of Walmart from 1 July 1969 to 30 June 1974?",
+                "rephrased_2": "Who served as the Chief Executive Officer of Walmart from 1 July 1969 to 30 June 1974?",
+                "rephrased_3": "From 1 July 1969 to 30 June 1974, who was the Chief Executive Officer of Walmart?"
+            },
+            "answers": [
+                "Doug McMillon |S: +2014-00-00T00:00:00Z",
+                "Mike Duke |S: +2009-00-00T00:00:00Z |E: +2014-00-00T00:00:00Z",
+                "Lee Scott |S: +2000-00-00T00:00:00Z |E: +2009-00-00T00:00:00Z",
+                "David Glass |S: +1988-00-00T00:00:00Z |E: +2000-00-00T00:00:00Z",
+                "Sam Walton |S: +1950-00-00T00:00:00Z |E: +1988-00-00T00:00:00Z"
+            ],
+            "ground_truth": {
+                "name": "Sam Walton",
+                "start": "1950-01-01",
+                "end": "1988-01-01"
+            },
+            "co_event": {
+                "name": "Gustav Heinemann",
+                "start": "1969-07-01",
+                "end": "1974-06-30",
+                "element": "Germany",
+                "attribute": "president of Germany",
+                "description": "The head of state in Germany is"
+            }
+        },
+        "United Airlines": {
+            "implict": {
+                "generic": "What was the name of the Chief Executive Officer of United Airlines when R. Venkataraman was the President of India?",
+                "rephrased_1": "What was the name of the Chief Executive Officer of United Airlines when R. Venkataraman was the President of India?",
+                "rephrased_2": "Who served as the Chief Executive Officer of United Airlines when R. Venkataraman was the President of India?",
+                "rephrased_3": "When R. Venkataraman was the President of India, who was the Chief Executive Officer of United Airlines?"
+            },
+            "explict": {
+                "generic": "What was the name of the Chief Executive Officer of United Airlines from 25 July 1987 to 25 July 1992?",
+                "rephrased_1": "What was the name of the Chief Executive Officer of United Airlines from 25 July 1987 to 25 July 1992?",
+                "rephrased_2": "Who served as the Chief Executive Officer of United Airlines from 25 July 1987 to 25 July 1992?",
+                "rephrased_3": "From 25 July 1987 to 25 July 1992, who was the Chief Executive Officer of United Airlines?"
+            },
+            "answers": [
+                "Edward Carlson |S: +1971-01-01T00:00:00Z |E: +1979-01-01T00:00:00Z",
+                "Jeff Smisek |S: +2012-01-01T00:00:00Z |E: +2015-09-08T00:00:00Z",
+                "William A. Patterson |S: +1934-01-01T00:00:00Z |E: +1966-01-01T00:00:00Z",
+                "John W. Creighton, Jr. |S: +2001-01-01T00:00:00Z |E: +2002-01-01T00:00:00Z",
+                "Stephen M. Wolf |S: +1987-01-01T00:00:00Z |E: +1994-01-01T00:00:00Z",
+                "Scott Kirby |S: +2020-01-01T00:00:00Z",
+                "Oscar Mu\u00f1oz |S: +2015-09-08T00:00:00Z |E: +2020-01-01T00:00:00Z",
+                "Richard J. Ferris |S: +1979-01-01T00:00:00Z |E: +1987-06-01T00:00:00Z"
+            ],
+            "ground_truth": {
+                "name": "Stephen M. Wolf",
+                "start": "1987-01-01",
+                "end": "1994-01-01"
+            },
+            "co_event": {
+                "name": "R. Venkataraman",
+                "start": "1987-07-25",
+                "end": "1992-07-25",
+                "element": "India",
+                "attribute": "President of India",
+                "description": "The head of state in India is"
+            }
+        }
+    },
+    "countries_byGDP": {
+        "Germany": {
+            "Federal Chancellor of Germany": {
+                "implict": {
+                    "generic": "What was the name of the federal chancellor of Germany when Jo Cals was the Prime Minister of the Netherlands?",
+                    "rephrased_1": "What was the name of the federal chancellor of Germany when Jo Cals was the Prime Minister of the Netherlands?",
+                    "rephrased_2": "Who served as the federal chancellor of Germany when Jo Cals was the Prime Minister of the Netherlands?",
+                    "rephrased_3": "When Jo Cals was the Prime Minister of the Netherlands, who was the federal chancellor of Germany?"
+                },
+                "explict": {
+                    "generic": "What was the name of the federal chancellor of Germany from 14 April 1965 to 22 November 1966?",
+                    "rephrased_1": "What was the name of the federal chancellor of Germany from 14 April 1965 to 22 November 1966?",
+                    "rephrased_2": "Who served as the federal chancellor of Germany from 14 April 1965 to 22 November 1966?",
+                    "rephrased_3": "From 14 April 1965 to 22 November 1966, who was the federal chancellor of Germany?"
+                },
+                "answers": [
+                    "Konrad Adenauer |S: +1949-09-20T00:00:00Z |E: +1963-10-11T00:00:00Z",
+                    "Ludwig Erhard |S: +1963-10-17T00:00:00Z |E: +1966-11-30T00:00:00Z",
+                    "Kurt Georg Kiesinger |S: +1966-12-01T00:00:00Z |E: +1969-10-21T00:00:00Z",
+                    "Willy Brandt |S: +1969-10-22T00:00:00Z |E: +1974-05-07T00:00:00Z",
+                    "Walter Scheel |S: +1974-05-07T00:00:00Z |E: +1974-05-16T00:00:00Z",
+                    "Helmut Schmidt |S: +1974-05-16T00:00:00Z |E: +1982-10-01T00:00:00Z",
+                    "Helmut Kohl |S: +1982-10-04T00:00:00Z |E: +1998-10-26T00:00:00Z",
+                    "Gerhard Schr\u00f6der |S: +1998-10-27T00:00:00Z |E: +2005-10-18T00:00:00Z",
+                    "Angela Merkel |S: +2005-11-22T00:00:00Z |E: +2021-12-08T00:00:00Z",
+                    "Olaf Scholz |S: +2021-12-08T00:00:00Z"
+                ],
+                "ground_truth": {
+                    "name": "Ludwig Erhard",
+                    "start": "1963-10-17",
+                    "end": "1966-11-30"
+                },
+                "co_event": {
+                    "name": "Jo Cals",
+                    "start": "1965-04-14",
+                    "end": "1966-11-22",
+                    "element": "Netherlands",
+                    "attribute": "Prime Minister of the Netherlands",
+                    "description": "The head of government in Netherlands is"
+                }
+            }
+        },
+        "Australia": {
+            "monarch of Australia": {
+                "implict": {
+                    "generic": "What was the name of the monarch of Australia when Georges Pompidou was the President of the French Republic?",
+                    "rephrased_1": "What was the name of the monarch of Australia when Georges Pompidou was the President of the French Republic?",
+                    "rephrased_2": "Who served as the monarch of Australia when Georges Pompidou was the President of the French Republic?",
+                    "rephrased_3": "When Georges Pompidou was the President of the French Republic, who was the monarch of Australia?"
+                },
+                "explict": {
+                    "generic": "What was the name of the monarch of Australia from 20 June 1969 to 2 April 1974?",
+                    "rephrased_1": "What was the name of the monarch of Australia from 20 June 1969 to 2 April 1974?",
+                    "rephrased_2": "Who served as the monarch of Australia from 20 June 1969 to 2 April 1974?",
+                    "rephrased_3": "From 20 June 1969 to 2 April 1974, who was the monarch of Australia?"
+                },
+                "answers": [
+                    "Elizabeth II |S: +1952-02-06T00:00:00Z |E: +2022-09-08T00:00:00Z",
+                    "Quentin Bryce |S: +2008-09-05T00:00:00Z |E: +2014-03-27T00:00:00Z",
+                    "Michael Jeffery |S: +2003-08-11T00:00:00Z |E: +2008-09-04T00:00:00Z",
+                    "Peter Hollingworth |S: +2001-06-29T00:00:00Z |E: +2003-05-29T00:00:00Z",
+                    "William Deane |S: +1996-02-16T00:00:00Z |E: +2001-06-28T00:00:00Z",
+                    "Bill Hayden |S: +1989-02-16T00:00:00Z |E: +1996-02-15T00:00:00Z",
+                    "Ninian Stephen |S: +1982-07-29T00:00:00Z |E: +1989-02-15T00:00:00Z",
+                    "Zelman Cowen |S: +1977-12-08T00:00:00Z |E: +1982-07-28T00:00:00Z",
+                    "John Kerr |S: +1974-07-11T00:00:00Z |E: +1977-12-07T00:00:00Z",
+                    "Paul Hasluck |S: +1969-04-30T00:00:00Z |E: +1974-07-10T00:00:00Z",
+                    "Richard Casey, Baron Casey |S: +1965-05-07T00:00:00Z |E: +1969-04-29T00:00:00Z",
+                    "William Sidney, 1st Viscount De L'Isle |S: +1961-08-03T00:00:00Z |E: +1965-05-06T00:00:00Z",
+                    "William Morrison, 1st Viscount Dunrossil |S: +1960-02-02T00:00:00Z |E: +1961-08-02T00:00:00Z",
+                    "William Slim, 1st Viscount Slim |S: +1953-05-08T00:00:00Z |E: +1960-02-01T00:00:00Z",
+                    "Bill McKell |S: +1947-03-11T00:00:00Z |E: +1953-05-07T00:00:00Z",
+                    "Charles III of the United Kingdom |S: +2022-09-08T00:00:00Z"
+                ],
+                "ground_truth": {
+                    "name": "Paul Hasluck",
+                    "start": "1969-04-30",
+                    "end": "1974-07-10"
+                },
+                "co_event": {
+                    "name": "Georges Pompidou",
+                    "start": "1969-06-20",
+                    "end": "1974-04-02",
+                    "element": "France",
+                    "attribute": "President of the French Republic",
+                    "description": "The head of state in France is"
+                }
+            }
+        },
+        "Poland": {
+            "President of the Republic of Poland": {
+                "implict": {
+                    "generic": "What was the name of the president of Poland when Jan P. Syse was the Prime Minister of Norway?",
+                    "rephrased_1": "What was the name of the president of Poland when Jan P. Syse was the Prime Minister of Norway?",
+                    "rephrased_2": "Who served as the president of Poland when Jan P. Syse was the Prime Minister of Norway?",
+                    "rephrased_3": "When Jan P. Syse was the Prime Minister of Norway, who was the president of Poland?"
+                },
+                "explict": {
+                    "generic": "What was the name of the president of Poland from 16 October 1989 to 3 November 1990?",
+                    "rephrased_1": "What was the name of the president of Poland from 16 October 1989 to 3 November 1990?",
+                    "rephrased_2": "Who served as the president of Poland from 16 October 1989 to 3 November 1990?",
+                    "rephrased_3": "From 16 October 1989 to 3 November 1990, who was the president of Poland?"
+                },
+                "answers": [
+                    "Andrzej Duda |S: +2015-08-06T00:00:00Z",
+                    "Lech Kaczy\u0144ski |S: +2005-12-23T00:00:00Z |E: +2010-04-10T00:00:00Z",
+                    "Aleksander Kwa\u015bniewski |S: +1995-12-23T00:00:00Z |E: +2005-12-23T00:00:00Z",
+                    "Lech Wa\u0142\u0119sa |S: +1990-12-22T00:00:00Z |E: +1995-12-22T00:00:00Z",
+                    "Wojciech Jaruzelski |S: +1989-07-19T00:00:00Z |E: +1990-12-22T00:00:00Z",
+                    "Bronis\u0142aw Komorowski |S: +2010-08-06T00:00:00Z |E: +2015-08-06T00:00:00Z",
+                    "Bronis\u0142aw Komorowski |S: +2010-04-10T00:00:00Z |E: +2010-07-08T00:00:00Z",
+                    "Bogdan Borusewicz |S: +2010-07-08T00:00:00Z |E: +2010-07-08T00:00:00Z",
+                    "Grzegorz Schetyna |S: +2010-07-08T00:00:00Z |E: +2010-08-06T00:00:00Z"
+                ],
+                "ground_truth": {
+                    "name": "Wojciech Jaruzelski",
+                    "start": "1989-07-19",
+                    "end": "1990-12-22"
+                },
+                "co_event": {
+                    "name": "Jan P. Syse",
+                    "start": "1989-10-16",
+                    "end": "1990-11-03",
+                    "element": "Norway",
+                    "attribute": "Prime Minister of Norway",
+                    "description": "The head of government in Norway is"
+                }
+            }
+        },
+        "Netherlands": {
+            "Prime Minister of the Netherlands": {
+                "implict": {
+                    "generic": "What was the name of the prime minister of the Netherlands when Miron Cristea was the Prime Minister of Romania?",
+                    "rephrased_1": "What was the name of the prime minister of the Netherlands when Miron Cristea was the Prime Minister of Romania?",
+                    "rephrased_2": "Who served as the prime minister of the Netherlands when Miron Cristea was the Prime Minister of Romania?",
+                    "rephrased_3": "When Miron Cristea was the Prime Minister of Romania, who was the prime minister of the Netherlands?"
+                },
+                "explict": {
+                    "generic": "What was the name of the prime minister of the Netherlands from 11 February 1938 to 6 March 1939?",
+                    "rephrased_1": "What was the name of the prime minister of the Netherlands from 11 February 1938 to 6 March 1939?",
+                    "rephrased_2": "Who served as the prime minister of the Netherlands from 11 February 1938 to 6 March 1939?",
+                    "rephrased_3": "From 11 February 1938 to 6 March 1939, who was the prime minister of the Netherlands?"
+                },
+                "answers": [
+                    "Mark Rutte |S: +2010-10-14T00:00:00Z |E: +2024-07-02T00:00:00Z",
+                    "Jan Peter Balkenende |S: +2002-07-22T00:00:00Z |E: +2010-10-14T00:00:00Z",
+                    "Wim Kok |S: +1994-08-22T00:00:00Z |E: +2002-07-22T00:00:00Z",
+                    "Ruud Lubbers |S: +1982-11-04T00:00:00Z |E: +1994-08-22T00:00:00Z",
+                    "Dries van Agt |S: +1977-12-19T00:00:00Z |E: +1982-11-04T00:00:00Z",
+                    "Joop den Uyl |S: +1973-05-11T00:00:00Z |E: +1977-12-19T00:00:00Z",
+                    "Barend Biesheuvel |S: +1971-07-06T00:00:00Z |E: +1973-05-11T00:00:00Z",
+                    "Piet de Jong |S: +1967-04-05T00:00:00Z |E: +1971-07-06T00:00:00Z",
+                    "Jelle Zijlstra |S: +1966-11-22T00:00:00Z |E: +1967-04-05T00:00:00Z",
+                    "Jo Cals |S: +1965-04-14T00:00:00Z |E: +1966-11-22T00:00:00Z",
+                    "Victor Marijnen |S: +1963-07-24T00:00:00Z |E: +1965-04-14T00:00:00Z",
+                    "Jan de Quay |S: +1959-05-19T00:00:00Z |E: +1963-07-24T00:00:00Z",
+                    "Louis Beel |S: +1958-12-22T00:00:00Z |E: +1959-05-19T00:00:00Z",
+                    "Willem Drees |S: +1948-08-07T00:00:00Z |E: +1958-12-22T00:00:00Z",
+                    "Louis Beel |S: +1946-07-03T00:00:00Z |E: +1948-08-07T00:00:00Z",
+                    "Wim Schermerhorn |S: +1945-06-24T00:00:00Z |E: +1946-07-03T00:00:00Z",
+                    "Pieter Sjoerds Gerbrandy |S: +1940-09-03T00:00:00Z |E: +1945-06-24T00:00:00Z",
+                    "Dirk Jan de Geer |S: +1939-08-10T00:00:00Z |E: +1940-09-03T00:00:00Z",
+                    "Hendrikus Colijn |S: +1933-05-26T00:00:00Z |E: +1939-08-10T00:00:00Z",
+                    "Charles Ruijs de Beerenbrouck |S: +1929-08-10T00:00:00Z |E: +1933-05-26T00:00:00Z",
+                    "Dirk Jan de Geer |S: +1926-03-08T00:00:00Z |E: +1929-08-10T00:00:00Z",
+                    "Hendrikus Colijn |S: +1925-08-04T00:00:00Z |E: +1926-03-08T00:00:00Z",
+                    "Charles Ruijs de Beerenbrouck |S: +1918-09-09T00:00:00Z |E: +1925-08-04T00:00:00Z",
+                    "Dick Schoof |S: +2024-07-02T00:00:00Z"
+                ],
+                "ground_truth": {
+                    "name": "Hendrikus Colijn",
+                    "start": "1933-05-26",
+                    "end": "1939-08-10"
+                },
+                "co_event": {
+                    "name": "Miron Cristea",
+                    "start": "1938-02-11",
+                    "end": "1939-03-06",
+                    "element": "Romania",
+                    "attribute": "Prime Minister of Romania",
+                    "description": "The head of government in Romania is"
+                }
+            }
+        }
+    },
+    "athletes_byPayment": {
+        "Cristiano Ronaldo": {
+            "implict": {
+                "generic": "What was the name of the football club Cristiano Ronaldo played for when Beata Szyd\u0142o was the Prime Minister of Poland?",
+                "rephrased_1": "What was the name of the football club Cristiano Ronaldo played for when Beata Szyd\u0142o was the Prime Minister of Poland?",
+                "rephrased_2": "Which football club did Cristiano Ronaldo play for when Beata Szyd\u0142o was the Prime Minister of Poland?",
+                "rephrased_3": "When Beata Szyd\u0142o was the Prime Minister of Poland, which football club did Cristiano Ronaldo play for?"
+            },
+            "explict": {
+                "generic": "What was the name of the football club Cristiano Ronaldo played for from 16 November 2015 to 11 December 2017?",
+                "rephrased_1": "What was the name of the football club Cristiano Ronaldo played for from 16 November 2015 to 11 December 2017?",
+                "rephrased_2": "Which football club did Cristiano Ronaldo play for from 16 November 2015 to 11 December 2017?",
+                "rephrased_3": "From 16 November 2015 to 11 December 2017, which football club did Cristiano Ronaldo play for?"
+            },
+            "answers": [
+                "Sporting CP |S: +2002-07-01T00:00:00Z |E: +2003-08-12T00:00:00Z",
+                "Manchester United F.C. |S: +2003-08-12T00:00:00Z |E: +2009-07-06T00:00:00Z",
+                "Real Madrid CF |S: +2009-07-06T00:00:00Z |E: +2018-07-10T00:00:00Z",
+                "Juventus FC |S: +2018-07-10T00:00:00Z |E: +2021-08-31T00:00:00Z",
+                "Manchester United F.C. |S: +2021-08-31T00:00:00Z |E: +2022-11-22T00:00:00Z",
+                "Al-Nassr |S: +2023-01-00T00:00:00Z"
+            ],
+            "ground_truth": {
+                "name": "Real Madrid CF",
+                "start": "2009-07-06",
+                "end": "2018-07-10"
+            },
+            "co_event": {
+                "name": "Beata Szyd\u0142o",
+                "start": "2015-11-16",
+                "end": "2017-12-11",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland",
+                "description": "The head of government in Poland is"
+            }
+        },
+        "Lionel Messi": {
+            "implict": {
+                "generic": "What was the name of the football club Lionel Messi played for when Nicolas Sarkozy was the President of the French Republic?",
+                "rephrased_1": "What was the name of the football club Lionel Messi played for when Nicolas Sarkozy was the President of the French Republic?",
+                "rephrased_2": "Which football club did Lionel Messi play for when Nicolas Sarkozy was the President of the French Republic?",
+                "rephrased_3": "When Nicolas Sarkozy was the President of the French Republic, which football club did Lionel Messi play for?"
+            },
+            "explict": {
+                "generic": "What was the name of the football club Lionel Messi played for from 16 May 2007 to 15 May 2012?",
+                "rephrased_1": "What was the name of the football club Lionel Messi played for from 16 May 2007 to 15 May 2012?",
+                "rephrased_2": "Which football club did Lionel Messi play for from 16 May 2007 to 15 May 2012?",
+                "rephrased_3": "From 16 May 2007 to 15 May 2012, which football club did Lionel Messi play for?"
+            },
+            "answers": [
+                "FC Barcelona |S: +2004-03-05T00:00:00Z |E: +2021-08-10T00:00:00Z",
+                "Paris Saint-Germain F.C. |S: +2021-08-10T00:00:00Z |E: +2023-07-15T00:00:00Z",
+                "Inter Miami CF |S: +2023-07-15T00:00:00Z"
+            ],
+            "ground_truth": {
+                "name": "FC Barcelona",
+                "start": "2004-03-05",
+                "end": "2021-08-10"
+            },
+            "co_event": {
+                "name": "Nicolas Sarkozy",
+                "start": "2007-05-16",
+                "end": "2012-05-15",
+                "element": "France",
+                "attribute": "President of the French Republic",
+                "description": "The head of state in France is"
+            }
+        },
+        "Neymar Jr.": {
+            "implict": {
+                "generic": "What was the name of the football club Neymar Jr. played for when Zillur Rahman was the President of Bangladesh?",
+                "rephrased_1": "What was the name of the football club Neymar Jr. played for when Zillur Rahman was the President of Bangladesh?",
+                "rephrased_2": "Which football club did Neymar Jr. play for when Zillur Rahman was the President of Bangladesh?",
+                "rephrased_3": "When Zillur Rahman was the President of Bangladesh, which football club did Neymar Jr. play for?"
+            },
+            "explict": {
+                "generic": "What was the name of the football club Neymar Jr. played for from 12 February 2009 to 20 March 2013?",
+                "rephrased_1": "What was the name of the football club Neymar Jr. played for from 12 February 2009 to 20 March 2013?",
+                "rephrased_2": "Which football club did Neymar Jr. play for from 12 February 2009 to 20 March 2013?",
+                "rephrased_3": "From 12 February 2009 to 20 March 2013, which football club did Neymar Jr. play for?"
+            },
+            "answers": [
+                "Santos F.C. |S: +2009-01-01T00:00:00Z |E: +2013-07-01T00:00:00Z",
+                "FC Barcelona |S: +2013-07-01T00:00:00Z |E: +2017-08-03T00:00:00Z",
+                "Paris Saint-Germain F.C. |S: +2017-08-03T00:00:00Z |E: +2023-08-15T00:00:00Z",
+                "Al-Hilal SFC |S: +2023-08-15T00:00:00Z"
+            ],
+            "ground_truth": {
+                "name": "Santos F.C.",
+                "start": "2009-01-01",
+                "end": "2013-07-01"
+            },
+            "co_event": {
+                "name": "Zillur Rahman",
+                "start": "2009-02-12",
+                "end": "2013-03-20",
+                "element": "Bangladesh",
+                "attribute": "President of Bangladesh",
+                "description": "The head of state in Bangladesh is"
+            }
+        },
+        "Kylian Mbapp\u00e9": {
+            "implict": {
+                "generic": "What was the name of the football club Kylian Mbapp\u00e9 played for when Muhyiddin Yassin was the Prime Minister of Malaysia?",
+                "rephrased_1": "What was the name of the football club Kylian Mbapp\u00e9 played for when Muhyiddin Yassin was the Prime Minister of Malaysia?",
+                "rephrased_2": "Which football club did Kylian Mbapp\u00e9 play for when Muhyiddin Yassin was the Prime Minister of Malaysia?",
+                "rephrased_3": "When Muhyiddin Yassin was the Prime Minister of Malaysia, which football club did Kylian Mbapp\u00e9 play for?"
+            },
+            "explict": {
+                "generic": "What was the name of the football club Kylian Mbapp\u00e9 played for from 1 March 2020 to 21 August 2021?",
+                "rephrased_1": "What was the name of the football club Kylian Mbapp\u00e9 played for from 1 March 2020 to 21 August 2021?",
+                "rephrased_2": "Which football club did Kylian Mbapp\u00e9 play for from 1 March 2020 to 21 August 2021?",
+                "rephrased_3": "From 1 March 2020 to 21 August 2021, which football club did Kylian Mbapp\u00e9 play for?"
+            },
+            "answers": [
+                "AS Monaco FC |S: +2016-01-01T00:00:00Z |E: +2017-08-31T00:00:00Z",
+                "Paris Saint-Germain F.C. |S: +2017-08-31T00:00:00Z |E: +2018-06-30T00:00:00Z",
+                "AS Monaco FC |S: +2018-06-30T00:00:00Z |E: +2018-07-01T00:00:00Z",
+                "Paris Saint-Germain F.C. |S: +2018-07-01T00:00:00Z |E: +2024-07-01T00:00:00Z",
+                "Real Madrid |S: +2024-07-01T00:00:00Z"
+            ],
+            "ground_truth": {
+                "name": "Paris Saint-Germain F.C.",
+                "start": "2018-07-01",
+                "end": "2024-07-01"
+            },
+            "co_event": {
+                "name": "Muhyiddin Yassin",
+                "start": "2020-03-01",
+                "end": "2021-08-21",
+                "element": "Malaysia",
+                "attribute": "Prime Minister of Malaysia",
+                "description": "The head of government in Malaysia is"
+            }
+        },
+        "Mohamed Salah": {
+            "implict": {
+                "generic": "What was the name of the football club Mohamed Salah played for when Ebrahim Raisi was the President of Iran?",
+                "rephrased_1": "What was the name of the football club Mohamed Salah played for when Ebrahim Raisi was the President of Iran?",
+                "rephrased_2": "Which football club did Mohamed Salah play for when Ebrahim Raisi was the President of Iran?",
+                "rephrased_3": "When Ebrahim Raisi was the President of Iran, which football club did Mohamed Salah play for?"
+            },
+            "explict": {
+                "generic": "What was the name of the football club Mohamed Salah played for from 3 August 2021 to 19 May 2024?",
+                "rephrased_1": "What was the name of the football club Mohamed Salah played for from 3 August 2021 to 19 May 2024?",
+                "rephrased_2": "Which football club did Mohamed Salah play for from 3 August 2021 to 19 May 2024?",
+                "rephrased_3": "From 3 August 2021 to 19 May 2024, which football club did Mohamed Salah play for?"
+            },
+            "answers": [
+                "Al Mokawloon Al Arab SC |S: +2010-05-01T00:00:00Z |E: +2012-07-01T00:00:00Z",
+                "FC Basel |S: +2012-07-01T00:00:00Z |E: +2014-01-26T00:00:00Z",
+                "Chelsea F.C. |S: +2014-01-26T00:00:00Z |E: +2015-02-02T00:00:00Z",
+                "ACF Fiorentina |S: +2015-02-02T00:00:00Z |E: +2015-06-30T00:00:00Z",
+                "Chelsea F.C. |S: +2015-06-30T00:00:00Z |E: +2015-08-06T00:00:00Z",
+                "A.S. Roma |S: +2015-08-06T00:00:00Z |E: +2016-06-30T00:00:00Z",
+                "Chelsea F.C. |S: +2016-06-30T00:00:00Z |E: +2016-07-01T00:00:00Z",
+                "A.S. Roma |S: +2016-07-01T00:00:00Z |E: +2017-07-01T00:00:00Z",
+                "Liverpool F.C. |S: +2017-07-01T00:00:00Z"
+            ],
+            "ground_truth": {
+                "name": "Liverpool F.C.",
+                "start": "2017-07-01",
+                "end": null
+            },
+            "co_event": {
+                "name": "Ebrahim Raisi",
+                "start": "2021-08-03",
+                "end": "2024-05-19",
+                "element": "Iran",
+                "attribute": "President of Iran",
+                "description": "The head of government in Iran is"
+            }
+        },
+        "Sadio Man\u00e9": {
+            "implict": {
+                "generic": "What was the name of the football club Sadio Man\u00e9 played for when Ewa Kopacz was the Prime Minister of Poland?",
+                "rephrased_1": "What was the name of the football club Sadio Man\u00e9 played for when Ewa Kopacz was the Prime Minister of Poland?",
+                "rephrased_2": "Which football club did Sadio Man\u00e9 play for when Ewa Kopacz was the Prime Minister of Poland?",
+                "rephrased_3": "When Ewa Kopacz was the Prime Minister of Poland, which football club did Sadio Man\u00e9 play for?"
+            },
+            "explict": {
+                "generic": "What was the name of the football club Sadio Man\u00e9 played for from 22 September 2014 to 16 November 2015?",
+                "rephrased_1": "What was the name of the football club Sadio Man\u00e9 played for from 22 September 2014 to 16 November 2015?",
+                "rephrased_2": "Which football club did Sadio Man\u00e9 play for from 22 September 2014 to 16 November 2015?",
+                "rephrased_3": "From 22 September 2014 to 16 November 2015, which football club did Sadio Man\u00e9 play for?"
+            },
+            "answers": [
+                "FC Metz |S: +2010-01-01T00:00:00Z |E: +2012-08-31T00:00:00Z",
+                "FC Red Bull Salzburg |S: +2012-08-31T00:00:00Z |E: +2014-09-01T00:00:00Z",
+                "Southampton F.C. |S: +2014-09-01T00:00:00Z |E: +2016-07-01T00:00:00Z",
+                "Liverpool F.C. |S: +2016-07-01T00:00:00Z |E: +2022-07-01T00:00:00Z",
+                "FC Bayern Munich |S: +2022-07-01T00:00:00Z |E: +2023-08-01T00:00:00Z",
+                "Al-Nassr |S: +2023-08-01T00:00:00Z"
+            ],
+            "ground_truth": {
+                "name": "Southampton F.C.",
+                "start": "2014-09-01",
+                "end": "2016-07-01"
+            },
+            "co_event": {
+                "name": "Ewa Kopacz",
+                "start": "2014-09-22",
+                "end": "2015-11-16",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland",
+                "description": "The head of government in Poland is"
+            }
+        },
+        "Kevin De Bruyne": {
+            "implict": {
+                "generic": "What was the name of the football club Kevin De Bruyne played for when Viorica D\u0103ncil\u0103 was the Prime Minister of Romania?",
+                "rephrased_1": "What was the name of the football club Kevin De Bruyne played for when Viorica D\u0103ncil\u0103 was the Prime Minister of Romania?",
+                "rephrased_2": "Which football club did Kevin De Bruyne play for when Viorica D\u0103ncil\u0103 was the Prime Minister of Romania?",
+                "rephrased_3": "When Viorica D\u0103ncil\u0103 was the Prime Minister of Romania, which football club did Kevin De Bruyne play for?"
+            },
+            "explict": {
+                "generic": "What was the name of the football club Kevin De Bruyne played for from 29 January 2018 to 4 November 2019?",
+                "rephrased_1": "What was the name of the football club Kevin De Bruyne played for from 29 January 2018 to 4 November 2019?",
+                "rephrased_2": "Which football club did Kevin De Bruyne play for from 29 January 2018 to 4 November 2019?",
+                "rephrased_3": "From 29 January 2018 to 4 November 2019, which football club did Kevin De Bruyne play for?"
+            },
+            "answers": [
+                "K.R.C. Genk |S: +2008-07-01T00:00:00Z |E: +2012-01-31T00:00:00Z",
+                "Chelsea F.C. |S: +2012-01-31T00:00:00Z |E: +2012-02-01T00:00:00Z",
+                "K.R.C. Genk |S: +2012-02-01T00:00:00Z |E: +2012-06-30T00:00:00Z",
+                "Chelsea F.C. |S: +2012-06-30T00:00:00Z |E: +2012-08-02T00:00:00Z",
+                "SV Werder Bremen |S: +2012-08-02T00:00:00Z |E: +2013-06-30T00:00:00Z",
+                "Chelsea F.C. |S: +2013-06-30T00:00:00Z |E: +2014-01-18T00:00:00Z",
+                "VfL Wolfsburg |S: +2014-01-18T00:00:00Z |E: +2015-08-30T00:00:00Z",
+                "Manchester City F.C. |S: +2015-08-30T00:00:00Z"
+            ],
+            "ground_truth": {
+                "name": "Manchester City F.C.",
+                "start": "2015-08-30",
+                "end": null
+            },
+            "co_event": {
+                "name": "Viorica D\u0103ncil\u0103",
+                "start": "2018-01-29",
+                "end": "2019-11-04",
+                "element": "Romania",
+                "attribute": "Prime Minister of Romania",
+                "description": "The head of government in Romania is"
+            }
+        },
+        "Harry Kane": {
+            "implict": {
+                "generic": "What was the name of the football club Harry Kane played for when Tony Abbott was the Prime Minister of Australia?",
+                "rephrased_1": "What was the name of the football club Harry Kane played for when Tony Abbott was the Prime Minister of Australia?",
+                "rephrased_2": "Which football club did Harry Kane play for when Tony Abbott was the Prime Minister of Australia?",
+                "rephrased_3": "When Tony Abbott was the Prime Minister of Australia, which football club did Harry Kane play for?"
+            },
+            "explict": {
+                "generic": "What was the name of the football club Harry Kane played for from 18 September 2013 to 15 September 2015?",
+                "rephrased_1": "What was the name of the football club Harry Kane played for from 18 September 2013 to 15 September 2015?",
+                "rephrased_2": "Which football club did Harry Kane play for from 18 September 2013 to 15 September 2015?",
+                "rephrased_3": "From 18 September 2013 to 15 September 2015, which football club did Harry Kane play for?"
+            },
+            "answers": [
+                "Tottenham Hotspur F.C. |S: +2010-07-01T00:00:00Z |E: +2011-01-07T00:00:00Z",
+                "Leyton Orient F.C. |S: +2011-01-07T00:00:00Z |E: +2011-05-31T00:00:00Z",
+                "Tottenham Hotspur F.C. |S: +2011-05-31T00:00:00Z |E: +2012-01-01T00:00:00Z",
+                "Millwall F.C. |S: +2012-01-01T00:00:00Z |E: +2012-05-31T00:00:00Z",
+                "Tottenham Hotspur F.C. |S: +2012-05-31T00:00:00Z |E: +2012-08-31T00:00:00Z",
+                "Norwich City F.C. |S: +2012-08-31T00:00:00Z |E: +2013-02-01T00:00:00Z",
+                "Tottenham Hotspur F.C. |S: +2013-02-01T00:00:00Z |E: +2013-02-21T00:00:00Z",
+                "Leicester City |S: +2013-02-21T00:00:00Z |E: +2013-05-14T00:00:00Z",
+                "Tottenham Hotspur F.C. |S: +2013-05-14T00:00:00Z |E: +2013-08-12T00:00:00Z",
+                "FC Bayern Munich |S: +2013-08-12T00:00:00Z"
+            ],
+            "ground_truth": {
+                "name": "FC Bayern Munich",
+                "start": "2013-08-12",
+                "end": null
+            },
+            "co_event": {
+                "name": "Tony Abbott",
+                "start": "2013-09-18",
+                "end": "2015-09-15",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia",
+                "description": "The head of government in Australia is"
+            }
+        },
+        "Stephen Curry": {
+            "implict": {
+                "generic": "What was the name of the basketball team Stephen Curry played for when Alfred Gusenbauer was the Federal Chancellor of Austria?",
+                "rephrased_1": "What was the name of the basketball team Stephen Curry played for when Alfred Gusenbauer was the Federal Chancellor of Austria?",
+                "rephrased_2": "Which basketball team did Stephen Curry play for when Alfred Gusenbauer was the Federal Chancellor of Austria?",
+                "rephrased_3": "When Alfred Gusenbauer was the Federal Chancellor of Austria, which basketball team did Stephen Curry play for?"
+            },
+            "explict": {
+                "generic": "What was the name of the basketball team Stephen Curry played for from 11 January 2007 to 2 December 2008?",
+                "rephrased_1": "What was the name of the basketball team Stephen Curry played for from 11 January 2007 to 2 December 2008?",
+                "rephrased_2": "Which basketball team did Stephen Curry play for from 11 January 2007 to 2 December 2008?",
+                "rephrased_3": "From 11 January 2007 to 2 December 2008, which basketball team did Stephen Curry play for?"
+            },
+            "answers": [
+                "Davidson Wildcats men's basketball |S: +2006-00-00T00:00:00Z |E: +2009-00-00T00:00:00Z",
+                "Golden State Warriors |S: +2009-06-25T00:00:00Z"
+            ],
+            "ground_truth": {
+                "name": "Davidson Wildcats men's basketball",
+                "start": "2006-01-01",
+                "end": "2009-01-01"
+            },
+            "co_event": {
+                "name": "Alfred Gusenbauer",
+                "start": "2007-01-11",
+                "end": "2008-12-02",
+                "element": "Austria",
+                "attribute": "Federal Chancellor of Austria",
+                "description": "The head of government in Austria is"
+            }
+        },
+        "Charles Leclerc": {
+            "implict": {
+                "generic": "What was the name of the Formula 1 team Charles Leclerc drove for when Ismail Sabri Yaakob was the Prime Minister of Malaysia?",
+                "rephrased_1": "What was the name of the Formula 1 team Charles Leclerc drove for when Ismail Sabri Yaakob was the Prime Minister of Malaysia?",
+                "rephrased_2": "Which Formula 1 team did Charles Leclerc drive for when Ismail Sabri Yaakob was the Prime Minister of Malaysia?",
+                "rephrased_3": "When Ismail Sabri Yaakob was the Prime Minister of Malaysia, which Formula 1 team did Charles Leclerc drive for?"
+            },
+            "explict": {
+                "generic": "What was the name of the Formula 1 team Charles Leclerc drove for from 21 August 2021 to 24 November 2022?",
+                "rephrased_1": "What was the name of the Formula 1 team Charles Leclerc drove for from 21 August 2021 to 24 November 2022?",
+                "rephrased_2": "Which Formula 1 team did Charles Leclerc drive for from 21 August 2021 to 24 November 2022?",
+                "rephrased_3": "From 21 August 2021 to 24 November 2022, which Formula 1 team did Charles Leclerc drive for?"
+            },
+            "answers": [
+                "Sauber |S: +2018-00-00T00:00:00Z |E: +2019-00-00T00:00:00Z",
+                "Scuderia Ferrari |S: +2019-00-00T00:00:00Z"
+            ],
+            "ground_truth": {
+                "name": "Scuderia Ferrari",
+                "start": "2019-01-01",
+                "end": null
+            },
+            "co_event": {
+                "name": "Ismail Sabri Yaakob",
+                "start": "2021-08-21",
+                "end": "2022-11-24",
+                "element": "Malaysia",
+                "attribute": "Prime Minister of Malaysia",
+                "description": "The head of government in Malaysia is"
+            }
+        },
+        "Carlos Sainz Jr.": {
+            "implict": {
+                "generic": "What was the name of the Formula 1 team Carlos Sainz Jr. drove for when Ismail Sabri Yaakob was the Prime Minister of Malaysia?",
+                "rephrased_1": "What was the name of the Formula 1 team Carlos Sainz Jr. drove for when Ismail Sabri Yaakob was the Prime Minister of Malaysia?",
+                "rephrased_2": "Which Formula 1 team did Carlos Sainz Jr. drive for when Ismail Sabri Yaakob was the Prime Minister of Malaysia?",
+                "rephrased_3": "When Ismail Sabri Yaakob was the Prime Minister of Malaysia, which Formula 1 team did Carlos Sainz Jr. drive for?"
+            },
+            "explict": {
+                "generic": "What was the name of the Formula 1 team Carlos Sainz Jr. drove for from 21 August 2021 to 24 November 2022?",
+                "rephrased_1": "What was the name of the Formula 1 team Carlos Sainz Jr. drove for from 21 August 2021 to 24 November 2022?",
+                "rephrased_2": "Which Formula 1 team did Carlos Sainz Jr. drive for from 21 August 2021 to 24 November 2022?",
+                "rephrased_3": "From 21 August 2021 to 24 November 2022, which Formula 1 team did Carlos Sainz Jr. drive for?"
+            },
+            "answers": [
+                "McLaren |S: +2019-00-00T00:00:00Z |E: +2020-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2017-00-00T00:00:00Z |E: +2018-00-00T00:00:00Z",
+                "Scuderia Toro Rosso |S: +2015-00-00T00:00:00Z |E: +2017-00-00T00:00:00Z",
+                "Scuderia Ferrari |S: +2021-00-00T00:00:00Z"
+            ],
+            "ground_truth": {
+                "name": "Scuderia Ferrari",
+                "start": "2021-01-01",
+                "end": null
+            },
+            "co_event": {
+                "name": "Ismail Sabri Yaakob",
+                "start": "2021-08-21",
+                "end": "2022-11-24",
+                "element": "Malaysia",
+                "attribute": "Prime Minister of Malaysia",
+                "description": "The head of government in Malaysia is"
+            }
+        },
+        "George Russell": {
+            "implict": {
+                "generic": "What was the name of the Formula 1 team George Russell drove for when Ludovic Orban was the Prime Minister of Romania?",
+                "rephrased_1": "What was the name of the Formula 1 team George Russell drove for when Ludovic Orban was the Prime Minister of Romania?",
+                "rephrased_2": "Which Formula 1 team did George Russell drive for when Ludovic Orban was the Prime Minister of Romania?",
+                "rephrased_3": "When Ludovic Orban was the Prime Minister of Romania, which Formula 1 team did George Russell drive for?"
+            },
+            "explict": {
+                "generic": "What was the name of the Formula 1 team George Russell drove for from 4 November 2019 to 7 December 2020?",
+                "rephrased_1": "What was the name of the Formula 1 team George Russell drove for from 4 November 2019 to 7 December 2020?",
+                "rephrased_2": "Which Formula 1 team did George Russell drive for from 4 November 2019 to 7 December 2020?",
+                "rephrased_3": "From 4 November 2019 to 7 December 2020, which Formula 1 team did George Russell drive for?"
+            },
+            "answers": [
+                "Williams Racing |S: +2018-00-00T00:00:00Z |E: +2021-00-00T00:00:00Z",
+                "Mercedes F1 Team |S: +2022-00-00T00:00:00Z"
+            ],
+            "ground_truth": {
+                "name": "Williams Racing",
+                "start": "2018-01-01",
+                "end": "2021-01-01"
+            },
+            "co_event": {
+                "name": "Ludovic Orban",
+                "start": "2019-11-04",
+                "end": "2020-12-07",
+                "element": "Romania",
+                "attribute": "Prime Minister of Romania",
+                "description": "The head of government in Romania is"
+            }
+        }
+    },
+    "organizations": {
+        "International Atomic Energy Agency": {
+            "director / manager": {
+                "implict": {
+                    "generic": "What was the name of the director / manager of the International Atomic Energy Agency when Adone Zoli was the Prime Minister of Italy?",
+                    "rephrased_1": "What was the name of the director / manager of the International Atomic Energy Agency when Adone Zoli was the Prime Minister of Italy?",
+                    "rephrased_2": "Who served as the director / manager of the International Atomic Energy Agency when Adone Zoli was the Prime Minister of Italy?",
+                    "rephrased_3": "When Adone Zoli was the Prime Minister of Italy, who was the director / manager of the International Atomic Energy Agency?"
+                },
+                "explict": {
+                    "generic": "What was the name of the director / manager of the International Atomic Energy Agency from 19 May 1957 to 1 July 1958?",
+                    "rephrased_1": "What was the name of the director / manager of the International Atomic Energy Agency from 19 May 1957 to 1 July 1958?",
+                    "rephrased_2": "Who served as the director / manager of the International Atomic Energy Agency from 19 May 1957 to 1 July 1958?",
+                    "rephrased_3": "From 19 May 1957 to 1 July 1958, who was the director / manager of the International Atomic Energy Agency?"
+                },
+                "answers": [
+                    "Yukiya Amano |S: +2009-12-01T00:00:00Z |E: +2019-07-18T00:00:00Z",
+                    "Mohamed ElBaradei |S: +1997-00-00T00:00:00Z |E: +2009-00-00T00:00:00Z",
+                    "William Sterling Cole |S: +1957-00-00T00:00:00Z |E: +1961-00-00T00:00:00Z",
+                    "Sigvard Arne Eklund |S: +1961-00-00T00:00:00Z |E: +1981-00-00T00:00:00Z",
+                    "Hans Blix |S: +1981-00-00T00:00:00Z |E: +1997-00-00T00:00:00Z",
+                    "Rafael Grossi |S: +2019-12-03T00:00:00Z"
+                ],
+                "ground_truth": {
+                    "name": "William Sterling Cole",
+                    "start": "1957-01-01",
+                    "end": "1961-01-01"
+                },
+                "co_event": {
+                    "name": "Adone Zoli",
+                    "start": "1957-05-19",
+                    "end": "1958-07-01",
+                    "element": "Italy",
+                    "attribute": "Prime Minister of Italy",
+                    "description": "The head of government in Italy is"
+                }
+            }
+        },
+        "International Olympic Committee": {
+            "chairperson": {
+                "implict": {
+                    "generic": "What was the name of the chairperson of the International Olympic Committee when Warren G. Harding was the President of the United States?",
+                    "rephrased_1": "What was the name of the chairperson of the International Olympic Committee when Warren G. Harding was the President of the United States?",
+                    "rephrased_2": "Who served as the chairperson of the International Olympic Committee when Warren G. Harding was the President of the United States?",
+                    "rephrased_3": "When Warren G. Harding was the President of the United States, who was the chairperson of the International Olympic Committee?"
+                },
+                "explict": {
+                    "generic": "What was the name of the chairperson of the International Olympic Committee from 4 March 1921 to 2 August 1923?",
+                    "rephrased_1": "What was the name of the chairperson of the International Olympic Committee from 4 March 1921 to 2 August 1923?",
+                    "rephrased_2": "Who served as the chairperson of the International Olympic Committee from 4 March 1921 to 2 August 1923?",
+                    "rephrased_3": "From 4 March 1921 to 2 August 1923, who was the chairperson of the International Olympic Committee?"
+                },
+                "answers": [
+                    "Dimitrios Vikelas |S: +1894-00-00T00:00:00Z |E: +1896-00-00T00:00:00Z",
+                    "Pierre de Coubertin |S: +1896-00-00T00:00:00Z |E: +1916-00-00T00:00:00Z",
+                    "Godefroy de Blonay |S: +1916-00-00T00:00:00Z |E: +1919-00-00T00:00:00Z",
+                    "Pierre de Coubertin |S: +1919-00-00T00:00:00Z |E: +1925-00-00T00:00:00Z",
+                    "Henri de Baillet-Latour |S: +1925-00-00T00:00:00Z |E: +1942-00-00T00:00:00Z",
+                    "Sigfrid Edstr\u00f6m |S: +1942-00-00T00:00:00Z |E: +1946-00-00T00:00:00Z",
+                    "Sigfrid Edstr\u00f6m |S: +1946-00-00T00:00:00Z |E: +1952-00-00T00:00:00Z",
+                    "Avery Brundage |S: +1952-00-00T00:00:00Z |E: +1972-00-00T00:00:00Z",
+                    "Michael Morris, 3rd Baron Killanin |S: +1972-00-00T00:00:00Z |E: +1980-00-00T00:00:00Z",
+                    "Juan Antonio Samaranch |S: +1980-00-00T00:00:00Z |E: +2001-00-00T00:00:00Z",
+                    "Jacques Rogge |S: +2001-00-00T00:00:00Z |E: +2013-00-00T00:00:00Z",
+                    "Thomas Bach |S: +2013-09-10T00:00:00Z"
+                ],
+                "ground_truth": {
+                    "name": "Pierre de Coubertin",
+                    "start": "1919-01-01",
+                    "end": "1925-01-01"
+                },
+                "co_event": {
+                    "name": "Warren G. Harding",
+                    "start": "1921-03-04",
+                    "end": "1923-08-02",
+                    "element": "United States of America",
+                    "attribute": "President of the United States",
+                    "description": "The head of state in United States of America is"
+                }
+            }
+        },
+        "Jamia Millia Islamia": {
+            "Chancellor": {
+                "implict": {
+                    "generic": "What was the name of the chancellor of the Jamia Millia Islamia when Ji\u0159\u00ed Paroubek was the Prime Minister of the Czech Republic?",
+                    "rephrased_1": "What was the name of the chancellor of the Jamia Millia Islamia when Ji\u0159\u00ed Paroubek was the Prime Minister of the Czech Republic?",
+                    "rephrased_2": "Who served as the chancellor of the Jamia Millia Islamia when Ji\u0159\u00ed Paroubek was the Prime Minister of the Czech Republic?",
+                    "rephrased_3": "When Ji\u0159\u00ed Paroubek was the Prime Minister of the Czech Republic, who was the chancellor of the Jamia Millia Islamia?"
+                },
+                "explict": {
+                    "generic": "What was the name of the chancellor of the Jamia Millia Islamia from 25 April 2005 to 4 September 2006?",
+                    "rephrased_1": "What was the name of the chancellor of the Jamia Millia Islamia from 25 April 2005 to 4 September 2006?",
+                    "rephrased_2": "Who served as the chancellor of the Jamia Millia Islamia from 25 April 2005 to 4 September 2006?",
+                    "rephrased_3": "From 25 April 2005 to 4 September 2006, who was the chancellor of the Jamia Millia Islamia?"
+                },
+                "answers": [
+                    "Maulana Mohammad Ali |S: +1920-01-01T00:00:00Z |E: +1923-01-01T00:00:00Z",
+                    "Abdul Majeed Khwaja |S: +1923-01-01T00:00:00Z |E: +1925-01-01T00:00:00Z",
+                    "Zakir Husain |S: +1926-01-01T00:00:00Z |E: +1948-01-01T00:00:00Z",
+                    "Mohammad Mujeeb |S: +1948-01-01T00:00:00Z |E: +1973-01-01T00:00:00Z",
+                    "Masud Husain Khan |S: +1973-01-01T00:00:00Z |E: +1978-01-01T00:00:00Z",
+                    "Anwar Jamal Kidwai |S: +1978-01-01T00:00:00Z |E: +1983-01-01T00:00:00Z",
+                    "Ali Ashraf |S: +1983-01-01T00:00:00Z |E: +1989-01-01T00:00:00Z",
+                    "Zahoor Qasim |S: +1989-01-01T00:00:00Z |E: +1991-01-01T00:00:00Z",
+                    "Mohammad Ahmed Zaki |S: +1997-01-01T00:00:00Z |E: +2000-01-01T00:00:00Z",
+                    "Mushirul Hasan |S: +2004-01-01T00:00:00Z |E: +2009-01-01T00:00:00Z",
+                    "Najeeb Jung |S: +2009-01-01T00:00:00Z |E: +2013-01-01T00:00:00Z",
+                    "Talat Ahmad |S: +2014-01-01T00:00:00Z |E: +2018-01-01T00:00:00Z",
+                    "Najma Akhtar |S: +2019-01-01T00:00:00Z |E: +2023-01-01T00:00:00Z",
+                    "Mazhar Asif |S: +2024-01-01T00:00:00Z"
+                ],
+                "ground_truth": {
+                    "name": "Mushirul Hasan",
+                    "start": "2004-01-01",
+                    "end": "2009-01-01"
+                },
+                "co_event": {
+                    "name": "Ji\u0159\u00ed Paroubek",
+                    "start": "2005-04-25",
+                    "end": "2006-09-04",
+                    "element": "Czech Republic",
+                    "attribute": "Prime Minister of the Czech Republic",
+                    "description": "The head of government in Czech Republic is"
+                }
+            }
+        }
+    }
+}

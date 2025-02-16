@@ -1,0 +1,344 @@
+{
+    "companies_byRevenue": {
+        "Ford Motor Company": {
+            "answers": [
+                "Mark Fields |S: +2014-07-00T00:00:00Z |E: +2017-05-21T00:00:00Z",
+                "Jim Farley |S: +2020-10-01T00:00:00Z",
+                "John S. Gray |S: +1903-00-00T00:00:00Z |E: +1906-00-00T00:00:00Z",
+                "Henry Ford |S: +1906-00-00T00:00:00Z |E: +1945-00-00T00:00:00Z",
+                "Henry Ford II |S: +1945-09-00T00:00:00Z |E: +1979-09-00T00:00:00Z",
+                "Philip Caldwell |S: +1979-10-00T00:00:00Z |E: +1985-01-00T00:00:00Z",
+                "Donald Petersen |S: +1985-02-00T00:00:00Z |E: +1990-02-00T00:00:00Z",
+                "Harold Arthur Poling |S: +1990-03-00T00:00:00Z |E: +1993-11-00T00:00:00Z",
+                "Alexander Trotman, Baron Trotman |S: +1993-11-00T00:00:00Z |E: +1998-12-00T00:00:00Z",
+                "Jacques Nasser |S: +1999-01-00T00:00:00Z |E: +2001-10-00T00:00:00Z",
+                "William Clay Ford |S: +2001-10-00T00:00:00Z |E: +2006-09-00T00:00:00Z",
+                "Alan Mulally |S: +2006-09-00T00:00:00Z |E: +2014-06-00T00:00:00Z",
+                "James Hackett |S: +2017-05-00T00:00:00Z |E: +2020-09-00T00:00:00Z"
+            ],
+            "ground_truth": "Henry Ford II",
+            "ranking_qa": {
+                "generic": "Henry Ford II and Jacques Nasser both served as Chief Executive Officers of the Ford Motor Company before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_1": "Henry Ford II and Jacques Nasser both served as Chief Executive Officers of the Ford Motor Company before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_2": "the Ford Motor Company had Henry Ford II and Jacques Nasser as former Chief Executive Officers. Can you identify which one of them was the former Chief Executive Officer?",
+                "rephrased_3": "Henry Ford II and Jacques Nasser previously held the position of the Ford Motor Company's Chief Executive Officer. Which of them served as the former Chief Executive Officer?"
+            },
+            "accumulate_qa": {
+                "generic": "On 20 May 1999, Jacques Nasser was the Chief Executive Officer of the Ford Motor Company. So, who held this position 16898 days before?",
+                "rephrased_1": "On 20 May 1999, Jacques Nasser was the Chief Executive Officer of the Ford Motor Company. So, who held this position 16898 days before?",
+                "rephrased_2": "Jacques Nasser was the Ford Motor Company's Chief Executive Officer on 20 May 1999. Do you know who was in this role before 16898 days?",
+                "rephrased_3": "Jacques Nasser served as the Chief Executive Officer of the Ford Motor Company on 20 May 1999. Can you identify who occupied this position before 16898 days?"
+            }
+        },
+        "Intel": {
+            "answers": [
+                "Andrew Grove |S: +1987-01-01T00:00:00Z |E: +1998-01-01T00:00:00Z",
+                "Robert Noyce |S: +1968-01-01T00:00:00Z |E: +1975-01-01T00:00:00Z",
+                "Gordon Moore |S: +1975-01-01T00:00:00Z |E: +1987-01-01T00:00:00Z",
+                "Paul Otellini |S: +2005-05-18T00:00:00Z |E: +2013-05-02T00:00:00Z",
+                "Craig R. Barrett |S: +1998-01-01T00:00:00Z |E: +2005-01-01T00:00:00Z",
+                "Pat Gelsinger |S: +2021-02-15T00:00:00Z",
+                "Bob Swan |S: +2018-06-21T00:00:00Z |E: +2021-02-15T00:00:00Z"
+            ],
+            "ground_truth": "Gordon Moore",
+            "ranking_qa": {
+                "generic": "Gordon Moore and Bob Swan both served as Chief Executive Officers of Intel before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_1": "Gordon Moore and Bob Swan both served as Chief Executive Officers of Intel before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_2": "Intel had Gordon Moore and Bob Swan as former Chief Executive Officers. Can you identify which one of them was the former Chief Executive Officer?",
+                "rephrased_3": "Gordon Moore and Bob Swan previously held the position of Intel's Chief Executive Officer. Which of them served as the former Chief Executive Officer?"
+            },
+            "accumulate_qa": {
+                "generic": "On 16 January 2021, Bob Swan was the Chief Executive Officer of Intel. So, who held this position 14046 days before?",
+                "rephrased_1": "On 16 January 2021, Bob Swan was the Chief Executive Officer of Intel. So, who held this position 14046 days before?",
+                "rephrased_2": "Bob Swan was Intel's Chief Executive Officer on 16 January 2021. Do you know who was in this role before 14046 days?",
+                "rephrased_3": "Bob Swan served as the Chief Executive Officer of Intel on 16 January 2021. Can you identify who occupied this position before 14046 days?"
+            }
+        },
+        "Delta Air Lines": {
+            "answers": [
+                "Gerald Grinstein |S: +2004-01-01T00:00:00Z |E: +2007-01-01T00:00:00Z",
+                "Collett E. Woolman |S: +1965-01-01T00:00:00Z |E: +1966-01-01T00:00:00Z",
+                "David C. Garrett, Jr. |S: +1978-01-01T00:00:00Z |E: +1987-01-01T00:00:00Z",
+                "Ed Bastian |S: +2016-01-01T00:00:00Z",
+                "Ronald W. Allen |S: +1987-01-01T00:00:00Z |E: +1997-01-01T00:00:00Z",
+                "Leo F. Mullin |S: +1997-01-01T00:00:00Z |E: +2004-01-01T00:00:00Z",
+                "W.T. Beebe |S: +1971-01-01T00:00:00Z |E: +1978-01-01T00:00:00Z",
+                "Charles H. Dolson |S: +1970-01-01T00:00:00Z |E: +1971-01-01T00:00:00Z"
+            ],
+            "ground_truth": "Charles H. Dolson",
+            "ranking_qa": {
+                "generic": "Charles H. Dolson and Gerald Grinstein both served as Chief Executive Officers of Delta Air Lines before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_1": "Charles H. Dolson and Gerald Grinstein both served as Chief Executive Officers of Delta Air Lines before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_2": "Delta Air Lines had Charles H. Dolson and Gerald Grinstein as former Chief Executive Officers. Can you identify which one of them was the former Chief Executive Officer?",
+                "rephrased_3": "Charles H. Dolson and Gerald Grinstein previously held the position of Delta Air Lines's Chief Executive Officer. Which of them served as the former Chief Executive Officer?"
+            },
+            "accumulate_qa": {
+                "generic": "On 17 September 2006, Gerald Grinstein was the Chief Executive Officer of Delta Air Lines. So, who held this position 13099 days before?",
+                "rephrased_1": "On 17 September 2006, Gerald Grinstein was the Chief Executive Officer of Delta Air Lines. So, who held this position 13099 days before?",
+                "rephrased_2": "Gerald Grinstein was Delta Air Lines's Chief Executive Officer on 17 September 2006. Do you know who was in this role before 13099 days?",
+                "rephrased_3": "Gerald Grinstein served as the Chief Executive Officer of Delta Air Lines on 17 September 2006. Can you identify who occupied this position before 13099 days?"
+            }
+        },
+        "Norwegian Broadcasting Corporation": {
+            "answers": [
+                "Einar F\u00f8rde |S: +1989-01-01T00:00:00Z |E: +2001-01-01T00:00:00Z",
+                "Olav Midttun |S: +1934-01-01T00:00:00Z |E: +1940-01-01T00:00:00Z",
+                "Toralv \u00d8ksnevad |S: +1940-01-01T00:00:00Z |E: +1945-01-01T00:00:00Z",
+                "Bjartmar Gjerde |S: +1981-01-01T00:00:00Z |E: +1989-01-01T00:00:00Z",
+                "Torolf Elster |S: +1972-01-01T00:00:00Z |E: +1981-01-01T00:00:00Z",
+                "Hans Jacob Ustvedt |S: +1962-01-01T00:00:00Z |E: +1972-01-01T00:00:00Z",
+                "John G. Bernander |S: +2001-01-01T00:00:00Z |E: +2007-01-01T00:00:00Z",
+                "Hans-Tore Bjerkaas |S: +2007-01-01T00:00:00Z |E: +2013-01-01T00:00:00Z",
+                "Kaare Fostervoll |S: +1948-01-01T00:00:00Z |E: +1962-01-01T00:00:00Z",
+                "Vibeke F\u00fcrst Haugen |S: +2022-01-01T00:00:00Z"
+            ],
+            "ground_truth": "Hans Jacob Ustvedt",
+            "ranking_qa": {
+                "generic": "Hans Jacob Ustvedt and Torolf Elster both served as Chief Executive Officers of the Norwegian Broadcasting Corporation before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_1": "Hans Jacob Ustvedt and Torolf Elster both served as Chief Executive Officers of the Norwegian Broadcasting Corporation before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_2": "the Norwegian Broadcasting Corporation had Hans Jacob Ustvedt and Torolf Elster as former Chief Executive Officers. Can you identify which one of them was the former Chief Executive Officer?",
+                "rephrased_3": "Hans Jacob Ustvedt and Torolf Elster previously held the position of the Norwegian Broadcasting Corporation's Chief Executive Officer. Which of them served as the former Chief Executive Officer?"
+            },
+            "accumulate_qa": {
+                "generic": "On 11 June 1973, Torolf Elster was the Chief Executive Officer of the Norwegian Broadcasting Corporation. So, who held this position 2423 days before?",
+                "rephrased_1": "On 11 June 1973, Torolf Elster was the Chief Executive Officer of the Norwegian Broadcasting Corporation. So, who held this position 2423 days before?",
+                "rephrased_2": "Torolf Elster was the Norwegian Broadcasting Corporation's Chief Executive Officer on 11 June 1973. Do you know who was in this role before 2423 days?",
+                "rephrased_3": "Torolf Elster served as the Chief Executive Officer of the Norwegian Broadcasting Corporation on 11 June 1973. Can you identify who occupied this position before 2423 days?"
+            }
+        },
+        "HSBC": {
+            "answers": [
+                "Stephen Green, Baron Green of Hurstpierpoint |S: +2003-01-01T00:00:00Z |E: +2006-01-01T00:00:00Z",
+                "John Bond |S: +1993-01-01T00:00:00Z |E: +1998-01-01T00:00:00Z",
+                "Michael Geoghegan |S: +2006-01-01T00:00:00Z |E: +2011-01-01T00:00:00Z",
+                "Stuart Gulliver |S: +2011-01-01T00:00:00Z |E: +2018-02-01T00:00:00Z",
+                "William Purves |S: +1986-01-01T00:00:00Z |E: +1993-01-01T00:00:00Z",
+                "John Flint |S: +2018-02-01T00:00:00Z |E: +2019-08-01T00:00:00Z",
+                "Keith Whitson |S: +1998-01-01T00:00:00Z |E: +2003-01-01T00:00:00Z",
+                "Noel Quinn |S: +2020-03-01T00:00:00Z |E: +2024-09-02T00:00:00Z",
+                "Georges Elhedery |S: +2024-09-02T00:00:00Z"
+            ],
+            "ground_truth": "John Bond",
+            "ranking_qa": {
+                "generic": "John Bond and John Flint both served as Chief Executive Officers of HSBC before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_1": "John Bond and John Flint both served as Chief Executive Officers of HSBC before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_2": "HSBC had John Bond and John Flint as former Chief Executive Officers. Can you identify which one of them was the former Chief Executive Officer?",
+                "rephrased_3": "John Bond and John Flint previously held the position of HSBC's Chief Executive Officer. Which of them served as the former Chief Executive Officer?"
+            },
+            "accumulate_qa": {
+                "generic": "On 22 August 2018, John Flint was the Chief Executive Officer of HSBC. So, who held this position 8182 days before?",
+                "rephrased_1": "On 22 August 2018, John Flint was the Chief Executive Officer of HSBC. So, who held this position 8182 days before?",
+                "rephrased_2": "John Flint was HSBC's Chief Executive Officer on 22 August 2018. Do you know who was in this role before 8182 days?",
+                "rephrased_3": "John Flint served as the Chief Executive Officer of HSBC on 22 August 2018. Can you identify who occupied this position before 8182 days?"
+            }
+        }
+    },
+    "countries_byGDP": {
+        "Denmark": {
+            "Prime Minister of Denmark": {
+                "answers": [
+                    "Helle Thorning-Schmidt |S: +2011-10-03T00:00:00Z |E: +2015-06-28T00:00:00Z",
+                    "Lars L\u00f8kke Rasmussen |S: +2009-04-05T00:00:00Z |E: +2011-10-03T00:00:00Z",
+                    "Anders Fogh Rasmussen |S: +2001-11-27T00:00:00Z |E: +2009-04-05T00:00:00Z",
+                    "Poul Nyrup Rasmussen |S: +1993-01-25T00:00:00Z |E: +2001-11-27T00:00:00Z",
+                    "Poul Schl\u00fcter |S: +1982-09-10T00:00:00Z |E: +1993-01-25T00:00:00Z",
+                    "Anker J\u00f8rgensen |S: +1975-02-13T00:00:00Z |E: +1982-09-10T00:00:00Z",
+                    "Poul Hartling |S: +1973-12-19T00:00:00Z |E: +1975-02-13T00:00:00Z",
+                    "Anker J\u00f8rgensen |S: +1972-10-05T00:00:00Z |E: +1973-12-19T00:00:00Z",
+                    "Jens Otto Krag |S: +1971-10-11T00:00:00Z |E: +1972-10-05T00:00:00Z",
+                    "Hilmar Baunsgaard |S: +1968-02-02T00:00:00Z |E: +1971-10-11T00:00:00Z",
+                    "Jens Otto Krag |S: +1962-09-03T00:00:00Z |E: +1968-02-02T00:00:00Z",
+                    "Viggo Kampmann |S: +1960-02-21T00:00:00Z |E: +1962-09-03T00:00:00Z",
+                    "H. C. Hansen |S: +1955-02-01T00:00:00Z |E: +1960-02-21T00:00:00Z",
+                    "Hans Hedtoft |S: +1953-09-30T00:00:00Z |E: +1955-02-01T00:00:00Z",
+                    "Erik Eriksen |S: +1950-10-30T00:00:00Z |E: +1953-09-30T00:00:00Z",
+                    "Hans Hedtoft |S: +1947-11-13T00:00:00Z |E: +1950-10-30T00:00:00Z",
+                    "Knud Kristensen |S: +1945-11-07T00:00:00Z |E: +1947-11-13T00:00:00Z",
+                    "Vilhelm Buhl |S: +1945-05-05T00:00:00Z |E: +1945-11-07T00:00:00Z",
+                    "Erik Scavenius |S: +1942-11-09T00:00:00Z |E: +1945-05-05T00:00:00Z",
+                    "Vilhelm Buhl |S: +1942-05-04T00:00:00Z |E: +1942-11-09T00:00:00Z",
+                    "Thorvald Stauning |S: +1929-04-30T00:00:00Z |E: +1942-05-04T00:00:00Z",
+                    "Thomas Madsen-Mygdal |S: +1926-12-14T00:00:00Z |E: +1929-04-30T00:00:00Z",
+                    "Thorvald Stauning |S: +1924-04-23T00:00:00Z |E: +1926-12-14T00:00:00Z",
+                    "Niels Neergaard |S: +1920-05-05T00:00:00Z |E: +1924-04-23T00:00:00Z",
+                    "Michael Pedersen Friis |S: +1920-04-05T00:00:00Z |E: +1920-05-05T00:00:00Z",
+                    "Otto Liebe |S: +1920-03-30T00:00:00Z |E: +1920-04-05T00:00:00Z",
+                    "Carl Theodor Zahle |S: +1913-06-21T00:00:00Z |E: +1920-03-30T00:00:00Z",
+                    "Klaus Berntsen |S: +1910-07-05T00:00:00Z |E: +1913-06-21T00:00:00Z",
+                    "Carl Theodor Zahle |S: +1909-10-28T00:00:00Z |E: +1910-07-05T00:00:00Z",
+                    "Ludvig Holstein-Ledreborg |S: +1909-08-16T00:00:00Z |E: +1909-10-28T00:00:00Z",
+                    "Niels Neergaard |S: +1908-10-12T00:00:00Z |E: +1909-08-16T00:00:00Z",
+                    "Jens Christian Christensen |S: +1905-01-14T00:00:00Z |E: +1908-10-12T00:00:00Z",
+                    "Johan Henrik Deuntzer |S: +1901-07-24T00:00:00Z |E: +1905-01-14T00:00:00Z",
+                    "Hannibal Sehested |S: +1900-04-27T00:00:00Z |E: +1901-07-24T00:00:00Z",
+                    "Hugo Egmont H\u00f8rring |S: +1897-05-23T00:00:00Z |E: +1900-04-27T00:00:00Z",
+                    "Tage Reedtz-Thott |S: +1894-08-07T00:00:00Z |E: +1897-05-23T00:00:00Z",
+                    "Jacob Br\u00f8nnum Scavenius Estrup |S: +1875-06-11T00:00:00Z |E: +1894-08-07T00:00:00Z",
+                    "Christen Andreas Fonnesbech |S: +1874-07-14T00:00:00Z |E: +1875-06-11T00:00:00Z",
+                    "Ludvig Holstein-Holsteinborg |S: +1870-05-28T00:00:00Z |E: +1874-07-14T00:00:00Z",
+                    "Christian Emil Krag-Juel-Vind-Frijs |S: +1865-11-06T00:00:00Z |E: +1870-05-28T00:00:00Z",
+                    "Christian Albrecht Bluhme |S: +1864-07-11T00:00:00Z |E: +1865-11-06T00:00:00Z",
+                    "Ditlev Gothard Monrad |S: +1863-12-31T00:00:00Z |E: +1864-07-11T00:00:00Z",
+                    "Carl Christian Hall |S: +1860-01-24T00:00:00Z |E: +1863-12-31T00:00:00Z",
+                    "Carl Edvard Rotwitt |S: +1859-12-02T00:00:00Z |E: +1860-01-24T00:00:00Z",
+                    "Carl Christian Hall |S: +1857-05-13T00:00:00Z |E: +1859-12-02T00:00:00Z",
+                    "Carl Christoffer Georg Andr\u00e6 |S: +1856-10-18T00:00:00Z |E: +1857-05-13T00:00:00Z",
+                    "Peter Georg Bang |S: +1854-12-12T00:00:00Z |E: +1856-10-18T00:00:00Z",
+                    "Anders Sand\u00f8e \u00d8rsted |S: +1853-04-21T00:00:00Z |E: +1854-12-12T00:00:00Z",
+                    "Christian Albrecht Bluhme |S: +1852-01-27T00:00:00Z |E: +1853-04-21T00:00:00Z",
+                    "Adam Wilhelm Moltke |S: +1848-03-22T00:00:00Z |E: +1852-01-27T00:00:00Z",
+                    "Lars L\u00f8kke Rasmussen |S: +2015-06-28T00:00:00Z |E: +2019-06-27T00:00:00Z",
+                    "Mette Frederiksen |S: +2019-06-27T00:00:00Z"
+                ],
+                "ground_truth": "Carl Theodor Zahle",
+                "ranking_qa": {
+                    "generic": "Carl Theodor Zahle and Hans Hedtoft both served as the prime ministers of Denmark before. Do you know which one of them the former prime minister was?",
+                    "rephrased_1": "Carl Theodor Zahle and Hans Hedtoft both served as the prime ministers of Denmark before. Do you know which one of them the former prime minister was?",
+                    "rephrased_2": "Denmark had Carl Theodor Zahle and Hans Hedtoft as former prime ministers. Can you identify which one the former prime minister was?",
+                    "rephrased_3": "Carl Theodor Zahle and Hans Hedtoft previously held the position of the prime minister of Denmark. Which of them served as the former prime minister?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 27 March 1954, Hans Hedtoft was the prime minister of Denmark. So, who held this position 13637 days before?",
+                    "rephrased_1": "On 27 March 1954, Hans Hedtoft was the prime minister of Denmark. So, who held this position 13637 days before?",
+                    "rephrased_2": "Hans Hedtoft was Denmark's prime minister on 27 March 1954. Do you know who was in this role before 13637 days?",
+                    "rephrased_3": "Hans Hedtoft served as the prime minister of Denmark on 27 March 1954. Can you identify who occupied this position before 13637 days?"
+                }
+            }
+        }
+    },
+    "athletes_byPayment": {
+        "Harry Kane": {
+            "answers": [
+                "Tottenham Hotspur F.C. |S: +2010-07-01T00:00:00Z |E: +2011-01-07T00:00:00Z",
+                "Leyton Orient F.C. |S: +2011-01-07T00:00:00Z |E: +2011-05-31T00:00:00Z",
+                "Tottenham Hotspur F.C. |S: +2011-05-31T00:00:00Z |E: +2012-01-01T00:00:00Z",
+                "Millwall F.C. |S: +2012-01-01T00:00:00Z |E: +2012-05-31T00:00:00Z",
+                "Tottenham Hotspur F.C. |S: +2012-05-31T00:00:00Z |E: +2012-08-31T00:00:00Z",
+                "Norwich City F.C. |S: +2012-08-31T00:00:00Z |E: +2013-02-01T00:00:00Z",
+                "Tottenham Hotspur F.C. |S: +2013-02-01T00:00:00Z |E: +2013-02-21T00:00:00Z",
+                "Leicester City |S: +2013-02-21T00:00:00Z |E: +2013-05-14T00:00:00Z",
+                "Tottenham Hotspur F.C. |S: +2013-05-14T00:00:00Z |E: +2013-08-12T00:00:00Z",
+                "FC Bayern Munich |S: +2013-08-12T00:00:00Z"
+            ],
+            "ground_truth": "Leyton Orient F.C.",
+            "ranking_qa": {
+                "generic": "Leyton Orient F.C. and Leicester City were both Harry Kane's football clubs before, so which team between them was the former one Harry Kane played for?",
+                "rephrased_1": "Leyton Orient F.C. and Leicester City were both Harry Kane's football clubs before, so which team between them was the former one Harry Kane played for?",
+                "rephrased_2": "Harry Kane has joined Leyton Orient F.C. and Leicester City football clubs before. Can you identify which team between them was the former one Harry Kane played for?",
+                "rephrased_3": "Harry Kane previously played for Leyton Orient F.C. and Leicester City football clubs. Which team between them did Harry Kane formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 2 April 2013, Harry Kane played for Leicester City. So, before 673 days, which football club did Harry Kane play for?",
+                "rephrased_1": "On 2 April 2013, Harry Kane played for Leicester City. So, before 673 days, which football club did Harry Kane play for?",
+                "rephrased_2": "Leicester City was Harry Kane's football club on 2 April 2013. Can you identify which football club Harry Kane belongs to before 673 days?",
+                "rephrased_3": "Harry Kane played for Leicester City on 2 April 2013. Do you know which football club Harry Kane played for before 673 days?"
+            }
+        },
+        "LeBron James": {
+            "answers": [
+                "Cleveland Cavaliers |S: +2003-06-26T00:00:00Z |E: +2010-07-10T00:00:00Z",
+                "Miami Heat |S: +2010-07-10T00:00:00Z |E: +2014-06-25T00:00:00Z",
+                "Cleveland Cavaliers |S: +2014-06-25T00:00:00Z |E: +2018-07-01T00:00:00Z",
+                "Los Angeles Lakers |S: +2018-07-01T00:00:00Z"
+            ],
+            "ground_truth": "Miami Heat",
+            "ranking_qa": {
+                "generic": "Miami Heat and Cleveland Cavaliers were both LeBron James's basketball teams before, so which team between them was the former one LeBron James played for?",
+                "rephrased_1": "Miami Heat and Cleveland Cavaliers were both LeBron James's basketball teams before, so which team between them was the former one LeBron James played for?",
+                "rephrased_2": "LeBron James has joined Miami Heat and Cleveland Cavaliers basketball teams before. Can you identify which team between them was the former one LeBron James played for?",
+                "rephrased_3": "LeBron James previously played for Miami Heat and Cleveland Cavaliers basketball teams. Which team between them did LeBron James formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 9 December 2017, LeBron James played for Cleveland Cavaliers. So, before 1312 days, which basketball team did LeBron James play for?",
+                "rephrased_1": "On 9 December 2017, LeBron James played for Cleveland Cavaliers. So, before 1312 days, which basketball team did LeBron James play for?",
+                "rephrased_2": "Cleveland Cavaliers was LeBron James's basketball team on 9 December 2017. Can you identify which basketball team LeBron James belongs to before 1312 days?",
+                "rephrased_3": "LeBron James played for Cleveland Cavaliers on 9 December 2017. Do you know which basketball team LeBron James played for before 1312 days?"
+            }
+        },
+        "Bradley Beal": {
+            "answers": [
+                "Florida Gators men's basketball |S: +2011-01-01T00:00:00Z |E: +2012-06-28T00:00:00Z",
+                "Washington Wizards |S: +2012-06-28T00:00:00Z |E: +2023-07-01T00:00:00Z",
+                "Phoenix Suns |S: +2023-07-01T00:00:00Z"
+            ],
+            "ground_truth": "Florida Gators men's basketball",
+            "ranking_qa": {
+                "generic": "Florida Gators men's basketball and Washington Wizards were both Bradley Beal's basketball teams before, so which team between them was the former one Bradley Beal played for?",
+                "rephrased_1": "Florida Gators men's basketball and Washington Wizards were both Bradley Beal's basketball teams before, so which team between them was the former one Bradley Beal played for?",
+                "rephrased_2": "Bradley Beal has joined Florida Gators men's basketball and Washington Wizards basketball teams before. Can you identify which team between them was the former one Bradley Beal played for?",
+                "rephrased_3": "Bradley Beal previously played for Florida Gators men's basketball and Washington Wizards basketball teams. Which team between them did Bradley Beal formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 22 May 2015, Bradley Beal played for Washington Wizards. So, before 1234 days, which basketball team did Bradley Beal play for?",
+                "rephrased_1": "On 22 May 2015, Bradley Beal played for Washington Wizards. So, before 1234 days, which basketball team did Bradley Beal play for?",
+                "rephrased_2": "Washington Wizards was Bradley Beal's basketball team on 22 May 2015. Can you identify which basketball team Bradley Beal belongs to before 1234 days?",
+                "rephrased_3": "Bradley Beal played for Washington Wizards on 22 May 2015. Do you know which basketball team Bradley Beal played for before 1234 days?"
+            }
+        },
+        "Damian Lillard": {
+            "answers": [
+                "Weber State Wildcats men's basketball |S: +2008-01-01T00:00:00Z |E: +2012-07-13T00:00:00Z",
+                "Portland Trail Blazers |S: +2012-07-13T00:00:00Z |E: +2023-09-27T00:00:00Z",
+                "Milwaukee Bucks |S: +2023-09-27T00:00:00Z"
+            ],
+            "ground_truth": "Weber State Wildcats men's basketball",
+            "ranking_qa": {
+                "generic": "Weber State Wildcats men's basketball and Portland Trail Blazers were both Damian Lillard's basketball teams before, so which team between them was the former one Damian Lillard played for?",
+                "rephrased_1": "Weber State Wildcats men's basketball and Portland Trail Blazers were both Damian Lillard's basketball teams before, so which team between them was the former one Damian Lillard played for?",
+                "rephrased_2": "Damian Lillard has joined Weber State Wildcats men's basketball and Portland Trail Blazers basketball teams before. Can you identify which team between them was the former one Damian Lillard played for?",
+                "rephrased_3": "Damian Lillard previously played for Weber State Wildcats men's basketball and Portland Trail Blazers basketball teams. Which team between them did Damian Lillard formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 22 July 2014, Damian Lillard played for Portland Trail Blazers. So, before 1574 days, which basketball team did Damian Lillard play for?",
+                "rephrased_1": "On 22 July 2014, Damian Lillard played for Portland Trail Blazers. So, before 1574 days, which basketball team did Damian Lillard play for?",
+                "rephrased_2": "Portland Trail Blazers was Damian Lillard's basketball team on 22 July 2014. Can you identify which basketball team Damian Lillard belongs to before 1574 days?",
+                "rephrased_3": "Damian Lillard played for Portland Trail Blazers on 22 July 2014. Do you know which basketball team Damian Lillard played for before 1574 days?"
+            }
+        },
+        "Lewis Hamilton": {
+            "answers": [
+                "McLaren |S: +2007-00-00T00:00:00Z |E: +2012-00-00T00:00:00Z",
+                "Mercedes F1 Team |S: +2013-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Mercedes F1 Team",
+            "ranking_qa": {
+                "generic": "McLaren and Mercedes F1 Team were both Lewis Hamilton's Formula 1 teams before, so which team between them was the latter one Lewis Hamilton drove for?",
+                "rephrased_1": "McLaren and Mercedes F1 Team were both Lewis Hamilton's Formula 1 teams before, so which team between them was the latter one Lewis Hamilton drove for?",
+                "rephrased_2": "Lewis Hamilton has joined McLaren and Mercedes F1 Team Formula 1 teams before. Can you identify which team between them was the latter one Lewis Hamilton drove for?",
+                "rephrased_3": "Lewis Hamilton previously drove for McLaren and Mercedes F1 Team Formula 1 teams. Which team between them did Lewis Hamilton latterly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 28 July 2010, Lewis Hamilton drove for McLaren. So, after 5172 days, which Formula 1 team did Lewis Hamilton drive for?",
+                "rephrased_1": "On 28 July 2010, Lewis Hamilton drove for McLaren. So, after 5172 days, which Formula 1 team did Lewis Hamilton drive for?",
+                "rephrased_2": "McLaren was Lewis Hamilton's Formula 1 team on 28 July 2010. Can you identify which Formula 1 team Lewis Hamilton belongs to after 5172 days?",
+                "rephrased_3": "Lewis Hamilton drove for McLaren on 28 July 2010. Do you know which Formula 1 team Lewis Hamilton drove for after 5172 days?"
+            }
+        },
+        "Fernando Alonso": {
+            "answers": [
+                "Renault F1 Team |S: +2002-00-00T00:00:00Z |E: +2006-00-00T00:00:00Z",
+                "McLaren |S: +2007-00-00T00:00:00Z |E: +2007-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2008-00-00T00:00:00Z |E: +2009-00-00T00:00:00Z",
+                "Scuderia Ferrari |S: +2010-00-00T00:00:00Z |E: +2014-00-00T00:00:00Z",
+                "McLaren |S: +2015-00-00T00:00:00Z |E: +2018-00-00T00:00:00Z",
+                "Minardi |S: +2001-00-00T00:00:00Z |E: +2001-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2021-00-00T00:00:00Z |E: +2022-00-00T00:00:00Z",
+                "Aston Martin F1 Team |S: +2023-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Scuderia Ferrari",
+            "ranking_qa": {
+                "generic": "Scuderia Ferrari and McLaren were both Fernando Alonso's Formula 1 teams before, so which team between them was the former one Fernando Alonso drove for?",
+                "rephrased_1": "Scuderia Ferrari and McLaren were both Fernando Alonso's Formula 1 teams before, so which team between them was the former one Fernando Alonso drove for?",
+                "rephrased_2": "Fernando Alonso has joined Scuderia Ferrari and McLaren Formula 1 teams before. Can you identify which team between them was the former one Fernando Alonso drove for?",
+                "rephrased_3": "Fernando Alonso previously drove for Scuderia Ferrari and McLaren Formula 1 teams. Which team between them did Fernando Alonso formerly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 11 October 2015, Fernando Alonso drove for McLaren. So, before 1096 days, which Formula 1 team did Fernando Alonso drive for?",
+                "rephrased_1": "On 11 October 2015, Fernando Alonso drove for McLaren. So, before 1096 days, which Formula 1 team did Fernando Alonso drive for?",
+                "rephrased_2": "McLaren was Fernando Alonso's Formula 1 team on 11 October 2015. Can you identify which Formula 1 team Fernando Alonso belongs to before 1096 days?",
+                "rephrased_3": "Fernando Alonso drove for McLaren on 11 October 2015. Do you know which Formula 1 team Fernando Alonso drove for before 1096 days?"
+            }
+        }
+    },
+    "organizations": {}
+}

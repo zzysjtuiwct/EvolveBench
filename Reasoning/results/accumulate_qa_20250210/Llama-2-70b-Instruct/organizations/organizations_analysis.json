@@ -1,0 +1,1354 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": "Javier Solana",
+                "matched_answers": [
+                    [
+                        "Javier Solana",
+                        "+1995-12-05T00:00:00Z",
+                        "+1999-10-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Javier Solana",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "The president of Kyoto University 9 years before February 16, 2019, was Hiroshi Matsumoto.",
+                "matched_answers": [
+                    [
+                        "Hiroshi Matsumoto",
+                        "+2008-10-01T00:00:00Z",
+                        "+2014-09-30T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Hiroshi Matsumoto",
+                "element": "Kyoto University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Albin O. Kuhn",
+                "matched_answers": [
+                    [
+                        "Kuhn",
+                        "+1966-01-01T00:00:00Z",
+                        "+1971-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Albin Owings Kuhn",
+                "element": "University of Maryland, Baltimore County",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Richard M. Freeland",
+                "matched_answers": [
+                    [
+                        "Richard M. Freeland",
+                        "+1996-01-01T00:00:00Z",
+                        "+2006-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Richard M. Freeland",
+                "element": "Northeastern University",
+                "attribute": "President"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Steven Knapp",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "William C. Richardson",
+                "element": "Johns Hopkins University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Muhammad Zakir.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammad Mujeeb",
+                "element": "Jamia Millia Islamia",
+                "attribute": "Chancellor"
+            }
+        ],
+        "other": [
+            {
+                "prediction": "Kurt Waldheim",
+                "matched_answers": [
+                    [
+                        "Kurt Waldheim",
+                        "+1972-01-01T00:00:00Z",
+                        "+1981-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "U Thant",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Kristalina Georgieva",
+                "matched_answers": [
+                    [
+                        "Kristalina Georgieva",
+                        "+2019-02-20T00:00:00Z",
+                        "+2019-04-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "David Malpass",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Mohamed ElBaradei",
+                "matched_answers": [
+                    [
+                        "Mohamed ElBaradei",
+                        "+1997-01-01T00:00:00Z",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Yukiya Amano",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": "The position you're referring to is the headquarters location of the North Atlantic Treaty Organization. The answer to your question is \"Paris.\"\n\nExplanation:\nThe question states that the Palais de Chaillot was the headquarters location of NATO on December 25, 1958. Since the question asks who held this position 8 years before, we need to go back in time 8 years from December 25, 1958, which brings us to December 25, 1950.\n\nTherefore, the answer to the question",
+                "matched_answers": [
+                    [
+                        "Palais de Chaillot",
+                        "+1952-04-16T00:00:00Z",
+                        "+1959-12-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "London",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": "Pierre de Coubertin",
+                "matched_answers": [
+                    [
+                        "Pierre de Coubertin",
+                        "+1919-01-01T00:00:00Z",
+                        "+1925-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Dimitrios Vikelas",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Daniel Payot",
+                "matched_answers": [
+                    [
+                        "Daniel Payot",
+                        "+1998-01-01T00:00:00Z",
+                        "+2002-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Fran\u00e7ois-Xavier Cuche",
+                "element": "Marc Bloch University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sorry, I don't have access to real-time information, but I can tell you that Fran\u00e7ois de Labriolle was the president of the Institut national des langues et civilisations orientales until 1993. Therefore, I cannot provide an answer to your question regarding who held this position 28 years later.",
+                "matched_answers": [
+                    [
+                        "Fran\u00e7ois de Labriolle",
+                        "+1986-01-01T00:00:00Z",
+                        "+1993-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Manuelle Franck",
+                "element": "Institut national des langues et civilisations orientales",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Bernard de Montmorillon",
+                "matched_answers": [
+                    [
+                        "Bernard de Montmorillon",
+                        "+1999-01-01T00:00:00Z",
+                        "+2007-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paul Didier",
+                "element": "Paris Dauphine University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Spartak Belyaev",
+                "matched_answers": [
+                    [
+                        "Spartak Belyaev",
+                        "+1965-01-01T00:00:00Z",
+                        "+1978-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Nikolay Dikansky",
+                "element": "Novosibirsk State University",
+                "attribute": "Rector"
+            },
+            {
+                "prediction": "Takeshi Hoshi",
+                "matched_answers": [
+                    [
+                        "Takeshi Hoshi",
+                        "+1993-04-01T00:00:00Z",
+                        "+1999-03-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Masaru Nishigaki",
+                "element": "University of Shizuoka",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Not available.\n\nExplanation: The information provided in the question states that Lucien Bernard was the president of the University of Reims on June 20, 1977. However, it does not provide enough information to determine who held the position 25 years later. Additional information or context is needed to answer this question accurately.",
+                "matched_answers": [
+                    [
+                        "Lucien Bernard",
+                        "+1977-01-01T00:00:00Z",
+                        "+1982-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "G\u00e9rard Mary",
+                "element": "University of Reims",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! Here's my answer:\n\nBeshara Doumani",
+                "matched_answers": [
+                    [
+                        "Beshara Doumani",
+                        "+2021-01-01T00:00:00Z",
+                        "+2023-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gabi Baramki",
+                "element": "Birzeit University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Richard F. Bella.\n\nExplanation:\n\nJohn Nissley Stauffer served as the president of Wittenberg University from 1966 to 1978. According to the university's history, Richard F. Bella became the president of Wittenberg University in 2014, which is 46 years after John Nissley Stauffer's tenure as president. Therefore, Richard F. Bella held the position of president of Wittenberg University 46 years after John Nissley Stauffer.",
+                "matched_answers": [
+                    [
+                        "John Nissley Stauffer",
+                        "+1963-01-01T00:00:00Z",
+                        "+1968-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Laurie Joyner",
+                "element": "Wittenberg University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Serge Svizzero",
+                "matched_answers": [
+                    [
+                        "Serge Svizzero",
+                        "+2004-01-01T00:00:00Z",
+                        "+2008-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mohamed Rochdi",
+                "element": "University of La R\u00e9union",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Robert S. Kreider",
+                "matched_answers": [
+                    [
+                        "Robert S. Kreider",
+                        "+1965-01-01T00:00:00Z",
+                        "+1972-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Samuel K. Mosiman",
+                "element": "Bluffton University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Youssoufi Tour\u00e9",
+                "matched_answers": [
+                    [
+                        "Youssoufi Tour\u00e9",
+                        "+2009-01-01T00:00:00Z",
+                        "+2016-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Didier Billard",
+                "element": "University of Orl\u00e9ans",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Junichi Hamada",
+                "matched_answers": [
+                    [
+                        "Junichi Hamada",
+                        "+2009-04-01T00:00:00Z",
+                        "+2015-03-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Makoto Gonokami",
+                "element": "University of Tokyo",
+                "attribute": "President"
+            }
+        ]
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": "Javier Solana",
+                "matched_answers": [
+                    [
+                        "Javier Solana",
+                        "+1995-12-05T00:00:00Z",
+                        "+1999-10-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Javier Solana",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Albin O. Kuhn",
+                "matched_answers": [
+                    [
+                        "Kuhn",
+                        "+1966-01-01T00:00:00Z",
+                        "+1971-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Albin Owings Kuhn",
+                "element": "University of Maryland, Baltimore County",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Richard M. Freeland",
+                "matched_answers": [
+                    [
+                        "Richard M. Freeland",
+                        "+1996-01-01T00:00:00Z",
+                        "+2006-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Richard M. Freeland",
+                "element": "Northeastern University",
+                "attribute": "President"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "William C. Kirby",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "William C. Richardson",
+                "element": "Johns Hopkins University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Zakir Hussain",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammad Mujeeb",
+                "element": "Jamia Millia Islamia",
+                "attribute": "Chancellor"
+            }
+        ],
+        "other": [
+            {
+                "prediction": "Kurt Waldheim",
+                "matched_answers": [
+                    [
+                        "Kurt Waldheim",
+                        "+1972-01-01T00:00:00Z",
+                        "+1981-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "U Thant",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Kristalina Georgieva",
+                "matched_answers": [
+                    [
+                        "Kristalina Georgieva",
+                        "+2019-02-20T00:00:00Z",
+                        "+2019-04-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "David Malpass",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Mohamed ElBaradei",
+                "matched_answers": [
+                    [
+                        "Mohamed ElBaradei",
+                        "+1997-01-01T00:00:00Z",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Yukiya Amano",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": "The answer to your question is \"Dwight D. Eisenhower.\"\n\nExplanation: Dwight D. Eisenhower served as the Supreme Allied Commander Europe (SACEUR) from 1950 to 1952, and then as the first civilian Supreme Allied Commander Europe (SACEUR) from 1952 to 1953. Therefore, he held this position 8 years before Palais de Chaillot became the headquarters location of the North Atlantic Treaty Organization on December 25, 1958.",
+                "matched_answers": [
+                    [
+                        "Palais de Chaillot",
+                        "+1952-04-16T00:00:00Z",
+                        "+1959-12-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "London",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": "Pierre de Coubertin",
+                "matched_answers": [
+                    [
+                        "Pierre de Coubertin",
+                        "+1919-01-01T00:00:00Z",
+                        "+1925-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Dimitrios Vikelas",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Daniel Payot",
+                "matched_answers": [
+                    [
+                        "Daniel Payot",
+                        "+1998-01-01T00:00:00Z",
+                        "+2002-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Fran\u00e7ois-Xavier Cuche",
+                "element": "Marc Bloch University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unfortunately, I don't have access to real-time information, and my cut-off date is December 2022. Thus, I cannot provide the name of the current president of the Institut national des langues et civilisations orientales.\n\nHowever, I can tell you that Fran\u00e7ois de Labriolle served as the president of the institute from 1986 to 1996. To find out who held the position 28 years later, you may need to check the institute's official website or contact them directly for the most up-to-date information",
+                "matched_answers": [
+                    [
+                        "Fran\u00e7ois de Labriolle",
+                        "+1986-01-01T00:00:00Z",
+                        "+1993-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Manuelle Franck",
+                "element": "Institut national des langues et civilisations orientales",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Bernard de Montmorillon",
+                "matched_answers": [
+                    [
+                        "Bernard de Montmorillon",
+                        "+1999-01-01T00:00:00Z",
+                        "+2007-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paul Didier",
+                "element": "Paris Dauphine University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Spartak Belyaev",
+                "matched_answers": [
+                    [
+                        "Spartak Belyaev",
+                        "+1965-01-01T00:00:00Z",
+                        "+1978-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Nikolay Dikansky",
+                "element": "Novosibirsk State University",
+                "attribute": "Rector"
+            },
+            {
+                "prediction": "Takeshi Hoshi",
+                "matched_answers": [
+                    [
+                        "Takeshi Hoshi",
+                        "+1993-04-01T00:00:00Z",
+                        "+1999-03-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Masaru Nishigaki",
+                "element": "University of Shizuoka",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Not available.\n\nExplanation: The information provided in the question states that Lucien Bernard was the president of the University of Reims on June 20, 1977. However, it does not provide enough information to determine who held the position 25 years later. Additional information or context would be needed to answer this question accurately.",
+                "matched_answers": [
+                    [
+                        "Lucien Bernard",
+                        "+1977-01-01T00:00:00Z",
+                        "+1982-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "G\u00e9rard Mary",
+                "element": "University of Reims",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Juichi Yamagiwa",
+                "matched_answers": [
+                    [
+                        "Juichi Yamagiwa",
+                        "+2014-10-01T00:00:00Z",
+                        "+2020-09-30T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Hiroshi Matsumoto",
+                "element": "Kyoto University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "The answer to your question is \"Beshara Doumani.\"\n\nExplanation:\n\nBeshara Doumani was the president of Birzeit University on May 18, 2022. If we go back 42 years before that date, we will arrive at May 18, 1980. According to the question, Beshara Doumani was also the president of Birzeit University on that date. Therefore, the answer to the question is \"Beshara Doumani.\"",
+                "matched_answers": [
+                    [
+                        "Beshara Doumani",
+                        "+2021-01-01T00:00:00Z",
+                        "+2023-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gabi Baramki",
+                "element": "Birzeit University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure, I can help you with that!\n\nThe president of Wittenberg University 46 years after John Nissley Stauffer would be:\n\nD. Michael Lindsay",
+                "matched_answers": [
+                    [
+                        "John Nissley Stauffer",
+                        "+1963-01-01T00:00:00Z",
+                        "+1968-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Laurie Joyner",
+                "element": "Wittenberg University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Serge Svizzero",
+                "matched_answers": [
+                    [
+                        "Serge Svizzero",
+                        "+2004-01-01T00:00:00Z",
+                        "+2008-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mohamed Rochdi",
+                "element": "University of La R\u00e9union",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Robert S. Kreider",
+                "matched_answers": [
+                    [
+                        "Robert S. Kreider",
+                        "+1965-01-01T00:00:00Z",
+                        "+1972-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Samuel K. Mosiman",
+                "element": "Bluffton University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Youssoufi Tour\u00e9",
+                "matched_answers": [
+                    [
+                        "Youssoufi Tour\u00e9",
+                        "+2009-01-01T00:00:00Z",
+                        "+2016-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Didier Billard",
+                "element": "University of Orl\u00e9ans",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Junichi Hamada",
+                "matched_answers": [
+                    [
+                        "Junichi Hamada",
+                        "+2009-04-01T00:00:00Z",
+                        "+2015-03-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Makoto Gonokami",
+                "element": "University of Tokyo",
+                "attribute": "President"
+            }
+        ]
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": "David Malpass",
+                "matched_answers": [
+                    [
+                        "David Malpass",
+                        "+2019-04-09T00:00:00Z",
+                        "+2023-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "David Malpass",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Javier Solana",
+                "matched_answers": [
+                    [
+                        "Javier Solana",
+                        "+1995-12-05T00:00:00Z",
+                        "+1999-10-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Javier Solana",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Hiroshi Matsumoto",
+                "matched_answers": [
+                    [
+                        "Hiroshi Matsumoto",
+                        "+2008-10-01T00:00:00Z",
+                        "+2014-09-30T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Hiroshi Matsumoto",
+                "element": "Kyoto University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Albin O. Kuhn",
+                "matched_answers": [
+                    [
+                        "Kuhn",
+                        "+1966-01-01T00:00:00Z",
+                        "+1971-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Albin Owings Kuhn",
+                "element": "University of Maryland, Baltimore County",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Richard M. Freeland",
+                "matched_answers": [
+                    [
+                        "Richard M. Freeland",
+                        "+1996-01-01T00:00:00Z",
+                        "+2006-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Richard M. Freeland",
+                "element": "Northeastern University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Yes, I can answer that. The president of the University of Tokyo after 2 years, on January 16, 2016, was Makoto Gonokami.",
+                "matched_answers": [
+                    [
+                        "Makoto Gonokami",
+                        "+2015-04-01T00:00:00Z",
+                        "+2021-03-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Makoto Gonokami",
+                "element": "University of Tokyo",
+                "attribute": "President"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Jean-Pierre Bardet.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Fran\u00e7ois-Xavier Cuche",
+                "element": "Marc Bloch University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! After 31 years, the rector of Novosibirsk State University was Anatoly Alexandrovich Logunov.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Nikolay Dikansky",
+                "element": "Novosibirsk State University",
+                "attribute": "Rector"
+            },
+            {
+                "prediction": "Zakir Hussain",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohammad Mujeeb",
+                "element": "Jamia Millia Islamia",
+                "attribute": "Chancellor"
+            },
+            {
+                "prediction": "Not sure.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "G\u00e9rard Mary",
+                "element": "University of Reims",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sari Nusseibeh",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gabi Baramki",
+                "element": "Birzeit University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Timothy L. CAHILL",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Laurie Joyner",
+                "element": "Wittenberg University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Not sure.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohamed Rochdi",
+                "element": "University of La R\u00e9union",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Jean-Marc Jancovici.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Didier Billard",
+                "element": "University of Orl\u00e9ans",
+                "attribute": "President"
+            }
+        ],
+        "other": [
+            {
+                "prediction": "Kurt Waldheim",
+                "matched_answers": [
+                    [
+                        "Kurt Waldheim",
+                        "+1972-01-01T00:00:00Z",
+                        "+1981-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "U Thant",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Mohamed ElBaradei",
+                "matched_answers": [
+                    [
+                        "Mohamed ElBaradei",
+                        "+1997-01-01T00:00:00Z",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Yukiya Amano",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": "The Palais de Chaillot was the North Atlantic Treaty Organization's headquarters location on 25 December 1958. The NATO Supreme Allied Commander Europe (SACEUR) at the time was General Lauris Norstad.\n\nTherefore, the person who was in this role before 8 years was:\n\nGeneral Dwight D. Eisenhower",
+                "matched_answers": [
+                    [
+                        "Palais de Chaillot",
+                        "+1952-04-16T00:00:00Z",
+                        "+1959-12-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "London",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": "Pierre de Coubertin",
+                "matched_answers": [
+                    [
+                        "Pierre de Coubertin",
+                        "+1919-01-01T00:00:00Z",
+                        "+1925-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Dimitrios Vikelas",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Bertrand Bouvier.\n\nExplanation:\n\nFran\u00e7ois de Labriolle was the president of the Institut national des langues et civilisations orientales (INALCO) on December 3, 1986. According to the INALCO website, Bertrand Bouvier became the president of the institution in 2014, which is 28 years after December 3, 1986. Therefore, Bertrand Bouvier was the president of INALCO after Fran\u00e7ois de Labriolle.",
+                "matched_answers": [
+                    [
+                        "Fran\u00e7ois de Labriolle",
+                        "+1986-01-01T00:00:00Z",
+                        "+1993-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Manuelle Franck",
+                "element": "Institut national des langues et civilisations orientales",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Bernard de Montmorillon",
+                "matched_answers": [
+                    [
+                        "Bernard de Montmorillon",
+                        "+1999-01-01T00:00:00Z",
+                        "+2007-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paul Didier",
+                "element": "Paris Dauphine University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Steven Muller",
+                "matched_answers": [
+                    [
+                        "Steven Muller",
+                        "+1972-02-01T00:00:00Z",
+                        "+1990-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "William C. Richardson",
+                "element": "Johns Hopkins University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "The answer to your question is:\n\nTakeshi Hoshi",
+                "matched_answers": [
+                    [
+                        "Takeshi Hoshi",
+                        "+1993-04-01T00:00:00Z",
+                        "+1999-03-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Masaru Nishigaki",
+                "element": "University of Shizuoka",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Robert S. Kreider",
+                "matched_answers": [
+                    [
+                        "Robert S. Kreider",
+                        "+1965-01-01T00:00:00Z",
+                        "+1972-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Samuel K. Mosiman",
+                "element": "Bluffton University",
+                "attribute": "President"
+            }
+        ]
+    },
+    "rephrased_3": {
+        "correct": [
+            {
+                "prediction": "David Malpass",
+                "matched_answers": [
+                    [
+                        "David Malpass",
+                        "+2019-04-09T00:00:00Z",
+                        "+2023-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "David Malpass",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Your answer: Javier Solana",
+                "matched_answers": [
+                    [
+                        "Javier Solana",
+                        "+1995-12-05T00:00:00Z",
+                        "+1999-10-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Javier Solana",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Albin O. Kuhn",
+                "matched_answers": [
+                    [
+                        "Kuhn",
+                        "+1966-01-01T00:00:00Z",
+                        "+1971-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Albin Owings Kuhn",
+                "element": "University of Maryland, Baltimore County",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Richard M. Freeland",
+                "matched_answers": [
+                    [
+                        "Richard M. Freeland",
+                        "+1996-01-01T00:00:00Z",
+                        "+2006-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Richard M. Freeland",
+                "element": "Northeastern University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! The answer to your question is:\n\nMakoto Gonokami",
+                "matched_answers": [
+                    [
+                        "Makoto Gonokami",
+                        "+2015-04-01T00:00:00Z",
+                        "+2021-03-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Makoto Gonokami",
+                "element": "University of Tokyo",
+                "attribute": "President"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "The answer is:\n\nDwight D. Eisenhower",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "London",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": "Jean-Richard Cytermann",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Fran\u00e7ois-Xavier Cuche",
+                "element": "Marc Bloch University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Jean-Loup Chr\u00e9tien",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Paul Didier",
+                "element": "Paris Dauphine University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! After 31 years, the person who occupied the position of rector of the Novosibirsk State University was Ivan M. Shestakov. He was appointed to the position in 1990 and served until 2005.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Nikolay Dikansky",
+                "element": "Novosibirsk State University",
+                "attribute": "Rector"
+            },
+            {
+                "prediction": "Sure! The president of Kyoto University before 9 years from February 16, 2019, would be Hiroshi Mizoguchi. He served as the president from April 2006 to March 2015.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Hiroshi Matsumoto",
+                "element": "Kyoto University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! The answer to your question is:\n\nRaymond Pravia",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohamed Rochdi",
+                "element": "University of La R\u00e9union",
+                "attribute": "President"
+            },
+            {
+                "prediction": "J.O. Yoder",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Samuel K. Mosiman",
+                "element": "Bluffton University",
+                "attribute": "President"
+            }
+        ],
+        "other": [
+            {
+                "prediction": "Kurt Waldheim",
+                "matched_answers": [
+                    [
+                        "Kurt Waldheim",
+                        "+1972-01-01T00:00:00Z",
+                        "+1981-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "U Thant",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Mohamed ElBaradei",
+                "matched_answers": [
+                    [
+                        "Mohamed ElBaradei",
+                        "+1997-01-01T00:00:00Z",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Yukiya Amano",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": "Sure! The person who occupied the position of chairperson of the International Olympic Committee before Michael Morris, 3rd Baron Killanin, was Pierre de Coubertin.",
+                "matched_answers": [
+                    [
+                        "Michael Morris, 3rd Baron Killanin",
+                        "+1972-01-01T00:00:00Z",
+                        "+1980-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Dimitrios Vikelas",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Bertrand Bouvier.\n\nExplanation:\n\nFran\u00e7ois de Labriolle served as the president of the Institut national des langues et civilisations orientales (INALCO) from 1986 to 1996. After 28 years, the president of INALCO was Bertrand Bouvier, who was appointed in 2014 and is still serving in this position.",
+                "matched_answers": [
+                    [
+                        "Fran\u00e7ois de Labriolle",
+                        "+1986-01-01T00:00:00Z",
+                        "+1993-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Manuelle Franck",
+                "element": "Institut national des langues et civilisations orientales",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Steven Muller",
+                "matched_answers": [
+                    [
+                        "Steven Muller",
+                        "+1972-02-01T00:00:00Z",
+                        "+1990-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "William C. Richardson",
+                "element": "Johns Hopkins University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! The answer to your question is:\n\nTakeshi Hoshi",
+                "matched_answers": [
+                    [
+                        "Takeshi Hoshi",
+                        "+1993-04-01T00:00:00Z",
+                        "+1999-03-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Masaru Nishigaki",
+                "element": "University of Shizuoka",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! The person who occupied the position of Chancellor of Jamia Millia Islamia before 17 years from January 25, 1986, was Syed Zafarul Hasan.",
+                "matched_answers": [
+                    [
+                        "Hasan",
+                        "+2004-01-01T00:00:00Z",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Mohammad Mujeeb",
+                "element": "Jamia Millia Islamia",
+                "attribute": "Chancellor"
+            },
+            {
+                "prediction": "Sure! The president of the University of Reims 25 years after Lucien Bernard would be:\n\nAlain Bouchet",
+                "matched_answers": [
+                    [
+                        "Lucien Bernard",
+                        "+1977-01-01T00:00:00Z",
+                        "+1982-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "G\u00e9rard Mary",
+                "element": "University of Reims",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! Before 42 years, the president of Birzeit University was Hanna Nasir.",
+                "matched_answers": [
+                    [
+                        "Nasir",
+                        "+2023-08-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Gabi Baramki",
+                "element": "Birzeit University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! John Nissley Stauffer served as the president of Wittenberg University on February 10, 1967. After 46 years, the person who occupied this position would be:\n\nDick Helton",
+                "matched_answers": [
+                    [
+                        "John Nissley Stauffer",
+                        "+1963-01-01T00:00:00Z",
+                        "+1968-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Laurie Joyner",
+                "element": "Wittenberg University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Jean-Luc Bredoux.\n\nExplanation: Youssoufi Tour\u00e9 became the president of the University of Orl\u00e9ans on August 15, 2015. Therefore, the person who occupied this position before 19 years (i.e., in 1996) would be Jean-Luc Bredoux.",
+                "matched_answers": [
+                    [
+                        "Youssoufi Tour\u00e9",
+                        "+2009-01-01T00:00:00Z",
+                        "+2016-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Didier Billard",
+                "element": "University of Orl\u00e9ans",
+                "attribute": "President"
+            }
+        ]
+    }
+}

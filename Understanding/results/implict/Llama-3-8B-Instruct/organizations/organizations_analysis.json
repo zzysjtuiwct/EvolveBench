@@ -1,0 +1,986 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": "U Thant",
+                "matched_answers": [
+                    [
+                        "U Thant",
+                        "+1961-11-03T00:00:00Z",
+                        "+1971-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "U Thant",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "David Malpass",
+                "matched_answers": [
+                    [
+                        "David Malpass",
+                        "+2019-04-09T00:00:00Z",
+                        "+2023-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "David Malpass",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Manfred W\u00f6rner",
+                "matched_answers": [
+                    [
+                        "Manfred W\u00f6rner",
+                        "+1988-07-01T00:00:00Z",
+                        "+1994-08-13T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Manfred W\u00f6rner",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Jean-Pierre Bourguignon",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Albert Hamm",
+                "element": "Marc Bloch University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Louis Massignon",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Fran\u00e7ois de Labriolle",
+                "element": "Institut national des langues et civilisations orientales",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Fran\u00e7ois Rallet",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isabelle Huault",
+                "element": "Paris Dauphine University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Andrei Dementiev",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Nikolay Dikansky",
+                "element": "Novosibirsk State University",
+                "attribute": "Rector"
+            },
+            {
+                "prediction": "Iverson Harris",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Steven Muller",
+                "element": "Johns Hopkins University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Takeshi Sasaki",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "K\u014dji Uchizono",
+                "element": "University of Shizuoka",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Ahmed Deedat",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mushirul Hasan",
+                "element": "Jamia Millia Islamia",
+                "attribute": "Chancellor"
+            },
+            {
+                "prediction": "Henri Carton d'Harvelay",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andr\u00e9 Laberrigue",
+                "element": "University of Reims",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Junichi Hamada",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Juichi Yamagiwa",
+                "element": "Kyoto University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Imad Abdel-Ghaffar",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gabi Baramki",
+                "element": "Birzeit University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Philip L. Frady",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Michael Hooker",
+                "element": "University of Maryland, Baltimore County",
+                "attribute": "President"
+            },
+            {
+                "prediction": "David R. Adams",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Laurie Joyner",
+                "element": "Wittenberg University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Jean-Yves Le D\u00e9aut",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohamed Rochdi",
+                "element": "University of La R\u00e9union",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Harold W. Schaller",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Noah Calvin Hirschy",
+                "element": "Bluffton University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Jean-Claude Colliard",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Michel Royer",
+                "element": "University of Orl\u00e9ans",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Richard D. Freeman",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Richard M. Freeland",
+                "element": "Northeastern University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Toshihide Ito",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Junichi Hamada",
+                "element": "University of Tokyo",
+                "attribute": "President"
+            }
+        ],
+        "other": [
+            {
+                "prediction": "Sigvard Eklund",
+                "matched_answers": [
+                    [
+                        "Eklund",
+                        "+1961-01-01T00:00:00Z",
+                        "+1981-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "William Sterling Cole",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": "Brussels",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+1967-10-16T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "16th arrondissement of Paris",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": "Henri de Baillet-Latour",
+                "matched_answers": [
+                    [
+                        "Henri de Baillet-Latour",
+                        "+1925-01-01T00:00:00Z",
+                        "+1942-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Pierre de Coubertin",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            }
+        ]
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": "U Thant",
+                "matched_answers": [
+                    [
+                        "U Thant",
+                        "+1961-11-03T00:00:00Z",
+                        "+1971-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "U Thant",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "David Malpass",
+                "matched_answers": [
+                    [
+                        "David Malpass",
+                        "+2019-04-09T00:00:00Z",
+                        "+2023-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "David Malpass",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Denis Monestier",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Pierre de Coubertin",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Jean-Marc Salmon",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Albert Hamm",
+                "element": "Marc Bloch University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Jean-Pierre Digard",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Fran\u00e7ois de Labriolle",
+                "element": "Institut national des langues et civilisations orientales",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Fr\u00e9d\u00e9rique Vidal",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isabelle Huault",
+                "element": "Paris Dauphine University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Vladimir Maslov",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Nikolay Dikansky",
+                "element": "Novosibirsk State University",
+                "attribute": "Rector"
+            },
+            {
+                "prediction": "Izaak Walton Killam",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Steven Muller",
+                "element": "Johns Hopkins University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Takeshi Sasaki",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "K\u014dji Uchizono",
+                "element": "University of Shizuoka",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Jean-Pierre Pr\u00e9vost",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andr\u00e9 Laberrigue",
+                "element": "University of Reims",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Junichi Hamada",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Juichi Yamagiwa",
+                "element": "Kyoto University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Mahmoud Tammam",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gabi Baramki",
+                "element": "Birzeit University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Fredric Meyer",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Michael Hooker",
+                "element": "University of Maryland, Baltimore County",
+                "attribute": "President"
+            },
+            {
+                "prediction": "David Chidester",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Laurie Joyner",
+                "element": "Wittenberg University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Jean-Yves Le D\u00e9aut",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohamed Rochdi",
+                "element": "University of La R\u00e9union",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Benjamin W. Chidester",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Noah Calvin Hirschy",
+                "element": "Bluffton University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Pierre Mend\u00e8s France",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Michel Royer",
+                "element": "University of Orl\u00e9ans",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Richard D. Freeman",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Richard M. Freeland",
+                "element": "Northeastern University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Takeshi Fujimori",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Junichi Hamada",
+                "element": "University of Tokyo",
+                "attribute": "President"
+            }
+        ],
+        "other": [
+            {
+                "prediction": "Sigvard Eklund",
+                "matched_answers": [
+                    [
+                        "Eklund",
+                        "+1961-01-01T00:00:00Z",
+                        "+1981-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "William Sterling Cole",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": "Javier Solana",
+                "matched_answers": [
+                    [
+                        "Javier Solana",
+                        "+1995-12-05T00:00:00Z",
+                        "+1999-10-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Manfred W\u00f6rner",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Brussels",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+1967-10-16T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "16th arrondissement of Paris",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": "Ahmad Ali Engineer",
+                "matched_answers": [
+                    [
+                        "Ahmad",
+                        "+2014-01-01T00:00:00Z",
+                        "+2018-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Mushirul Hasan",
+                "element": "Jamia Millia Islamia",
+                "attribute": "Chancellor"
+            }
+        ]
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": "U Thant",
+                "matched_answers": [
+                    [
+                        "U Thant",
+                        "+1961-11-03T00:00:00Z",
+                        "+1971-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "U Thant",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "David Malpass",
+                "matched_answers": [
+                    [
+                        "David Malpass",
+                        "+2019-04-09T00:00:00Z",
+                        "+2023-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "David Malpass",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Pierre de Coubertin",
+                "matched_answers": [
+                    [
+                        "Pierre de Coubertin",
+                        "+1919-01-01T00:00:00Z",
+                        "+1925-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Pierre de Coubertin",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Mushirul Hasan",
+                "matched_answers": [
+                    [
+                        "Mushirul Hasan",
+                        "+2004-01-01T00:00:00Z",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mushirul Hasan",
+                "element": "Jamia Millia Islamia",
+                "attribute": "Chancellor"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Jean-Louis Nadai",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Albert Hamm",
+                "element": "Marc Bloch University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Jean-Pierre Vernant",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Fran\u00e7ois de Labriolle",
+                "element": "Institut national des langues et civilisations orientales",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Fran\u00e7ois Raffoul.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isabelle Huault",
+                "element": "Paris Dauphine University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Vladimir Yakunin",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Nikolay Dikansky",
+                "element": "Novosibirsk State University",
+                "attribute": "Rector"
+            },
+            {
+                "prediction": "Franklin D. Roosevelt",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Steven Muller",
+                "element": "Johns Hopkins University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Toshio Takami",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "K\u014dji Uchizono",
+                "element": "University of Shizuoka",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Jean-Pierre Pringuet",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andr\u00e9 Laberrigue",
+                "element": "University of Reims",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Junichi Hamada",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Juichi Yamagiwa",
+                "element": "Kyoto University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Hazem Salam",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gabi Baramki",
+                "element": "Birzeit University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Frederick A. Manning",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Michael Hooker",
+                "element": "University of Maryland, Baltimore County",
+                "attribute": "President"
+            },
+            {
+                "prediction": "David R. Root",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Laurie Joyner",
+                "element": "Wittenberg University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Jean-Yves Le D\u00e9aut",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohamed Rochdi",
+                "element": "University of La R\u00e9union",
+                "attribute": "President"
+            },
+            {
+                "prediction": "John F. Schaub",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Noah Calvin Hirschy",
+                "element": "Bluffton University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Karl Popper",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Michel Royer",
+                "element": "University of Orl\u00e9ans",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Richard D. Nathan",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Richard M. Freeland",
+                "element": "Northeastern University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Junichi Sugawara",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Junichi Hamada",
+                "element": "University of Tokyo",
+                "attribute": "President"
+            }
+        ],
+        "other": [
+            {
+                "prediction": "Sigvard Eklund",
+                "matched_answers": [
+                    [
+                        "Eklund",
+                        "+1961-01-01T00:00:00Z",
+                        "+1981-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "William Sterling Cole",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": "Javier Solana",
+                "matched_answers": [
+                    [
+                        "Javier Solana",
+                        "+1995-12-05T00:00:00Z",
+                        "+1999-10-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Manfred W\u00f6rner",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Brussels",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+1967-10-16T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "16th arrondissement of Paris",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            }
+        ]
+    },
+    "rephrased_3": {
+        "correct": [
+            {
+                "prediction": "U Thant",
+                "matched_answers": [
+                    [
+                        "U Thant",
+                        "+1961-11-03T00:00:00Z",
+                        "+1971-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "U Thant",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "David Malpass",
+                "matched_answers": [
+                    [
+                        "David Malpass",
+                        "+2019-04-09T00:00:00Z",
+                        "+2023-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "David Malpass",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Manfred W\u00f6rner",
+                "matched_answers": [
+                    [
+                        "Manfred W\u00f6rner",
+                        "+1988-07-01T00:00:00Z",
+                        "+1994-08-13T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Manfred W\u00f6rner",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Mushirul Hasan",
+                "matched_answers": [
+                    [
+                        "Mushirul Hasan",
+                        "+2004-01-01T00:00:00Z",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mushirul Hasan",
+                "element": "Jamia Millia Islamia",
+                "attribute": "Chancellor"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Jean-Yves Le Bouc",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Albert Hamm",
+                "element": "Marc Bloch University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Jean Filliozat",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Fran\u00e7ois de Labriolle",
+                "element": "Institut national des langues et civilisations orientales",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Fr\u00e9d\u00e9rique Vidal",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Isabelle Huault",
+                "element": "Paris Dauphine University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Vladimir Maslachenko",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Nikolay Dikansky",
+                "element": "Novosibirsk State University",
+                "attribute": "Rector"
+            },
+            {
+                "prediction": "K\u014dji Nakamura",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "K\u014dji Uchizono",
+                "element": "University of Shizuoka",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Jean Ortolland",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Andr\u00e9 Laberrigue",
+                "element": "University of Reims",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Haruo Shimada",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Juichi Yamagiwa",
+                "element": "Kyoto University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Imad Natsheh",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gabi Baramki",
+                "element": "Birzeit University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Alexander D. Kenny",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Michael Hooker",
+                "element": "University of Maryland, Baltimore County",
+                "attribute": "President"
+            },
+            {
+                "prediction": "David Starrett Palmer",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Laurie Joyner",
+                "element": "Wittenberg University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Jean-Claude Carra",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mohamed Rochdi",
+                "element": "University of La R\u00e9union",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I don't have an answer for that question because Hannibal Sehested was never the Prime Minister of Denmark.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Noah Calvin Hirschy",
+                "element": "Bluffton University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Gaston Dupriez",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Michel Royer",
+                "element": "University of Orl\u00e9ans",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Richard D. Freeman",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Richard M. Freeland",
+                "element": "Northeastern University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Junichi Sugita",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Junichi Hamada",
+                "element": "University of Tokyo",
+                "attribute": "President"
+            }
+        ],
+        "other": [
+            {
+                "prediction": "Mohamed ElBaradei",
+                "matched_answers": [
+                    [
+                        "Mohamed ElBaradei",
+                        "+1997-01-01T00:00:00Z",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "William Sterling Cole",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": "Brussels",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+1967-10-16T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "16th arrondissement of Paris",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": "Henri de Baillet-Latour",
+                "matched_answers": [
+                    [
+                        "Henri de Baillet-Latour",
+                        "+1925-01-01T00:00:00Z",
+                        "+1942-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Pierre de Coubertin",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Daniel Coit Gilman",
+                "matched_answers": [
+                    [
+                        "Daniel Coit Gilman",
+                        "+1876-02-01T00:00:00Z",
+                        "+1901-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Steven Muller",
+                "element": "Johns Hopkins University",
+                "attribute": "President"
+            }
+        ]
+    }
+}

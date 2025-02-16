@@ -1,0 +1,1022 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": "Ant\u00f3nio Guterres",
+                "matched_answers": [
+                    [
+                        "Ant\u00f3nio Guterres",
+                        "+2017-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Ajay Banga",
+                "matched_answers": [
+                    [
+                        "Banga",
+                        "+2023-06-02T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Rafael Mariano Grossi",
+                "matched_answers": [
+                    [
+                        "Grossi",
+                        "+2019-12-03T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": "Brussels, Belgium",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+1967-10-16T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": "Ronald J. Daniels",
+                "matched_answers": [
+                    [
+                        "Ronald J. Daniels",
+                        "+2009-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ronald J. Daniels",
+                "element": "Johns Hopkins University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Joseph E. Aoun",
+                "matched_answers": [
+                    [
+                        "Aoun",
+                        "+2006-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Joseph Aoun",
+                "element": "Northeastern University",
+                "attribute": "President"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": "Jens Stoltenberg",
+                "matched_answers": [
+                    [
+                        "Jens Stoltenberg",
+                        "+2014-10-01T00:00:00Z",
+                        "+2024-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mark Rutte",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Thokozile Madlala (as of the last update in 2023)",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the information on the current president of Marc Bloch University as of January 1, 2025.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bernard Michon",
+                "element": "Marc Bloch University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the current information on the president of the Institut national des langues et civilisations orientales as of January 1, 2025. My training data only goes up to October 2023, and I cannot access real-time information.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jean-Fran\u00e7ois Huchet",
+                "element": "Institut national des langues et civilisations orientales",
+                "attribute": "President"
+            },
+            {
+                "prediction": "As of my last update, Paris Dauphine University merged with PSL University in 2019, and it no longer operates as an independent institution. Therefore, there is no current president of Paris Dauphine University.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "E.M. Mouhoud",
+                "element": "Paris Dauphine University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "As of my last update in October 2023, I do not have the current information on the rector of Novosibirsk State University for January 2025. For the most accurate and up-to-date information, I recommend checking the official website of Novosibirsk State University or contacting their administration directly.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mikhail Fedoruk",
+                "element": "Novosibirsk State University",
+                "attribute": "Rector"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the current information on the president of the University of Shizuoka as of January 1, 2025. My training data only goes up to October 2023, and I cannot access real-time information.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Kazuo Oike",
+                "element": "University of Shizuoka",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the current information on the chancellor of Jamia Millia Islamia as of January 1, 2025. My training data only goes up to October 2023, and I cannot access real-time information.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mazhar Asif",
+                "element": "Jamia Millia Islamia",
+                "attribute": "Chancellor"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the current information on the president of the University of Reims as of January 1, 2025. My training data only goes up to October 2023, and I cannot access real-time information.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Christophe Cl\u00e9ment",
+                "element": "University of Reims",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Takashi Yamamoto",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Nagahiro Minato",
+                "element": "Kyoto University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "As of my last update, I do not have the specific information on the current president of Birzeit University as of January 1, 2025. For the most accurate and up-to-date information, I recommend checking the official Birzeit University website or recent news sources.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Hannah Nasir",
+                "element": "Birzeit University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Freida Matthews",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Valerie Ashby",
+                "element": "University of Maryland, Baltimore County",
+                "attribute": "President"
+            },
+            {
+                "prediction": "As of my last update, I do not have the specific information on the current president of Wittenberg University as of January 1, 2025. For the most accurate and up-to-date information, I recommend checking the official Wittenberg University website or recent news sources.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Michael Frandsen",
+                "element": "Wittenberg University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the current information on the president of the University of La R\u00e9union as of January 1, 2025. My training data only goes up to October 2023, and I do not have the ability to access or retrieve real-time data.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jacques Comby",
+                "element": "University of La R\u00e9union",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the current information on the president of Bluffton University as of January 1, 2025. My training data only goes up to October 2023, and I cannot access real-time information.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jane Wood",
+                "element": "Bluffton University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the current information on the president of the University of Orl\u00e9ans as of January 1, 2025. My training data only goes up to October 2023, and I cannot access real-time information.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "\u00c9ric Blond",
+                "element": "University of Orl\u00e9ans",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Takashi Yamashita",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Teruo Fujii",
+                "element": "University of Tokyo",
+                "attribute": "President"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": "Ant\u00f3nio Guterres",
+                "matched_answers": [
+                    [
+                        "Ant\u00f3nio Guterres",
+                        "+2017-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Ajay Banga",
+                "matched_answers": [
+                    [
+                        "Banga",
+                        "+2023-06-02T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Rafael Mariano Grossi",
+                "matched_answers": [
+                    [
+                        "Grossi",
+                        "+2019-12-03T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": "Brussels, Belgium",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+1967-10-16T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": "Thomas Bach",
+                "matched_answers": [
+                    [
+                        "Thomas Bach",
+                        "+2013-09-10T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Ronald J. Daniels",
+                "matched_answers": [
+                    [
+                        "Ronald J. Daniels",
+                        "+2009-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ronald J. Daniels",
+                "element": "Johns Hopkins University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Joseph E. Aoun",
+                "matched_answers": [
+                    [
+                        "Aoun",
+                        "+2006-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Joseph Aoun",
+                "element": "Northeastern University",
+                "attribute": "President"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": "Jens Stoltenberg",
+                "matched_answers": [
+                    [
+                        "Jens Stoltenberg",
+                        "+2014-10-01T00:00:00Z",
+                        "+2024-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mark Rutte",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "I'm sorry, but I do not have the information on the current president of Marc Bloch University as of January 1, 2025.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bernard Michon",
+                "element": "Marc Bloch University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the current information on the president of the Institut national des langues et civilisations orientales as of January 1, 2025. My training data only goes up to October 2023, and I cannot access real-time information.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jean-Fran\u00e7ois Huchet",
+                "element": "Institut national des langues et civilisations orientales",
+                "attribute": "President"
+            },
+            {
+                "prediction": "As of my last update, Paris Dauphine University merged with PSL University in 2019, and it no longer operates as an independent institution. Therefore, there is no current president of Paris Dauphine University.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "E.M. Mouhoud",
+                "element": "Paris Dauphine University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "As of my last update in October 2023, I do not have the current information on the rector of Novosibirsk State University for January 2025. For the most accurate and up-to-date information, I recommend checking the official website of Novosibirsk State University or contacting their administration directly.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mikhail Fedoruk",
+                "element": "Novosibirsk State University",
+                "attribute": "Rector"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the current information on the president of the University of Shizuoka as of January 1, 2025. My training data only goes up to October 2023, and I cannot access real-time information.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Kazuo Oike",
+                "element": "University of Shizuoka",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the current information on the chancellor of Jamia Millia Islamia as of January 1, 2025. My training data only goes up to October 2023, and I cannot access real-time information.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mazhar Asif",
+                "element": "Jamia Millia Islamia",
+                "attribute": "Chancellor"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the current information on the president of the University of Reims as of January 1, 2025. My training data only goes up to October 2023, and I cannot access real-time information.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Christophe Cl\u00e9ment",
+                "element": "University of Reims",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Takashi Yamamoto",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Nagahiro Minato",
+                "element": "Kyoto University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "As of my last update, I do not have the specific information on the current president of Birzeit University as of January 1, 2025. For the most accurate and up-to-date information, I recommend checking the official Birzeit University website or recent news sources.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Hannah Nasir",
+                "element": "Birzeit University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Freida Matthews",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Valerie Ashby",
+                "element": "University of Maryland, Baltimore County",
+                "attribute": "President"
+            },
+            {
+                "prediction": "As of my last update, I do not have the specific information on the current president of Wittenberg University as of January 1, 2025. For the most accurate and up-to-date information, I recommend checking the official Wittenberg University website or recent news sources.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Michael Frandsen",
+                "element": "Wittenberg University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the current information on the president of the University of La R\u00e9union as of January 1, 2025. My training data only goes up to October 2023, and I do not have the ability to access or retrieve real-time data.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jacques Comby",
+                "element": "University of La R\u00e9union",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the current information on the president of Bluffton University as of January 1, 2025. My training data only goes up to October 2023, and I cannot access real-time information.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jane Wood",
+                "element": "Bluffton University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the current information on the president of the University of Orl\u00e9ans as of January 1, 2025. My training data only goes up to October 2023, and I cannot access real-time information.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "\u00c9ric Blond",
+                "element": "University of Orl\u00e9ans",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Takashi Yamashita",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Teruo Fujii",
+                "element": "University of Tokyo",
+                "attribute": "President"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": "Ant\u00f3nio Guterres",
+                "matched_answers": [
+                    [
+                        "Ant\u00f3nio Guterres",
+                        "+2017-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Ajay Banga",
+                "matched_answers": [
+                    [
+                        "Banga",
+                        "+2023-06-02T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Rafael Mariano Grossi",
+                "matched_answers": [
+                    [
+                        "Grossi",
+                        "+2019-12-03T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": "Brussels, Belgium",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+1967-10-16T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": "Thomas Bach",
+                "matched_answers": [
+                    [
+                        "Thomas Bach",
+                        "+2013-09-10T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Ronald J. Daniels",
+                "matched_answers": [
+                    [
+                        "Ronald J. Daniels",
+                        "+2009-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ronald J. Daniels",
+                "element": "Johns Hopkins University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Joseph E. Aoun",
+                "matched_answers": [
+                    [
+                        "Aoun",
+                        "+2006-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Joseph Aoun",
+                "element": "Northeastern University",
+                "attribute": "President"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": "Jens Stoltenberg",
+                "matched_answers": [
+                    [
+                        "Jens Stoltenberg",
+                        "+2014-10-01T00:00:00Z",
+                        "+2024-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mark Rutte",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "I'm sorry, but I do not have the current information on who holds the president position at Marc Bloch University as of January 1, 2025.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bernard Michon",
+                "element": "Marc Bloch University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have access to real-time data or specific current appointments, such as the president of the Institut national des langues et civilisations orientales as of January 1, 2025. My training data only goes up to October 2023, and I cannot provide the current name.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jean-Fran\u00e7ois Huchet",
+                "element": "Institut national des langues et civilisations orientales",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the current information on who holds the president position at Paris Dauphine University as of January 1, 2025. My training data only goes up to October 2023, and I cannot access real-time information.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "E.M. Mouhoud",
+                "element": "Paris Dauphine University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the current information on who holds the rector position at Novosibirsk State University as of January 1, 2025. My training data only goes up to October 2023, and I cannot access real-time information.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mikhail Fedoruk",
+                "element": "Novosibirsk State University",
+                "attribute": "Rector"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the current information on who holds the president position at the University of Shizuoka as of January 1, 2025. My training data only goes up to October 2023, and I cannot access real-time information.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Kazuo Oike",
+                "element": "University of Shizuoka",
+                "attribute": "President"
+            },
+            {
+                "prediction": "As of my last update in October 2023, I do not have the current information on who holds the chancellor position at Jamia Millia Islamia as of January 2025.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mazhar Asif",
+                "element": "Jamia Millia Islamia",
+                "attribute": "Chancellor"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the current information on who holds the president position at the University of Reims as of January 1, 2025. My training data only goes up to October 2023, and I cannot access real-time information.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Christophe Cl\u00e9ment",
+                "element": "University of Reims",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Takashi Kishimoto",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Nagahiro Minato",
+                "element": "Kyoto University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the current information on who holds the president position at Birzeit University as of January 1, 2025. My training data only goes up to October 2023, and I cannot access real-time information.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Hannah Nasir",
+                "element": "Birzeit University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Freida Matthews",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Valerie Ashby",
+                "element": "University of Maryland, Baltimore County",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Michael J. B. Allen",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Michael Frandsen",
+                "element": "Wittenberg University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the current information on who holds the president position at the University of La R\u00e9union as of January 1, 2025. My training data only goes up to October 2023, and I cannot access real-time information.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jacques Comby",
+                "element": "University of La R\u00e9union",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Dr. Paul R. Olmstead",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jane Wood",
+                "element": "Bluffton University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the current information on who holds the president position at the University of Orl\u00e9ans as of January 1, 2025. My training data only goes up to October 2023, and I cannot access real-time information.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "\u00c9ric Blond",
+                "element": "University of Orl\u00e9ans",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Hiroshi Matsumoto",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Teruo Fujii",
+                "element": "University of Tokyo",
+                "attribute": "President"
+            }
+        ],
+        "ambiguous": []
+    },
+    "rephrased_3": {
+        "correct": [
+            {
+                "prediction": "Ant\u00f3nio Guterres",
+                "matched_answers": [
+                    [
+                        "Ant\u00f3nio Guterres",
+                        "+2017-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Ajay Banga",
+                "matched_answers": [
+                    [
+                        "Banga",
+                        "+2023-06-02T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Rafael Mariano Grossi",
+                "matched_answers": [
+                    [
+                        "Grossi",
+                        "+2019-12-03T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": "Brussels, Belgium",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+1967-10-16T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "correct_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": "Thomas Bach",
+                "matched_answers": [
+                    [
+                        "Thomas Bach",
+                        "+2013-09-10T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Ronald J. Daniels",
+                "matched_answers": [
+                    [
+                        "Ronald J. Daniels",
+                        "+2009-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ronald J. Daniels",
+                "element": "Johns Hopkins University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Joseph E. Aoun",
+                "matched_answers": [
+                    [
+                        "Aoun",
+                        "+2006-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Joseph Aoun",
+                "element": "Northeastern University",
+                "attribute": "President"
+            }
+        ],
+        "outdated": [
+            {
+                "prediction": "Jens Stoltenberg",
+                "matched_answers": [
+                    [
+                        "Jens Stoltenberg",
+                        "+2014-10-01T00:00:00Z",
+                        "+2024-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mark Rutte",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "I'm sorry, but I do not have the information on who currently holds the position of president at Marc Bloch University as of January 1, 2025.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Bernard Michon",
+                "element": "Marc Bloch University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have access to real-time data or specific current appointments, such as the current president of the Institut national des langues et civilisations orientales as of January 1, 2025. My training data only goes up to October 2023, and I cannot look up or verify current information.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jean-Fran\u00e7ois Huchet",
+                "element": "Institut national des langues et civilisations orientales",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the current information on who holds the position of president at Paris Dauphine University as of January 1, 2025.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "E.M. Mouhoud",
+                "element": "Paris Dauphine University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the current information on who holds the position of rector at Novosibirsk State University as of January 1, 2025. My training data only goes up to October 2023, and I cannot access real-time information.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mikhail Fedoruk",
+                "element": "Novosibirsk State University",
+                "attribute": "Rector"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the current information on who holds the position of president at the University of Shizuoka as of January 1, 2025. My training data only goes up to October 2023, and I cannot access real-time information.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Kazuo Oike",
+                "element": "University of Shizuoka",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the current information on who holds the position of chancellor at Jamia Millia Islamia as of January 1, 2025.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mazhar Asif",
+                "element": "Jamia Millia Islamia",
+                "attribute": "Chancellor"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have access to current or specific information about the position of president at the University of Reims as of January 1, 2025. My training data only goes up to October 2023, and I cannot look up or verify current information.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Christophe Cl\u00e9ment",
+                "element": "University of Reims",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Takashi Kishimoto",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Nagahiro Minato",
+                "element": "Kyoto University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the current information on who holds the position of president at Birzeit University as of January 1, 2025. My training data only goes up to October 2023, and I cannot access real-time information.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Hannah Nasir",
+                "element": "Birzeit University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Freida Matthews",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Valerie Ashby",
+                "element": "University of Maryland, Baltimore County",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the current information on who holds the position of president at Wittenberg University as of January 1, 2025. My training data only goes up to October 2023, and I cannot access real-time information.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Michael Frandsen",
+                "element": "Wittenberg University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the current information on who holds the position of president at the University of La R\u00e9union as of January 1, 2025. My training data only goes up to October 2023, and I cannot access real-time information.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jacques Comby",
+                "element": "University of La R\u00e9union",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Dr. Paul R. Olmstead",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jane Wood",
+                "element": "Bluffton University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the current information on who holds the position of president at the University of Orl\u00e9ans as of January 1, 2025. My training data only goes up to October 2023, and I cannot access real-time information.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "\u00c9ric Blond",
+                "element": "University of Orl\u00e9ans",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Takashi Yamaguchi",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Teruo Fujii",
+                "element": "University of Tokyo",
+                "attribute": "President"
+            }
+        ],
+        "ambiguous": []
+    }
+}

@@ -1,0 +1,116 @@
+{
+    "companies_byRevenue": {},
+    "countries_byGDP": {
+        "Denmark": {
+            "monarch of Denmark": {
+                "answers": [
+                    "Margrethe II of Denmark |S: +1972-01-14T00:00:00Z |E: +2024-01-14T00:00:00Z",
+                    "Frederick IX of Denmark |S: +1947-04-20T00:00:00Z |E: +1972-01-14T00:00:00Z",
+                    "Christian X of Denmark |S: +1912-05-14T00:00:00Z |E: +1947-04-20T00:00:00Z",
+                    "Frederick VIII of Denmark |S: +1906-01-29T00:00:00Z |E: +1912-05-14T00:00:00Z",
+                    "Christian IX of Denmark |S: +1863-11-15T00:00:00Z |E: +1906-01-29T00:00:00Z",
+                    "Frederick VII of Denmark |S: +1848-01-20T00:00:00Z |E: +1863-11-15T00:00:00Z",
+                    "Christian VIII of Denmark |S: +1839-12-03T00:00:00Z |E: +1848-01-20T00:00:00Z",
+                    "Frederick VI of Denmark |S: +1808-03-13T00:00:00Z |E: +1839-12-03T00:00:00Z",
+                    "Christian VII of Denmark |S: +1766-01-14T00:00:00Z |E: +1808-03-13T00:00:00Z",
+                    "Frederick V of Denmark |S: +1746-08-06T00:00:00Z |E: +1766-01-14T00:00:00Z",
+                    "Christian VI of Denmark |S: +1730-10-12T00:00:00Z |E: +1746-08-06T00:00:00Z",
+                    "Frederick IV of Denmark |S: +1699-08-25T00:00:00Z |E: +1730-10-12T00:00:00Z",
+                    "Christian V of Denmark |S: +1670-02-09T00:00:00Z |E: +1699-08-25T00:00:00Z",
+                    "Frederick III of Denmark |S: +1648-07-06T00:00:00Z |E: +1670-02-09T00:00:00Z",
+                    "Christian IV of Denmark |S: +1588-04-04T00:00:00Z |E: +1648-02-28T00:00:00Z",
+                    "Frederick II of Denmark |S: +1559-01-01T00:00:00Z |E: +1588-04-04T00:00:00Z",
+                    "Christian III of Denmark |S: +1534-07-04T00:00:00Z |E: +1559-01-01T00:00:00Z",
+                    "Frederick I of Denmark |S: +1523-04-13T00:00:00Z |E: +1533-04-10T00:00:00Z",
+                    "Christian II of Denmark |S: +1513-02-20T00:00:00Z |E: +1523-04-13T00:00:00Z",
+                    "John, King of Denmark |S: +1481-05-21T00:00:00Z |E: +1513-02-20T00:00:00Z",
+                    "Christian I of Denmark |S: +1448-09-01T00:00:00Z |E: +1481-05-21T00:00:00Z",
+                    "Christopher of Bavaria |S: +1440-04-09T00:00:00Z |E: +1448-01-06T00:00:00Z",
+                    "Eric of Pomerania |S: +1396-01-01T00:00:00Z |E: +1439-01-01T00:00:00Z",
+                    "Frederik X |S: +2024-01-14T00:00:00Z"
+                ],
+                "ground_truth": "John, King of Denmark",
+                "ranking_qa": {
+                    "generic": "The monarchs of Denmark on 25 July 1491 and 3 January 1987 were John, King of Denmark and Margrethe II of Denmark, so who was the former monarch?",
+                    "rephrased_1": "The monarchs of Denmark on 25 July 1491 and 3 January 1987 were John, King of Denmark and Margrethe II of Denmark, so who was the former monarch?",
+                    "rephrased_2": "John, King of Denmark and Margrethe II of Denmark served as the monarchs of Denmark on 25 July 1491 and 3 January 1987, respectively. Can you identify which one the former monarch was?",
+                    "rephrased_3": "On 25 July 1491, John, King of Denmark was the monarch of Denmark, while Margrethe II of Denmark held the position on 3 January 1987. Which of them served as the former monarch?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 3 January 1987, Margrethe II of Denmark was the monarch of Denmark. So, who held this position 180957 days before?",
+                    "rephrased_1": "On 3 January 1987, Margrethe II of Denmark was the monarch of Denmark. So, who held this position 180957 days before?",
+                    "rephrased_2": "Margrethe II of Denmark was Denmark's monarch on 3 January 1987. Do you know who was in this role before 180957 days?",
+                    "rephrased_3": "Margrethe II of Denmark served as the monarch of Denmark on 3 January 1987. Can you identify who occupied this position before 180957 days?"
+                }
+            }
+        }
+    },
+    "athletes_byPayment": {
+        "Damian Lillard": {
+            "answers": [
+                "Weber State Wildcats men's basketball |S: +2008-01-01T00:00:00Z |E: +2012-07-13T00:00:00Z",
+                "Portland Trail Blazers |S: +2012-07-13T00:00:00Z |E: +2023-09-27T00:00:00Z",
+                "Milwaukee Bucks |S: +2023-09-27T00:00:00Z"
+            ],
+            "ground_truth": "Weber State Wildcats men's basketball",
+            "ranking_qa": {
+                "generic": "The basketball teams of Damian Lillard on 31 March 2010 and 22 July 2014 were Weber State Wildcats men's basketball and Portland Trail Blazers, so which team was the former one Damian Lillard played for?",
+                "rephrased_1": "The basketball teams of Damian Lillard on 31 March 2010 and 22 July 2014 were Weber State Wildcats men's basketball and Portland Trail Blazers, so which team was the former one Damian Lillard played for?",
+                "rephrased_2": "Weber State Wildcats men's basketball and Portland Trail Blazers were Damian Lillard's basketball teams on 31 March 2010 and 22 July 2014, respectively. Can you identify which team was the former one Damian Lillard played for?",
+                "rephrased_3": "On 31 March 2010, Damian Lillard played for Weber State Wildcats men's basketball, while Damian Lillard played for Portland Trail Blazers on 22 July 2014. Which team did Damian Lillard formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 22 July 2014, Damian Lillard played for Portland Trail Blazers. So, before 1574 days, which basketball team did Damian Lillard play for?",
+                "rephrased_1": "On 22 July 2014, Damian Lillard played for Portland Trail Blazers. So, before 1574 days, which basketball team did Damian Lillard play for?",
+                "rephrased_2": "Portland Trail Blazers was Damian Lillard's basketball team on 22 July 2014. Can you identify which basketball team Damian Lillard belongs to before 1574 days?",
+                "rephrased_3": "Damian Lillard played for Portland Trail Blazers on 22 July 2014. Do you know which basketball team Damian Lillard played for before 1574 days?"
+            }
+        },
+        "Bradley Beal": {
+            "answers": [
+                "Florida Gators men's basketball |S: +2011-01-01T00:00:00Z |E: +2012-06-28T00:00:00Z",
+                "Washington Wizards |S: +2012-06-28T00:00:00Z |E: +2023-07-01T00:00:00Z",
+                "Phoenix Suns |S: +2023-07-01T00:00:00Z"
+            ],
+            "ground_truth": "Florida Gators men's basketball",
+            "ranking_qa": {
+                "generic": "The basketball teams of Bradley Beal on 4 January 2012 and 22 May 2015 were Florida Gators men's basketball and Washington Wizards, so which team was the former one Bradley Beal played for?",
+                "rephrased_1": "The basketball teams of Bradley Beal on 4 January 2012 and 22 May 2015 were Florida Gators men's basketball and Washington Wizards, so which team was the former one Bradley Beal played for?",
+                "rephrased_2": "Florida Gators men's basketball and Washington Wizards were Bradley Beal's basketball teams on 4 January 2012 and 22 May 2015, respectively. Can you identify which team was the former one Bradley Beal played for?",
+                "rephrased_3": "On 4 January 2012, Bradley Beal played for Florida Gators men's basketball, while Bradley Beal played for Washington Wizards on 22 May 2015. Which team did Bradley Beal formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 22 May 2015, Bradley Beal played for Washington Wizards. So, before 1234 days, which basketball team did Bradley Beal play for?",
+                "rephrased_1": "On 22 May 2015, Bradley Beal played for Washington Wizards. So, before 1234 days, which basketball team did Bradley Beal play for?",
+                "rephrased_2": "Washington Wizards was Bradley Beal's basketball team on 22 May 2015. Can you identify which basketball team Bradley Beal belongs to before 1234 days?",
+                "rephrased_3": "Bradley Beal played for Washington Wizards on 22 May 2015. Do you know which basketball team Bradley Beal played for before 1234 days?"
+            }
+        },
+        "Fernando Alonso": {
+            "answers": [
+                "Renault F1 Team |S: +2002-00-00T00:00:00Z |E: +2006-00-00T00:00:00Z",
+                "McLaren |S: +2007-00-00T00:00:00Z |E: +2007-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2008-00-00T00:00:00Z |E: +2009-00-00T00:00:00Z",
+                "Scuderia Ferrari |S: +2010-00-00T00:00:00Z |E: +2014-00-00T00:00:00Z",
+                "McLaren |S: +2015-00-00T00:00:00Z |E: +2018-00-00T00:00:00Z",
+                "Minardi |S: +2001-00-00T00:00:00Z |E: +2001-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2021-00-00T00:00:00Z |E: +2022-00-00T00:00:00Z",
+                "Aston Martin F1 Team |S: +2023-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Scuderia Ferrari",
+            "ranking_qa": {
+                "generic": "The Formula 1 teams of Fernando Alonso on 10 October 2012 and 11 October 2015 were Scuderia Ferrari and McLaren, so which team was the former one Fernando Alonso drove for?",
+                "rephrased_1": "The Formula 1 teams of Fernando Alonso on 10 October 2012 and 11 October 2015 were Scuderia Ferrari and McLaren, so which team was the former one Fernando Alonso drove for?",
+                "rephrased_2": "Scuderia Ferrari and McLaren were Fernando Alonso's Formula 1 teams on 10 October 2012 and 11 October 2015, respectively. Can you identify which team was the former one Fernando Alonso drove for?",
+                "rephrased_3": "On 10 October 2012, Fernando Alonso drove for Scuderia Ferrari, while Fernando Alonso drove for McLaren on 11 October 2015. Which team did Fernando Alonso formerly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 11 October 2015, Fernando Alonso drove for McLaren. So, before 1096 days, which Formula 1 team did Fernando Alonso drive for?",
+                "rephrased_1": "On 11 October 2015, Fernando Alonso drove for McLaren. So, before 1096 days, which Formula 1 team did Fernando Alonso drive for?",
+                "rephrased_2": "McLaren was Fernando Alonso's Formula 1 team on 11 October 2015. Can you identify which Formula 1 team Fernando Alonso belongs to before 1096 days?",
+                "rephrased_3": "Fernando Alonso drove for McLaren on 11 October 2015. Do you know which Formula 1 team Fernando Alonso drove for before 1096 days?"
+            }
+        }
+    },
+    "organizations": {}
+}

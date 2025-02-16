@@ -1,0 +1,4722 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": "Giorgio Napolitano (2006-2015), followed by Sergio Mattarella (2015-).",
+                "matched_answers": [
+                    [
+                        "Giorgio Napolitano",
+                        "+2006-05-15T00:00:00Z",
+                        "+2015-01-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Giorgio Napolitano",
+                "element": "Italy",
+                "attribute": "President of Italy"
+            },
+            {
+                "prediction": "Matteo Renzi",
+                "matched_answers": [
+                    [
+                        "Matteo Renzi",
+                        "+2014-02-22T00:00:00Z",
+                        "+2016-12-12T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Matteo Renzi",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": "Barack Obama",
+                "matched_answers": [
+                    [
+                        "Barack Obama",
+                        "+2009-01-20T00:00:00Z",
+                        "+2017-01-20T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Barack Obama",
+                "element": "United States of America",
+                "attribute": "President of the United States"
+            },
+            {
+                "prediction": "Frank-Walter Steinmeier (as President) and Angela Merkel (as Chancellor)",
+                "matched_answers": [
+                    [
+                        "Frank-Walter Steinmeier",
+                        "+2017-03-19T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Frank-Walter Steinmeier",
+                "element": "Germany",
+                "attribute": "president of Germany"
+            },
+            {
+                "prediction": "Akihito",
+                "matched_answers": [
+                    [
+                        "Akihito",
+                        "+1989-01-07T00:00:00Z",
+                        "+2019-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Akihito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": "Shinzo Abe",
+                "matched_answers": [
+                    [
+                        "Abe",
+                        "+2012-12-26T00:00:00Z",
+                        "+2020-09-16T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Shinz\u014d Abe",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            },
+            {
+                "prediction": "George VI",
+                "matched_answers": [
+                    [
+                        "George VI",
+                        "+1936-12-11T00:00:00Z",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "George VI",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": "Boris Johnson",
+                "matched_answers": [
+                    [
+                        "Boris Johnson",
+                        "+2019-07-24T00:00:00Z",
+                        "+2022-09-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Boris Johnson",
+                "element": "United Kingdom",
+                "attribute": "Prime Minister of the United Kingdom"
+            },
+            {
+                "prediction": "George V",
+                "matched_answers": [
+                    [
+                        "George V",
+                        "+1910-05-06T00:00:00Z",
+                        "+1936-01-20T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "George V",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": "Justin Trudeau",
+                "matched_answers": [
+                    [
+                        "Justin Trudeau",
+                        "+2015-11-04T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Justin Trudeau",
+                "element": "Canada",
+                "attribute": "Prime Minister of Canada"
+            },
+            {
+                "prediction": "Dmitry Medvedev",
+                "matched_answers": [
+                    [
+                        "Dmitry Medvedev",
+                        "+2008-05-07T00:00:00Z",
+                        "+2012-05-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Dmitry Medvedev",
+                "element": "Russia",
+                "attribute": "President of Russia"
+            },
+            {
+                "prediction": "Vladimir Putin",
+                "matched_answers": [
+                    [
+                        "Vladimir Putin",
+                        "+2008-05-08T00:00:00Z",
+                        "+2012-05-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Vladimir Putin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": "Lee Myung-bak",
+                "matched_answers": [
+                    [
+                        "Lee Myung-bak",
+                        "+2008-02-25T00:00:00Z",
+                        "+2013-02-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Lee Myung-bak",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": "Scott Morrison",
+                "matched_answers": [
+                    [
+                        "Scott Morrison",
+                        "+2018-08-24T00:00:00Z",
+                        "+2022-05-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Scott Morrison",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": "Felipe VI",
+                "matched_answers": [
+                    [
+                        "Felipe VI",
+                        "+2014-06-19T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Felipe VI of Spain",
+                "element": "Spain",
+                "attribute": "Monarch of Spain"
+            },
+            {
+                "prediction": "Pedro S\u00e1nchez",
+                "matched_answers": [
+                    [
+                        "Pedro S\u00e1nchez",
+                        "+2018-06-02T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Pedro S\u00e1nchez",
+                "element": "Spain",
+                "attribute": "Prime Minister of Spain"
+            },
+            {
+                "prediction": "Suharto",
+                "matched_answers": [
+                    [
+                        "Suharto",
+                        "+1967-03-12T00:00:00Z",
+                        "+1998-05-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Suharto",
+                "element": "Indonesia",
+                "attribute": "President of Indonesia"
+            },
+            {
+                "prediction": "B\u00fclent Ecevit (1999-2002), Abdullah G\u00fcl (2002-2003), and Recep Tayyip Erdo\u011fan (2003-2007)",
+                "matched_answers": [
+                    [
+                        "B\u00fclent Ecevit",
+                        "+1999-01-11T00:00:00Z",
+                        "+2002-11-18T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "B\u00fclent Ecevit",
+                "element": "Turkey",
+                "attribute": "Prime Minister of Turkey"
+            },
+            {
+                "prediction": "Abdullah bin Abdulaziz Al Saud",
+                "matched_answers": [
+                    [
+                        "Abdullah",
+                        "+2005-08-01T00:00:00Z",
+                        "+2015-01-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Abdullah of Saudi Arabia",
+                "element": "Saudi Arabia",
+                "attribute": "King of Saudi Arabia"
+            },
+            {
+                "prediction": "Jerzy Buzek",
+                "matched_answers": [
+                    [
+                        "Jerzy Buzek",
+                        "+1997-10-31T00:00:00Z",
+                        "+2001-10-19T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jerzy Buzek",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": "Alberto Fern\u00e1ndez",
+                "matched_answers": [
+                    [
+                        "Alberto Fern\u00e1ndez",
+                        "+2019-12-10T00:00:00Z",
+                        "+2023-12-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alberto Fern\u00e1ndez",
+                "element": "Argentina",
+                "attribute": "President of Argentina"
+            },
+            {
+                "prediction": "Stefan L\u00f6fven",
+                "matched_answers": [
+                    [
+                        "Stefan L\u00f6fven",
+                        "+2014-10-03T00:00:00Z",
+                        "+2021-10-30T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Stefan L\u00f6fven",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": "Mary McAleese",
+                "matched_answers": [
+                    [
+                        "Mary McAleese",
+                        "+1997-11-10T00:00:00Z",
+                        "+2011-11-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mary McAleese",
+                "element": "Ireland",
+                "attribute": "President of Ireland"
+            },
+            {
+                "prediction": "Olav V",
+                "matched_answers": [
+                    [
+                        "Olav V",
+                        "+1957-09-21T00:00:00Z",
+                        "+1991-01-17T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Olav V of Norway",
+                "element": "Norway",
+                "attribute": "Monarch of Norway"
+            },
+            {
+                "prediction": "Erna Solberg",
+                "matched_answers": [
+                    [
+                        "Erna Solberg",
+                        "+2013-10-16T00:00:00Z",
+                        "+2021-10-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Erna Solberg",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": "Werner Faymann",
+                "matched_answers": [
+                    [
+                        "Werner Faymann",
+                        "+2008-12-02T00:00:00Z",
+                        "+2016-05-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Werner Faymann",
+                "element": "Austria",
+                "attribute": "Federal Chancellor of Austria"
+            },
+            {
+                "prediction": "Yitzhak Rabin (until November 1995), followed by Shimon Peres (from November 1995).",
+                "matched_answers": [
+                    [
+                        "Rabin",
+                        "+1992-07-13T00:00:00Z",
+                        "+1995-11-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Yizhak Rabin",
+                "element": "Israel",
+                "attribute": "Prime Minister of Israel"
+            },
+            {
+                "prediction": "Vajiralongkorn (Rama X)",
+                "matched_answers": [
+                    [
+                        "Vajiralongkorn",
+                        "+2016-12-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Vajiralongkorn",
+                "element": "Thailand",
+                "attribute": "King of Thailand"
+            },
+            {
+                "prediction": "Prayut Chan-o-cha",
+                "matched_answers": [
+                    [
+                        "Prayut Chan-o-cha",
+                        "+2014-05-22T00:00:00Z",
+                        "+2023-08-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Prayut Chan-o-cha",
+                "element": "Thailand",
+                "attribute": "Prime Minister of Thailand"
+            },
+            {
+                "prediction": "Khalifa bin Zayed Al Nahyan",
+                "matched_answers": [
+                    [
+                        "Khalifa bin Zayed Al Nahyan",
+                        "+2004-11-03T00:00:00Z",
+                        "+2022-05-13T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Khalifa bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            },
+            {
+                "prediction": "Abdul Hamid",
+                "matched_answers": [
+                    [
+                        "Abdul Hamid",
+                        "+2013-04-14T00:00:00Z",
+                        "+2023-04-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Abdul Hamid",
+                "element": "Bangladesh",
+                "attribute": "President of Bangladesh"
+            },
+            {
+                "prediction": "Sheikh Hasina",
+                "matched_answers": [
+                    [
+                        "Sheikh Hasina",
+                        "+2009-01-06T00:00:00Z",
+                        "+2024-08-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sheikh Hasina",
+                "element": "Bangladesh",
+                "attribute": "Prime Minister of Bangladesh"
+            },
+            {
+                "prediction": "Nguy\u1ec5n Xu\u00e2n Ph\u00fac",
+                "matched_answers": [
+                    [
+                        "Nguy\u1ec5n Xu\u00e2n Ph\u00fac",
+                        "+2016-04-07T00:00:00Z",
+                        "+2021-04-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Nguy\u1ec5n Xu\u00e2n Ph\u00fac",
+                "element": "Vietnam",
+                "attribute": "Prime Minister of Vietnam"
+            },
+            {
+                "prediction": "Abdel Fattah el-Sisi",
+                "matched_answers": [
+                    [
+                        "Abdel Fattah el-Sisi",
+                        "+2014-06-08T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Abdel Fattah el-Sisi",
+                "element": "Egypt",
+                "attribute": "President of Egypt"
+            },
+            {
+                "prediction": "Hesham Qandil (2012-2013), Ibrahim Mahlab (2013-2014), and Sherif Ismail (2014-2016).",
+                "matched_answers": [
+                    [
+                        "Sherif Ismail",
+                        "+2015-09-19T00:00:00Z",
+                        "+2018-06-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sherif Ismail",
+                "element": "Egypt",
+                "attribute": "Prime Minister of Egypt"
+            },
+            {
+                "prediction": "Muhammadu Buhari",
+                "matched_answers": [
+                    [
+                        "Muhammadu Buhari",
+                        "+2015-05-29T00:00:00Z",
+                        "+2023-05-29T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Muhammadu Buhari",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": "Ruhollah Khomeini",
+                "matched_answers": [
+                    [
+                        "Ruhollah Khomeini",
+                        "+1979-12-03T00:00:00Z",
+                        "+1989-06-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ruhollah Khomeini",
+                "element": "Iran",
+                "attribute": "Supreme Leader of Iran"
+            },
+            {
+                "prediction": "Patricio Aylwin",
+                "matched_answers": [
+                    [
+                        "Patricio Aylwin",
+                        "+1990-03-11T00:00:00Z",
+                        "+1994-03-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Patricio Aylwin",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": "Arif Alvi",
+                "matched_answers": [
+                    [
+                        "Arif Alvi",
+                        "+2018-09-09T00:00:00Z",
+                        "+2024-03-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Arif Alvi",
+                "element": "Pakistan",
+                "attribute": "President of Pakistan"
+            },
+            {
+                "prediction": "Milo\u0161 Zeman",
+                "matched_answers": [
+                    [
+                        "Milo\u0161 Zeman",
+                        "+2013-03-08T00:00:00Z",
+                        "+2023-03-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milo\u0161 Zeman",
+                "element": "Czech Republic",
+                "attribute": "President of the Czech Republic"
+            },
+            {
+                "prediction": "Sauli Niinist\u00f6",
+                "matched_answers": [
+                    [
+                        "Sauli Niinist\u00f6",
+                        "+2012-03-01T00:00:00Z",
+                        "+2024-03-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sauli Niinist\u00f6",
+                "element": "Finland",
+                "attribute": "President of Finland"
+            },
+            {
+                "prediction": "Juha Sipil\u00e4",
+                "matched_answers": [
+                    [
+                        "Juha Sipil\u00e4",
+                        "+2015-05-29T00:00:00Z",
+                        "+2019-06-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Juha Sipil\u00e4",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            },
+            {
+                "prediction": "Barham Salih (as acting president) and later Barham Salih (as president) and Abdul Latif Rashid (as acting president) and later Abdul Latif Rashid (as president).",
+                "matched_answers": [
+                    [
+                        "Barham Salih",
+                        "+2018-10-02T00:00:00Z",
+                        "+2022-10-17T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Barham Salih",
+                "element": "Iraq",
+                "attribute": "President of Iraq"
+            },
+            {
+                "prediction": "Mustafa Al-Kadhimi",
+                "matched_answers": [
+                    [
+                        "Mustafa Al-Kadhimi",
+                        "+2020-05-07T00:00:00Z",
+                        "+2022-10-27T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mustafa Al-Kadhimi",
+                "element": "Iraq",
+                "attribute": "Prime Minister of Iraq"
+            },
+            {
+                "prediction": "An\u00edbal Cavaco Silva",
+                "matched_answers": [
+                    [
+                        "An\u00edbal Cavaco Silva",
+                        "+2006-03-09T00:00:00Z",
+                        "+2016-03-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "An\u00edbal Cavaco Silva",
+                "element": "Portugal",
+                "attribute": "President of Portugal"
+            },
+            {
+                "prediction": "Pedro Passos Coelho",
+                "matched_answers": [
+                    [
+                        "Pedro Passos Coelho",
+                        "+2011-06-21T00:00:00Z",
+                        "+2015-11-26T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Pedro Passos Coelho",
+                "element": "Portugal",
+                "attribute": "Prime Minister of Portugal"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Hu Jintao",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Zhou Enlai",
+                "element": "China",
+                "attribute": "Premier of the People's Republic of China"
+            },
+            {
+                "prediction": "Emmanuel Macron",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jean Castex",
+                "element": "France",
+                "attribute": "Prime Minister of France"
+            },
+            {
+                "prediction": "Willem III",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "William III of the Netherlands",
+                "element": "Netherlands",
+                "attribute": "King of the Netherlands"
+            },
+            {
+                "prediction": "Yves Leterme (initially), followed by Herman Van Rompuy, and then Elio Di Rupo.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles Michel",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            },
+            {
+                "prediction": "Ong Teng Cheong (1981-1984), Wee Kim Wee (1985-1993), Ong Teng Cheong (1993-1999)",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Halimah Yacob",
+                "element": "Singapore",
+                "attribute": "President of Singapore"
+            },
+            {
+                "prediction": "Nguyen Xuan Phuc",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Nguyen Phu Trong",
+                "element": "Vietnam",
+                "attribute": "President of Vietnam"
+            },
+            {
+                "prediction": "Tun Hussein Onn",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anwar Ibrahim",
+                "element": "Malaysia",
+                "attribute": "Prime Minister of Malaysia"
+            },
+            {
+                "prediction": "Frederik IX",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Frederick IX of Denmark",
+                "element": "Denmark",
+                "attribute": "monarch of Denmark"
+            },
+            {
+                "prediction": "H.P. Hanssen",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Carl Christian Hall",
+                "element": "Denmark",
+                "attribute": "Prime Minister of Denmark"
+            },
+            {
+                "prediction": "Nelson Mandela (1994-1999), Thabo Mbeki (1999-2008)",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jacob Zuma",
+                "element": "South Africa",
+                "attribute": "President of South Africa"
+            },
+            {
+                "prediction": "Juan Manuel Santos",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Iv\u00e1n Duque",
+                "element": "Colombia",
+                "attribute": "President of Colombia"
+            }
+        ],
+        "other": [
+            {
+                "prediction": "Jiang Zemin (1998\u20132003), Zhu Rongji (2003\u20132004)",
+                "matched_answers": [
+                    [
+                        "Jiang",
+                        "+1993-03-27T00:00:00Z",
+                        "+2003-03-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Li Xiannian",
+                "element": "China",
+                "attribute": "President of the People's Republic of China"
+            },
+            {
+                "prediction": "Helmut Schmidt",
+                "matched_answers": [
+                    [
+                        "Helmut Schmidt",
+                        "+1974-05-16T00:00:00Z",
+                        "+1982-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ludwig Erhard",
+                "element": "Germany",
+                "attribute": "Federal Chancellor of Germany"
+            },
+            {
+                "prediction": "Pratibha Patil",
+                "matched_answers": [
+                    [
+                        "Pratibha Patil",
+                        "+2007-07-25T00:00:00Z",
+                        "+2012-07-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Pranab Mukherjee",
+                "element": "India",
+                "attribute": "President of India"
+            },
+            {
+                "prediction": "Morarji Desai",
+                "matched_answers": [
+                    [
+                        "Morarji Desai",
+                        "+1977-03-24T00:00:00Z",
+                        "+1979-07-28T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Indira Gandhi",
+                "element": "India",
+                "attribute": "Prime minister of India"
+            },
+            {
+                "prediction": "Val\u00e9ry Giscard d'Estaing",
+                "matched_answers": [
+                    [
+                        "Val\u00e9ry Giscard d'Estaing",
+                        "+1974-05-27T00:00:00Z",
+                        "+1981-05-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ren\u00e9 Coty",
+                "element": "France",
+                "attribute": "President of the French Republic"
+            },
+            {
+                "prediction": "Dilma Rousseff (until August 31, 2016), Michel Temer (from August 31, 2016)",
+                "matched_answers": [
+                    [
+                        "Dilma Rousseff",
+                        "+2011-01-01T00:00:00Z",
+                        "+2016-08-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Michel Temer",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": "Adolfo Ruiz Cortines, Miguel Alem\u00e1n Vald\u00e9s, and Adolfo L\u00f3pez Mateos. (Note: Louis Beel served as Prime Minister of the Netherlands from 1958 to 1959 and again from 1963 to 1965, during which time these were the presidents of Mexico.)",
+                "matched_answers": [
+                    [
+                        "Adolfo Ruiz Cortines",
+                        "+1952-01-01T00:00:00Z",
+                        "+1958-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Miguel Alem\u00e1n Vald\u00e9s",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": "Elizabeth II",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z",
+                        "+2022-09-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paul Hasluck",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": "Cevdet Sunay",
+                "matched_answers": [
+                    [
+                        "Cevdet Sunay",
+                        "+1966-03-28T00:00:00Z",
+                        "+1973-03-28T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Cemal G\u00fcrsel",
+                "element": "Turkey",
+                "attribute": "President of Turkey"
+            },
+            {
+                "prediction": "Willem Drees Jr.",
+                "matched_answers": [
+                    [
+                        "Willem Drees",
+                        "+1948-08-07T00:00:00Z",
+                        "+1958-12-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Hendrikus Colijn",
+                "element": "Netherlands",
+                "attribute": "Prime Minister of the Netherlands"
+            },
+            {
+                "prediction": "Lech Wa\u0142\u0119sa",
+                "matched_answers": [
+                    [
+                        "Lech Wa\u0142\u0119sa",
+                        "+1990-12-22T00:00:00Z",
+                        "+1995-12-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wojciech Jaruzelski",
+                "element": "Poland",
+                "attribute": "President of the Republic of Poland"
+            },
+            {
+                "prediction": "Albert II (until 2013), followed by Philippe (from 2013).",
+                "matched_answers": [
+                    [
+                        "Albert II",
+                        "+1993-08-09T00:00:00Z",
+                        "+2013-07-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Philippe of Belgium",
+                "element": "Belgium",
+                "attribute": "Monarch of the Belgians"
+            },
+            {
+                "prediction": "Oscar II",
+                "matched_answers": [
+                    [
+                        "Oscar II",
+                        "+1872-09-18T00:00:00Z",
+                        "+1907-12-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Charles XV of Sweden",
+                "element": "Sweden",
+                "attribute": "Monarch of Sweden"
+            },
+            {
+                "prediction": "Adolf Sch\u00e4rf",
+                "matched_answers": [
+                    [
+                        "Adolf Sch\u00e4rf",
+                        "+1957-05-22T00:00:00Z",
+                        "+1965-02-28T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Theodor K\u00f6rner",
+                "element": "Austria",
+                "attribute": "President of Austria"
+            },
+            {
+                "prediction": "Shimon Peres (2007-2009) and Ehud Olmert (2006-2009)",
+                "matched_answers": [
+                    [
+                        "Shimon Peres",
+                        "+2007-07-15T00:00:00Z",
+                        "+2014-07-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Moshe Katsav",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": "Ferdinand Marcos",
+                "matched_answers": [
+                    [
+                        "Ferdinand Marcos",
+                        "+1965-12-30T00:00:00Z",
+                        "+1986-02-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Carlos P. Garcia",
+                "element": "Philippines",
+                "attribute": "President of the Philippines"
+            },
+            {
+                "prediction": "Abolhassan Banisadr, Mohammad-Ali Rajai, and Ali Khamenei (in succession)",
+                "matched_answers": [
+                    [
+                        "Banisadr",
+                        "+1980-02-04T00:00:00Z",
+                        "+1981-06-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Ali Khamenei",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": "Gheorghe Gheorghiu-Dej",
+                "matched_answers": [
+                    [
+                        "Gheorghe Gheorghiu-Dej",
+                        "+1961-03-21T00:00:00Z",
+                        "+1965-03-19T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petru Groza",
+                "element": "Romania",
+                "attribute": "President of Romania"
+            },
+            {
+                "prediction": "Nicolae V\u0103c\u0103roiu (1992\u20131996), Ion Iliescu (1996\u20131999)",
+                "matched_answers": [
+                    [
+                        "Nicolae V\u0103c\u0103roiu",
+                        "+1992-11-19T00:00:00Z",
+                        "+1996-12-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Radu Vasile",
+                "element": "Romania",
+                "attribute": "Prime Minister of Romania"
+            },
+            {
+                "prediction": "Yousaf Raza Gillani (2008\u20132012), Raja Pervaiz Ashraf (2012\u20132013), Nawaz Sharif (2013\u20132017)",
+                "matched_answers": [
+                    [
+                        "Nawaz Sharif",
+                        "+2013-06-05T00:00:00Z",
+                        "+2017-07-28T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Imran Khan",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": "Mirek Topol\u00e1nek  \nMirek Topol\u00e1nek  \nJi\u0159\u00ed Rusnok  \nPetr Ne\u010das  \nBohuslav Sobotka  \nAndrej Babi\u0161  \nAndrej Babi\u0161",
+                "matched_answers": [
+                    [
+                        "Mirek Topol\u00e1nek",
+                        "+2006-08-16T00:00:00Z",
+                        "+2009-05-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bohuslav Sobotka",
+                "element": "Czech Republic",
+                "attribute": "Prime Minister of the Czech Republic"
+            }
+        ]
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": "Giorgio Napolitano (2006-2015), followed by Sergio Mattarella (2015-).",
+                "matched_answers": [
+                    [
+                        "Giorgio Napolitano",
+                        "+2006-05-15T00:00:00Z",
+                        "+2015-01-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Giorgio Napolitano",
+                "element": "Italy",
+                "attribute": "President of Italy"
+            },
+            {
+                "prediction": "Matteo Renzi",
+                "matched_answers": [
+                    [
+                        "Matteo Renzi",
+                        "+2014-02-22T00:00:00Z",
+                        "+2016-12-12T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Matteo Renzi",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": "Barack Obama",
+                "matched_answers": [
+                    [
+                        "Barack Obama",
+                        "+2009-01-20T00:00:00Z",
+                        "+2017-01-20T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Barack Obama",
+                "element": "United States of America",
+                "attribute": "President of the United States"
+            },
+            {
+                "prediction": "Frank-Walter Steinmeier (as President) and Angela Merkel (as Chancellor)",
+                "matched_answers": [
+                    [
+                        "Frank-Walter Steinmeier",
+                        "+2017-03-19T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Frank-Walter Steinmeier",
+                "element": "Germany",
+                "attribute": "president of Germany"
+            },
+            {
+                "prediction": "Akihito",
+                "matched_answers": [
+                    [
+                        "Akihito",
+                        "+1989-01-07T00:00:00Z",
+                        "+2019-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Akihito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": "Shinzo Abe",
+                "matched_answers": [
+                    [
+                        "Abe",
+                        "+2012-12-26T00:00:00Z",
+                        "+2020-09-16T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Shinz\u014d Abe",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            },
+            {
+                "prediction": "George VI",
+                "matched_answers": [
+                    [
+                        "George VI",
+                        "+1936-12-11T00:00:00Z",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "George VI",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": "Boris Johnson",
+                "matched_answers": [
+                    [
+                        "Boris Johnson",
+                        "+2019-07-24T00:00:00Z",
+                        "+2022-09-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Boris Johnson",
+                "element": "United Kingdom",
+                "attribute": "Prime Minister of the United Kingdom"
+            },
+            {
+                "prediction": "George V",
+                "matched_answers": [
+                    [
+                        "George V",
+                        "+1910-05-06T00:00:00Z",
+                        "+1936-01-20T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "George V",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": "Justin Trudeau",
+                "matched_answers": [
+                    [
+                        "Justin Trudeau",
+                        "+2015-11-04T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Justin Trudeau",
+                "element": "Canada",
+                "attribute": "Prime Minister of Canada"
+            },
+            {
+                "prediction": "Dmitry Medvedev",
+                "matched_answers": [
+                    [
+                        "Dmitry Medvedev",
+                        "+2008-05-07T00:00:00Z",
+                        "+2012-05-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Dmitry Medvedev",
+                "element": "Russia",
+                "attribute": "President of Russia"
+            },
+            {
+                "prediction": "Vladimir Putin",
+                "matched_answers": [
+                    [
+                        "Vladimir Putin",
+                        "+2008-05-08T00:00:00Z",
+                        "+2012-05-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Vladimir Putin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": "Lee Myung-bak",
+                "matched_answers": [
+                    [
+                        "Lee Myung-bak",
+                        "+2008-02-25T00:00:00Z",
+                        "+2013-02-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Lee Myung-bak",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": "Scott Morrison",
+                "matched_answers": [
+                    [
+                        "Scott Morrison",
+                        "+2018-08-24T00:00:00Z",
+                        "+2022-05-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Scott Morrison",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": "Felipe VI",
+                "matched_answers": [
+                    [
+                        "Felipe VI",
+                        "+2014-06-19T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Felipe VI of Spain",
+                "element": "Spain",
+                "attribute": "Monarch of Spain"
+            },
+            {
+                "prediction": "Pedro S\u00e1nchez",
+                "matched_answers": [
+                    [
+                        "Pedro S\u00e1nchez",
+                        "+2018-06-02T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Pedro S\u00e1nchez",
+                "element": "Spain",
+                "attribute": "Prime Minister of Spain"
+            },
+            {
+                "prediction": "Suharto",
+                "matched_answers": [
+                    [
+                        "Suharto",
+                        "+1967-03-12T00:00:00Z",
+                        "+1998-05-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Suharto",
+                "element": "Indonesia",
+                "attribute": "President of Indonesia"
+            },
+            {
+                "prediction": "B\u00fclent Ecevit (1999-2002), Abdullah G\u00fcl (2002-2003), and Recep Tayyip Erdo\u011fan (2003-2007)",
+                "matched_answers": [
+                    [
+                        "B\u00fclent Ecevit",
+                        "+1999-01-11T00:00:00Z",
+                        "+2002-11-18T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "B\u00fclent Ecevit",
+                "element": "Turkey",
+                "attribute": "Prime Minister of Turkey"
+            },
+            {
+                "prediction": "Abdullah bin Abdulaziz Al Saud",
+                "matched_answers": [
+                    [
+                        "Abdullah",
+                        "+2005-08-01T00:00:00Z",
+                        "+2015-01-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Abdullah of Saudi Arabia",
+                "element": "Saudi Arabia",
+                "attribute": "King of Saudi Arabia"
+            },
+            {
+                "prediction": "Jerzy Buzek",
+                "matched_answers": [
+                    [
+                        "Jerzy Buzek",
+                        "+1997-10-31T00:00:00Z",
+                        "+2001-10-19T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jerzy Buzek",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": "Alberto Fern\u00e1ndez",
+                "matched_answers": [
+                    [
+                        "Alberto Fern\u00e1ndez",
+                        "+2019-12-10T00:00:00Z",
+                        "+2023-12-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alberto Fern\u00e1ndez",
+                "element": "Argentina",
+                "attribute": "President of Argentina"
+            },
+            {
+                "prediction": "Stefan L\u00f6fven",
+                "matched_answers": [
+                    [
+                        "Stefan L\u00f6fven",
+                        "+2014-10-03T00:00:00Z",
+                        "+2021-10-30T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Stefan L\u00f6fven",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": "Mary McAleese",
+                "matched_answers": [
+                    [
+                        "Mary McAleese",
+                        "+1997-11-10T00:00:00Z",
+                        "+2011-11-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mary McAleese",
+                "element": "Ireland",
+                "attribute": "President of Ireland"
+            },
+            {
+                "prediction": "Olav V",
+                "matched_answers": [
+                    [
+                        "Olav V",
+                        "+1957-09-21T00:00:00Z",
+                        "+1991-01-17T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Olav V of Norway",
+                "element": "Norway",
+                "attribute": "Monarch of Norway"
+            },
+            {
+                "prediction": "Erna Solberg",
+                "matched_answers": [
+                    [
+                        "Erna Solberg",
+                        "+2013-10-16T00:00:00Z",
+                        "+2021-10-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Erna Solberg",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": "Werner Faymann",
+                "matched_answers": [
+                    [
+                        "Werner Faymann",
+                        "+2008-12-02T00:00:00Z",
+                        "+2016-05-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Werner Faymann",
+                "element": "Austria",
+                "attribute": "Federal Chancellor of Austria"
+            },
+            {
+                "prediction": "Yitzhak Rabin (until November 1995), followed by Shimon Peres (from November 1995).",
+                "matched_answers": [
+                    [
+                        "Rabin",
+                        "+1992-07-13T00:00:00Z",
+                        "+1995-11-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Yizhak Rabin",
+                "element": "Israel",
+                "attribute": "Prime Minister of Israel"
+            },
+            {
+                "prediction": "Vajiralongkorn (Rama X)",
+                "matched_answers": [
+                    [
+                        "Vajiralongkorn",
+                        "+2016-12-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Vajiralongkorn",
+                "element": "Thailand",
+                "attribute": "King of Thailand"
+            },
+            {
+                "prediction": "Prayut Chan-o-cha",
+                "matched_answers": [
+                    [
+                        "Prayut Chan-o-cha",
+                        "+2014-05-22T00:00:00Z",
+                        "+2023-08-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Prayut Chan-o-cha",
+                "element": "Thailand",
+                "attribute": "Prime Minister of Thailand"
+            },
+            {
+                "prediction": "Khalifa bin Zayed Al Nahyan",
+                "matched_answers": [
+                    [
+                        "Khalifa bin Zayed Al Nahyan",
+                        "+2004-11-03T00:00:00Z",
+                        "+2022-05-13T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Khalifa bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            },
+            {
+                "prediction": "Abdul Hamid",
+                "matched_answers": [
+                    [
+                        "Abdul Hamid",
+                        "+2013-04-14T00:00:00Z",
+                        "+2023-04-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Abdul Hamid",
+                "element": "Bangladesh",
+                "attribute": "President of Bangladesh"
+            },
+            {
+                "prediction": "Sheikh Hasina",
+                "matched_answers": [
+                    [
+                        "Sheikh Hasina",
+                        "+2009-01-06T00:00:00Z",
+                        "+2024-08-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sheikh Hasina",
+                "element": "Bangladesh",
+                "attribute": "Prime Minister of Bangladesh"
+            },
+            {
+                "prediction": "Nguy\u1ec5n Xu\u00e2n Ph\u00fac",
+                "matched_answers": [
+                    [
+                        "Nguy\u1ec5n Xu\u00e2n Ph\u00fac",
+                        "+2016-04-07T00:00:00Z",
+                        "+2021-04-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Nguy\u1ec5n Xu\u00e2n Ph\u00fac",
+                "element": "Vietnam",
+                "attribute": "Prime Minister of Vietnam"
+            },
+            {
+                "prediction": "Abdel Fattah el-Sisi",
+                "matched_answers": [
+                    [
+                        "Abdel Fattah el-Sisi",
+                        "+2014-06-08T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Abdel Fattah el-Sisi",
+                "element": "Egypt",
+                "attribute": "President of Egypt"
+            },
+            {
+                "prediction": "Hesham Qandil (2012-2013), Ibrahim Mahlab (2013-2014), and Sherif Ismail (2014-2016).",
+                "matched_answers": [
+                    [
+                        "Sherif Ismail",
+                        "+2015-09-19T00:00:00Z",
+                        "+2018-06-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sherif Ismail",
+                "element": "Egypt",
+                "attribute": "Prime Minister of Egypt"
+            },
+            {
+                "prediction": "Muhammadu Buhari",
+                "matched_answers": [
+                    [
+                        "Muhammadu Buhari",
+                        "+2015-05-29T00:00:00Z",
+                        "+2023-05-29T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Muhammadu Buhari",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": "Ruhollah Khomeini",
+                "matched_answers": [
+                    [
+                        "Ruhollah Khomeini",
+                        "+1979-12-03T00:00:00Z",
+                        "+1989-06-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ruhollah Khomeini",
+                "element": "Iran",
+                "attribute": "Supreme Leader of Iran"
+            },
+            {
+                "prediction": "Patricio Aylwin",
+                "matched_answers": [
+                    [
+                        "Patricio Aylwin",
+                        "+1990-03-11T00:00:00Z",
+                        "+1994-03-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Patricio Aylwin",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": "Arif Alvi",
+                "matched_answers": [
+                    [
+                        "Arif Alvi",
+                        "+2018-09-09T00:00:00Z",
+                        "+2024-03-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Arif Alvi",
+                "element": "Pakistan",
+                "attribute": "President of Pakistan"
+            },
+            {
+                "prediction": "Milo\u0161 Zeman",
+                "matched_answers": [
+                    [
+                        "Milo\u0161 Zeman",
+                        "+2013-03-08T00:00:00Z",
+                        "+2023-03-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milo\u0161 Zeman",
+                "element": "Czech Republic",
+                "attribute": "President of the Czech Republic"
+            },
+            {
+                "prediction": "Sauli Niinist\u00f6",
+                "matched_answers": [
+                    [
+                        "Sauli Niinist\u00f6",
+                        "+2012-03-01T00:00:00Z",
+                        "+2024-03-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sauli Niinist\u00f6",
+                "element": "Finland",
+                "attribute": "President of Finland"
+            },
+            {
+                "prediction": "Juha Sipil\u00e4",
+                "matched_answers": [
+                    [
+                        "Juha Sipil\u00e4",
+                        "+2015-05-29T00:00:00Z",
+                        "+2019-06-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Juha Sipil\u00e4",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            },
+            {
+                "prediction": "Barham Salih (as acting president) and later Barham Salih (as president) and Abdul Latif Rashid (as acting president) and later Abdul Latif Rashid (as president).",
+                "matched_answers": [
+                    [
+                        "Barham Salih",
+                        "+2018-10-02T00:00:00Z",
+                        "+2022-10-17T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Barham Salih",
+                "element": "Iraq",
+                "attribute": "President of Iraq"
+            },
+            {
+                "prediction": "Mustafa Al-Kadhimi",
+                "matched_answers": [
+                    [
+                        "Mustafa Al-Kadhimi",
+                        "+2020-05-07T00:00:00Z",
+                        "+2022-10-27T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mustafa Al-Kadhimi",
+                "element": "Iraq",
+                "attribute": "Prime Minister of Iraq"
+            },
+            {
+                "prediction": "An\u00edbal Cavaco Silva",
+                "matched_answers": [
+                    [
+                        "An\u00edbal Cavaco Silva",
+                        "+2006-03-09T00:00:00Z",
+                        "+2016-03-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "An\u00edbal Cavaco Silva",
+                "element": "Portugal",
+                "attribute": "President of Portugal"
+            },
+            {
+                "prediction": "Pedro Passos Coelho",
+                "matched_answers": [
+                    [
+                        "Pedro Passos Coelho",
+                        "+2011-06-21T00:00:00Z",
+                        "+2015-11-26T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Pedro Passos Coelho",
+                "element": "Portugal",
+                "attribute": "Prime Minister of Portugal"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Hu Jintao",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Zhou Enlai",
+                "element": "China",
+                "attribute": "Premier of the People's Republic of China"
+            },
+            {
+                "prediction": "Emmanuel Macron",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jean Castex",
+                "element": "France",
+                "attribute": "Prime Minister of France"
+            },
+            {
+                "prediction": "Willem III",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "William III of the Netherlands",
+                "element": "Netherlands",
+                "attribute": "King of the Netherlands"
+            },
+            {
+                "prediction": "Yves Leterme (initially), followed by Herman Van Rompuy, and then Elio Di Rupo.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles Michel",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            },
+            {
+                "prediction": "Ong Teng Cheong (1981-1984), Wee Kim Wee (1985-1993), Ong Teng Cheong (1993-1999)",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Halimah Yacob",
+                "element": "Singapore",
+                "attribute": "President of Singapore"
+            },
+            {
+                "prediction": "Nguyen Xuan Phuc",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Nguyen Phu Trong",
+                "element": "Vietnam",
+                "attribute": "President of Vietnam"
+            },
+            {
+                "prediction": "Tun Hussein Onn",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Anwar Ibrahim",
+                "element": "Malaysia",
+                "attribute": "Prime Minister of Malaysia"
+            },
+            {
+                "prediction": "Frederik IX",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Frederick IX of Denmark",
+                "element": "Denmark",
+                "attribute": "monarch of Denmark"
+            },
+            {
+                "prediction": "H.P. Hanssen",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Carl Christian Hall",
+                "element": "Denmark",
+                "attribute": "Prime Minister of Denmark"
+            },
+            {
+                "prediction": "Nelson Mandela (1994-1999), Thabo Mbeki (1999-2008)",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jacob Zuma",
+                "element": "South Africa",
+                "attribute": "President of South Africa"
+            },
+            {
+                "prediction": "Juan Manuel Santos",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Iv\u00e1n Duque",
+                "element": "Colombia",
+                "attribute": "President of Colombia"
+            }
+        ],
+        "other": [
+            {
+                "prediction": "Jiang Zemin (1998\u20132003), Zhu Rongji (2003\u20132004)",
+                "matched_answers": [
+                    [
+                        "Jiang",
+                        "+1993-03-27T00:00:00Z",
+                        "+2003-03-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Li Xiannian",
+                "element": "China",
+                "attribute": "President of the People's Republic of China"
+            },
+            {
+                "prediction": "Helmut Schmidt",
+                "matched_answers": [
+                    [
+                        "Helmut Schmidt",
+                        "+1974-05-16T00:00:00Z",
+                        "+1982-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ludwig Erhard",
+                "element": "Germany",
+                "attribute": "Federal Chancellor of Germany"
+            },
+            {
+                "prediction": "Pratibha Patil",
+                "matched_answers": [
+                    [
+                        "Pratibha Patil",
+                        "+2007-07-25T00:00:00Z",
+                        "+2012-07-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Pranab Mukherjee",
+                "element": "India",
+                "attribute": "President of India"
+            },
+            {
+                "prediction": "Morarji Desai",
+                "matched_answers": [
+                    [
+                        "Morarji Desai",
+                        "+1977-03-24T00:00:00Z",
+                        "+1979-07-28T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Indira Gandhi",
+                "element": "India",
+                "attribute": "Prime minister of India"
+            },
+            {
+                "prediction": "Val\u00e9ry Giscard d'Estaing",
+                "matched_answers": [
+                    [
+                        "Val\u00e9ry Giscard d'Estaing",
+                        "+1974-05-27T00:00:00Z",
+                        "+1981-05-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ren\u00e9 Coty",
+                "element": "France",
+                "attribute": "President of the French Republic"
+            },
+            {
+                "prediction": "Dilma Rousseff (until August 31, 2016), Michel Temer (from August 31, 2016)",
+                "matched_answers": [
+                    [
+                        "Dilma Rousseff",
+                        "+2011-01-01T00:00:00Z",
+                        "+2016-08-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Michel Temer",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": "Adolfo Ruiz Cortines, Miguel Alem\u00e1n Vald\u00e9s, and Adolfo L\u00f3pez Mateos. (Note: Louis Beel served as Prime Minister of the Netherlands from 1958 to 1959 and again from 1963 to 1965, during which time these were the presidents of Mexico.)",
+                "matched_answers": [
+                    [
+                        "Adolfo Ruiz Cortines",
+                        "+1952-01-01T00:00:00Z",
+                        "+1958-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Miguel Alem\u00e1n Vald\u00e9s",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": "Elizabeth II",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z",
+                        "+2022-09-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paul Hasluck",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": "Cevdet Sunay",
+                "matched_answers": [
+                    [
+                        "Cevdet Sunay",
+                        "+1966-03-28T00:00:00Z",
+                        "+1973-03-28T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Cemal G\u00fcrsel",
+                "element": "Turkey",
+                "attribute": "President of Turkey"
+            },
+            {
+                "prediction": "Willem Drees Jr.",
+                "matched_answers": [
+                    [
+                        "Willem Drees",
+                        "+1948-08-07T00:00:00Z",
+                        "+1958-12-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Hendrikus Colijn",
+                "element": "Netherlands",
+                "attribute": "Prime Minister of the Netherlands"
+            },
+            {
+                "prediction": "Lech Wa\u0142\u0119sa",
+                "matched_answers": [
+                    [
+                        "Lech Wa\u0142\u0119sa",
+                        "+1990-12-22T00:00:00Z",
+                        "+1995-12-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wojciech Jaruzelski",
+                "element": "Poland",
+                "attribute": "President of the Republic of Poland"
+            },
+            {
+                "prediction": "Albert II (until 2013), followed by Philippe (from 2013).",
+                "matched_answers": [
+                    [
+                        "Albert II",
+                        "+1993-08-09T00:00:00Z",
+                        "+2013-07-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Philippe of Belgium",
+                "element": "Belgium",
+                "attribute": "Monarch of the Belgians"
+            },
+            {
+                "prediction": "Oscar II",
+                "matched_answers": [
+                    [
+                        "Oscar II",
+                        "+1872-09-18T00:00:00Z",
+                        "+1907-12-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Charles XV of Sweden",
+                "element": "Sweden",
+                "attribute": "Monarch of Sweden"
+            },
+            {
+                "prediction": "Adolf Sch\u00e4rf",
+                "matched_answers": [
+                    [
+                        "Adolf Sch\u00e4rf",
+                        "+1957-05-22T00:00:00Z",
+                        "+1965-02-28T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Theodor K\u00f6rner",
+                "element": "Austria",
+                "attribute": "President of Austria"
+            },
+            {
+                "prediction": "Shimon Peres (2007-2009) and Ehud Olmert (2006-2009)",
+                "matched_answers": [
+                    [
+                        "Shimon Peres",
+                        "+2007-07-15T00:00:00Z",
+                        "+2014-07-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Moshe Katsav",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": "Ferdinand Marcos",
+                "matched_answers": [
+                    [
+                        "Ferdinand Marcos",
+                        "+1965-12-30T00:00:00Z",
+                        "+1986-02-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Carlos P. Garcia",
+                "element": "Philippines",
+                "attribute": "President of the Philippines"
+            },
+            {
+                "prediction": "Abolhassan Banisadr, Mohammad-Ali Rajai, and Ali Khamenei (in succession)",
+                "matched_answers": [
+                    [
+                        "Banisadr",
+                        "+1980-02-04T00:00:00Z",
+                        "+1981-06-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Ali Khamenei",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": "Gheorghe Gheorghiu-Dej",
+                "matched_answers": [
+                    [
+                        "Gheorghe Gheorghiu-Dej",
+                        "+1961-03-21T00:00:00Z",
+                        "+1965-03-19T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petru Groza",
+                "element": "Romania",
+                "attribute": "President of Romania"
+            },
+            {
+                "prediction": "Nicolae V\u0103c\u0103roiu (1992\u20131996), Ion Iliescu (1996\u20131999)",
+                "matched_answers": [
+                    [
+                        "Nicolae V\u0103c\u0103roiu",
+                        "+1992-11-19T00:00:00Z",
+                        "+1996-12-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Radu Vasile",
+                "element": "Romania",
+                "attribute": "Prime Minister of Romania"
+            },
+            {
+                "prediction": "Yousaf Raza Gillani (2008\u20132012), Raja Pervaiz Ashraf (2012\u20132013), Nawaz Sharif (2013\u20132017)",
+                "matched_answers": [
+                    [
+                        "Nawaz Sharif",
+                        "+2013-06-05T00:00:00Z",
+                        "+2017-07-28T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Imran Khan",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": "Mirek Topol\u00e1nek  \nMirek Topol\u00e1nek  \nJi\u0159\u00ed Rusnok  \nPetr Ne\u010das  \nBohuslav Sobotka  \nAndrej Babi\u0161  \nAndrej Babi\u0161",
+                "matched_answers": [
+                    [
+                        "Mirek Topol\u00e1nek",
+                        "+2006-08-16T00:00:00Z",
+                        "+2009-05-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bohuslav Sobotka",
+                "element": "Czech Republic",
+                "attribute": "Prime Minister of the Czech Republic"
+            }
+        ]
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": "Giorgio Napolitano",
+                "matched_answers": [
+                    [
+                        "Giorgio Napolitano",
+                        "+2006-05-15T00:00:00Z",
+                        "+2015-01-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Giorgio Napolitano",
+                "element": "Italy",
+                "attribute": "President of Italy"
+            },
+            {
+                "prediction": "Barack Obama",
+                "matched_answers": [
+                    [
+                        "Barack Obama",
+                        "+2009-01-20T00:00:00Z",
+                        "+2017-01-20T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Barack Obama",
+                "element": "United States of America",
+                "attribute": "President of the United States"
+            },
+            {
+                "prediction": "Frank-Walter Steinmeier (as President of Germany) and Angela Merkel (as Chancellor of Germany) during Jean Castex's tenure as Prime Minister of France.",
+                "matched_answers": [
+                    [
+                        "Frank-Walter Steinmeier",
+                        "+2017-03-19T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Frank-Walter Steinmeier",
+                "element": "Germany",
+                "attribute": "president of Germany"
+            },
+            {
+                "prediction": "Akihito",
+                "matched_answers": [
+                    [
+                        "Akihito",
+                        "+1989-01-07T00:00:00Z",
+                        "+2019-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Akihito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": "Shinzo Abe",
+                "matched_answers": [
+                    [
+                        "Abe",
+                        "+2012-12-26T00:00:00Z",
+                        "+2020-09-16T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Shinz\u014d Abe",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            },
+            {
+                "prediction": "George VI",
+                "matched_answers": [
+                    [
+                        "George VI",
+                        "+1936-12-11T00:00:00Z",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "George VI",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": "Boris Johnson",
+                "matched_answers": [
+                    [
+                        "Boris Johnson",
+                        "+2019-07-24T00:00:00Z",
+                        "+2022-09-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Boris Johnson",
+                "element": "United Kingdom",
+                "attribute": "Prime Minister of the United Kingdom"
+            },
+            {
+                "prediction": "George V",
+                "matched_answers": [
+                    [
+                        "George V",
+                        "+1910-05-06T00:00:00Z",
+                        "+1936-01-20T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "George V",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": "Justin Trudeau",
+                "matched_answers": [
+                    [
+                        "Justin Trudeau",
+                        "+2015-11-04T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Justin Trudeau",
+                "element": "Canada",
+                "attribute": "Prime Minister of Canada"
+            },
+            {
+                "prediction": "Dmitry Medvedev",
+                "matched_answers": [
+                    [
+                        "Dmitry Medvedev",
+                        "+2008-05-07T00:00:00Z",
+                        "+2012-05-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Dmitry Medvedev",
+                "element": "Russia",
+                "attribute": "President of Russia"
+            },
+            {
+                "prediction": "Vladimir Putin",
+                "matched_answers": [
+                    [
+                        "Vladimir Putin",
+                        "+2008-05-08T00:00:00Z",
+                        "+2012-05-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Vladimir Putin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": "Lee Myung-bak",
+                "matched_answers": [
+                    [
+                        "Lee Myung-bak",
+                        "+2008-02-25T00:00:00Z",
+                        "+2013-02-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Lee Myung-bak",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": "Scott Morrison",
+                "matched_answers": [
+                    [
+                        "Scott Morrison",
+                        "+2018-08-24T00:00:00Z",
+                        "+2022-05-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Scott Morrison",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": "Felipe VI",
+                "matched_answers": [
+                    [
+                        "Felipe VI",
+                        "+2014-06-19T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Felipe VI of Spain",
+                "element": "Spain",
+                "attribute": "Monarch of Spain"
+            },
+            {
+                "prediction": "Pedro S\u00e1nchez",
+                "matched_answers": [
+                    [
+                        "Pedro S\u00e1nchez",
+                        "+2018-06-02T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Pedro S\u00e1nchez",
+                "element": "Spain",
+                "attribute": "Prime Minister of Spain"
+            },
+            {
+                "prediction": "Suharto",
+                "matched_answers": [
+                    [
+                        "Suharto",
+                        "+1967-03-12T00:00:00Z",
+                        "+1998-05-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Suharto",
+                "element": "Indonesia",
+                "attribute": "President of Indonesia"
+            },
+            {
+                "prediction": "B\u00fclent Ecevit (1999-2002) and Abdullah G\u00fcl (2002)",
+                "matched_answers": [
+                    [
+                        "B\u00fclent Ecevit",
+                        "+1999-01-11T00:00:00Z",
+                        "+2002-11-18T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "B\u00fclent Ecevit",
+                "element": "Turkey",
+                "attribute": "Prime Minister of Turkey"
+            },
+            {
+                "prediction": "Abdullah bin Abdulaziz Al Saud",
+                "matched_answers": [
+                    [
+                        "Abdullah",
+                        "+2005-08-01T00:00:00Z",
+                        "+2015-01-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Abdullah of Saudi Arabia",
+                "element": "Saudi Arabia",
+                "attribute": "King of Saudi Arabia"
+            },
+            {
+                "prediction": "Jerzy Buzek",
+                "matched_answers": [
+                    [
+                        "Jerzy Buzek",
+                        "+1997-10-31T00:00:00Z",
+                        "+2001-10-19T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jerzy Buzek",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": "Alberto Fern\u00e1ndez",
+                "matched_answers": [
+                    [
+                        "Alberto Fern\u00e1ndez",
+                        "+2019-12-10T00:00:00Z",
+                        "+2023-12-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alberto Fern\u00e1ndez",
+                "element": "Argentina",
+                "attribute": "President of Argentina"
+            },
+            {
+                "prediction": "Stefan L\u00f6fven",
+                "matched_answers": [
+                    [
+                        "Stefan L\u00f6fven",
+                        "+2014-10-03T00:00:00Z",
+                        "+2021-10-30T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Stefan L\u00f6fven",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": "Mary McAleese",
+                "matched_answers": [
+                    [
+                        "Mary McAleese",
+                        "+1997-11-10T00:00:00Z",
+                        "+2011-11-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mary McAleese",
+                "element": "Ireland",
+                "attribute": "President of Ireland"
+            },
+            {
+                "prediction": "Olav V",
+                "matched_answers": [
+                    [
+                        "Olav V",
+                        "+1957-09-21T00:00:00Z",
+                        "+1991-01-17T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Olav V of Norway",
+                "element": "Norway",
+                "attribute": "Monarch of Norway"
+            },
+            {
+                "prediction": "Erna Solberg",
+                "matched_answers": [
+                    [
+                        "Erna Solberg",
+                        "+2013-10-16T00:00:00Z",
+                        "+2021-10-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Erna Solberg",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": "Werner Faymann",
+                "matched_answers": [
+                    [
+                        "Werner Faymann",
+                        "+2008-12-02T00:00:00Z",
+                        "+2016-05-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Werner Faymann",
+                "element": "Austria",
+                "attribute": "Federal Chancellor of Austria"
+            },
+            {
+                "prediction": "Yitzhak Rabin (1992-1995), followed by Shimon Peres (1995-1996).",
+                "matched_answers": [
+                    [
+                        "Rabin",
+                        "+1992-07-13T00:00:00Z",
+                        "+1995-11-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Yizhak Rabin",
+                "element": "Israel",
+                "attribute": "Prime Minister of Israel"
+            },
+            {
+                "prediction": "Vajiralongkorn (King Rama X)",
+                "matched_answers": [
+                    [
+                        "Vajiralongkorn",
+                        "+2016-12-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Vajiralongkorn",
+                "element": "Thailand",
+                "attribute": "King of Thailand"
+            },
+            {
+                "prediction": "Prayut Chan-o-cha",
+                "matched_answers": [
+                    [
+                        "Prayut Chan-o-cha",
+                        "+2014-05-22T00:00:00Z",
+                        "+2023-08-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Prayut Chan-o-cha",
+                "element": "Thailand",
+                "attribute": "Prime Minister of Thailand"
+            },
+            {
+                "prediction": "Khalifa bin Zayed Al Nahyan",
+                "matched_answers": [
+                    [
+                        "Khalifa bin Zayed Al Nahyan",
+                        "+2004-11-03T00:00:00Z",
+                        "+2022-05-13T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Khalifa bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            },
+            {
+                "prediction": "Abdul Hamid (2013\u20132023) and Sheikh Hasina (2009\u2013present)",
+                "matched_answers": [
+                    [
+                        "Abdul Hamid",
+                        "+2013-04-14T00:00:00Z",
+                        "+2023-04-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Abdul Hamid",
+                "element": "Bangladesh",
+                "attribute": "President of Bangladesh"
+            },
+            {
+                "prediction": "Sheikh Hasina",
+                "matched_answers": [
+                    [
+                        "Sheikh Hasina",
+                        "+2009-01-06T00:00:00Z",
+                        "+2024-08-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sheikh Hasina",
+                "element": "Bangladesh",
+                "attribute": "Prime Minister of Bangladesh"
+            },
+            {
+                "prediction": "Nguy\u1ec5n Xu\u00e2n Ph\u00fac",
+                "matched_answers": [
+                    [
+                        "Nguy\u1ec5n Xu\u00e2n Ph\u00fac",
+                        "+2016-04-07T00:00:00Z",
+                        "+2021-04-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Nguy\u1ec5n Xu\u00e2n Ph\u00fac",
+                "element": "Vietnam",
+                "attribute": "Prime Minister of Vietnam"
+            },
+            {
+                "prediction": "Abdel Fattah el-Sisi",
+                "matched_answers": [
+                    [
+                        "Abdel Fattah el-Sisi",
+                        "+2014-06-08T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Abdel Fattah el-Sisi",
+                "element": "Egypt",
+                "attribute": "President of Egypt"
+            },
+            {
+                "prediction": "Muhammadu Buhari",
+                "matched_answers": [
+                    [
+                        "Muhammadu Buhari",
+                        "+2015-05-29T00:00:00Z",
+                        "+2023-05-29T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Muhammadu Buhari",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": "Ruhollah Khomeini",
+                "matched_answers": [
+                    [
+                        "Ruhollah Khomeini",
+                        "+1979-12-03T00:00:00Z",
+                        "+1989-06-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ruhollah Khomeini",
+                "element": "Iran",
+                "attribute": "Supreme Leader of Iran"
+            },
+            {
+                "prediction": "Patricio Aylwin",
+                "matched_answers": [
+                    [
+                        "Patricio Aylwin",
+                        "+1990-03-11T00:00:00Z",
+                        "+1994-03-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Patricio Aylwin",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": "Arif Alvi",
+                "matched_answers": [
+                    [
+                        "Arif Alvi",
+                        "+2018-09-09T00:00:00Z",
+                        "+2024-03-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Arif Alvi",
+                "element": "Pakistan",
+                "attribute": "President of Pakistan"
+            },
+            {
+                "prediction": "Milo\u0161 Zeman",
+                "matched_answers": [
+                    [
+                        "Milo\u0161 Zeman",
+                        "+2013-03-08T00:00:00Z",
+                        "+2023-03-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milo\u0161 Zeman",
+                "element": "Czech Republic",
+                "attribute": "President of the Czech Republic"
+            },
+            {
+                "prediction": "Sauli Niinist\u00f6",
+                "matched_answers": [
+                    [
+                        "Sauli Niinist\u00f6",
+                        "+2012-03-01T00:00:00Z",
+                        "+2024-03-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sauli Niinist\u00f6",
+                "element": "Finland",
+                "attribute": "President of Finland"
+            },
+            {
+                "prediction": "Juha Sipil\u00e4",
+                "matched_answers": [
+                    [
+                        "Juha Sipil\u00e4",
+                        "+2015-05-29T00:00:00Z",
+                        "+2019-06-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Juha Sipil\u00e4",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            },
+            {
+                "prediction": "Barham Salih (as President) and Mustafa Al-Kadhimi (as Prime Minister).",
+                "matched_answers": [
+                    [
+                        "Barham Salih",
+                        "+2018-10-02T00:00:00Z",
+                        "+2022-10-17T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Barham Salih",
+                "element": "Iraq",
+                "attribute": "President of Iraq"
+            },
+            {
+                "prediction": "Mustafa Al-Kadhimi",
+                "matched_answers": [
+                    [
+                        "Mustafa Al-Kadhimi",
+                        "+2020-05-07T00:00:00Z",
+                        "+2022-10-27T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mustafa Al-Kadhimi",
+                "element": "Iraq",
+                "attribute": "Prime Minister of Iraq"
+            },
+            {
+                "prediction": "An\u00edbal Cavaco Silva",
+                "matched_answers": [
+                    [
+                        "An\u00edbal Cavaco Silva",
+                        "+2006-03-09T00:00:00Z",
+                        "+2016-03-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "An\u00edbal Cavaco Silva",
+                "element": "Portugal",
+                "attribute": "President of Portugal"
+            },
+            {
+                "prediction": "Pedro Passos Coelho",
+                "matched_answers": [
+                    [
+                        "Pedro Passos Coelho",
+                        "+2011-06-21T00:00:00Z",
+                        "+2015-11-26T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Pedro Passos Coelho",
+                "element": "Portugal",
+                "attribute": "Prime Minister of Portugal"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Hu Jintao",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Zhou Enlai",
+                "element": "China",
+                "attribute": "Premier of the People's Republic of China"
+            },
+            {
+                "prediction": "Willem III",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "William III of the Netherlands",
+                "element": "Netherlands",
+                "attribute": "King of the Netherlands"
+            },
+            {
+                "prediction": "Elio Di Rupo",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Charles Michel",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            },
+            {
+                "prediction": "Ong Teng Cheong (1981-1984), Wee Kim Wee (1985-1993), Ong Teng Cheong (1993-1999)",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Halimah Yacob",
+                "element": "Singapore",
+                "attribute": "President of Singapore"
+            },
+            {
+                "prediction": "Frederik IX",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Frederick IX of Denmark",
+                "element": "Denmark",
+                "attribute": "monarch of Denmark"
+            },
+            {
+                "prediction": "Hesham Qandil",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sherif Ismail",
+                "element": "Egypt",
+                "attribute": "Prime Minister of Egypt"
+            },
+            {
+                "prediction": "Thabo Mbeki",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jacob Zuma",
+                "element": "South Africa",
+                "attribute": "President of South Africa"
+            },
+            {
+                "prediction": "Juan Manuel Santos",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Iv\u00e1n Duque",
+                "element": "Colombia",
+                "attribute": "President of Colombia"
+            }
+        ],
+        "other": [
+            {
+                "prediction": "Enrico Letta, Matteo Renzi, Paolo Gentiloni (Enrico Letta served from 28 April 2013 to 22 February 2014, Matteo Renzi from 22 February 2014 to 12 December 2016, and Paolo Gentiloni from 12 December 2016 to 1 June 2018).",
+                "matched_answers": [
+                    [
+                        "Enrico Letta",
+                        "+2013-04-28T00:00:00Z",
+                        "+2014-02-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Matteo Renzi",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": "Jiang Zemin",
+                "matched_answers": [
+                    [
+                        "Jiang",
+                        "+1993-03-27T00:00:00Z",
+                        "+2003-03-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Li Xiannian",
+                "element": "China",
+                "attribute": "President of the People's Republic of China"
+            },
+            {
+                "prediction": "Helmut Schmidt",
+                "matched_answers": [
+                    [
+                        "Helmut Schmidt",
+                        "+1974-05-16T00:00:00Z",
+                        "+1982-10-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ludwig Erhard",
+                "element": "Germany",
+                "attribute": "Federal Chancellor of Germany"
+            },
+            {
+                "prediction": "Pratibha Patil",
+                "matched_answers": [
+                    [
+                        "Pratibha Patil",
+                        "+2007-07-25T00:00:00Z",
+                        "+2012-07-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Pranab Mukherjee",
+                "element": "India",
+                "attribute": "President of India"
+            },
+            {
+                "prediction": "Morarji Desai",
+                "matched_answers": [
+                    [
+                        "Morarji Desai",
+                        "+1977-03-24T00:00:00Z",
+                        "+1979-07-28T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Indira Gandhi",
+                "element": "India",
+                "attribute": "Prime minister of India"
+            },
+            {
+                "prediction": "Val\u00e9ry Giscard d'Estaing",
+                "matched_answers": [
+                    [
+                        "Val\u00e9ry Giscard d'Estaing",
+                        "+1974-05-27T00:00:00Z",
+                        "+1981-05-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ren\u00e9 Coty",
+                "element": "France",
+                "attribute": "President of the French Republic"
+            },
+            {
+                "prediction": "\u00c9douard Philippe (initially), followed by Jean Castex.",
+                "matched_answers": [
+                    [
+                        "\u00c9douard Philippe",
+                        "+2017-05-15T00:00:00Z",
+                        "+2020-07-02T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jean Castex",
+                "element": "France",
+                "attribute": "Prime Minister of France"
+            },
+            {
+                "prediction": "Dilma Rousseff (until August 31, 2016), Michel Temer (from August 31, 2016)",
+                "matched_answers": [
+                    [
+                        "Dilma Rousseff",
+                        "+2011-01-01T00:00:00Z",
+                        "+2016-08-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Michel Temer",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": "Adolfo Ruiz Cortines, Miguel Alem\u00e1n Vald\u00e9s, and Adolfo L\u00f3pez Mateos. (Note: Louis Beel served as Prime Minister of the Netherlands from 1958 to 1959, and during this period, Adolfo Ruiz Cortines (1952-1958), Miguel Alem\u00e1n Vald\u00e9s (1952-1958), and Adolfo L\u00f3pez Mateos (1958-1964) were presidents of Mexico.)",
+                "matched_answers": [
+                    [
+                        "Adolfo Ruiz Cortines",
+                        "+1952-01-01T00:00:00Z",
+                        "+1958-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Miguel Alem\u00e1n Vald\u00e9s",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": "Elizabeth II",
+                "matched_answers": [
+                    [
+                        "Elizabeth II",
+                        "+1952-02-06T00:00:00Z",
+                        "+2022-09-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paul Hasluck",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": "S\u00fcleyman Demirel",
+                "matched_answers": [
+                    [
+                        "S\u00fcleyman Demirel",
+                        "+1993-05-16T00:00:00Z",
+                        "+2000-05-16T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Cemal G\u00fcrsel",
+                "element": "Turkey",
+                "attribute": "President of Turkey"
+            },
+            {
+                "prediction": "Willem Drees Jr.",
+                "matched_answers": [
+                    [
+                        "Willem Drees",
+                        "+1948-08-07T00:00:00Z",
+                        "+1958-12-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Hendrikus Colijn",
+                "element": "Netherlands",
+                "attribute": "Prime Minister of the Netherlands"
+            },
+            {
+                "prediction": "Lech Wa\u0142\u0119sa",
+                "matched_answers": [
+                    [
+                        "Lech Wa\u0142\u0119sa",
+                        "+1990-12-22T00:00:00Z",
+                        "+1995-12-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wojciech Jaruzelski",
+                "element": "Poland",
+                "attribute": "President of the Republic of Poland"
+            },
+            {
+                "prediction": "Albert II and then Philippe.",
+                "matched_answers": [
+                    [
+                        "Albert II",
+                        "+1993-08-09T00:00:00Z",
+                        "+2013-07-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Philippe of Belgium",
+                "element": "Belgium",
+                "attribute": "Monarch of the Belgians"
+            },
+            {
+                "prediction": "Oscar II",
+                "matched_answers": [
+                    [
+                        "Oscar II",
+                        "+1872-09-18T00:00:00Z",
+                        "+1907-12-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Charles XV of Sweden",
+                "element": "Sweden",
+                "attribute": "Monarch of Sweden"
+            },
+            {
+                "prediction": "Adolf Sch\u00e4rf",
+                "matched_answers": [
+                    [
+                        "Adolf Sch\u00e4rf",
+                        "+1957-05-22T00:00:00Z",
+                        "+1965-02-28T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Theodor K\u00f6rner",
+                "element": "Austria",
+                "attribute": "President of Austria"
+            },
+            {
+                "prediction": "Shimon Peres, Moshe Katsav, and Ehud Olmert.",
+                "matched_answers": [
+                    [
+                        "Shimon Peres",
+                        "+2007-07-15T00:00:00Z",
+                        "+2014-07-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Moshe Katsav",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": "Ferdinand Marcos",
+                "matched_answers": [
+                    [
+                        "Ferdinand Marcos",
+                        "+1965-12-30T00:00:00Z",
+                        "+1986-02-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Carlos P. Garcia",
+                "element": "Philippines",
+                "attribute": "President of the Philippines"
+            },
+            {
+                "prediction": "Nguy\u1ec5n Xu\u00e2n Ph\u00fac",
+                "matched_answers": [
+                    [
+                        "Nguy\u1ec5n Xu\u00e2n Ph\u00fac",
+                        "+2021-04-05T00:00:00Z",
+                        "+2023-01-18T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Nguyen Phu Trong",
+                "element": "Vietnam",
+                "attribute": "President of Vietnam"
+            },
+            {
+                "prediction": "Mahathir Mohamad (1981\u20132003) and Tunku Abdul Rahman (1957\u20131970) (as the first Prime Minister)",
+                "matched_answers": [
+                    [
+                        "Mahathir Mohamad",
+                        "+2018-05-10T00:00:00Z",
+                        "+2020-03-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Anwar Ibrahim",
+                "element": "Malaysia",
+                "attribute": "Prime Minister of Malaysia"
+            },
+            {
+                "prediction": "Herman Trier, Carl Theodor Zahle, and Niels Neergaard (multiple terms).",
+                "matched_answers": [
+                    [
+                        "Carl Theodor Zahle",
+                        "+1913-06-21T00:00:00Z",
+                        "+1920-03-30T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Carl Christian Hall",
+                "element": "Denmark",
+                "attribute": "Prime Minister of Denmark"
+            },
+            {
+                "prediction": "Abolhassan Banisadr, Mohammad-Ali Rajai, and Ali Khamenei (in succession).",
+                "matched_answers": [
+                    [
+                        "Banisadr",
+                        "+1980-02-04T00:00:00Z",
+                        "+1981-06-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Ali Khamenei",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": "Gheorghe Gheorghiu-Dej",
+                "matched_answers": [
+                    [
+                        "Gheorghe Gheorghiu-Dej",
+                        "+1961-03-21T00:00:00Z",
+                        "+1965-03-19T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petru Groza",
+                "element": "Romania",
+                "attribute": "President of Romania"
+            },
+            {
+                "prediction": "Nicolae V\u0103c\u0103roiu",
+                "matched_answers": [
+                    [
+                        "Nicolae V\u0103c\u0103roiu",
+                        "+1992-11-19T00:00:00Z",
+                        "+1996-12-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Radu Vasile",
+                "element": "Romania",
+                "attribute": "Prime Minister of Romania"
+            },
+            {
+                "prediction": "Nawaz Sharif, Yousaf Raza Gillani, Raja Pervaiz Ashraf, Mir Hazar Khan Khoso, and Syed Yusuf Raza Gilani (in sequence).",
+                "matched_answers": [
+                    [
+                        "Nawaz Sharif",
+                        "+2013-06-05T00:00:00Z",
+                        "+2017-07-28T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Imran Khan",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": "Mirek Topol\u00e1nek  \nMirek Topol\u00e1nek  \nJi\u0159\u00ed Rusnok  \nPetr Ne\u010das  \nBohuslav Sobotka  \nAndrej Babi\u0161  \nAndrej Babi\u0161",
+                "matched_answers": [
+                    [
+                        "Mirek Topol\u00e1nek",
+                        "+2006-08-16T00:00:00Z",
+                        "+2009-05-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bohuslav Sobotka",
+                "element": "Czech Republic",
+                "attribute": "Prime Minister of the Czech Republic"
+            }
+        ]
+    },
+    "rephrased_3": {
+        "correct": [
+            {
+                "prediction": "Giorgio Napolitano",
+                "matched_answers": [
+                    [
+                        "Giorgio Napolitano",
+                        "+2006-05-15T00:00:00Z",
+                        "+2015-01-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Giorgio Napolitano",
+                "element": "Italy",
+                "attribute": "President of Italy"
+            },
+            {
+                "prediction": "Matteo Renzi",
+                "matched_answers": [
+                    [
+                        "Matteo Renzi",
+                        "+2014-02-22T00:00:00Z",
+                        "+2016-12-12T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Matteo Renzi",
+                "element": "Italy",
+                "attribute": "Prime Minister of Italy"
+            },
+            {
+                "prediction": "Barack Obama",
+                "matched_answers": [
+                    [
+                        "Barack Obama",
+                        "+2009-01-20T00:00:00Z",
+                        "+2017-01-20T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Barack Obama",
+                "element": "United States of America",
+                "attribute": "President of the United States"
+            },
+            {
+                "prediction": "There was no emperor of Japan during Khaleda Zia's tenure as Prime Minister of Bangladesh, as Japan does not have an emperor in the traditional sense. The reigning emperor during her terms (1991-1996 and 2001-2006) was Akihito.",
+                "matched_answers": [
+                    [
+                        "Akihito",
+                        "+1989-01-07T00:00:00Z",
+                        "+2019-05-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Akihito",
+                "element": "Japan",
+                "attribute": "Emperor of Japan"
+            },
+            {
+                "prediction": "Shinzo Abe",
+                "matched_answers": [
+                    [
+                        "Abe",
+                        "+2012-12-26T00:00:00Z",
+                        "+2020-09-16T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Shinz\u014d Abe",
+                "element": "Japan",
+                "attribute": "Prime Minister of Japan"
+            },
+            {
+                "prediction": "George VI",
+                "matched_answers": [
+                    [
+                        "George VI",
+                        "+1936-12-11T00:00:00Z",
+                        "+1952-02-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "George VI",
+                "element": "United Kingdom",
+                "attribute": "monarch of the United Kingdom"
+            },
+            {
+                "prediction": "Boris Johnson",
+                "matched_answers": [
+                    [
+                        "Boris Johnson",
+                        "+2019-07-24T00:00:00Z",
+                        "+2022-09-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Boris Johnson",
+                "element": "United Kingdom",
+                "attribute": "Prime Minister of the United Kingdom"
+            },
+            {
+                "prediction": "Ren\u00e9 Coty",
+                "matched_answers": [
+                    [
+                        "Ren\u00e9 Coty",
+                        "+1954-01-16T00:00:00Z",
+                        "+1959-01-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ren\u00e9 Coty",
+                "element": "France",
+                "attribute": "President of the French Republic"
+            },
+            {
+                "prediction": "George V",
+                "matched_answers": [
+                    [
+                        "George V",
+                        "+1910-05-06T00:00:00Z",
+                        "+1936-01-20T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "George V",
+                "element": "Canada",
+                "attribute": "monarch of Canada"
+            },
+            {
+                "prediction": "Justin Trudeau",
+                "matched_answers": [
+                    [
+                        "Justin Trudeau",
+                        "+2015-11-04T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Justin Trudeau",
+                "element": "Canada",
+                "attribute": "Prime Minister of Canada"
+            },
+            {
+                "prediction": "Dmitry Medvedev",
+                "matched_answers": [
+                    [
+                        "Dmitry Medvedev",
+                        "+2008-05-07T00:00:00Z",
+                        "+2012-05-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Dmitry Medvedev",
+                "element": "Russia",
+                "attribute": "President of Russia"
+            },
+            {
+                "prediction": "Vladimir Putin",
+                "matched_answers": [
+                    [
+                        "Vladimir Putin",
+                        "+2008-05-08T00:00:00Z",
+                        "+2012-05-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Vladimir Putin",
+                "element": "Russia",
+                "attribute": "Prime Minister of Russia"
+            },
+            {
+                "prediction": "Lee Myung-bak",
+                "matched_answers": [
+                    [
+                        "Lee Myung-bak",
+                        "+2008-02-25T00:00:00Z",
+                        "+2013-02-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Lee Myung-bak",
+                "element": "South Korea",
+                "attribute": "President of South Korea"
+            },
+            {
+                "prediction": "Scott Morrison",
+                "matched_answers": [
+                    [
+                        "Scott Morrison",
+                        "+2018-08-24T00:00:00Z",
+                        "+2022-05-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Scott Morrison",
+                "element": "Australia",
+                "attribute": "Prime Minister of Australia"
+            },
+            {
+                "prediction": "Felipe VI",
+                "matched_answers": [
+                    [
+                        "Felipe VI",
+                        "+2014-06-19T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Felipe VI of Spain",
+                "element": "Spain",
+                "attribute": "Monarch of Spain"
+            },
+            {
+                "prediction": "Pedro S\u00e1nchez",
+                "matched_answers": [
+                    [
+                        "Pedro S\u00e1nchez",
+                        "+2018-06-02T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Pedro S\u00e1nchez",
+                "element": "Spain",
+                "attribute": "Prime Minister of Spain"
+            },
+            {
+                "prediction": "Suharto",
+                "matched_answers": [
+                    [
+                        "Suharto",
+                        "+1967-03-12T00:00:00Z",
+                        "+1998-05-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Suharto",
+                "element": "Indonesia",
+                "attribute": "President of Indonesia"
+            },
+            {
+                "prediction": "Cemal G\u00fcrsel, Cevdet Sunay, Fahri Korut\u00fcrk, Kenan Evren, Turgut \u00d6zal, S\u00fcleyman Demirel, Ahmet Necdet Sezer, Abdullah G\u00fcl, and then Recep Tayyip Erdo\u011fan.",
+                "matched_answers": [
+                    [
+                        "Cemal G\u00fcrsel",
+                        "+1960-05-27T00:00:00Z",
+                        "+1966-02-02T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Cemal G\u00fcrsel",
+                "element": "Turkey",
+                "attribute": "President of Turkey"
+            },
+            {
+                "prediction": "B\u00fclent Ecevit (1999-2002) and Abdullah G\u00fcl (2002)",
+                "matched_answers": [
+                    [
+                        "B\u00fclent Ecevit",
+                        "+1999-01-11T00:00:00Z",
+                        "+2002-11-18T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "B\u00fclent Ecevit",
+                "element": "Turkey",
+                "attribute": "Prime Minister of Turkey"
+            },
+            {
+                "prediction": "Abdullah bin Abdulaziz Al Saud",
+                "matched_answers": [
+                    [
+                        "Abdullah",
+                        "+2005-08-01T00:00:00Z",
+                        "+2015-01-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Abdullah of Saudi Arabia",
+                "element": "Saudi Arabia",
+                "attribute": "King of Saudi Arabia"
+            },
+            {
+                "prediction": "Jerzy Buzek",
+                "matched_answers": [
+                    [
+                        "Jerzy Buzek",
+                        "+1997-10-31T00:00:00Z",
+                        "+2001-10-19T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jerzy Buzek",
+                "element": "Poland",
+                "attribute": "Prime Minister of Poland"
+            },
+            {
+                "prediction": "Charles Michel",
+                "matched_answers": [
+                    [
+                        "Charles Michel",
+                        "+2014-10-11T00:00:00Z",
+                        "+2019-10-27T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Charles Michel",
+                "element": "Belgium",
+                "attribute": "Prime Minister of Belgium"
+            },
+            {
+                "prediction": "Alberto Fern\u00e1ndez",
+                "matched_answers": [
+                    [
+                        "Alberto Fern\u00e1ndez",
+                        "+2019-12-10T00:00:00Z",
+                        "+2023-12-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alberto Fern\u00e1ndez",
+                "element": "Argentina",
+                "attribute": "President of Argentina"
+            },
+            {
+                "prediction": "Mary McAleese",
+                "matched_answers": [
+                    [
+                        "Mary McAleese",
+                        "+1997-11-10T00:00:00Z",
+                        "+2011-11-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mary McAleese",
+                "element": "Ireland",
+                "attribute": "President of Ireland"
+            },
+            {
+                "prediction": "Erna Solberg",
+                "matched_answers": [
+                    [
+                        "Erna Solberg",
+                        "+2013-10-16T00:00:00Z",
+                        "+2021-10-14T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Erna Solberg",
+                "element": "Norway",
+                "attribute": "Prime Minister of Norway"
+            },
+            {
+                "prediction": "Werner Faymann",
+                "matched_answers": [
+                    [
+                        "Werner Faymann",
+                        "+2008-12-02T00:00:00Z",
+                        "+2016-05-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Werner Faymann",
+                "element": "Austria",
+                "attribute": "Federal Chancellor of Austria"
+            },
+            {
+                "prediction": "There was no prime minister of Israel during Itamar Franco's presidency from 1992 to 1994, as Israel does not have a prime ministerial system. Instead, it has a prime minister. The prime ministers during that period were Yitzhak Rabin (until 1995) and Shimon Peres (1995-1996).",
+                "matched_answers": [
+                    [
+                        "Rabin",
+                        "+1992-07-13T00:00:00Z",
+                        "+1995-11-04T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Yizhak Rabin",
+                "element": "Israel",
+                "attribute": "Prime Minister of Israel"
+            },
+            {
+                "prediction": "Maha Vajiralongkorn (Rama X)",
+                "matched_answers": [
+                    [
+                        "Vajiralongkorn",
+                        "+2016-12-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Vajiralongkorn",
+                "element": "Thailand",
+                "attribute": "King of Thailand"
+            },
+            {
+                "prediction": "Prayut Chan-o-cha",
+                "matched_answers": [
+                    [
+                        "Prayut Chan-o-cha",
+                        "+2014-05-22T00:00:00Z",
+                        "+2023-08-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Prayut Chan-o-cha",
+                "element": "Thailand",
+                "attribute": "Prime Minister of Thailand"
+            },
+            {
+                "prediction": "Khalifa bin Zayed Al Nahyan",
+                "matched_answers": [
+                    [
+                        "Khalifa bin Zayed Al Nahyan",
+                        "+2004-11-03T00:00:00Z",
+                        "+2022-05-13T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Khalifa bin Zayed Al Nahyan",
+                "element": "United Arab Emirates",
+                "attribute": "President of the United Arab Emirates"
+            },
+            {
+                "prediction": "Abdul Hamid (2013-2024) and Sheikh Hasina (2009-2024)",
+                "matched_answers": [
+                    [
+                        "Abdul Hamid",
+                        "+2013-04-14T00:00:00Z",
+                        "+2023-04-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Abdul Hamid",
+                "element": "Bangladesh",
+                "attribute": "President of Bangladesh"
+            },
+            {
+                "prediction": "Sheikh Hasina (2009-2014) and Khaleda Zia (2001-2006, 2009-2014)",
+                "matched_answers": [
+                    [
+                        "Sheikh Hasina",
+                        "+2009-01-06T00:00:00Z",
+                        "+2024-08-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sheikh Hasina",
+                "element": "Bangladesh",
+                "attribute": "Prime Minister of Bangladesh"
+            },
+            {
+                "prediction": "Nguy\u1ec5n Xu\u00e2n Ph\u00fac",
+                "matched_answers": [
+                    [
+                        "Nguy\u1ec5n Xu\u00e2n Ph\u00fac",
+                        "+2016-04-07T00:00:00Z",
+                        "+2021-04-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Nguy\u1ec5n Xu\u00e2n Ph\u00fac",
+                "element": "Vietnam",
+                "attribute": "Prime Minister of Vietnam"
+            },
+            {
+                "prediction": "Abdel Fattah el-Sisi",
+                "matched_answers": [
+                    [
+                        "Abdel Fattah el-Sisi",
+                        "+2014-06-08T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Abdel Fattah el-Sisi",
+                "element": "Egypt",
+                "attribute": "President of Egypt"
+            },
+            {
+                "prediction": "Muhammadu Buhari (May 29, 2015 \u2013 May 29, 2023)",
+                "matched_answers": [
+                    [
+                        "Muhammadu Buhari",
+                        "+2015-05-29T00:00:00Z",
+                        "+2023-05-29T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Muhammadu Buhari",
+                "element": "Nigeria",
+                "attribute": "President of Nigeria"
+            },
+            {
+                "prediction": "Ruhollah Khomeini",
+                "matched_answers": [
+                    [
+                        "Ruhollah Khomeini",
+                        "+1979-12-03T00:00:00Z",
+                        "+1989-06-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ruhollah Khomeini",
+                "element": "Iran",
+                "attribute": "Supreme Leader of Iran"
+            },
+            {
+                "prediction": "Ali Khamenei (as Supreme Leader, since the position of President was held by Akbar Hashemi Rafsanjani during part of Zail Singh's presidency).",
+                "matched_answers": [
+                    [
+                        "Ali Khamenei",
+                        "+1981-10-13T00:00:00Z",
+                        "+1989-08-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ali Khamenei",
+                "element": "Iran",
+                "attribute": "President of Iran"
+            },
+            {
+                "prediction": "Ivan Duque Marquez",
+                "matched_answers": [
+                    [
+                        "Duque",
+                        "+2018-08-07T00:00:00Z",
+                        "+2022-08-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Iv\u00e1n Duque",
+                "element": "Colombia",
+                "attribute": "President of Colombia"
+            },
+            {
+                "prediction": "Patricio Aylwin",
+                "matched_answers": [
+                    [
+                        "Patricio Aylwin",
+                        "+1990-03-11T00:00:00Z",
+                        "+1994-03-11T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Patricio Aylwin",
+                "element": "Chile",
+                "attribute": "President of Chile"
+            },
+            {
+                "prediction": "Arif Alvi",
+                "matched_answers": [
+                    [
+                        "Arif Alvi",
+                        "+2018-09-09T00:00:00Z",
+                        "+2024-03-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Arif Alvi",
+                "element": "Pakistan",
+                "attribute": "President of Pakistan"
+            },
+            {
+                "prediction": "Imran Khan (2022-2023)",
+                "matched_answers": [
+                    [
+                        "Imran Khan",
+                        "+2018-08-18T00:00:00Z",
+                        "+2022-04-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Imran Khan",
+                "element": "Pakistan",
+                "attribute": "Prime Minister of Pakistan"
+            },
+            {
+                "prediction": "Milo\u0161 Zeman",
+                "matched_answers": [
+                    [
+                        "Milo\u0161 Zeman",
+                        "+2013-03-08T00:00:00Z",
+                        "+2023-03-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Milo\u0161 Zeman",
+                "element": "Czech Republic",
+                "attribute": "President of the Czech Republic"
+            },
+            {
+                "prediction": "Bohuslav Sobotka (2014-2017)  \nAndrej Babi\u0161 (2017-2018)",
+                "matched_answers": [
+                    [
+                        "Bohuslav Sobotka",
+                        "+2014-01-29T00:00:00Z",
+                        "+2017-12-13T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bohuslav Sobotka",
+                "element": "Czech Republic",
+                "attribute": "Prime Minister of the Czech Republic"
+            },
+            {
+                "prediction": "Sauli Niinist\u00f6",
+                "matched_answers": [
+                    [
+                        "Sauli Niinist\u00f6",
+                        "+2012-03-01T00:00:00Z",
+                        "+2024-03-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sauli Niinist\u00f6",
+                "element": "Finland",
+                "attribute": "President of Finland"
+            },
+            {
+                "prediction": "Juha Sipil\u00e4",
+                "matched_answers": [
+                    [
+                        "Juha Sipil\u00e4",
+                        "+2015-05-29T00:00:00Z",
+                        "+2019-06-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Juha Sipil\u00e4",
+                "element": "Finland",
+                "attribute": "Prime Minister of Finland"
+            },
+            {
+                "prediction": "Barham Salih",
+                "matched_answers": [
+                    [
+                        "Barham Salih",
+                        "+2018-10-02T00:00:00Z",
+                        "+2022-10-17T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Barham Salih",
+                "element": "Iraq",
+                "attribute": "President of Iraq"
+            },
+            {
+                "prediction": "An\u00edbal Cavaco Silva (2006-2016) and An\u00edbal Cavaco Silva (2016-2016)",
+                "matched_answers": [
+                    [
+                        "An\u00edbal Cavaco Silva",
+                        "+2006-03-09T00:00:00Z",
+                        "+2016-03-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "An\u00edbal Cavaco Silva",
+                "element": "Portugal",
+                "attribute": "President of Portugal"
+            },
+            {
+                "prediction": "Pedro Passos Coelho",
+                "matched_answers": [
+                    [
+                        "Pedro Passos Coelho",
+                        "+2011-06-21T00:00:00Z",
+                        "+2015-11-26T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Pedro Passos Coelho",
+                "element": "Portugal",
+                "attribute": "Prime Minister of Portugal"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Olaf Scholz",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Frank-Walter Steinmeier",
+                "element": "Germany",
+                "attribute": "president of Germany"
+            },
+            {
+                "prediction": "Emmanuel Macron",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jean Castex",
+                "element": "France",
+                "attribute": "Prime Minister of France"
+            },
+            {
+                "prediction": "Australia does not have a monarch; it is a constitutional monarchy with the British monarch as the head of state.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Paul Hasluck",
+                "element": "Australia",
+                "attribute": "monarch of Australia"
+            },
+            {
+                "prediction": "Willem III",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "William III of the Netherlands",
+                "element": "Netherlands",
+                "attribute": "King of the Netherlands"
+            },
+            {
+                "prediction": "Ong Teng Cheong (1993-1999), Ong Keng Yong (1999-2005)",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Halimah Yacob",
+                "element": "Singapore",
+                "attribute": "President of Singapore"
+            },
+            {
+                "prediction": "Frederik IX",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Frederick IX of Denmark",
+                "element": "Denmark",
+                "attribute": "monarch of Denmark"
+            },
+            {
+                "prediction": "Thabo Mbeki",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Jacob Zuma",
+                "element": "South Africa",
+                "attribute": "President of South Africa"
+            },
+            {
+                "prediction": "There was no Prime Minister of Iraq during Naftali Bennett's tenure as Prime Minister of Israel (2021-2022).",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Mustafa Al-Kadhimi",
+                "element": "Iraq",
+                "attribute": "Prime Minister of Iraq"
+            }
+        ],
+        "other": [
+            {
+                "prediction": "Jiang Zemin",
+                "matched_answers": [
+                    [
+                        "Jiang",
+                        "+1993-03-27T00:00:00Z",
+                        "+2003-03-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Li Xiannian",
+                "element": "China",
+                "attribute": "President of the People's Republic of China"
+            },
+            {
+                "prediction": "Wen Jiabao",
+                "matched_answers": [
+                    [
+                        "Wen Jiabao",
+                        "+2003-03-16T00:00:00Z",
+                        "+2013-03-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Zhou Enlai",
+                "element": "China",
+                "attribute": "Premier of the People's Republic of China"
+            },
+            {
+                "prediction": "Helmut Kohl (1989-1998)  \nHelmut Schmidt (1974-1982)",
+                "matched_answers": [
+                    [
+                        "Helmut Kohl",
+                        "+1982-10-04T00:00:00Z",
+                        "+1998-10-26T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ludwig Erhard",
+                "element": "Germany",
+                "attribute": "Federal Chancellor of Germany"
+            },
+            {
+                "prediction": "Pratibha Patil (2007-2012), followed by Pranab Mukherjee (2012-2017).",
+                "matched_answers": [
+                    [
+                        "Pratibha Patil",
+                        "+2007-07-25T00:00:00Z",
+                        "+2012-07-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Pranab Mukherjee",
+                "element": "India",
+                "attribute": "President of India"
+            },
+            {
+                "prediction": "Rajiv Gandhi",
+                "matched_answers": [
+                    [
+                        "Rajiv Gandhi",
+                        "+1984-10-31T00:00:00Z",
+                        "+1989-12-02T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Indira Gandhi",
+                "element": "India",
+                "attribute": "Prime minister of India"
+            },
+            {
+                "prediction": "Dilma Rousseff (until January 1, 2019), Michel Temer (from January 1, 2019)",
+                "matched_answers": [
+                    [
+                        "Dilma Rousseff",
+                        "+2011-01-01T00:00:00Z",
+                        "+2016-08-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Michel Temer",
+                "element": "Brazil",
+                "attribute": "President of Brazil"
+            },
+            {
+                "prediction": "Adolfo Ruiz Cortines, Adolfo L\u00f3pez Mateos. (Note: Louis Beel served as Prime Minister of the Netherlands from 1946-1948 and 1958-1959, and during these periods, Adolfo Ruiz Cortines (1952-1958) and Adolfo L\u00f3pez Mateos (1958-1964) were the presidents of Mexico.)",
+                "matched_answers": [
+                    [
+                        "Adolfo Ruiz Cortines",
+                        "+1952-01-01T00:00:00Z",
+                        "+1958-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Miguel Alem\u00e1n Vald\u00e9s",
+                "element": "Mexico",
+                "attribute": "President of Mexico"
+            },
+            {
+                "prediction": "Willem Drees Jr.",
+                "matched_answers": [
+                    [
+                        "Willem Drees",
+                        "+1948-08-07T00:00:00Z",
+                        "+1958-12-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Hendrikus Colijn",
+                "element": "Netherlands",
+                "attribute": "Prime Minister of the Netherlands"
+            },
+            {
+                "prediction": "Lech Wa\u0142\u0119sa",
+                "matched_answers": [
+                    [
+                        "Lech Wa\u0142\u0119sa",
+                        "+1990-12-22T00:00:00Z",
+                        "+1995-12-22T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Wojciech Jaruzelski",
+                "element": "Poland",
+                "attribute": "President of the Republic of Poland"
+            },
+            {
+                "prediction": "Albert II",
+                "matched_answers": [
+                    [
+                        "Albert II",
+                        "+1993-08-09T00:00:00Z",
+                        "+2013-07-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Philippe of Belgium",
+                "element": "Belgium",
+                "attribute": "Monarch of the Belgians"
+            },
+            {
+                "prediction": "Oscar II",
+                "matched_answers": [
+                    [
+                        "Oscar II",
+                        "+1872-09-18T00:00:00Z",
+                        "+1907-12-08T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Charles XV of Sweden",
+                "element": "Sweden",
+                "attribute": "Monarch of Sweden"
+            },
+            {
+                "prediction": "Ulf Kristersson (2022\u2013present) and Magdalena Andersson (2021\u20132022)",
+                "matched_answers": [
+                    [
+                        "Ulf Kristersson",
+                        "+2022-10-18T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Stefan L\u00f6fven",
+                "element": "Sweden",
+                "attribute": "Prime Minister of Sweden"
+            },
+            {
+                "prediction": "Harald V",
+                "matched_answers": [
+                    [
+                        "Harald V",
+                        "+1991-01-17T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Olav V of Norway",
+                "element": "Norway",
+                "attribute": "Monarch of Norway"
+            },
+            {
+                "prediction": "Adolf Sch\u00e4rf (1957-1965), then Franz Jonas (1965-1974).",
+                "matched_answers": [
+                    [
+                        "Adolf Sch\u00e4rf",
+                        "+1957-05-22T00:00:00Z",
+                        "+1965-02-28T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Theodor K\u00f6rner",
+                "element": "Austria",
+                "attribute": "President of Austria"
+            },
+            {
+                "prediction": "Shimon Peres (2007-2008) and Dalia Itzik (2007, acting)",
+                "matched_answers": [
+                    [
+                        "Shimon Peres",
+                        "+2007-07-15T00:00:00Z",
+                        "+2014-07-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Moshe Katsav",
+                "element": "Israel",
+                "attribute": "President of Israel"
+            },
+            {
+                "prediction": "Ferdinand Marcos Jr.",
+                "matched_answers": [
+                    [
+                        "Ferdinand Marcos",
+                        "+1965-12-30T00:00:00Z",
+                        "+1986-02-25T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Carlos P. Garcia",
+                "element": "Philippines",
+                "attribute": "President of the Philippines"
+            },
+            {
+                "prediction": "Nguy\u1ec5n Xu\u00e2n Ph\u00fac",
+                "matched_answers": [
+                    [
+                        "Nguy\u1ec5n Xu\u00e2n Ph\u00fac",
+                        "+2021-04-05T00:00:00Z",
+                        "+2023-01-18T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Nguyen Phu Trong",
+                "element": "Vietnam",
+                "attribute": "President of Vietnam"
+            },
+            {
+                "prediction": "Ismail Sabri Yaakob",
+                "matched_answers": [
+                    [
+                        "Ismail Sabri Yaakob",
+                        "+2021-08-21T00:00:00Z",
+                        "+2022-11-24T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Anwar Ibrahim",
+                "element": "Malaysia",
+                "attribute": "Prime Minister of Malaysia"
+            },
+            {
+                "prediction": "J.C. Christensen (1868-1870), L. K. Skak (1870), J. C. Deuntzer (1871-1874), J. P. Steen (1874-1875), J. C. Christensen (1875-1878), J. P. Steen (1878-1880), J. C. Christensen (1880-1881), J. P. Steen (1881-1883), J. C. Christensen (1883-1884), J. P. Steen (1884-1887), J",
+                "matched_answers": [
+                    [
+                        "Christensen",
+                        "+1905-01-14T00:00:00Z",
+                        "+1908-10-12T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Carl Christian Hall",
+                "element": "Denmark",
+                "attribute": "Prime Minister of Denmark"
+            },
+            {
+                "prediction": "Mustafa Madbouly (as of October 2018, when Beata Szyd\u0142o was Prime Minister of Poland)",
+                "matched_answers": [
+                    [
+                        "Madbouly",
+                        "+2018-06-14T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Sherif Ismail",
+                "element": "Egypt",
+                "attribute": "Prime Minister of Egypt"
+            },
+            {
+                "prediction": "Gheorghe Gheorghiu-Dej",
+                "matched_answers": [
+                    [
+                        "Gheorghe Gheorghiu-Dej",
+                        "+1961-03-21T00:00:00Z",
+                        "+1965-03-19T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Petru Groza",
+                "element": "Romania",
+                "attribute": "President of Romania"
+            },
+            {
+                "prediction": "Victor Ciorbea (1996-1998), Radu Vasile (1998)",
+                "matched_answers": [
+                    [
+                        "Victor Ciorbea",
+                        "+1996-12-12T00:00:00Z",
+                        "+1998-04-17T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Radu Vasile",
+                "element": "Romania",
+                "attribute": "Prime Minister of Romania"
+            }
+        ]
+    }
+}

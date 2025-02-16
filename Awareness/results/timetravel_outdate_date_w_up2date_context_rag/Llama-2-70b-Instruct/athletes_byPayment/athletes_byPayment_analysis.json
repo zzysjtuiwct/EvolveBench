@@ -1,0 +1,1694 @@
+{
+    "generic": {
+        "match_contemporary_answer": [
+            {
+                "prediction": "Cleveland Cavaliers",
+                "matched_answers": [
+                    [
+                        "Cleveland Cavaliers",
+                        "+2014-06-25T00:00:00Z",
+                        "+2018-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Cleveland Cavaliers",
+                "context_answer": "Los Angeles Lakers",
+                "element": "LeBron James",
+                "attribute": null
+            },
+            {
+                "prediction": "Portland Trail Blazers",
+                "matched_answers": [
+                    [
+                        "Portland Trail Blazers",
+                        "+2012-07-13T00:00:00Z",
+                        "+2023-09-27T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Portland Trail Blazers",
+                "context_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": "The current team of Paul George is the Indiana Pacers.",
+                "matched_answers": [
+                    [
+                        "Indiana Pacers",
+                        "+2010-06-24T00:00:00Z",
+                        "+2017-06-30T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Indiana Pacers",
+                "context_answer": "Philadelphia 76ers",
+                "element": "Paul George",
+                "attribute": null
+            },
+            {
+                "prediction": "The current team of Carlos Sainz Jr. is McLaren.",
+                "matched_answers": [
+                    [
+                        "McLaren",
+                        "+2019-01-01T00:00:00Z",
+                        "+2020-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "McLaren",
+                "context_answer": "Scuderia Ferrari",
+                "element": "Carlos Sainz Jr.",
+                "attribute": null
+            }
+        ],
+        "match_futre_answer": [
+            {
+                "prediction": "Golden State Warriors",
+                "matched_answers": [
+                    [
+                        "Golden State Warriors",
+                        "+2009-06-25T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Davidson Wildcats men's basketball",
+                "context_answer": "Golden State Warriors",
+                "element": "Stephen Curry",
+                "attribute": null
+            },
+            {
+                "prediction": "Answer: Denver Nuggets",
+                "matched_answers": [
+                    [
+                        "Denver Nuggets",
+                        "+2015-07-28T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "KK Mega Basket",
+                "context_answer": "Denver Nuggets",
+                "element": "Nikola Jokic",
+                "attribute": null
+            },
+            {
+                "prediction": "Milwaukee Bucks",
+                "matched_answers": [
+                    [
+                        "Milwaukee Bucks",
+                        "+2013-07-30T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Filathlitikos B.C.",
+                "context_answer": "Milwaukee Bucks",
+                "element": "Giannis Antetokounmpo",
+                "attribute": null
+            },
+            {
+                "prediction": "Red Bull Racing",
+                "matched_answers": [
+                    [
+                        "Red Bull Racing",
+                        "+2016-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Van Amersfoort Racing",
+                "context_answer": "Red Bull Racing",
+                "element": "Max Verstappen",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Not applicable. Kylian Mbapp\u00e9 is a soccer player and not a professional wrestler, so he does not have a team in the context of the given information.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Paris Saint-Germain F.C.",
+                "context_answer": "Real Madrid",
+                "element": "Kylian Mbapp\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": "Illes Balears",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "FC Bayern Munich",
+                "context_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": "Los Angeles Chargers",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Golden State Warriors",
+                "context_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": "Crawley Town",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Washington Wizards",
+                "context_answer": "Phoenix Suns",
+                "element": "Bradley Beal",
+                "attribute": null
+            },
+            {
+                "prediction": "Avtodor Saratov",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Toronto Raptors",
+                "context_answer": "Los Angeles Clippers",
+                "element": "Kawhi Leonard",
+                "attribute": null
+            },
+            {
+                "prediction": "Boca Juniors",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Renault F1 Team",
+                "context_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            },
+            {
+                "prediction": "Manta",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Racing Point F1 Team",
+                "context_answer": "Red Bull Racing",
+                "element": "Sergio P\u00e9rez",
+                "attribute": null
+            },
+            {
+                "prediction": "AS \u00celienne Amateurs",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Red Bull Racing",
+                "context_answer": "Alpine F1 Team",
+                "element": "Pierre Gasly",
+                "attribute": null
+            }
+        ],
+        "match_other_answer": [
+            {
+                "prediction": "Juventus",
+                "matched_answers": [
+                    [
+                        "Juventus",
+                        "+2018-07-10T00:00:00Z",
+                        "+2021-08-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "Juventus FC",
+                "context_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": "Barcelona",
+                "matched_answers": [
+                    [
+                        "Barcelona",
+                        "+2004-03-05T00:00:00Z",
+                        "+2021-08-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "FC Barcelona",
+                "context_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": "Barcelona",
+                "matched_answers": [
+                    [
+                        "Barcelona",
+                        "+2013-07-01T00:00:00Z",
+                        "+2017-08-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "FC Barcelona",
+                "context_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": "Real Madrid",
+                "matched_answers": [
+                    [
+                        "Real Madrid",
+                        "+2009-07-09T00:00:00Z",
+                        "+2023-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "Olympique Lyonnais",
+                "context_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": "The current team of Erling Haaland is Borussia Dortmund.",
+                "matched_answers": [
+                    [
+                        "Borussia Dortmund",
+                        "+2020-01-01T00:00:00Z",
+                        "+2022-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "FC Red Bull Salzburg",
+                "context_answer": "Manchester City F.C.",
+                "element": "Erling Haaland",
+                "attribute": null
+            },
+            {
+                "prediction": "Liverpool",
+                "matched_answers": [
+                    [
+                        "Liverpool",
+                        "+2017-07-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "FC Basel",
+                "context_answer": "Liverpool F.C.",
+                "element": "Mohamed Salah",
+                "attribute": null
+            },
+            {
+                "prediction": "The current team of Kevin De Bruyne is Manchester City.",
+                "matched_answers": [
+                    [
+                        "Manchester City",
+                        "+2015-08-30T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "SV Werder Bremen",
+                "context_answer": "Manchester City F.C.",
+                "element": "Kevin De Bruyne",
+                "attribute": null
+            },
+            {
+                "prediction": "Tottenham Hotspur",
+                "matched_answers": [
+                    [
+                        "Tottenham Hotspur",
+                        "+2013-05-14T00:00:00Z",
+                        "+2013-08-12T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "Leicester City",
+                "context_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": "Mercedes-AMG Petronas",
+                "matched_answers": [
+                    [
+                        "Mercedes",
+                        "+2013-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "McLaren",
+                "context_answer": "Mercedes F1 Team",
+                "element": "Lewis Hamilton",
+                "attribute": null
+            },
+            {
+                "prediction": "The current team of Charles Leclerc is Ferrari.",
+                "matched_answers": [
+                    [
+                        "Ferrari",
+                        "+2019-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "Sauber",
+                "context_answer": "Scuderia Ferrari",
+                "element": "Charles Leclerc",
+                "attribute": null
+            },
+            {
+                "prediction": "The current team of George Russell is Mercedes-AMG Petronas.",
+                "matched_answers": [
+                    [
+                        "Mercedes",
+                        "+2022-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "Williams Racing",
+                "context_answer": "Mercedes F1 Team",
+                "element": "George Russell",
+                "attribute": null
+            }
+        ]
+    },
+    "rephrased_1": {
+        "match_contemporary_answer": [
+            {
+                "prediction": "Cleveland Cavaliers",
+                "matched_answers": [
+                    [
+                        "Cleveland Cavaliers",
+                        "+2014-06-25T00:00:00Z",
+                        "+2018-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Cleveland Cavaliers",
+                "context_answer": "Los Angeles Lakers",
+                "element": "LeBron James",
+                "attribute": null
+            },
+            {
+                "prediction": "Washington Wizards",
+                "matched_answers": [
+                    [
+                        "Washington Wizards",
+                        "+2012-06-28T00:00:00Z",
+                        "+2023-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Washington Wizards",
+                "context_answer": "Phoenix Suns",
+                "element": "Bradley Beal",
+                "attribute": null
+            },
+            {
+                "prediction": "Portland Trail Blazers",
+                "matched_answers": [
+                    [
+                        "Portland Trail Blazers",
+                        "+2012-07-13T00:00:00Z",
+                        "+2023-09-27T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Portland Trail Blazers",
+                "context_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": "Toronto Raptors",
+                "matched_answers": [
+                    [
+                        "Toronto Raptors",
+                        "+2018-07-18T00:00:00Z",
+                        "+2019-07-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Toronto Raptors",
+                "context_answer": "Los Angeles Clippers",
+                "element": "Kawhi Leonard",
+                "attribute": null
+            },
+            {
+                "prediction": "Indiana Pacers",
+                "matched_answers": [
+                    [
+                        "Indiana Pacers",
+                        "+2010-06-24T00:00:00Z",
+                        "+2017-06-30T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Indiana Pacers",
+                "context_answer": "Philadelphia 76ers",
+                "element": "Paul George",
+                "attribute": null
+            },
+            {
+                "prediction": "McLaren",
+                "matched_answers": [
+                    [
+                        "McLaren",
+                        "+2007-01-01T00:00:00Z",
+                        "+2012-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "McLaren",
+                "context_answer": "Mercedes F1 Team",
+                "element": "Lewis Hamilton",
+                "attribute": null
+            },
+            {
+                "prediction": "McLaren",
+                "matched_answers": [
+                    [
+                        "McLaren",
+                        "+2019-01-01T00:00:00Z",
+                        "+2020-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "McLaren",
+                "context_answer": "Scuderia Ferrari",
+                "element": "Carlos Sainz Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": "Red Bull Racing",
+                "matched_answers": [
+                    [
+                        "Red Bull Racing",
+                        "+2019-01-01T00:00:00Z",
+                        "+2019-08-12T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Red Bull Racing",
+                "context_answer": "Alpine F1 Team",
+                "element": "Pierre Gasly",
+                "attribute": null
+            }
+        ],
+        "match_futre_answer": [
+            {
+                "prediction": "Golden State Warriors",
+                "matched_answers": [
+                    [
+                        "Golden State Warriors",
+                        "+2009-06-25T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Davidson Wildcats men's basketball",
+                "context_answer": "Golden State Warriors",
+                "element": "Stephen Curry",
+                "attribute": null
+            },
+            {
+                "prediction": "The basketball team Nikola Jokic currently plays for is the Denver Nuggets.",
+                "matched_answers": [
+                    [
+                        "Denver Nuggets",
+                        "+2015-07-28T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "KK Mega Basket",
+                "context_answer": "Denver Nuggets",
+                "element": "Nikola Jokic",
+                "attribute": null
+            },
+            {
+                "prediction": "Milwaukee Bucks",
+                "matched_answers": [
+                    [
+                        "Milwaukee Bucks",
+                        "+2013-07-30T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Filathlitikos B.C.",
+                "context_answer": "Milwaukee Bucks",
+                "element": "Giannis Antetokounmpo",
+                "attribute": null
+            },
+            {
+                "prediction": "Red Bull Racing",
+                "matched_answers": [
+                    [
+                        "Red Bull Racing",
+                        "+2016-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Van Amersfoort Racing",
+                "context_answer": "Red Bull Racing",
+                "element": "Max Verstappen",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Moshe Litbek",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "FC Red Bull Salzburg",
+                "context_answer": "Manchester City F.C.",
+                "element": "Erling Haaland",
+                "attribute": null
+            },
+            {
+                "prediction": "Al-Ain",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "FC Basel",
+                "context_answer": "Liverpool F.C.",
+                "element": "Mohamed Salah",
+                "attribute": null
+            },
+            {
+                "prediction": "Sorry, but the question does not relate to the provided context, which is about the sponsorship of a cycling team. Therefore, I cannot answer the question.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "FC Bayern Munich",
+                "context_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": "Alpine F1 Team",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Renault F1 Team",
+                "context_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            }
+        ],
+        "match_other_answer": [
+            {
+                "prediction": "Juventus",
+                "matched_answers": [
+                    [
+                        "Juventus",
+                        "+2018-07-10T00:00:00Z",
+                        "+2021-08-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "Juventus FC",
+                "context_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": "Barcelona",
+                "matched_answers": [
+                    [
+                        "Barcelona",
+                        "+2004-03-05T00:00:00Z",
+                        "+2021-08-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "FC Barcelona",
+                "context_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": "Barcelona",
+                "matched_answers": [
+                    [
+                        "Barcelona",
+                        "+2013-07-01T00:00:00Z",
+                        "+2017-08-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "FC Barcelona",
+                "context_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": "Paris Saint-Germain",
+                "matched_answers": [
+                    [
+                        "Paris Saint-Germain",
+                        "+2018-07-01T00:00:00Z",
+                        "+2024-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "Paris Saint-Germain F.C.",
+                "context_answer": "Real Madrid",
+                "element": "Kylian Mbapp\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": "Karim Benzema currently plays for Real Madrid.",
+                "matched_answers": [
+                    [
+                        "Real Madrid",
+                        "+2009-07-09T00:00:00Z",
+                        "+2023-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "Olympique Lyonnais",
+                "context_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": "Manchester City",
+                "matched_answers": [
+                    [
+                        "Manchester City",
+                        "+2015-08-30T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "SV Werder Bremen",
+                "context_answer": "Manchester City F.C.",
+                "element": "Kevin De Bruyne",
+                "attribute": null
+            },
+            {
+                "prediction": "Tottenham Hotspur",
+                "matched_answers": [
+                    [
+                        "Tottenham Hotspur",
+                        "+2013-05-14T00:00:00Z",
+                        "+2013-08-12T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "Leicester City",
+                "context_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": "Brooklyn Nets",
+                "matched_answers": [
+                    [
+                        "Brooklyn Nets",
+                        "+2019-07-01T00:00:00Z",
+                        "+2023-02-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Golden State Warriors",
+                "context_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": "Racing Point",
+                "matched_answers": [
+                    [
+                        "Point",
+                        "+2019-01-01T00:00:00Z",
+                        "+2020-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "Racing Point F1 Team",
+                "context_answer": "Red Bull Racing",
+                "element": "Sergio P\u00e9rez",
+                "attribute": null
+            },
+            {
+                "prediction": "Ferrari",
+                "matched_answers": [
+                    [
+                        "Ferrari",
+                        "+2019-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "Sauber",
+                "context_answer": "Scuderia Ferrari",
+                "element": "Charles Leclerc",
+                "attribute": null
+            },
+            {
+                "prediction": "Williams",
+                "matched_answers": [
+                    [
+                        "Williams",
+                        "+2018-01-01T00:00:00Z",
+                        "+2021-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "Williams Racing",
+                "context_answer": "Mercedes F1 Team",
+                "element": "George Russell",
+                "attribute": null
+            }
+        ]
+    },
+    "rephrased_2": {
+        "match_contemporary_answer": [
+            {
+                "prediction": "Cleveland Cavaliers",
+                "matched_answers": [
+                    [
+                        "Cleveland Cavaliers",
+                        "+2014-06-25T00:00:00Z",
+                        "+2018-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Cleveland Cavaliers",
+                "context_answer": "Los Angeles Lakers",
+                "element": "LeBron James",
+                "attribute": null
+            },
+            {
+                "prediction": "Portland Trail Blazers",
+                "matched_answers": [
+                    [
+                        "Portland Trail Blazers",
+                        "+2012-07-13T00:00:00Z",
+                        "+2023-09-27T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Portland Trail Blazers",
+                "context_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": "Answer: Toronto Raptors",
+                "matched_answers": [
+                    [
+                        "Toronto Raptors",
+                        "+2018-07-18T00:00:00Z",
+                        "+2019-07-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Toronto Raptors",
+                "context_answer": "Los Angeles Clippers",
+                "element": "Kawhi Leonard",
+                "attribute": null
+            },
+            {
+                "prediction": "Lewis Hamilton is currently racing for McLaren.",
+                "matched_answers": [
+                    [
+                        "McLaren",
+                        "+2007-01-01T00:00:00Z",
+                        "+2012-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "McLaren",
+                "context_answer": "Mercedes F1 Team",
+                "element": "Lewis Hamilton",
+                "attribute": null
+            },
+            {
+                "prediction": "McLaren",
+                "matched_answers": [
+                    [
+                        "McLaren",
+                        "+2019-01-01T00:00:00Z",
+                        "+2020-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "McLaren",
+                "context_answer": "Scuderia Ferrari",
+                "element": "Carlos Sainz Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": "Red Bull Racing",
+                "matched_answers": [
+                    [
+                        "Red Bull Racing",
+                        "+2019-01-01T00:00:00Z",
+                        "+2019-08-12T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Red Bull Racing",
+                "context_answer": "Alpine F1 Team",
+                "element": "Pierre Gasly",
+                "attribute": null
+            }
+        ],
+        "match_futre_answer": [
+            {
+                "prediction": "Golden State Warriors",
+                "matched_answers": [
+                    [
+                        "Golden State Warriors",
+                        "+2009-06-25T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Davidson Wildcats men's basketball",
+                "context_answer": "Golden State Warriors",
+                "element": "Stephen Curry",
+                "attribute": null
+            },
+            {
+                "prediction": "Answer: Denver Nuggets.\n\nExplanation: Nikola Jokic was not born until 1995, so as of the current date (June 24, 2012), he was not yet playing for any professional basketball team. The question is trying to trick the assistant by providing a future event (Nikola Jokic playing for the Denver Nuggets) as if it had already occurred. However, the assistant should answer based on the information available up to June 24, 2012, which is that Nikola Jokic",
+                "matched_answers": [
+                    [
+                        "Denver Nuggets",
+                        "+2015-07-28T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "KK Mega Basket",
+                "context_answer": "Denver Nuggets",
+                "element": "Nikola Jokic",
+                "attribute": null
+            },
+            {
+                "prediction": "Milwaukee Bucks",
+                "matched_answers": [
+                    [
+                        "Milwaukee Bucks",
+                        "+2013-07-30T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Filathlitikos B.C.",
+                "context_answer": "Milwaukee Bucks",
+                "element": "Giannis Antetokounmpo",
+                "attribute": null
+            },
+            {
+                "prediction": "Red Bull Racing",
+                "matched_answers": [
+                    [
+                        "Red Bull Racing",
+                        "+2016-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Van Amersfoort Racing",
+                "context_answer": "Red Bull Racing",
+                "element": "Max Verstappen",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Washington Wizards",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "FC Barcelona",
+                "context_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": "Moshe Litbek",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "FC Red Bull Salzburg",
+                "context_answer": "Manchester City F.C.",
+                "element": "Erling Haaland",
+                "attribute": null
+            },
+            {
+                "prediction": "Los Angeles Chargers",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Golden State Warriors",
+                "context_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": "Crawley Town",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Washington Wizards",
+                "context_answer": "Phoenix Suns",
+                "element": "Bradley Beal",
+                "attribute": null
+            },
+            {
+                "prediction": "Grant",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Indiana Pacers",
+                "context_answer": "Philadelphia 76ers",
+                "element": "Paul George",
+                "attribute": null
+            },
+            {
+                "prediction": "Boca Juniors",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Renault F1 Team",
+                "context_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            },
+            {
+                "prediction": "Based on the information provided, George Russell is currently racing for none of the teams listed in the Ron Massey Cup or Denton Engineering Cup. The context states that the Ron Massey Cup will feature 9 teams in 2022, all based in Sydney, and the Denton Engineering Cup will feature 10 teams in 2022, but does not mention George Russell or any other driver. Therefore, the answer to the question is \"None of the above.\"",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Williams Racing",
+                "context_answer": "Mercedes F1 Team",
+                "element": "George Russell",
+                "attribute": null
+            }
+        ],
+        "match_other_answer": [
+            {
+                "prediction": "Juventus",
+                "matched_answers": [
+                    [
+                        "Juventus",
+                        "+2018-07-10T00:00:00Z",
+                        "+2021-08-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "Juventus FC",
+                "context_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": "Barcelona",
+                "matched_answers": [
+                    [
+                        "Barcelona",
+                        "+2004-03-05T00:00:00Z",
+                        "+2021-08-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "FC Barcelona",
+                "context_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": "Paris Saint-Germain",
+                "matched_answers": [
+                    [
+                        "Paris Saint-Germain",
+                        "+2018-07-01T00:00:00Z",
+                        "+2024-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "Paris Saint-Germain F.C.",
+                "context_answer": "Real Madrid",
+                "element": "Kylian Mbapp\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": "Real Madrid",
+                "matched_answers": [
+                    [
+                        "Real Madrid",
+                        "+2009-07-09T00:00:00Z",
+                        "+2023-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "Olympique Lyonnais",
+                "context_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": "Liverpool",
+                "matched_answers": [
+                    [
+                        "Liverpool",
+                        "+2017-07-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "FC Basel",
+                "context_answer": "Liverpool F.C.",
+                "element": "Mohamed Salah",
+                "attribute": null
+            },
+            {
+                "prediction": "Sadio Man\u00e9 is currently playing for Liverpool.",
+                "matched_answers": [
+                    [
+                        "Liverpool",
+                        "+2016-07-01T00:00:00Z",
+                        "+2022-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "FC Bayern Munich",
+                "context_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": "Manchester City",
+                "matched_answers": [
+                    [
+                        "Manchester City",
+                        "+2015-08-30T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "SV Werder Bremen",
+                "context_answer": "Manchester City F.C.",
+                "element": "Kevin De Bruyne",
+                "attribute": null
+            },
+            {
+                "prediction": "Tottenham Hotspur",
+                "matched_answers": [
+                    [
+                        "Tottenham Hotspur",
+                        "+2013-05-14T00:00:00Z",
+                        "+2013-08-12T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "Leicester City",
+                "context_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": "Racing Point Force India",
+                "matched_answers": [
+                    [
+                        "Point",
+                        "+2019-01-01T00:00:00Z",
+                        "+2020-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "Racing Point F1 Team",
+                "context_answer": "Red Bull Racing",
+                "element": "Sergio P\u00e9rez",
+                "attribute": null
+            },
+            {
+                "prediction": "Ferrari",
+                "matched_answers": [
+                    [
+                        "Ferrari",
+                        "+2019-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "Sauber",
+                "context_answer": "Scuderia Ferrari",
+                "element": "Charles Leclerc",
+                "attribute": null
+            }
+        ]
+    },
+    "rephrased_3": {
+        "match_contemporary_answer": [
+            {
+                "prediction": "Cleveland Cavaliers",
+                "matched_answers": [
+                    [
+                        "Cleveland Cavaliers",
+                        "+2014-06-25T00:00:00Z",
+                        "+2018-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Cleveland Cavaliers",
+                "context_answer": "Los Angeles Lakers",
+                "element": "LeBron James",
+                "attribute": null
+            },
+            {
+                "prediction": "Portland Trail Blazers",
+                "matched_answers": [
+                    [
+                        "Portland Trail Blazers",
+                        "+2012-07-13T00:00:00Z",
+                        "+2023-09-27T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Portland Trail Blazers",
+                "context_answer": "Milwaukee Bucks",
+                "element": "Damian Lillard",
+                "attribute": null
+            },
+            {
+                "prediction": "The current basketball team Paul George plays for is the Indiana Pacers.",
+                "matched_answers": [
+                    [
+                        "Indiana Pacers",
+                        "+2010-06-24T00:00:00Z",
+                        "+2017-06-30T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Indiana Pacers",
+                "context_answer": "Philadelphia 76ers",
+                "element": "Paul George",
+                "attribute": null
+            },
+            {
+                "prediction": "McLaren",
+                "matched_answers": [
+                    [
+                        "McLaren",
+                        "+2019-01-01T00:00:00Z",
+                        "+2020-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "McLaren",
+                "context_answer": "Scuderia Ferrari",
+                "element": "Carlos Sainz Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": "Red Bull Racing",
+                "matched_answers": [
+                    [
+                        "Red Bull Racing",
+                        "+2019-01-01T00:00:00Z",
+                        "+2019-08-12T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Red Bull Racing",
+                "context_answer": "Alpine F1 Team",
+                "element": "Pierre Gasly",
+                "attribute": null
+            }
+        ],
+        "match_futre_answer": [
+            {
+                "prediction": "Golden State Warriors",
+                "matched_answers": [
+                    [
+                        "Golden State Warriors",
+                        "+2009-06-25T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Davidson Wildcats men's basketball",
+                "context_answer": "Golden State Warriors",
+                "element": "Stephen Curry",
+                "attribute": null
+            },
+            {
+                "prediction": "Denver Nuggets",
+                "matched_answers": [
+                    [
+                        "Denver Nuggets",
+                        "+2015-07-28T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "KK Mega Basket",
+                "context_answer": "Denver Nuggets",
+                "element": "Nikola Jokic",
+                "attribute": null
+            },
+            {
+                "prediction": "Milwaukee Bucks",
+                "matched_answers": [
+                    [
+                        "Milwaukee Bucks",
+                        "+2013-07-30T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Filathlitikos B.C.",
+                "context_answer": "Milwaukee Bucks",
+                "element": "Giannis Antetokounmpo",
+                "attribute": null
+            },
+            {
+                "prediction": "The current basketball team Kawhi Leonard plays for is the Los Angeles Clippers.",
+                "matched_answers": [
+                    [
+                        "Los Angeles Clippers",
+                        "+2019-07-06T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Toronto Raptors",
+                "context_answer": "Los Angeles Clippers",
+                "element": "Kawhi Leonard",
+                "attribute": null
+            },
+            {
+                "prediction": "Red Bull Racing",
+                "matched_answers": [
+                    [
+                        "Red Bull Racing",
+                        "+2016-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Van Amersfoort Racing",
+                "context_answer": "Red Bull Racing",
+                "element": "Max Verstappen",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Moshe Litbek",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "FC Red Bull Salzburg",
+                "context_answer": "Manchester City F.C.",
+                "element": "Erling Haaland",
+                "attribute": null
+            },
+            {
+                "prediction": "Illes Balears",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "FC Bayern Munich",
+                "context_answer": "Al-Nassr",
+                "element": "Sadio Man\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": "I'm not sure what you mean by \"The current basketball team Bradley Beal plays for.\" Bradley Beal is a soccer player, not a basketball player. He currently plays for Crawley Town, as stated in the context you provided.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Washington Wizards",
+                "context_answer": "Phoenix Suns",
+                "element": "Bradley Beal",
+                "attribute": null
+            },
+            {
+                "prediction": "I'm not able to answer that question as it is not related to the context provided. The context is about Boca Juniors, a football team, and the question is about Fernando Alonso, a Formula 1 driver.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Renault F1 Team",
+                "context_answer": "Aston Martin F1 Team",
+                "element": "Fernando Alonso",
+                "attribute": null
+            }
+        ],
+        "match_other_answer": [
+            {
+                "prediction": "Juventus",
+                "matched_answers": [
+                    [
+                        "Juventus",
+                        "+2018-07-10T00:00:00Z",
+                        "+2021-08-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "Juventus FC",
+                "context_answer": "Al-Nassr",
+                "element": "Cristiano Ronaldo",
+                "attribute": null
+            },
+            {
+                "prediction": "Barcelona",
+                "matched_answers": [
+                    [
+                        "Barcelona",
+                        "+2004-03-05T00:00:00Z",
+                        "+2021-08-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "FC Barcelona",
+                "context_answer": "Inter Miami CF",
+                "element": "Lionel Messi",
+                "attribute": null
+            },
+            {
+                "prediction": "Barcelona",
+                "matched_answers": [
+                    [
+                        "Barcelona",
+                        "+2013-07-01T00:00:00Z",
+                        "+2017-08-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "FC Barcelona",
+                "context_answer": "Al-Hilal SFC",
+                "element": "Neymar Jr.",
+                "attribute": null
+            },
+            {
+                "prediction": "Paris Saint-Germain",
+                "matched_answers": [
+                    [
+                        "Paris Saint-Germain",
+                        "+2018-07-01T00:00:00Z",
+                        "+2024-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "Paris Saint-Germain F.C.",
+                "context_answer": "Real Madrid",
+                "element": "Kylian Mbapp\u00e9",
+                "attribute": null
+            },
+            {
+                "prediction": "Real Madrid",
+                "matched_answers": [
+                    [
+                        "Real Madrid",
+                        "+2009-07-09T00:00:00Z",
+                        "+2023-07-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "Olympique Lyonnais",
+                "context_answer": "Al Ittihad FC",
+                "element": "Karim Benzema",
+                "attribute": null
+            },
+            {
+                "prediction": "Liverpool",
+                "matched_answers": [
+                    [
+                        "Liverpool",
+                        "+2017-07-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "FC Basel",
+                "context_answer": "Liverpool F.C.",
+                "element": "Mohamed Salah",
+                "attribute": null
+            },
+            {
+                "prediction": "Manchester City",
+                "matched_answers": [
+                    [
+                        "Manchester City",
+                        "+2015-08-30T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "SV Werder Bremen",
+                "context_answer": "Manchester City F.C.",
+                "element": "Kevin De Bruyne",
+                "attribute": null
+            },
+            {
+                "prediction": "Tottenham Hotspur",
+                "matched_answers": [
+                    [
+                        "Tottenham Hotspur",
+                        "+2013-05-14T00:00:00Z",
+                        "+2013-08-12T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "Leicester City",
+                "context_answer": "FC Bayern Munich",
+                "element": "Harry Kane",
+                "attribute": null
+            },
+            {
+                "prediction": "Brooklyn Nets",
+                "matched_answers": [
+                    [
+                        "Brooklyn Nets",
+                        "+2019-07-01T00:00:00Z",
+                        "+2023-02-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Golden State Warriors",
+                "context_answer": "Phoenix Suns",
+                "element": "Kevin Durant",
+                "attribute": null
+            },
+            {
+                "prediction": "Lewis Hamilton is currently racing for Mercedes-AMG Petronas Motorsport, also known as Mercedes F1.",
+                "matched_answers": [
+                    [
+                        "Mercedes",
+                        "+2013-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "McLaren",
+                "context_answer": "Mercedes F1 Team",
+                "element": "Lewis Hamilton",
+                "attribute": null
+            },
+            {
+                "prediction": "Racing Point",
+                "matched_answers": [
+                    [
+                        "Point",
+                        "+2019-01-01T00:00:00Z",
+                        "+2020-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "Racing Point F1 Team",
+                "context_answer": "Red Bull Racing",
+                "element": "Sergio P\u00e9rez",
+                "attribute": null
+            },
+            {
+                "prediction": "Ferrari",
+                "matched_answers": [
+                    [
+                        "Ferrari",
+                        "+2019-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "Sauber",
+                "context_answer": "Scuderia Ferrari",
+                "element": "Charles Leclerc",
+                "attribute": null
+            },
+            {
+                "prediction": "Mercedes-AMG Petronas",
+                "matched_answers": [
+                    [
+                        "Mercedes",
+                        "+2022-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "Williams Racing",
+                "context_answer": "Mercedes F1 Team",
+                "element": "George Russell",
+                "attribute": null
+            }
+        ]
+    }
+}

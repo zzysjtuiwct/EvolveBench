@@ -1,0 +1,1090 @@
+{
+    "generic": {
+        "match_contemporary_answer": [
+            {
+                "prediction": "Kofi Annan",
+                "matched_answers": [
+                    [
+                        "Kofi Annan",
+                        "+1997-01-01T00:00:00Z",
+                        "+2006-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Kofi Annan",
+                "context_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Jim Yong Kim",
+                "matched_answers": [
+                    [
+                        "Jim Yong Kim",
+                        "+2012-07-01T00:00:00Z",
+                        "+2019-02-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Jim Yong Kim",
+                "context_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Paul-Henri Spaak",
+                "matched_answers": [
+                    [
+                        "Paul-Henri Spaak",
+                        "+1957-05-16T00:00:00Z",
+                        "+1961-04-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Paul-Henri Spaak",
+                "context_answer": "Mark Rutte",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Daniel Coit Gilman",
+                "matched_answers": [
+                    [
+                        "Daniel Coit Gilman",
+                        "+1876-02-01T00:00:00Z",
+                        "+1901-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Daniel Coit Gilman",
+                "context_answer": "Ronald J. Daniels",
+                "element": "Johns Hopkins University",
+                "attribute": "President"
+            }
+        ],
+        "match_futre_answer": [],
+        "irrelevant": [
+            {
+                "prediction": "Dag Hammarskj\u00f6ld (acting as Secretary-General of the United Nations, who was responsible for the IAEA until it became an independent organization in 1965)",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "William Sterling Cole",
+                "context_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the information on who the current president of Marc Bloch University was as of 22 March 1999.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Daniel Payot",
+                "context_answer": "Bernard Michon",
+                "element": "Marc Bloch University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have access to specific current information about the president of the Institut national des langues et civilisations orientales as of 1 July 1999.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Andr\u00e9 Bourgey",
+                "context_answer": "Jean-Fran\u00e7ois Huchet",
+                "element": "Institut national des langues et civilisations orientales",
+                "attribute": "President"
+            },
+            {
+                "prediction": "As of 5 May 1994, Paris Dauphine University did not have a position titled \"president.\" The institution was part of the University of Paris, which was governed by a rector. Therefore, there is no specific name to provide for the \"president\" of Paris Dauphine University at that time.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "\u00c9lie Cohen",
+                "context_answer": "E.M. Mouhoud",
+                "element": "Paris Dauphine University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "As of April 14, 1966, the rector of Novosibirsk State University was Vladimir Ivanovich Kuznetsov.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Spartak Belyaev",
+                "context_answer": "Mikhail Fedoruk",
+                "element": "Novosibirsk State University",
+                "attribute": "Rector"
+            },
+            {
+                "prediction": "As of 22 February 2013, the president of the University of Shizuoka is Masahiro Kato.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Naohide Kinae",
+                "context_answer": "Kazuo Oike",
+                "element": "University of Shizuoka",
+                "attribute": "President"
+            },
+            {
+                "prediction": "As of 27 April 1978, the position of Chancellor of Jamia Millia Islamia was held by the President of India. At that time, the President was Neelam Sanjiva Reddy.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Anwar Jamal Kidwai",
+                "context_answer": "Mazhar Asif",
+                "element": "Jamia Millia Islamia",
+                "attribute": "Chancellor"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the specific information about the current president of the University of Reims as of June 14, 1977. My training data does not include detailed historical records of university leadership from that time.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Lucien Bernard",
+                "context_answer": "Christophe Cl\u00e9ment",
+                "element": "University of Reims",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Takashi Yamamoto",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Hiroshi Matsumoto",
+                "context_answer": "Nagahiro Minato",
+                "element": "Kyoto University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "As of 11 July 1975, Birzeit University did not have a position titled \"president.\" The university was established in 1975, and its leadership structure at that time was different. Therefore, there is no name to provide for this position as of that date.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Gabi Baramki",
+                "context_answer": "Hannah Nasir",
+                "element": "Birzeit University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I am unable to provide the current president of the University of Maryland, Baltimore County as of 21 August 1988, as my training data does not include specific historical records or names from that time.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Michael Hooker",
+                "context_answer": "Valerie Ashby",
+                "element": "University of Maryland, Baltimore County",
+                "attribute": "President"
+            },
+            {
+                "prediction": "As of 3 May 1900, Wittenberg University did not have a position titled \"president.\" The institution was led by a president, but the specific individual holding that role at that time was John W. Crouse.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "John M. Ruthrauff",
+                "context_answer": "Michael Frandsen",
+                "element": "Wittenberg University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the specific information about the current president of the University of La R\u00e9union as of 31 March 1990.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Michel Carayol",
+                "context_answer": "Jacques Comby",
+                "element": "University of La R\u00e9union",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the information on who the current president of Bluffton University was on 17 June 1935.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Arthur S. Rosenberger",
+                "context_answer": "Jane Wood",
+                "element": "Bluffton University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the specific information about the current president of the University of Orl\u00e9ans as of 8 September 2000. My training data does not include real-time or specific institutional leadership details from that date.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Michel Mudry",
+                "context_answer": "\u00c9ric Blond",
+                "element": "University of Orl\u00e9ans",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Hiroshi Matsumoto",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Makoto Gonokami",
+                "context_answer": "Teruo Fujii",
+                "element": "University of Tokyo",
+                "attribute": "President"
+            }
+        ],
+        "match_other_answer": [
+            {
+                "prediction": "Brussels, Belgium",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+1967-10-16T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "Palais de Chaillot",
+                "context_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": "Pierre de Coubertin",
+                "matched_answers": [
+                    [
+                        "Pierre de Coubertin",
+                        "+1919-01-01T00:00:00Z",
+                        "+1925-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Godefroy de Blonay",
+                "context_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "John A. Curry",
+                "matched_answers": [
+                    [
+                        "John A. Curry",
+                        "+1989-01-01T00:00:00Z",
+                        "+1996-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Kenneth G. Ryder",
+                "context_answer": "Joseph Aoun",
+                "element": "Northeastern University",
+                "attribute": "President"
+            }
+        ]
+    },
+    "rephrased_1": {
+        "match_contemporary_answer": [
+            {
+                "prediction": "Kofi Annan",
+                "matched_answers": [
+                    [
+                        "Kofi Annan",
+                        "+1997-01-01T00:00:00Z",
+                        "+2006-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Kofi Annan",
+                "context_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Jim Yong Kim",
+                "matched_answers": [
+                    [
+                        "Jim Yong Kim",
+                        "+2012-07-01T00:00:00Z",
+                        "+2019-02-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Jim Yong Kim",
+                "context_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Paul-Henri Spaak",
+                "matched_answers": [
+                    [
+                        "Paul-Henri Spaak",
+                        "+1957-05-16T00:00:00Z",
+                        "+1961-04-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Paul-Henri Spaak",
+                "context_answer": "Mark Rutte",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Daniel Coit Gilman",
+                "matched_answers": [
+                    [
+                        "Daniel Coit Gilman",
+                        "+1876-02-01T00:00:00Z",
+                        "+1901-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Daniel Coit Gilman",
+                "context_answer": "Ronald J. Daniels",
+                "element": "Johns Hopkins University",
+                "attribute": "President"
+            }
+        ],
+        "match_futre_answer": [],
+        "irrelevant": [
+            {
+                "prediction": "Hector H. MacPherson",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "William Sterling Cole",
+                "context_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the information on who the current president of Marc Bloch University was as of 22 March 1999.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Daniel Payot",
+                "context_answer": "Bernard Michon",
+                "element": "Marc Bloch University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have access to specific current information about the president of the Institut national des langues et civilisations orientales as of 1 July 1999.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Andr\u00e9 Bourgey",
+                "context_answer": "Jean-Fran\u00e7ois Huchet",
+                "element": "Institut national des langues et civilisations orientales",
+                "attribute": "President"
+            },
+            {
+                "prediction": "As of 5 May 1994, Paris Dauphine University did not have a position titled \"president.\" The institution was part of the University of Paris, which was governed by a rector. Therefore, there is no specific name to provide for the \"president\" of Paris Dauphine University at that time.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "\u00c9lie Cohen",
+                "context_answer": "E.M. Mouhoud",
+                "element": "Paris Dauphine University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "As of April 14, 1966, the rector of Novosibirsk State University was Vladimir Ivanovich Kuznetsov.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Spartak Belyaev",
+                "context_answer": "Mikhail Fedoruk",
+                "element": "Novosibirsk State University",
+                "attribute": "Rector"
+            },
+            {
+                "prediction": "As of 22 February 2013, the president of the University of Shizuoka is Masahiro Kato.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Naohide Kinae",
+                "context_answer": "Kazuo Oike",
+                "element": "University of Shizuoka",
+                "attribute": "President"
+            },
+            {
+                "prediction": "As of 27 April 1978, the position of Chancellor of Jamia Millia Islamia was held by the President of India. At that time, the President was Neelam Sanjiva Reddy.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Anwar Jamal Kidwai",
+                "context_answer": "Mazhar Asif",
+                "element": "Jamia Millia Islamia",
+                "attribute": "Chancellor"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the specific information about the current president of the University of Reims as of June 14, 1977. My training data does not include detailed historical records of university leadership from that time.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Lucien Bernard",
+                "context_answer": "Christophe Cl\u00e9ment",
+                "element": "University of Reims",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Takashi Yamamoto",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Hiroshi Matsumoto",
+                "context_answer": "Nagahiro Minato",
+                "element": "Kyoto University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "As of 11 July 1975, Birzeit University did not have a position titled \"president.\" The university was established in 1975, and its leadership structure at that time was different. Therefore, there is no name to provide for this position as of that date.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Gabi Baramki",
+                "context_answer": "Hannah Nasir",
+                "element": "Birzeit University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I am unable to provide the current president of the University of Maryland, Baltimore County as of 21 August 1988, as my training data does not include specific historical records or names from that time.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Michael Hooker",
+                "context_answer": "Valerie Ashby",
+                "element": "University of Maryland, Baltimore County",
+                "attribute": "President"
+            },
+            {
+                "prediction": "As of 3 May 1900, Wittenberg University did not have a position titled \"president.\" The institution was led by a president, but the specific individual holding that role at that time was John W. Crouse.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "John M. Ruthrauff",
+                "context_answer": "Michael Frandsen",
+                "element": "Wittenberg University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the specific information about the current president of the University of La R\u00e9union as of 31 March 1990.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Michel Carayol",
+                "context_answer": "Jacques Comby",
+                "element": "University of La R\u00e9union",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the information on who the current president of Bluffton University was on 17 June 1935.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Arthur S. Rosenberger",
+                "context_answer": "Jane Wood",
+                "element": "Bluffton University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the specific information about the current president of the University of Orl\u00e9ans as of 8 September 2000. My training data does not include real-time or specific institutional leadership details from that date.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Michel Mudry",
+                "context_answer": "\u00c9ric Blond",
+                "element": "University of Orl\u00e9ans",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Hiroshi Matsumoto",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Makoto Gonokami",
+                "context_answer": "Teruo Fujii",
+                "element": "University of Tokyo",
+                "attribute": "President"
+            }
+        ],
+        "match_other_answer": [
+            {
+                "prediction": "Brussels, Belgium",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+1967-10-16T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "Palais de Chaillot",
+                "context_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": "Pierre de Coubertin",
+                "matched_answers": [
+                    [
+                        "Pierre de Coubertin",
+                        "+1919-01-01T00:00:00Z",
+                        "+1925-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Godefroy de Blonay",
+                "context_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "John A. Curry",
+                "matched_answers": [
+                    [
+                        "John A. Curry",
+                        "+1989-01-01T00:00:00Z",
+                        "+1996-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Kenneth G. Ryder",
+                "context_answer": "Joseph Aoun",
+                "element": "Northeastern University",
+                "attribute": "President"
+            }
+        ]
+    },
+    "rephrased_2": {
+        "match_contemporary_answer": [
+            {
+                "prediction": "Kofi Annan",
+                "matched_answers": [
+                    [
+                        "Kofi Annan",
+                        "+1997-01-01T00:00:00Z",
+                        "+2006-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Kofi Annan",
+                "context_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Jim Yong Kim",
+                "matched_answers": [
+                    [
+                        "Jim Yong Kim",
+                        "+2012-07-01T00:00:00Z",
+                        "+2019-02-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Jim Yong Kim",
+                "context_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Paul-Henri Spaak",
+                "matched_answers": [
+                    [
+                        "Paul-Henri Spaak",
+                        "+1957-05-16T00:00:00Z",
+                        "+1961-04-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Paul-Henri Spaak",
+                "context_answer": "Mark Rutte",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Daniel Coit Gilman",
+                "matched_answers": [
+                    [
+                        "Daniel Coit Gilman",
+                        "+1876-02-01T00:00:00Z",
+                        "+1901-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Daniel Coit Gilman",
+                "context_answer": "Ronald J. Daniels",
+                "element": "Johns Hopkins University",
+                "attribute": "President"
+            }
+        ],
+        "match_futre_answer": [],
+        "irrelevant": [
+            {
+                "prediction": "Gordon Dean (Note: As of 27 November 1960, the IAEA had not yet been established; it was founded in 1957, and its first Director General, Dag Hammarskj\u00f6ld, took office in 1957. Gordon Dean was the first Chairman of the IAEA's Board of Governors, not the Director General.)",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "William Sterling Cole",
+                "context_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the specific information about who held the president position at Marc Bloch University on 22 March 1999.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Daniel Payot",
+                "context_answer": "Bernard Michon",
+                "element": "Marc Bloch University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have access to specific current personnel information, such as the name of the president of the Institut national des langues et civilisations orientales as of 1 July 1999.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Andr\u00e9 Bourgey",
+                "context_answer": "Jean-Fran\u00e7ois Huchet",
+                "element": "Institut national des langues et civilisations orientales",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Jean-Pierre Benkimoun",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "\u00c9lie Cohen",
+                "context_answer": "E.M. Mouhoud",
+                "element": "Paris Dauphine University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have access to specific historical records or databases to provide the name of the rector of Novosibirsk State University as of April 14, 1966.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Spartak Belyaev",
+                "context_answer": "Mikhail Fedoruk",
+                "element": "Novosibirsk State University",
+                "attribute": "Rector"
+            },
+            {
+                "prediction": "I am unable to provide the current president of the University of Shizuoka as of 22 February 2013, as my training data does not include real-time or specific institutional leadership information.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Naohide Kinae",
+                "context_answer": "Kazuo Oike",
+                "element": "University of Shizuoka",
+                "attribute": "President"
+            },
+            {
+                "prediction": "As of 27 April 1978, the Chancellor of Jamia Millia Islamia was Maulana Abul Kalam Azad.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Anwar Jamal Kidwai",
+                "context_answer": "Mazhar Asif",
+                "element": "Jamia Millia Islamia",
+                "attribute": "Chancellor"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the specific information about who held the president position at the University of Reims on June 14, 1977. My training data does not include detailed historical records of university leadership positions from that time.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Lucien Bernard",
+                "context_answer": "Christophe Cl\u00e9ment",
+                "element": "University of Reims",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Takashi Yamamoto",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Hiroshi Matsumoto",
+                "context_answer": "Nagahiro Minato",
+                "element": "Kyoto University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the specific information about who held the president position at Birzeit University on 11 July 1975.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Gabi Baramki",
+                "context_answer": "Hannah Nasir",
+                "element": "Birzeit University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "David S. Wilson",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Michael Hooker",
+                "context_answer": "Valerie Ashby",
+                "element": "University of Maryland, Baltimore County",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I am unable to provide the name of the current president of Wittenberg University as of 3 May 1900, as my training data does not include specific historical records or names from that time.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "John M. Ruthrauff",
+                "context_answer": "Michael Frandsen",
+                "element": "Wittenberg University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the specific information about who held the president position at the University of La R\u00e9union on 31 March 1990.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Michel Carayol",
+                "context_answer": "Jacques Comby",
+                "element": "University of La R\u00e9union",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Dr. William H. Hulme Jr.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Arthur S. Rosenberger",
+                "context_answer": "Jane Wood",
+                "element": "Bluffton University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the specific information about who held the president position at the University of Orl\u00e9ans on 8 September 2000.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Michel Mudry",
+                "context_answer": "\u00c9ric Blond",
+                "element": "University of Orl\u00e9ans",
+                "attribute": "President"
+            },
+            {
+                "prediction": "John A. Hazen White",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Kenneth G. Ryder",
+                "context_answer": "Joseph Aoun",
+                "element": "Northeastern University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Hiroshi Matsumoto",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Makoto Gonokami",
+                "context_answer": "Teruo Fujii",
+                "element": "University of Tokyo",
+                "attribute": "President"
+            }
+        ],
+        "match_other_answer": [
+            {
+                "prediction": "Brussels, Belgium",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+1967-10-16T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "Palais de Chaillot",
+                "context_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": "Pierre de Coubertin",
+                "matched_answers": [
+                    [
+                        "Pierre de Coubertin",
+                        "+1919-01-01T00:00:00Z",
+                        "+1925-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Godefroy de Blonay",
+                "context_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            }
+        ]
+    },
+    "rephrased_3": {
+        "match_contemporary_answer": [
+            {
+                "prediction": "Kofi Annan",
+                "matched_answers": [
+                    [
+                        "Kofi Annan",
+                        "+1997-01-01T00:00:00Z",
+                        "+2006-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Kofi Annan",
+                "context_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Jim Yong Kim",
+                "matched_answers": [
+                    [
+                        "Jim Yong Kim",
+                        "+2012-07-01T00:00:00Z",
+                        "+2019-02-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Jim Yong Kim",
+                "context_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Paul-Henri Spaak",
+                "matched_answers": [
+                    [
+                        "Paul-Henri Spaak",
+                        "+1957-05-16T00:00:00Z",
+                        "+1961-04-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Paul-Henri Spaak",
+                "context_answer": "Mark Rutte",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Daniel Coit Gilman",
+                "matched_answers": [
+                    [
+                        "Daniel Coit Gilman",
+                        "+1876-02-01T00:00:00Z",
+                        "+1901-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Daniel Coit Gilman",
+                "context_answer": "Ronald J. Daniels",
+                "element": "Johns Hopkins University",
+                "attribute": "President"
+            }
+        ],
+        "match_futre_answer": [],
+        "irrelevant": [
+            {
+                "prediction": "Gerald W. Johnson (as of 27 November 1960)",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "William Sterling Cole",
+                "context_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the specific information about who held the position of president at Marc Bloch University on 22 March 1999.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Daniel Payot",
+                "context_answer": "Bernard Michon",
+                "element": "Marc Bloch University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have access to specific current information about the position of president at the Institut national des langues et civilisations orientales as of 1 July 1999.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Andr\u00e9 Bourgey",
+                "context_answer": "Jean-Fran\u00e7ois Huchet",
+                "element": "Institut national des langues et civilisations orientales",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Jean-Claude Boulanger",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "\u00c9lie Cohen",
+                "context_answer": "E.M. Mouhoud",
+                "element": "Paris Dauphine University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have access to specific historical records or databases to provide the name of the rector of Novosibirsk State University as of April 14, 1966.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Spartak Belyaev",
+                "context_answer": "Mikhail Fedoruk",
+                "element": "Novosibirsk State University",
+                "attribute": "Rector"
+            },
+            {
+                "prediction": "I am unable to provide the current name of the president of the University of Shizuoka as of 22 February 2013, as I do not have access to real-time or specific historical data.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Naohide Kinae",
+                "context_answer": "Kazuo Oike",
+                "element": "University of Shizuoka",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have access to specific historical records or databases to provide the name of the president of the University of Reims as of June 14, 1977.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Lucien Bernard",
+                "context_answer": "Christophe Cl\u00e9ment",
+                "element": "University of Reims",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Takashi Yamamoto",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Hiroshi Matsumoto",
+                "context_answer": "Nagahiro Minato",
+                "element": "Kyoto University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the specific information about who held the position of president at Birzeit University on 11 July 1975.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Gabi Baramki",
+                "context_answer": "Hannah Nasir",
+                "element": "Birzeit University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "David S. Wilson",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Michael Hooker",
+                "context_answer": "Valerie Ashby",
+                "element": "University of Maryland, Baltimore County",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I am unable to provide the name of the current president of Wittenberg University as of 3 May 1900, as my training data does not include specific historical records or names from that time.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "John M. Ruthrauff",
+                "context_answer": "Michael Frandsen",
+                "element": "Wittenberg University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have the specific information about who held the position of president at the University of La R\u00e9union on 31 March 1990.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Michel Carayol",
+                "context_answer": "Jacques Comby",
+                "element": "University of La R\u00e9union",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Dr. William H. Hulme Jr.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Arthur S. Rosenberger",
+                "context_answer": "Jane Wood",
+                "element": "Bluffton University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "I'm sorry, but I do not have access to specific information about the current president of the University of Orl\u00e9ans as of 8 September 2000.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Michel Mudry",
+                "context_answer": "\u00c9ric Blond",
+                "element": "University of Orl\u00e9ans",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Hiroshi Matsumoto",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Makoto Gonokami",
+                "context_answer": "Teruo Fujii",
+                "element": "University of Tokyo",
+                "attribute": "President"
+            }
+        ],
+        "match_other_answer": [
+            {
+                "prediction": "Brussels",
+                "matched_answers": [
+                    [
+                        "Brussels",
+                        "+1967-10-16T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "simplified"
+                ],
+                "contemporary_answer": "Palais de Chaillot",
+                "context_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": "Pierre de Coubertin (Note: Pierre de Coubertin was the founder and first president of the International Olympic Committee, serving until 1925. As of 23 January 1917, he was the chairperson.)",
+                "matched_answers": [
+                    [
+                        "Pierre de Coubertin",
+                        "+1919-01-01T00:00:00Z",
+                        "+1925-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Godefroy de Blonay",
+                "context_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Zakir Husain (Note: As of 27 April 1978, Zakir Husain was the President of India, not the Chancellor of Jamia Millia Islamia. The Chancellor of Jamia Millia Islamia is traditionally the President of India, so the answer remains Zakir Husain.)",
+                "matched_answers": [
+                    [
+                        "Zakir Husain",
+                        "+1926-01-01T00:00:00Z",
+                        "+1948-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Anwar Jamal Kidwai",
+                "context_answer": "Mazhar Asif",
+                "element": "Jamia Millia Islamia",
+                "attribute": "Chancellor"
+            },
+            {
+                "prediction": "John A. Curry Jr.",
+                "matched_answers": [
+                    [
+                        "John A. Curry",
+                        "+1989-01-01T00:00:00Z",
+                        "+1996-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Kenneth G. Ryder",
+                "context_answer": "Joseph Aoun",
+                "element": "Northeastern University",
+                "attribute": "President"
+            }
+        ]
+    }
+}

@@ -1,0 +1,255 @@
+{
+    "companies_byRevenue": {},
+    "countries_byGDP": {
+        "Italy": {
+            "President of Italy": {
+                "answers": [
+                    "Carlo Azeglio Ciampi |S: +1999-05-18T00:00:00Z |E: +2006-05-15T00:00:00Z",
+                    "Oscar Luigi Scalfaro |S: +1992-05-28T00:00:00Z |E: +1999-05-15T00:00:00Z",
+                    "Francesco Cossiga |S: +1985-07-03T00:00:00Z |E: +1992-04-28T00:00:00Z",
+                    "Sandro Pertini |S: +1978-07-09T00:00:00Z |E: +1985-06-29T00:00:00Z",
+                    "Giovanni Leone |S: +1971-12-29T00:00:00Z |E: +1978-06-15T00:00:00Z",
+                    "Giuseppe Saragat |S: +1964-12-29T00:00:00Z |E: +1971-12-29T00:00:00Z",
+                    "Antonio Segni |S: +1962-05-11T00:00:00Z |E: +1964-12-06T00:00:00Z",
+                    "Giovanni Gronchi |S: +1955-05-11T00:00:00Z |E: +1962-05-11T00:00:00Z",
+                    "Luigi Einaudi |S: +1948-05-12T00:00:00Z |E: +1955-05-11T00:00:00Z",
+                    "Enrico de Nicola |S: +1946-07-01T00:00:00Z |E: +1948-05-12T00:00:00Z",
+                    "Alcide De Gasperi |S: +1946-06-13T00:00:00Z |E: +1946-06-30T00:00:00Z",
+                    "Giorgio Napolitano |S: +2006-05-15T00:00:00Z |E: +2015-01-14T00:00:00Z",
+                    "Sergio Mattarella |S: +2015-02-03T00:00:00Z"
+                ],
+                "ground_truth": "Luigi Einaudi",
+                "ranking_qa": {
+                    "generic": "Luigi Einaudi and Francesco Cossiga both served as the presidents of Italy before. Do you know which one of them the former president was?",
+                    "rephrased_1": "Luigi Einaudi and Francesco Cossiga both served as the presidents of Italy before. Do you know which one of them the former president was?",
+                    "rephrased_2": "Italy had Luigi Einaudi and Francesco Cossiga as former presidents. Can you identify which one the former president was?",
+                    "rephrased_3": "Luigi Einaudi and Francesco Cossiga previously held the position of the president of Italy. Which of them served as the former president?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 4 November 1986, Francesco Cossiga was the president of Italy. So, who held this position 13906 days before?",
+                    "rephrased_1": "On 4 November 1986, Francesco Cossiga was the president of Italy. So, who held this position 13906 days before?",
+                    "rephrased_2": "Francesco Cossiga was Italy's president on 4 November 1986. Do you know who was in this role before 13906 days?",
+                    "rephrased_3": "Francesco Cossiga served as the president of Italy on 4 November 1986. Can you identify who occupied this position before 13906 days?"
+                }
+            }
+        },
+        "United Kingdom": {
+            "monarch of the United Kingdom": {
+                "answers": [
+                    "Charles III of the United Kingdom |S: +2022-09-08T00:00:00Z",
+                    "Elizabeth II |S: +1952-02-06T00:00:00Z |E: +2022-09-08T00:00:00Z",
+                    "George VI |S: +1936-12-11T00:00:00Z |E: +1952-02-06T00:00:00Z",
+                    "Edward VIII |S: +1936-01-20T00:00:00Z |E: +1936-12-11T00:00:00Z",
+                    "George V |S: +1910-05-06T00:00:00Z |E: +1936-01-20T00:00:00Z"
+                ],
+                "ground_truth": "George V",
+                "ranking_qa": {
+                    "generic": "George V and Edward VIII both served as the monarchs of the United Kingdom before. Do you know which one of them the former monarch was?",
+                    "rephrased_1": "George V and Edward VIII both served as the monarchs of the United Kingdom before. Do you know which one of them the former monarch was?",
+                    "rephrased_2": "the United Kingdom had George V and Edward VIII as former monarchs. Can you identify which one the former monarch was?",
+                    "rephrased_3": "George V and Edward VIII previously held the position of the monarch of the United Kingdom. Which of them served as the former monarch?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 10 October 1936, Edward VIII was the monarch of the United Kingdom. So, who held this position 4185 days before?",
+                    "rephrased_1": "On 10 October 1936, Edward VIII was the monarch of the United Kingdom. So, who held this position 4185 days before?",
+                    "rephrased_2": "Edward VIII was the United Kingdom's monarch on 10 October 1936. Do you know who was in this role before 4185 days?",
+                    "rephrased_3": "Edward VIII served as the monarch of the United Kingdom on 10 October 1936. Can you identify who occupied this position before 4185 days?"
+                }
+            }
+        },
+        "France": {
+            "Prime Minister of France": {
+                "answers": [
+                    "Manuel Valls |S: +2014-03-31T00:00:00Z |E: +2016-12-06T00:00:00Z",
+                    "Jean-Marc Ayrault |S: +2012-05-16T00:00:00Z |E: +2014-03-31T00:00:00Z",
+                    "Bernard Cazeneuve |S: +2016-12-06T00:00:00Z |E: +2017-05-10T00:00:00Z",
+                    "\u00c9douard Philippe |S: +2017-05-15T00:00:00Z |E: +2020-07-02T00:00:00Z",
+                    "Fran\u00e7ois Fillon |S: +2007-05-17T00:00:00Z |E: +2012-05-10T00:00:00Z",
+                    "Jean Castex |S: +2020-07-03T00:00:00Z |E: +2022-05-16T00:00:00Z",
+                    "\u00c9lisabeth Borne |S: +2022-05-16T00:00:00Z |E: +2024-01-09T00:00:00Z",
+                    "Gabriel Attal |S: +2024-01-09T00:00:00Z |E: +2024-09-05T00:00:00Z",
+                    "Michel Barnier |S: +2024-09-05T00:00:00Z |E: +2024-12-13T00:00:00Z",
+                    "Fran\u00e7ois Bayrou |S: +2024-12-13T00:00:00Z"
+                ],
+                "ground_truth": "Michel Barnier",
+                "ranking_qa": {
+                    "generic": "\u00c9douard Philippe and Michel Barnier both served as the prime ministers of France before. Do you know which one of them the latter prime minister was?",
+                    "rephrased_1": "\u00c9douard Philippe and Michel Barnier both served as the prime ministers of France before. Do you know which one of them the latter prime minister was?",
+                    "rephrased_2": "France had \u00c9douard Philippe and Michel Barnier as former prime ministers. Can you identify which one the latter prime minister was?",
+                    "rephrased_3": "\u00c9douard Philippe and Michel Barnier previously held the position of the prime minister of France. Which of them served as the latter prime minister?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 7 August 2018, \u00c9douard Philippe was the prime minister of France. So, who held this position 2285 days later?",
+                    "rephrased_1": "On 7 August 2018, \u00c9douard Philippe was the prime minister of France. So, who held this position 2285 days later?",
+                    "rephrased_2": "\u00c9douard Philippe was France's prime minister on 7 August 2018. Do you know who was in this role after 2285 days?",
+                    "rephrased_3": "\u00c9douard Philippe served as the prime minister of France on 7 August 2018. Can you identify who occupied this position after 2285 days?"
+                }
+            }
+        },
+        "Iran": {
+            "President of Iran": {
+                "answers": [
+                    "Hassan Rouhani |S: +2013-08-03T00:00:00Z |E: +2021-08-03T00:00:00Z",
+                    "Mahmoud Ahmadinejad |S: +2005-08-03T00:00:00Z |E: +2013-08-03T00:00:00Z",
+                    "Mohammad Khatami |S: +1997-08-03T00:00:00Z |E: +2005-08-03T00:00:00Z",
+                    "Akbar Hashemi Rafsanjani |S: +1989-08-03T00:00:00Z |E: +1997-08-03T00:00:00Z",
+                    "Ali Khamenei |S: +1981-10-13T00:00:00Z |E: +1989-08-03T00:00:00Z",
+                    "Mohammad-Ali Rajai |S: +1981-08-02T00:00:00Z |E: +1981-08-30T00:00:00Z",
+                    "Abulhassan Banisadr |S: +1980-02-04T00:00:00Z |E: +1981-06-21T00:00:00Z",
+                    "Ebrahim Raisi |S: +2021-08-03T00:00:00Z |E: +2024-05-19T00:00:00Z",
+                    "Masoud Pezeshkian |S: +2024-07-28T00:00:00Z"
+                ],
+                "ground_truth": "Ali Khamenei",
+                "ranking_qa": {
+                    "generic": "Ali Khamenei and Mohammad Khatami both served as the presidents of Iran before. Do you know which one of them the former president was?",
+                    "rephrased_1": "Ali Khamenei and Mohammad Khatami both served as the presidents of Iran before. Do you know which one of them the former president was?",
+                    "rephrased_2": "Iran had Ali Khamenei and Mohammad Khatami as former presidents. Can you identify which one the former president was?",
+                    "rephrased_3": "Ali Khamenei and Mohammad Khatami previously held the position of the president of Iran. Which of them served as the former president?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 29 April 1999, Mohammad Khatami was the president of Iran. So, who held this position 5412 days before?",
+                    "rephrased_1": "On 29 April 1999, Mohammad Khatami was the president of Iran. So, who held this position 5412 days before?",
+                    "rephrased_2": "Mohammad Khatami was Iran's president on 29 April 1999. Do you know who was in this role before 5412 days?",
+                    "rephrased_3": "Mohammad Khatami served as the president of Iran on 29 April 1999. Can you identify who occupied this position before 5412 days?"
+                }
+            }
+        },
+        "Bangladesh": {
+            "Prime Minister of Bangladesh": {
+                "answers": [
+                    "Khaleda Zia |S: +1991-03-20T00:00:00Z |E: +1996-03-30T00:00:00Z",
+                    "Muhammad Habibur Rahman |S: +1996-03-30T00:00:00Z |E: +1996-06-23T00:00:00Z",
+                    "Sheikh Hasina |S: +1996-06-23T00:00:00Z |E: +2001-07-15T00:00:00Z",
+                    "Latifur Rahman |S: +2001-07-15T00:00:00Z |E: +2001-10-10T00:00:00Z",
+                    "Khaleda Zia |S: +2001-10-10T00:00:00Z |E: +2006-10-29T00:00:00Z",
+                    "Iajuddin Ahmed |S: +2006-10-29T00:00:00Z |E: +2007-01-11T00:00:00Z",
+                    "Fazlul Haque |S: +2007-01-11T00:00:00Z |E: +2007-01-12T00:00:00Z",
+                    "Fakhruddin Ahmed |S: +2007-01-12T00:00:00Z |E: +2009-01-06T00:00:00Z",
+                    "Sheikh Hasina |S: +2009-01-06T00:00:00Z |E: +2024-08-05T00:00:00Z",
+                    "Muhammad Yunus |S: +2024-08-08T00:00:00Z"
+                ],
+                "ground_truth": "Muhammad Habibur Rahman",
+                "ranking_qa": {
+                    "generic": "Muhammad Habibur Rahman and Fakhruddin Ahmed both served as the prime ministers of Bangladesh before. Do you know which one of them the former prime minister was?",
+                    "rephrased_1": "Muhammad Habibur Rahman and Fakhruddin Ahmed both served as the prime ministers of Bangladesh before. Do you know which one of them the former prime minister was?",
+                    "rephrased_2": "Bangladesh had Muhammad Habibur Rahman and Fakhruddin Ahmed as former prime ministers. Can you identify which one the former prime minister was?",
+                    "rephrased_3": "Muhammad Habibur Rahman and Fakhruddin Ahmed previously held the position of the prime minister of Bangladesh. Which of them served as the former prime minister?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 15 March 2008, Fakhruddin Ahmed was the prime minister of Bangladesh. So, who held this position 4339 days before?",
+                    "rephrased_1": "On 15 March 2008, Fakhruddin Ahmed was the prime minister of Bangladesh. So, who held this position 4339 days before?",
+                    "rephrased_2": "Fakhruddin Ahmed was Bangladesh's prime minister on 15 March 2008. Do you know who was in this role before 4339 days?",
+                    "rephrased_3": "Fakhruddin Ahmed served as the prime minister of Bangladesh on 15 March 2008. Can you identify who occupied this position before 4339 days?"
+                }
+            }
+        },
+        "China": {
+            "Premier of the People's Republic of China": {
+                "answers": [
+                    "Li Keqiang |S: +2013-03-15T00:00:00Z |E: +2023-03-11T00:00:00Z",
+                    "Wen Jiabao |S: +2003-03-16T00:00:00Z |E: +2013-03-15T00:00:00Z",
+                    "Zhu Rongji |S: +1998-03-17T00:00:00Z |E: +2003-03-16T00:00:00Z",
+                    "Li Peng |S: +1987-11-24T00:00:00Z |E: +1998-03-17T00:00:00Z",
+                    "Zhao Ziyang |S: +1980-09-10T00:00:00Z |E: +1987-11-24T00:00:00Z",
+                    "Hua Guofeng |S: +1976-02-04T00:00:00Z |E: +1980-09-10T00:00:00Z",
+                    "Zhou Enlai |S: +1949-10-01T00:00:00Z |E: +1976-01-08T00:00:00Z",
+                    "Li Qiang |S: +2023-03-11T00:00:00Z"
+                ],
+                "ground_truth": "Zhao Ziyang",
+                "ranking_qa": {
+                    "generic": "Zhao Ziyang and Li Peng both served as the premiers of China before. Do you know which one of them the former premier was?",
+                    "rephrased_1": "Zhao Ziyang and Li Peng both served as the premiers of China before. Do you know which one of them the former premier was?",
+                    "rephrased_2": "China had Zhao Ziyang and Li Peng as former premiers. Can you identify which one the former premier was?",
+                    "rephrased_3": "Zhao Ziyang and Li Peng previously held the position of the premier of China. Which of them served as the former premier?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 17 November 1990, Li Peng was the premier of China. So, who held this position 1344 days before?",
+                    "rephrased_1": "On 17 November 1990, Li Peng was the premier of China. So, who held this position 1344 days before?",
+                    "rephrased_2": "Li Peng was China's premier on 17 November 1990. Do you know who was in this role before 1344 days?",
+                    "rephrased_3": "Li Peng served as the premier of China on 17 November 1990. Can you identify who occupied this position before 1344 days?"
+                }
+            }
+        }
+    },
+    "athletes_byPayment": {
+        "LeBron James": {
+            "answers": [
+                "Cleveland Cavaliers |S: +2003-06-26T00:00:00Z |E: +2010-07-10T00:00:00Z",
+                "Miami Heat |S: +2010-07-10T00:00:00Z |E: +2014-06-25T00:00:00Z",
+                "Cleveland Cavaliers |S: +2014-06-25T00:00:00Z |E: +2018-07-01T00:00:00Z",
+                "Los Angeles Lakers |S: +2018-07-01T00:00:00Z"
+            ],
+            "ground_truth": "Miami Heat",
+            "ranking_qa": {
+                "generic": "Miami Heat and Cleveland Cavaliers were both LeBron James's basketball teams before, so which team between them was the former one LeBron James played for?",
+                "rephrased_1": "Miami Heat and Cleveland Cavaliers were both LeBron James's basketball teams before, so which team between them was the former one LeBron James played for?",
+                "rephrased_2": "LeBron James has joined Miami Heat and Cleveland Cavaliers basketball teams before. Can you identify which team between them was the former one LeBron James played for?",
+                "rephrased_3": "LeBron James previously played for Miami Heat and Cleveland Cavaliers basketball teams. Which team between them did LeBron James formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 9 December 2017, LeBron James played for Cleveland Cavaliers. So, before 1312 days, which basketball team did LeBron James play for?",
+                "rephrased_1": "On 9 December 2017, LeBron James played for Cleveland Cavaliers. So, before 1312 days, which basketball team did LeBron James play for?",
+                "rephrased_2": "Cleveland Cavaliers was LeBron James's basketball team on 9 December 2017. Can you identify which basketball team LeBron James belongs to before 1312 days?",
+                "rephrased_3": "LeBron James played for Cleveland Cavaliers on 9 December 2017. Do you know which basketball team LeBron James played for before 1312 days?"
+            }
+        }
+    },
+    "organizations": {
+        "Jamia Millia Islamia": {
+            "Chancellor": {
+                "answers": [
+                    "Maulana Mohammad Ali |S: +1920-01-01T00:00:00Z |E: +1923-01-01T00:00:00Z",
+                    "Abdul Majeed Khwaja |S: +1923-01-01T00:00:00Z |E: +1925-01-01T00:00:00Z",
+                    "Zakir Husain |S: +1926-01-01T00:00:00Z |E: +1948-01-01T00:00:00Z",
+                    "Mohammad Mujeeb |S: +1948-01-01T00:00:00Z |E: +1973-01-01T00:00:00Z",
+                    "Masud Husain Khan |S: +1973-01-01T00:00:00Z |E: +1978-01-01T00:00:00Z",
+                    "Anwar Jamal Kidwai |S: +1978-01-01T00:00:00Z |E: +1983-01-01T00:00:00Z",
+                    "Ali Ashraf |S: +1983-01-01T00:00:00Z |E: +1989-01-01T00:00:00Z",
+                    "Zahoor Qasim |S: +1989-01-01T00:00:00Z |E: +1991-01-01T00:00:00Z",
+                    "Mohammad Ahmed Zaki |S: +1997-01-01T00:00:00Z |E: +2000-01-01T00:00:00Z",
+                    "Mushirul Hasan |S: +2004-01-01T00:00:00Z |E: +2009-01-01T00:00:00Z",
+                    "Najeeb Jung |S: +2009-01-01T00:00:00Z |E: +2013-01-01T00:00:00Z",
+                    "Talat Ahmad |S: +2014-01-01T00:00:00Z |E: +2018-01-01T00:00:00Z",
+                    "Najma Akhtar |S: +2019-01-01T00:00:00Z |E: +2023-01-01T00:00:00Z",
+                    "Mazhar Asif |S: +2024-01-01T00:00:00Z"
+                ],
+                "ground_truth": "Mohammad Mujeeb",
+                "ranking_qa": {
+                    "generic": "Mohammad Mujeeb and Ali Ashraf both served as the chancellors of the Jamia Millia Islamia before. Do you know which one of them the former chancellor was?",
+                    "rephrased_1": "Mohammad Mujeeb and Ali Ashraf both served as the chancellors of the Jamia Millia Islamia before. Do you know which one of them the former chancellor was?",
+                    "rephrased_2": "the Jamia Millia Islamia had Mohammad Mujeeb and Ali Ashraf as former chancellors. Can you identify which one the former chancellor was?",
+                    "rephrased_3": "Mohammad Mujeeb and Ali Ashraf previously held the position of the chancellor of the Jamia Millia Islamia. Which of them served as the former chancellor?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 25 January 1986, Ali Ashraf was the chancellor of the Jamia Millia Islamia. So, who held this position 6205 days before?",
+                    "rephrased_1": "On 25 January 1986, Ali Ashraf was the chancellor of the Jamia Millia Islamia. So, who held this position 6205 days before?",
+                    "rephrased_2": "Ali Ashraf was the Jamia Millia Islamia's chancellor on 25 January 1986. Do you know who was in this role before 6205 days?",
+                    "rephrased_3": "Ali Ashraf served as the chancellor of the Jamia Millia Islamia on 25 January 1986. Can you identify who occupied this position before 6205 days?"
+                }
+            }
+        },
+        "Birzeit University": {
+            "President": {
+                "answers": [
+                    "Abdul Latif Abu Hijleh |S: +2018-08-01T00:00:00Z |E: +2021-01-01T00:00:00Z",
+                    "Beshara Doumani |S: +2021-01-01T00:00:00Z |E: +2023-08-01T00:00:00Z",
+                    "Gabi Baramki |S: +1974-01-01T00:00:00Z |E: +1993-01-01T00:00:00Z",
+                    "Hannah Nasir |S: +2023-08-01T00:00:00Z"
+                ],
+                "ground_truth": "Gabi Baramki",
+                "ranking_qa": {
+                    "generic": "Gabi Baramki and Beshara Doumani both served as the presidents of the Birzeit University before. Do you know which one of them the former president was?",
+                    "rephrased_1": "Gabi Baramki and Beshara Doumani both served as the presidents of the Birzeit University before. Do you know which one of them the former president was?",
+                    "rephrased_2": "the Birzeit University had Gabi Baramki and Beshara Doumani as former presidents. Can you identify which one the former president was?",
+                    "rephrased_3": "Gabi Baramki and Beshara Doumani previously held the position of the president of the Birzeit University. Which of them served as the former president?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 18 May 2022, Beshara Doumani was the president of the Birzeit University. So, who held this position 15359 days before?",
+                    "rephrased_1": "On 18 May 2022, Beshara Doumani was the president of the Birzeit University. So, who held this position 15359 days before?",
+                    "rephrased_2": "Beshara Doumani was the Birzeit University's president on 18 May 2022. Do you know who was in this role before 15359 days?",
+                    "rephrased_3": "Beshara Doumani served as the president of the Birzeit University on 18 May 2022. Can you identify who occupied this position before 15359 days?"
+                }
+            }
+        }
+    }
+}

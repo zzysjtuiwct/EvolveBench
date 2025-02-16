@@ -1,0 +1,72 @@
+{
+    "average": {
+        "match_correct_answer": {
+            "num": 262,
+            "percent": 53.25
+        },
+        "match_other_answer": {
+            "num": 84,
+            "percent": 17.07
+        },
+        "irrelevant": {
+            "num": 146,
+            "percent": 29.67
+        }
+    },
+    "companies_byRevenue": {
+        "match_correct_answer": {
+            "percent": 40.74,
+            "num": 44
+        },
+        "irrelevant": {
+            "percent": 42.59,
+            "num": 46
+        },
+        "match_other_answer": {
+            "percent": 16.67,
+            "num": 18
+        }
+    },
+    "countries_byGDP": {
+        "match_correct_answer": {
+            "percent": 76.5,
+            "num": 179
+        },
+        "irrelevant": {
+            "percent": 14.53,
+            "num": 34
+        },
+        "match_other_answer": {
+            "percent": 8.97,
+            "num": 21
+        }
+    },
+    "athletes_byPayment": {
+        "match_correct_answer": {
+            "percent": 32.1,
+            "num": 26
+        },
+        "irrelevant": {
+            "percent": 14.81,
+            "num": 12
+        },
+        "match_other_answer": {
+            "percent": 53.09,
+            "num": 43
+        }
+    },
+    "organizations": {
+        "match_correct_answer": {
+            "percent": 18.84,
+            "num": 13
+        },
+        "irrelevant": {
+            "percent": 78.26,
+            "num": 54
+        },
+        "match_other_answer": {
+            "percent": 2.9,
+            "num": 2
+        }
+    }
+}

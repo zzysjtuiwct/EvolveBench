@@ -1,0 +1,50 @@
+{
+    "companies_byRevenue": {},
+    "countries_byGDP": {
+        "Denmark": {
+            "monarch of Denmark": {
+                "answers": [
+                    "Margrethe II of Denmark |S: +1972-01-14T00:00:00Z |E: +2024-01-14T00:00:00Z",
+                    "Frederick IX of Denmark |S: +1947-04-20T00:00:00Z |E: +1972-01-14T00:00:00Z",
+                    "Christian X of Denmark |S: +1912-05-14T00:00:00Z |E: +1947-04-20T00:00:00Z",
+                    "Frederick VIII of Denmark |S: +1906-01-29T00:00:00Z |E: +1912-05-14T00:00:00Z",
+                    "Christian IX of Denmark |S: +1863-11-15T00:00:00Z |E: +1906-01-29T00:00:00Z",
+                    "Frederick VII of Denmark |S: +1848-01-20T00:00:00Z |E: +1863-11-15T00:00:00Z",
+                    "Christian VIII of Denmark |S: +1839-12-03T00:00:00Z |E: +1848-01-20T00:00:00Z",
+                    "Frederick VI of Denmark |S: +1808-03-13T00:00:00Z |E: +1839-12-03T00:00:00Z",
+                    "Christian VII of Denmark |S: +1766-01-14T00:00:00Z |E: +1808-03-13T00:00:00Z",
+                    "Frederick V of Denmark |S: +1746-08-06T00:00:00Z |E: +1766-01-14T00:00:00Z",
+                    "Christian VI of Denmark |S: +1730-10-12T00:00:00Z |E: +1746-08-06T00:00:00Z",
+                    "Frederick IV of Denmark |S: +1699-08-25T00:00:00Z |E: +1730-10-12T00:00:00Z",
+                    "Christian V of Denmark |S: +1670-02-09T00:00:00Z |E: +1699-08-25T00:00:00Z",
+                    "Frederick III of Denmark |S: +1648-07-06T00:00:00Z |E: +1670-02-09T00:00:00Z",
+                    "Christian IV of Denmark |S: +1588-04-04T00:00:00Z |E: +1648-02-28T00:00:00Z",
+                    "Frederick II of Denmark |S: +1559-01-01T00:00:00Z |E: +1588-04-04T00:00:00Z",
+                    "Christian III of Denmark |S: +1534-07-04T00:00:00Z |E: +1559-01-01T00:00:00Z",
+                    "Frederick I of Denmark |S: +1523-04-13T00:00:00Z |E: +1533-04-10T00:00:00Z",
+                    "Christian II of Denmark |S: +1513-02-20T00:00:00Z |E: +1523-04-13T00:00:00Z",
+                    "John, King of Denmark |S: +1481-05-21T00:00:00Z |E: +1513-02-20T00:00:00Z",
+                    "Christian I of Denmark |S: +1448-09-01T00:00:00Z |E: +1481-05-21T00:00:00Z",
+                    "Christopher of Bavaria |S: +1440-04-09T00:00:00Z |E: +1448-01-06T00:00:00Z",
+                    "Eric of Pomerania |S: +1396-01-01T00:00:00Z |E: +1439-01-01T00:00:00Z",
+                    "Frederik X |S: +2024-01-14T00:00:00Z"
+                ],
+                "ground_truth": "John, King of Denmark",
+                "ranking_qa": {
+                    "generic": "The monarchs of Denmark on 25 July 1491 and 3 January 1987 were John, King of Denmark and Margrethe II of Denmark, so who was the former monarch?",
+                    "rephrased_1": "The monarchs of Denmark on 25 July 1491 and 3 January 1987 were John, King of Denmark and Margrethe II of Denmark, so who was the former monarch?",
+                    "rephrased_2": "John, King of Denmark and Margrethe II of Denmark served as the monarchs of Denmark on 25 July 1491 and 3 January 1987, respectively. Can you identify which one the former monarch was?",
+                    "rephrased_3": "On 25 July 1491, John, King of Denmark was the monarch of Denmark, while Margrethe II of Denmark held the position on 3 January 1987. Which of them served as the former monarch?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 3 January 1987, Margrethe II of Denmark was the monarch of Denmark. So, who held this position 180957 days before?",
+                    "rephrased_1": "On 3 January 1987, Margrethe II of Denmark was the monarch of Denmark. So, who held this position 180957 days before?",
+                    "rephrased_2": "Margrethe II of Denmark was Denmark's monarch on 3 January 1987. Do you know who was in this role before 180957 days?",
+                    "rephrased_3": "Margrethe II of Denmark served as the monarch of Denmark on 3 January 1987. Can you identify who occupied this position before 180957 days?"
+                }
+            }
+        }
+    },
+    "athletes_byPayment": {},
+    "organizations": {}
+}

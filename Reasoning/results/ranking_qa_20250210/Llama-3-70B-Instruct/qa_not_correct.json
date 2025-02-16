@@ -1,0 +1,220 @@
+{
+    "companies_byRevenue": {},
+    "countries_byGDP": {
+        "Australia": {
+            "monarch of Australia": {
+                "answers": [
+                    "Elizabeth II |S: +1952-02-06T00:00:00Z |E: +2022-09-08T00:00:00Z",
+                    "Quentin Bryce |S: +2008-09-05T00:00:00Z |E: +2014-03-27T00:00:00Z",
+                    "Michael Jeffery |S: +2003-08-11T00:00:00Z |E: +2008-09-04T00:00:00Z",
+                    "Peter Hollingworth |S: +2001-06-29T00:00:00Z |E: +2003-05-29T00:00:00Z",
+                    "William Deane |S: +1996-02-16T00:00:00Z |E: +2001-06-28T00:00:00Z",
+                    "Bill Hayden |S: +1989-02-16T00:00:00Z |E: +1996-02-15T00:00:00Z",
+                    "Ninian Stephen |S: +1982-07-29T00:00:00Z |E: +1989-02-15T00:00:00Z",
+                    "Zelman Cowen |S: +1977-12-08T00:00:00Z |E: +1982-07-28T00:00:00Z",
+                    "John Kerr |S: +1974-07-11T00:00:00Z |E: +1977-12-07T00:00:00Z",
+                    "Paul Hasluck |S: +1969-04-30T00:00:00Z |E: +1974-07-10T00:00:00Z",
+                    "Richard Casey, Baron Casey |S: +1965-05-07T00:00:00Z |E: +1969-04-29T00:00:00Z",
+                    "William Sidney, 1st Viscount De L'Isle |S: +1961-08-03T00:00:00Z |E: +1965-05-06T00:00:00Z",
+                    "William Morrison, 1st Viscount Dunrossil |S: +1960-02-02T00:00:00Z |E: +1961-08-02T00:00:00Z",
+                    "William Slim, 1st Viscount Slim |S: +1953-05-08T00:00:00Z |E: +1960-02-01T00:00:00Z",
+                    "Bill McKell |S: +1947-03-11T00:00:00Z |E: +1953-05-07T00:00:00Z",
+                    "Charles III of the United Kingdom |S: +2022-09-08T00:00:00Z"
+                ],
+                "ground_truth": "Paul Hasluck",
+                "ranking_qa": {
+                    "generic": "Paul Hasluck and Peter Hollingworth both served as the monarchs of Australia before. Do you know which one of them the former monarch was?",
+                    "rephrased_1": "Paul Hasluck and Peter Hollingworth both served as the monarchs of Australia before. Do you know which one of them the former monarch was?",
+                    "rephrased_2": "Australia had Paul Hasluck and Peter Hollingworth as former monarchs. Can you identify which one the former monarch was?",
+                    "rephrased_3": "Paul Hasluck and Peter Hollingworth previously held the position of the monarch of Australia. Which of them served as the former monarch?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 16 January 2003, Peter Hollingworth was the monarch of Australia. So, who held this position 12129 days before?",
+                    "rephrased_1": "On 16 January 2003, Peter Hollingworth was the monarch of Australia. So, who held this position 12129 days before?",
+                    "rephrased_2": "Peter Hollingworth was Australia's monarch on 16 January 2003. Do you know who was in this role before 12129 days?",
+                    "rephrased_3": "Peter Hollingworth served as the monarch of Australia on 16 January 2003. Can you identify who occupied this position before 12129 days?"
+                }
+            }
+        },
+        "Sweden": {
+            "Monarch of Sweden": {
+                "answers": [
+                    "Carl XVI Gustaf of Sweden |S: +1973-09-15T00:00:00Z",
+                    "Gustaf VI Adolf of Sweden |S: +1950-10-29T00:00:00Z |E: +1973-09-15T00:00:00Z",
+                    "Gustaf V of Sweden |S: +1907-12-08T00:00:00Z |E: +1950-10-29T00:00:00Z",
+                    "Oscar II of Sweden |S: +1872-09-18T00:00:00Z |E: +1907-12-08T00:00:00Z",
+                    "Charles XV of Sweden |S: +1859-07-08T00:00:00Z |E: +1872-09-18T00:00:00Z",
+                    "Oscar I of Sweden |S: +1844-03-08T00:00:00Z |E: +1859-07-08T00:00:00Z",
+                    "Charles XIV John of Sweden |S: +1818-02-05T00:00:00Z |E: +1844-03-08T00:00:00Z"
+                ],
+                "ground_truth": "Oscar I of Sweden",
+                "ranking_qa": {
+                    "generic": "Oscar I of Sweden and Gustaf VI Adolf of Sweden both served as the monarchs of Sweden before. Do you know which one of them the former monarch was?",
+                    "rephrased_1": "Oscar I of Sweden and Gustaf VI Adolf of Sweden both served as the monarchs of Sweden before. Do you know which one of them the former monarch was?",
+                    "rephrased_2": "Sweden had Oscar I of Sweden and Gustaf VI Adolf of Sweden as former monarchs. Can you identify which one the former monarch was?",
+                    "rephrased_3": "Oscar I of Sweden and Gustaf VI Adolf of Sweden previously held the position of the monarch of Sweden. Which of them served as the former monarch?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 13 August 1961, Gustaf VI Adolf of Sweden was the monarch of Sweden. So, who held this position 41190 days before?",
+                    "rephrased_1": "On 13 August 1961, Gustaf VI Adolf of Sweden was the monarch of Sweden. So, who held this position 41190 days before?",
+                    "rephrased_2": "Gustaf VI Adolf of Sweden was Sweden's monarch on 13 August 1961. Do you know who was in this role before 41190 days?",
+                    "rephrased_3": "Gustaf VI Adolf of Sweden served as the monarch of Sweden on 13 August 1961. Can you identify who occupied this position before 41190 days?"
+                }
+            }
+        }
+    },
+    "athletes_byPayment": {
+        "Carlos Sainz Jr.": {
+            "answers": [
+                "McLaren |S: +2019-00-00T00:00:00Z |E: +2020-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2017-00-00T00:00:00Z |E: +2018-00-00T00:00:00Z",
+                "Scuderia Toro Rosso |S: +2015-00-00T00:00:00Z |E: +2017-00-00T00:00:00Z",
+                "Scuderia Ferrari |S: +2021-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Renault F1 Team",
+            "ranking_qa": {
+                "generic": "Scuderia Toro Rosso and Renault F1 Team were both Carlos Sainz Jr.'s Formula 1 teams before, so which team between them was the latter one Carlos Sainz Jr. drove for?",
+                "rephrased_1": "Scuderia Toro Rosso and Renault F1 Team were both Carlos Sainz Jr.'s Formula 1 teams before, so which team between them was the latter one Carlos Sainz Jr. drove for?",
+                "rephrased_2": "Carlos Sainz Jr. has joined Scuderia Toro Rosso and Renault F1 Team Formula 1 teams before. Can you identify which team between them was the latter one Carlos Sainz Jr. drove for?",
+                "rephrased_3": "Carlos Sainz Jr. previously drove for Scuderia Toro Rosso and Renault F1 Team Formula 1 teams. Which team between them did Carlos Sainz Jr. latterly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 6 May 2015, Carlos Sainz Jr. drove for Scuderia Toro Rosso. So, after 820 days, which Formula 1 team did Carlos Sainz Jr. drive for?",
+                "rephrased_1": "On 6 May 2015, Carlos Sainz Jr. drove for Scuderia Toro Rosso. So, after 820 days, which Formula 1 team did Carlos Sainz Jr. drive for?",
+                "rephrased_2": "Scuderia Toro Rosso was Carlos Sainz Jr.'s Formula 1 team on 6 May 2015. Can you identify which Formula 1 team Carlos Sainz Jr. belongs to after 820 days?",
+                "rephrased_3": "Carlos Sainz Jr. drove for Scuderia Toro Rosso on 6 May 2015. Do you know which Formula 1 team Carlos Sainz Jr. drove for after 820 days?"
+            }
+        },
+        "LeBron James": {
+            "answers": [
+                "Cleveland Cavaliers |S: +2003-06-26T00:00:00Z |E: +2010-07-10T00:00:00Z",
+                "Miami Heat |S: +2010-07-10T00:00:00Z |E: +2014-06-25T00:00:00Z",
+                "Cleveland Cavaliers |S: +2014-06-25T00:00:00Z |E: +2018-07-01T00:00:00Z",
+                "Los Angeles Lakers |S: +2018-07-01T00:00:00Z"
+            ],
+            "ground_truth": "Miami Heat",
+            "ranking_qa": {
+                "generic": "Miami Heat and Cleveland Cavaliers were both LeBron James's basketball teams before, so which team between them was the former one LeBron James played for?",
+                "rephrased_1": "Miami Heat and Cleveland Cavaliers were both LeBron James's basketball teams before, so which team between them was the former one LeBron James played for?",
+                "rephrased_2": "LeBron James has joined Miami Heat and Cleveland Cavaliers basketball teams before. Can you identify which team between them was the former one LeBron James played for?",
+                "rephrased_3": "LeBron James previously played for Miami Heat and Cleveland Cavaliers basketball teams. Which team between them did LeBron James formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 9 December 2017, LeBron James played for Cleveland Cavaliers. So, before 1312 days, which basketball team did LeBron James play for?",
+                "rephrased_1": "On 9 December 2017, LeBron James played for Cleveland Cavaliers. So, before 1312 days, which basketball team did LeBron James play for?",
+                "rephrased_2": "Cleveland Cavaliers was LeBron James's basketball team on 9 December 2017. Can you identify which basketball team LeBron James belongs to before 1312 days?",
+                "rephrased_3": "LeBron James played for Cleveland Cavaliers on 9 December 2017. Do you know which basketball team LeBron James played for before 1312 days?"
+            }
+        },
+        "Bradley Beal": {
+            "answers": [
+                "Florida Gators men's basketball |S: +2011-01-01T00:00:00Z |E: +2012-06-28T00:00:00Z",
+                "Washington Wizards |S: +2012-06-28T00:00:00Z |E: +2023-07-01T00:00:00Z",
+                "Phoenix Suns |S: +2023-07-01T00:00:00Z"
+            ],
+            "ground_truth": "Florida Gators men's basketball",
+            "ranking_qa": {
+                "generic": "Florida Gators men's basketball and Washington Wizards were both Bradley Beal's basketball teams before, so which team between them was the former one Bradley Beal played for?",
+                "rephrased_1": "Florida Gators men's basketball and Washington Wizards were both Bradley Beal's basketball teams before, so which team between them was the former one Bradley Beal played for?",
+                "rephrased_2": "Bradley Beal has joined Florida Gators men's basketball and Washington Wizards basketball teams before. Can you identify which team between them was the former one Bradley Beal played for?",
+                "rephrased_3": "Bradley Beal previously played for Florida Gators men's basketball and Washington Wizards basketball teams. Which team between them did Bradley Beal formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 22 May 2015, Bradley Beal played for Washington Wizards. So, before 1234 days, which basketball team did Bradley Beal play for?",
+                "rephrased_1": "On 22 May 2015, Bradley Beal played for Washington Wizards. So, before 1234 days, which basketball team did Bradley Beal play for?",
+                "rephrased_2": "Washington Wizards was Bradley Beal's basketball team on 22 May 2015. Can you identify which basketball team Bradley Beal belongs to before 1234 days?",
+                "rephrased_3": "Bradley Beal played for Washington Wizards on 22 May 2015. Do you know which basketball team Bradley Beal played for before 1234 days?"
+            }
+        },
+        "Damian Lillard": {
+            "answers": [
+                "Weber State Wildcats men's basketball |S: +2008-01-01T00:00:00Z |E: +2012-07-13T00:00:00Z",
+                "Portland Trail Blazers |S: +2012-07-13T00:00:00Z |E: +2023-09-27T00:00:00Z",
+                "Milwaukee Bucks |S: +2023-09-27T00:00:00Z"
+            ],
+            "ground_truth": "Weber State Wildcats men's basketball",
+            "ranking_qa": {
+                "generic": "Weber State Wildcats men's basketball and Portland Trail Blazers were both Damian Lillard's basketball teams before, so which team between them was the former one Damian Lillard played for?",
+                "rephrased_1": "Weber State Wildcats men's basketball and Portland Trail Blazers were both Damian Lillard's basketball teams before, so which team between them was the former one Damian Lillard played for?",
+                "rephrased_2": "Damian Lillard has joined Weber State Wildcats men's basketball and Portland Trail Blazers basketball teams before. Can you identify which team between them was the former one Damian Lillard played for?",
+                "rephrased_3": "Damian Lillard previously played for Weber State Wildcats men's basketball and Portland Trail Blazers basketball teams. Which team between them did Damian Lillard formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 22 July 2014, Damian Lillard played for Portland Trail Blazers. So, before 1574 days, which basketball team did Damian Lillard play for?",
+                "rephrased_1": "On 22 July 2014, Damian Lillard played for Portland Trail Blazers. So, before 1574 days, which basketball team did Damian Lillard play for?",
+                "rephrased_2": "Portland Trail Blazers was Damian Lillard's basketball team on 22 July 2014. Can you identify which basketball team Damian Lillard belongs to before 1574 days?",
+                "rephrased_3": "Damian Lillard played for Portland Trail Blazers on 22 July 2014. Do you know which basketball team Damian Lillard played for before 1574 days?"
+            }
+        },
+        "Lewis Hamilton": {
+            "answers": [
+                "McLaren |S: +2007-00-00T00:00:00Z |E: +2012-00-00T00:00:00Z",
+                "Mercedes F1 Team |S: +2013-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Mercedes F1 Team",
+            "ranking_qa": {
+                "generic": "McLaren and Mercedes F1 Team were both Lewis Hamilton's Formula 1 teams before, so which team between them was the latter one Lewis Hamilton drove for?",
+                "rephrased_1": "McLaren and Mercedes F1 Team were both Lewis Hamilton's Formula 1 teams before, so which team between them was the latter one Lewis Hamilton drove for?",
+                "rephrased_2": "Lewis Hamilton has joined McLaren and Mercedes F1 Team Formula 1 teams before. Can you identify which team between them was the latter one Lewis Hamilton drove for?",
+                "rephrased_3": "Lewis Hamilton previously drove for McLaren and Mercedes F1 Team Formula 1 teams. Which team between them did Lewis Hamilton latterly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 28 July 2010, Lewis Hamilton drove for McLaren. So, after 5172 days, which Formula 1 team did Lewis Hamilton drive for?",
+                "rephrased_1": "On 28 July 2010, Lewis Hamilton drove for McLaren. So, after 5172 days, which Formula 1 team did Lewis Hamilton drive for?",
+                "rephrased_2": "McLaren was Lewis Hamilton's Formula 1 team on 28 July 2010. Can you identify which Formula 1 team Lewis Hamilton belongs to after 5172 days?",
+                "rephrased_3": "Lewis Hamilton drove for McLaren on 28 July 2010. Do you know which Formula 1 team Lewis Hamilton drove for after 5172 days?"
+            }
+        },
+        "Fernando Alonso": {
+            "answers": [
+                "Renault F1 Team |S: +2002-00-00T00:00:00Z |E: +2006-00-00T00:00:00Z",
+                "McLaren |S: +2007-00-00T00:00:00Z |E: +2007-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2008-00-00T00:00:00Z |E: +2009-00-00T00:00:00Z",
+                "Scuderia Ferrari |S: +2010-00-00T00:00:00Z |E: +2014-00-00T00:00:00Z",
+                "McLaren |S: +2015-00-00T00:00:00Z |E: +2018-00-00T00:00:00Z",
+                "Minardi |S: +2001-00-00T00:00:00Z |E: +2001-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2021-00-00T00:00:00Z |E: +2022-00-00T00:00:00Z",
+                "Aston Martin F1 Team |S: +2023-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Scuderia Ferrari",
+            "ranking_qa": {
+                "generic": "Scuderia Ferrari and McLaren were both Fernando Alonso's Formula 1 teams before, so which team between them was the former one Fernando Alonso drove for?",
+                "rephrased_1": "Scuderia Ferrari and McLaren were both Fernando Alonso's Formula 1 teams before, so which team between them was the former one Fernando Alonso drove for?",
+                "rephrased_2": "Fernando Alonso has joined Scuderia Ferrari and McLaren Formula 1 teams before. Can you identify which team between them was the former one Fernando Alonso drove for?",
+                "rephrased_3": "Fernando Alonso previously drove for Scuderia Ferrari and McLaren Formula 1 teams. Which team between them did Fernando Alonso formerly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 11 October 2015, Fernando Alonso drove for McLaren. So, before 1096 days, which Formula 1 team did Fernando Alonso drive for?",
+                "rephrased_1": "On 11 October 2015, Fernando Alonso drove for McLaren. So, before 1096 days, which Formula 1 team did Fernando Alonso drive for?",
+                "rephrased_2": "McLaren was Fernando Alonso's Formula 1 team on 11 October 2015. Can you identify which Formula 1 team Fernando Alonso belongs to before 1096 days?",
+                "rephrased_3": "Fernando Alonso drove for McLaren on 11 October 2015. Do you know which Formula 1 team Fernando Alonso drove for before 1096 days?"
+            }
+        }
+    },
+    "organizations": {
+        "North Atlantic Treaty Organization": {
+            "headquarters location": {
+                "answers": [
+                    "City of Brussels |S: +1967-10-16T00:00:00Z |E: +2017-05-25T00:00:00Z",
+                    "16th arrondissement of Paris |S: +1959-12-16T00:00:00Z |E: +1967-00-00T00:00:00Z",
+                    "London |S: +1950-00-00T00:00:00Z |E: +1952-04-15T00:00:00Z",
+                    "Palais de Chaillot |S: +1952-04-16T00:00:00Z |E: +1959-12-15T00:00:00Z",
+                    "City of Brussels |S: +2017-05-25T00:00:00Z"
+                ],
+                "ground_truth": "London",
+                "ranking_qa": {
+                    "generic": "London and Palais de Chaillot both served as the headquarters locations of the North Atlantic Treaty Organization before. Do you know which one of them the former headquarters location was?",
+                    "rephrased_1": "London and Palais de Chaillot both served as the headquarters locations of the North Atlantic Treaty Organization before. Do you know which one of them the former headquarters location was?",
+                    "rephrased_2": "the North Atlantic Treaty Organization had London and Palais de Chaillot as former headquarters locations. Can you identify which one the former headquarters location was?",
+                    "rephrased_3": "London and Palais de Chaillot previously held the position of the headquarters location of the North Atlantic Treaty Organization. Which of them served as the former headquarters location?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 25 December 1958, Palais de Chaillot was the headquarters location of the North Atlantic Treaty Organization. So, who held this position 2955 days before?",
+                    "rephrased_1": "On 25 December 1958, Palais de Chaillot was the headquarters location of the North Atlantic Treaty Organization. So, who held this position 2955 days before?",
+                    "rephrased_2": "Palais de Chaillot was the North Atlantic Treaty Organization's headquarters location on 25 December 1958. Do you know who was in this role before 2955 days?",
+                    "rephrased_3": "Palais de Chaillot served as the headquarters location of the North Atlantic Treaty Organization on 25 December 1958. Can you identify who occupied this position before 2955 days?"
+                }
+            }
+        }
+    }
+}

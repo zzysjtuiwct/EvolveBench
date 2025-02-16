@@ -1,0 +1,506 @@
+{
+    "Walmart": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 1 January 1964, Sam Walton was the Chief Executive Officer of Walmart. So, who held this position 31 years later?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 1 January 1964, Sam Walton was the Chief Executive Officer of Walmart. So, who held this position 31 years later?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Sam Walton was Walmart's Chief Executive Officer on 1 January 1964. Do you know who was in this role after 31 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Sam Walton served as the Chief Executive Officer of Walmart on 1 January 1964. Can you identify who occupied this position after 31 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Sam Walton",
+            "rephrased_1": "Sam Walton",
+            "rephrased_2": "David Glass",
+            "rephrased_3": "David Glass"
+        }
+    },
+    "Saudi Aramco": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 17 August 2014, Khalid A. Al-Falih was the Chief Executive Officer of Saudi Aramco. So, who held this position 7 years later?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 17 August 2014, Khalid A. Al-Falih was the Chief Executive Officer of Saudi Aramco. So, who held this position 7 years later?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Khalid A. Al-Falih was Saudi Aramco's Chief Executive Officer on 17 August 2014. Do you know who was in this role after 7 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Khalid A. Al-Falih served as the Chief Executive Officer of Saudi Aramco on 17 August 2014. Can you identify who occupied this position after 7 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Khalid A. Al-Falih",
+            "rephrased_1": "Khalid A. Al-Falih",
+            "rephrased_2": "Amin H. Nasser",
+            "rephrased_3": "Based on my knowledge, Khalid A. Al-Falih was succeeded by Amin H. Nasser as the Chief Executive Officer of Saudi Aramco on May 1, 2015, which is less than 7 years after Al-Falih's appointment. Therefore, the answer to the question is \"Amin H. Nasser.\""
+        }
+    },
+    "Amazon": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 25 July 2016, Jeff Bezos was the Chief Executive Officer of Amazon. So, who held this position 7 years later?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 25 July 2016, Jeff Bezos was the Chief Executive Officer of Amazon. So, who held this position 7 years later?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Jeff Bezos was Amazon's Chief Executive Officer on 25 July 2016. Do you know who was in this role after 7 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Jeff Bezos served as the Chief Executive Officer of Amazon on 25 July 2016. Can you identify who occupied this position after 7 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Jeff Bezos",
+            "rephrased_1": "Jeff Bezos",
+            "rephrased_2": "Jeff Bezos",
+            "rephrased_3": "Sure!\n\nJeff Bezos"
+        }
+    },
+    "ExxonMobil": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 28 December 2004, Lee Raymond was the Chief Executive Officer of ExxonMobil. So, who held this position 10 years later?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 28 December 2004, Lee Raymond was the Chief Executive Officer of ExxonMobil. So, who held this position 10 years later?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Lee Raymond was ExxonMobil's Chief Executive Officer on 28 December 2004. Do you know who was in this role after 10 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Lee Raymond served as the Chief Executive Officer of ExxonMobil on 28 December 2004. Can you identify who occupied this position after 10 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Rex Tillerson",
+            "rephrased_1": "Rex Tillerson",
+            "rephrased_2": "Darren Woods",
+            "rephrased_3": "Darren Woods"
+        }
+    },
+    "Apple": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 2 October 1998, Steve Jobs was the Chief Executive Officer of Apple. So, who held this position 5 years before?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 2 October 1998, Steve Jobs was the Chief Executive Officer of Apple. So, who held this position 5 years before?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Steve Jobs was Apple's Chief Executive Officer on 2 October 1998. Do you know who was in this role before 5 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Steve Jobs served as the Chief Executive Officer of Apple on 2 October 1998. Can you identify who occupied this position before 5 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Steve Jobs",
+            "rephrased_1": "Steve Jobs",
+            "rephrased_2": "John Sculley",
+            "rephrased_3": "Sure! The person who occupied the position of Chief Executive Officer of Apple before 5 years of Steve Jobs' tenure was:\n\nJohn Sculley"
+        }
+    },
+    "Shell": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 11 November 2020, Ben van Beurden was the Chief Executive Officer of Shell. So, who held this position 14 years before?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 11 November 2020, Ben van Beurden was the Chief Executive Officer of Shell. So, who held this position 14 years before?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Ben van Beurden was Shell's Chief Executive Officer on 11 November 2020. Do you know who was in this role before 14 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Ben van Beurden served as the Chief Executive Officer of Shell on 11 November 2020. Can you identify who occupied this position before 14 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Jeroen van der Veer",
+            "rephrased_1": "Jeroen van der Veer",
+            "rephrased_2": "Jeroen van der Veer",
+            "rephrased_3": "Jeroen van der Veer"
+        }
+    },
+    "CVS Health": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 21 June 2019, Larry Merlo was the Chief Executive Officer of CVS Health. So, who held this position 3 years later?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 21 June 2019, Larry Merlo was the Chief Executive Officer of CVS Health. So, who held this position 3 years later?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Larry Merlo was CVS Health's Chief Executive Officer on 21 June 2019. Do you know who was in this role after 3 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Larry Merlo served as the Chief Executive Officer of CVS Health on 21 June 2019. Can you identify who occupied this position after 3 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Larry Merlo",
+            "rephrased_1": "Larry Merlo",
+            "rephrased_2": "Sure, I can help you with that!\n\nLarry Merlo was replaced by Karen S. Lynch as CVS Health's Chief Executive Officer on February 1, 2022. Therefore, the answer to your question is:\n\nKaren S. Lynch",
+            "rephrased_3": "Sure!\n\nThe answer to your question is: Karen S. Lynch.\n\nKaren S. Lynch became the CEO of CVS Health on February 1, 2022, succeeding Larry Merlo, who had served in the position since 2014."
+        }
+    },
+    "Volkswagen Group": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 15 October 2016, Matthias M\u00fcller was the Chief Executive Officer of the Volkswagen Group. So, who held this position 63 years before?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 15 October 2016, Matthias M\u00fcller was the Chief Executive Officer of the Volkswagen Group. So, who held this position 63 years before?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Matthias M\u00fcller was the Volkswagen Group's Chief Executive Officer on 15 October 2016. Do you know who was in this role before 63 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Matthias M\u00fcller served as the Chief Executive Officer of the Volkswagen Group on 15 October 2016. Can you identify who occupied this position before 63 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Heinrich Nordhoff",
+            "rephrased_1": "Heinrich Nordhoff",
+            "rephrased_2": "Ferdinand Porsche",
+            "rephrased_3": "Sure! The person who occupied the position of Chief Executive Officer of the Volkswagen Group before Matthias M\u00fcller was Ferdinand Porsche."
+        }
+    },
+    "Alphabet Inc.": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 21 April 2016, Larry Page was the Chief Executive Officer of Alphabet Inc.. So, who held this position 5 years later?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 21 April 2016, Larry Page was the Chief Executive Officer of Alphabet Inc.. So, who held this position 5 years later?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Larry Page was Alphabet Inc.'s Chief Executive Officer on 21 April 2016. Do you know who was in this role after 5 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Larry Page served as the Chief Executive Officer of Alphabet Inc. on 21 April 2016. Can you identify who occupied this position after 5 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Larry Page",
+            "rephrased_1": "Sundar Pichai",
+            "rephrased_2": "Sure, I can answer that!\n\nThe answer to your question is: Sundar Pichai.\n\nSundar Pichai became the CEO of Alphabet Inc. on December 3, 2019, succeeding Larry Page, who stepped down from the role. Therefore, as of 2021, Sundar Pichai is the current CEO of Alphabet Inc.",
+            "rephrased_3": "Sure! The answer to your question is:\n\nSundar Pichai"
+        }
+    },
+    "Toyota": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 2 March 2014, Akio Toyoda was the Chief Executive Officer of Toyota. So, who held this position 5 years before?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 2 March 2014, Akio Toyoda was the Chief Executive Officer of Toyota. So, who held this position 5 years before?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Akio Toyoda was Toyota's Chief Executive Officer on 2 March 2014. Do you know who was in this role before 5 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Akio Toyoda served as the Chief Executive Officer of Toyota on 2 March 2014. Can you identify who occupied this position before 5 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Akio Toyoda",
+            "rephrased_1": "Akio Toyoda",
+            "rephrased_2": "Akio Toyoda",
+            "rephrased_3": "Akio Toyoda"
+        }
+    },
+    "TotalEnergies": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 9 June 1943, Marcel Champin was the Chief Executive Officer of TotalEnergies. So, who held this position 33 years later?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 9 June 1943, Marcel Champin was the Chief Executive Officer of TotalEnergies. So, who held this position 33 years later?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Marcel Champin was TotalEnergies's Chief Executive Officer on 9 June 1943. Do you know who was in this role after 33 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Marcel Champin served as the Chief Executive Officer of TotalEnergies on 9 June 1943. Can you identify who occupied this position after 33 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Jean-Marcel Gauthier",
+            "rephrased_1": "Jean-Marcel Champin",
+            "rephrased_2": "Christophe de Margerie",
+            "rephrased_3": "Jean-Fran\u00e7ois Th\u00e9odore Lamarche"
+        }
+    },
+    "Glencore": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 17 October 2021, Gary Nagle was the Chief Executive Officer of Glencore. So, who held this position 13 years before?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 17 October 2021, Gary Nagle was the Chief Executive Officer of Glencore. So, who held this position 13 years before?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Gary Nagle was Glencore's Chief Executive Officer on 17 October 2021. Do you know who was in this role before 13 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Gary Nagle served as the Chief Executive Officer of Glencore on 17 October 2021. Can you identify who occupied this position before 13 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Ivan Glasenberg",
+            "rephrased_1": "Ivan Glasenberg",
+            "rephrased_2": "Ivan Glasenberg",
+            "rephrased_3": "Ivan Glasenberg"
+        }
+    },
+    "BP": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 24 August 2016, Bob Dudley was the Chief Executive Officer of BP. So, who held this position 5 years later?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 24 August 2016, Bob Dudley was the Chief Executive Officer of BP. So, who held this position 5 years later?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Bob Dudley was BP's Chief Executive Officer on 24 August 2016. Do you know who was in this role after 5 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Bob Dudley served as the Chief Executive Officer of BP on 24 August 2016. Can you identify who occupied this position after 5 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Bob Dudley",
+            "rephrased_1": "Bob Dudley",
+            "rephrased_2": "Bernard Looney",
+            "rephrased_3": "Bernard Looney"
+        }
+    },
+    "Microsoft": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 30 December 1982, Bill Gates was the Chief Executive Officer of Microsoft. So, who held this position 30 years later?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 30 December 1982, Bill Gates was the Chief Executive Officer of Microsoft. So, who held this position 30 years later?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Bill Gates was Microsoft's Chief Executive Officer on 30 December 1982. Do you know who was in this role after 30 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Bill Gates served as the Chief Executive Officer of Microsoft on 30 December 1982. Can you identify who occupied this position after 30 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Satya Nadella",
+            "rephrased_1": "Satya Nadella",
+            "rephrased_2": "Satya Nadella",
+            "rephrased_3": "Satya Nadella"
+        }
+    },
+    "Gazprom": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 24 November 2002, Alexey Miller was the Chief Executive Officer of Gazprom. So, who held this position 6 years before?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 24 November 2002, Alexey Miller was the Chief Executive Officer of Gazprom. So, who held this position 6 years before?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Alexey Miller was Gazprom's Chief Executive Officer on 24 November 2002. Do you know who was in this role before 6 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Alexey Miller served as the Chief Executive Officer of Gazprom on 24 November 2002. Can you identify who occupied this position before 6 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Remarkably, I can help with that!\n\nYour answer: Alexey Miller.\n\nExplanation: If Alexey Miller was the CEO of Gazprom on November 24, 2002, he was also the CEO 6 years before that date, as the question stated.",
+            "rephrased_1": "Removing 6 years from 2002, we get 1996.\n\nAccording to my knowledge, the Chief Executive Officer of Gazprom in 1996 was Viktor Chernomyrdin.\n\nTherefore, the answer is: Viktor Chernomyrdin.",
+            "rephrased_2": "Rem Vyakhirev",
+            "rephrased_3": "Rem Vyakhirev"
+        }
+    },
+    "Mitsubishi": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 23 September 2014, Ken Kobayashi was the Chief Executive Officer of Mitsubishi. So, who held this position 6 years later?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 23 September 2014, Ken Kobayashi was the Chief Executive Officer of Mitsubishi. So, who held this position 6 years later?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Ken Kobayashi was Mitsubishi's Chief Executive Officer on 23 September 2014. Do you know who was in this role after 6 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Ken Kobayashi served as the Chief Executive Officer of Mitsubishi on 23 September 2014. Can you identify who occupied this position after 6 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Ken Kobayashi",
+            "rephrased_1": "Ken Kobayashi",
+            "rephrased_2": "Osamu Masuko",
+            "rephrased_3": "Osamu Masuko"
+        }
+    },
+    "Ford Motor Company": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 20 May 1999, Jacques Nasser was the Chief Executive Officer of the Ford Motor Company. So, who held this position 46 years before?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 20 May 1999, Jacques Nasser was the Chief Executive Officer of the Ford Motor Company. So, who held this position 46 years before?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Jacques Nasser was the Ford Motor Company's Chief Executive Officer on 20 May 1999. Do you know who was in this role before 46 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Jacques Nasser served as the Chief Executive Officer of the Ford Motor Company on 20 May 1999. Can you identify who occupied this position before 46 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Henry Ford II",
+            "rephrased_1": "Henry Ford II",
+            "rephrased_2": "Henry Ford II",
+            "rephrased_3": "Henry Ford II"
+        }
+    },
+    "Intel": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 16 January 2021, Bob Swan was the Chief Executive Officer of Intel. So, who held this position 38 years before?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 16 January 2021, Bob Swan was the Chief Executive Officer of Intel. So, who held this position 38 years before?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Bob Swan was Intel's Chief Executive Officer on 16 January 2021. Do you know who was in this role before 38 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Bob Swan served as the Chief Executive Officer of Intel on 16 January 2021. Can you identify who occupied this position before 38 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Andy Grove",
+            "rephrased_1": "Andy Grove",
+            "rephrased_2": "Gordon Moore",
+            "rephrased_3": "Gordon Moore"
+        }
+    },
+    "Boeing": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 16 June 1978, Thornton Wilson was the Chief Executive Officer of Boeing. So, who held this position 8 years later?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 16 June 1978, Thornton Wilson was the Chief Executive Officer of Boeing. So, who held this position 8 years later?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Thornton Wilson was Boeing's Chief Executive Officer on 16 June 1978. Do you know who was in this role after 8 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Thornton Wilson served as the Chief Executive Officer of Boeing on 16 June 1978. Can you identify who occupied this position after 8 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Frank Shrontz",
+            "rephrased_1": "Frank Shrontz",
+            "rephrased_2": "Frank Shrontz",
+            "rephrased_3": "Frank Shrontz"
+        }
+    },
+    "Google": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 14 January 2014, Larry Page was the Chief Executive Officer of Google. So, who held this position 10 years before?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 14 January 2014, Larry Page was the Chief Executive Officer of Google. So, who held this position 10 years before?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Larry Page was Google's Chief Executive Officer on 14 January 2014. Do you know who was in this role before 10 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Larry Page served as the Chief Executive Officer of Google on 14 January 2014. Can you identify who occupied this position before 10 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Larry Page",
+            "rephrased_1": "Larry Page",
+            "rephrased_2": "Sure, I can answer that!\n\nThe person who was Google's Chief Executive Officer before Larry Page, 10 years prior to January 14, 2014, was Eric Schmidt.",
+            "rephrased_3": "Sure! The person who occupied the position of Chief Executive Officer of Google before Larry Page, 10 years prior to January 14, 2014, was Eric Schmidt."
+        }
+    },
+    "C. & J. Clark International Ltd": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 26 March 1877, William Clark was the Chief Executive Officer of C. & J. Clark International Ltd. So, who held this position 141 years later?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 26 March 1877, William Clark was the Chief Executive Officer of C. & J. Clark International Ltd. So, who held this position 141 years later?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: William Clark was C. & J. Clark International Ltd's Chief Executive Officer on 26 March 1877. Do you know who was in this role after 141 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: William Clark served as the Chief Executive Officer of C. & J. Clark International Ltd on 26 March 1877. Can you identify who occupied this position after 141 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "The answer to the question is:\n\nVictor Herrero\n\nExplanation:\n\nVictor Herrero has been the Chief Executive Officer of C. & J. Clark International Ltd. since 2017, which is 141 years after William Clark held the position.",
+            "rephrased_1": "Victoria Clark",
+            "rephrased_2": "Jonathon Church.",
+            "rephrased_3": "Daniel Adamson.\n\nExplanation:\n\nWilliam Clark served as the Chief Executive Officer of C. & J. Clark International Ltd on March 26, 1877. After 141 years, the company has had several CEOs. However, I can provide the name of the current CEO, Daniel Adamson, who has been in the position since 2017."
+        }
+    },
+    "7-Eleven Japan": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 5 March 1973, Masatoshi Ito was the Chief Executive Officer of 7-Eleven Japan. So, who held this position 43 years later?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 5 March 1973, Masatoshi Ito was the Chief Executive Officer of 7-Eleven Japan. So, who held this position 43 years later?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Masatoshi Ito was 7-Eleven Japan's Chief Executive Officer on 5 March 1973. Do you know who was in this role after 43 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Masatoshi Ito served as the Chief Executive Officer of 7-Eleven Japan on 5 March 1973. Can you identify who occupied this position after 43 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Masatoshi Ito",
+            "rephrased_1": "Masatoshi Ito",
+            "rephrased_2": "Masatoshi Ito",
+            "rephrased_3": "Sure! The answer to your question is:\n\nMasato Ishii"
+        }
+    },
+    "MTR Corporation Limited": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 7 January 2009, Chow Chung-kong was the Chief Executive Officer of the MTR Corporation Limited. So, who held this position 5 years later?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 7 January 2009, Chow Chung-kong was the Chief Executive Officer of the MTR Corporation Limited. So, who held this position 5 years later?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Chow Chung-kong was the MTR Corporation Limited's Chief Executive Officer on 7 January 2009. Do you know who was in this role after 5 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Chow Chung-kong served as the Chief Executive Officer of the MTR Corporation Limited on 7 January 2009. Can you identify who occupied this position after 5 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Cedric Yen.\n\nExplanation: Cedric Yen became the CEO of MTR Corporation Limited in 2014, succeeding Chow Chung-kong.",
+            "rephrased_1": "Cedric Yen.\n\nExplanation:\n\nCedric Yen became the Chief Executive Officer of the MTR Corporation Limited on 1 January 2014, succeeding Chow Chung-kong who stepped down from the position on 31 December 2013.",
+            "rephrased_2": "Jacob Kam.",
+            "rephrased_3": "Sure! The answer to your question is:\n\nJacqueline Lam"
+        }
+    },
+    "Komer\u010dn\u00ed banka": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 6 March 1991, Richard Salzmann was the Chief Executive Officer of Komer\u010dn\u00ed banka. So, who held this position 10 years later?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 6 March 1991, Richard Salzmann was the Chief Executive Officer of Komer\u010dn\u00ed banka. So, who held this position 10 years later?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Richard Salzmann was Komer\u010dn\u00ed banka's Chief Executive Officer on 6 March 1991. Do you know who was in this role after 10 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Richard Salzmann served as the Chief Executive Officer of Komer\u010dn\u00ed banka on 6 March 1991. Can you identify who occupied this position after 10 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Richard Salzmann",
+            "rephrased_1": "Richard Salzmann",
+            "rephrased_2": "Ji\u0159\u00ed Kunert",
+            "rephrased_3": "Sure! After 10 years, the person who occupied the position of Chief Executive Officer of Komer\u010dn\u00ed banka after Richard Salzmann was Ji\u0159\u00ed \u0160mejc. He was appointed as the CEO on March 1, 2001."
+        }
+    },
+    "United Parcel Service": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 6 August 1988, Jack Rogers was the Chief Executive Officer of United Parcel Service. So, who held this position 15 years later?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 6 August 1988, Jack Rogers was the Chief Executive Officer of United Parcel Service. So, who held this position 15 years later?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Jack Rogers was United Parcel Service's Chief Executive Officer on 6 August 1988. Do you know who was in this role after 15 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Jack Rogers served as the Chief Executive Officer of United Parcel Service on 6 August 1988. Can you identify who occupied this position after 15 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Jack Rogers",
+            "rephrased_1": "Jack Rogers",
+            "rephrased_2": "Sure, I can help you with that!\n\nThe answer to your question is: James E. Kelly.\n\nJames E. Kelly became the CEO of United Parcel Service (UPS) on January 1, 2002, succeeding Jack Rogers who had been in the role since 1988.",
+            "rephrased_3": "Sure! The person who occupied the position of Chief Executive Officer of United Parcel Service after 15 years from August 6, 1988, was Michael Eskew. He became the CEO of UPS on January 1, 2003."
+        }
+    },
+    "Unilever": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 28 November 2016, Paul Polman was the Chief Executive Officer of Unilever. So, who held this position 3 years later?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 28 November 2016, Paul Polman was the Chief Executive Officer of Unilever. So, who held this position 3 years later?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Paul Polman was Unilever's Chief Executive Officer on 28 November 2016. Do you know who was in this role after 3 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Paul Polman served as the Chief Executive Officer of Unilever on 28 November 2016. Can you identify who occupied this position after 3 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Paul Polman",
+            "rephrased_1": "Paul Polman",
+            "rephrased_2": "Alan Jope",
+            "rephrased_3": "Alan Jope"
+        }
+    },
+    "Danske Bank": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 15 December 2006, Peter Straarup was the Chief Executive Officer of Danske Bank. So, who held this position 6 years later?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 15 December 2006, Peter Straarup was the Chief Executive Officer of Danske Bank. So, who held this position 6 years later?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Peter Straarup was Danske Bank's Chief Executive Officer on 15 December 2006. Do you know who was in this role after 6 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Peter Straarup served as the Chief Executive Officer of Danske Bank on 15 December 2006. Can you identify who occupied this position after 6 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Peter Straarup",
+            "rephrased_1": "Peter Straarup",
+            "rephrased_2": "Thomas F. Borgen",
+            "rephrased_3": "Thomas F. Borgen"
+        }
+    },
+    "OMV": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 11 September 2007, Wolfgang Ruttenstorfer was the Chief Executive Officer of OMV. So, who held this position 5 years later?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 11 September 2007, Wolfgang Ruttenstorfer was the Chief Executive Officer of OMV. So, who held this position 5 years later?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Wolfgang Ruttenstorfer was OMV's Chief Executive Officer on 11 September 2007. Do you know who was in this role after 5 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Wolfgang Ruttenstorfer served as the Chief Executive Officer of OMV on 11 September 2007. Can you identify who occupied this position after 5 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Gerhard Roiss",
+            "rephrased_1": "Gerhard Roiss",
+            "rephrased_2": "Gerhard Roiss",
+            "rephrased_3": "Gerhard Roiss"
+        }
+    },
+    "United Airlines": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 24 March 2014, Jeff Smisek was the Chief Executive Officer of United Airlines. So, who held this position 4 years later?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 24 March 2014, Jeff Smisek was the Chief Executive Officer of United Airlines. So, who held this position 4 years later?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Jeff Smisek was United Airlines's Chief Executive Officer on 24 March 2014. Do you know who was in this role after 4 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Jeff Smisek served as the Chief Executive Officer of United Airlines on 24 March 2014. Can you identify who occupied this position after 4 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Oscar Munoz",
+            "rephrased_1": "Oscar Munoz",
+            "rephrased_2": "Oscar Munoz",
+            "rephrased_3": "Oscar Munoz"
+        }
+    },
+    "Flytoget AS": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 2 September 2000, Berit Kj\u00f8ll was the Chief Executive Officer of Flytoget AS. So, who held this position 22 years later?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 2 September 2000, Berit Kj\u00f8ll was the Chief Executive Officer of Flytoget AS. So, who held this position 22 years later?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Berit Kj\u00f8ll was Flytoget AS's Chief Executive Officer on 2 September 2000. Do you know who was in this role after 22 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Berit Kj\u00f8ll served as the Chief Executive Officer of Flytoget AS on 2 September 2000. Can you identify who occupied this position after 22 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Berit Kj\u00f8ll",
+            "rephrased_1": "Berit Kj\u00f8ll",
+            "rephrased_2": "Torsten \u00d6stling.",
+            "rephrased_3": "Torsten K. Nilsen"
+        }
+    },
+    "Delta Air Lines": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 17 September 2006, Gerald Grinstein was the Chief Executive Officer of Delta Air Lines. So, who held this position 36 years before?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 17 September 2006, Gerald Grinstein was the Chief Executive Officer of Delta Air Lines. So, who held this position 36 years before?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Gerald Grinstein was Delta Air Lines's Chief Executive Officer on 17 September 2006. Do you know who was in this role before 36 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Gerald Grinstein served as the Chief Executive Officer of Delta Air Lines on 17 September 2006. Can you identify who occupied this position before 36 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "C. E. Woolman",
+            "rephrased_1": "C.E. Woolman",
+            "rephrased_2": "Richard H. Anderson",
+            "rephrased_3": "Sure! The person who occupied the position of Chief Executive Officer of Delta Air Lines before Gerald Grinstein, 36 years prior to September 17, 2006, was C.E. Woolman."
+        }
+    },
+    "Norwegian Broadcasting Corporation": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 11 June 1973, Torolf Elster was the Chief Executive Officer of the Norwegian Broadcasting Corporation. So, who held this position 7 years before?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 11 June 1973, Torolf Elster was the Chief Executive Officer of the Norwegian Broadcasting Corporation. So, who held this position 7 years before?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Torolf Elster was the Norwegian Broadcasting Corporation's Chief Executive Officer on 11 June 1973. Do you know who was in this role before 7 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Torolf Elster served as the Chief Executive Officer of the Norwegian Broadcasting Corporation on 11 June 1973. Can you identify who occupied this position before 7 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Torolf Elster",
+            "rephrased_1": "Torolf Elster",
+            "rephrased_2": "Torolf Elster",
+            "rephrased_3": "Torolf Elster."
+        }
+    },
+    "HSBC": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 22 August 2018, John Flint was the Chief Executive Officer of HSBC. So, who held this position 22 years before?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 22 August 2018, John Flint was the Chief Executive Officer of HSBC. So, who held this position 22 years before?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: John Flint was HSBC's Chief Executive Officer on 22 August 2018. Do you know who was in this role before 22 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: John Flint served as the Chief Executive Officer of HSBC on 22 August 2018. Can you identify who occupied this position before 22 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "John Flint",
+            "rephrased_1": "John Flint",
+            "rephrased_2": "John Bond",
+            "rephrased_3": "John Bond"
+        }
+    },
+    "Sveriges Television": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 14 October 1995, Sam Nilsson was the Chief Executive Officer of Sveriges Television. So, who held this position 16 years before?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 14 October 1995, Sam Nilsson was the Chief Executive Officer of Sveriges Television. So, who held this position 16 years before?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Sam Nilsson was Sveriges Television's Chief Executive Officer on 14 October 1995. Do you know who was in this role before 16 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Sam Nilsson served as the Chief Executive Officer of Sveriges Television on 14 October 1995. Can you identify who occupied this position before 16 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Bengt G\u00f6ransson",
+            "rephrased_1": "Bengt G\u00f6ransson",
+            "rephrased_2": "G\u00f6ran Johansson",
+            "rephrased_3": "Lars-Gunnar Bj\u00f6rklund"
+        }
+    },
+    "Open Fiber": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 24 October 2021, Francesca Romana Napolitano was the Chief Executive Officer of Open Fiber. So, who held this position 2 years later?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 24 October 2021, Francesca Romana Napolitano was the Chief Executive Officer of Open Fiber. So, who held this position 2 years later?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Francesca Romana Napolitano was Open Fiber's Chief Executive Officer on 24 October 2021. Do you know who was in this role after 2 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Francesca Romana Napolitano served as the Chief Executive Officer of Open Fiber on 24 October 2021. Can you identify who occupied this position after 2 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Francesca Romana Napolitano",
+            "rephrased_1": "Francesca Romana Napolitano",
+            "rephrased_2": "Ignazio Visco",
+            "rephrased_3": "Ignazio Visco"
+        }
+    },
+    "\u010ceskoslovensk\u00e1 obchodn\u00ed banka": {
+        "questions": {
+            "generic": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 1 October 1970, Svatopluk Pot\u00e1\u010d was the Chief Executive Officer of \u010ceskoslovensk\u00e1 obchodn\u00ed banka. So, who held this position 47 years later?\n\nYour answer: [/INST]",
+            "rephrased_1": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: On 1 October 1970, Svatopluk Pot\u00e1\u010d was the Chief Executive Officer of \u010ceskoslovensk\u00e1 obchodn\u00ed banka. So, who held this position 47 years later?\n\nYour answer: [/INST]",
+            "rephrased_2": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Svatopluk Pot\u00e1\u010d was \u010ceskoslovensk\u00e1 obchodn\u00ed banka's Chief Executive Officer on 1 October 1970. Do you know who was in this role after 47 years?\n\nYour answer: [/INST]",
+            "rephrased_3": "<s>[INST] <<SYS>>\nYou are a knowledgeable assistant who can answer factual questions.\n<</SYS>>\n\nYou should answer the question using your knowledge and reasoning capacity. Remember, your answer must contain only the name, with no other words.\n\nQUESTION: Svatopluk Pot\u00e1\u010d served as the Chief Executive Officer of \u010ceskoslovensk\u00e1 obchodn\u00ed banka on 1 October 1970. Can you identify who occupied this position after 47 years?\n\nYour answer: [/INST]"
+        },
+        "answers": {
+            "generic": "Svatopluk Pot\u00e1\u010d",
+            "rephrased_1": "Svatopluk Pot\u00e1\u010d",
+            "rephrased_2": "Sorry, I don't have access to real-time information or the ability to browse the internet. My training data only goes up until December 2022, and I cannot provide information beyond that date. Thus, I cannot answer your question about who was the Chief Executive Officer of \u010ceskoslovensk\u00e1 obchodn\u00ed banka after 47 years.",
+            "rephrased_3": "Igor Chalupeck\u00fd"
+        }
+    }
+}

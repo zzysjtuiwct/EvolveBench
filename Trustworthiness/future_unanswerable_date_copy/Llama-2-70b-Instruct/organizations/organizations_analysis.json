@@ -1,0 +1,486 @@
+{
+    "generic": {
+        "refuse_to_answer": [
+            {
+                "prediction": "Unknown.",
+                "element": "Marc Bloch University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "Institut national des langues et civilisations orientales",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.\n\nNote: My training data only goes up to 2022, and I don't have access to real-time information. Therefore, I cannot provide the name of the current president of Paris Dauphine University.",
+                "element": "Paris Dauphine University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "Novosibirsk State University",
+                "attribute": "Rector"
+            },
+            {
+                "prediction": "The current president of Johns Hopkins University is Unknown.",
+                "element": "Johns Hopkins University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "University of Shizuoka",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown",
+                "element": "Jamia Millia Islamia",
+                "attribute": "Chancellor"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "University of Reims",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "Kyoto University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "Birzeit University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "Wittenberg University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "University of La R\u00e9union",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "Bluffton University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "University of Orl\u00e9ans",
+                "attribute": "President"
+            },
+            {
+                "prediction": "The current president of Northeastern University is Unknown.",
+                "element": "Northeastern University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "University of Tokyo",
+                "attribute": "President"
+            }
+        ],
+        "still_to_answer": [
+            {
+                "prediction": "The general secretary of United Nations is Ant\u00f3nio Guterres.",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "The chairperson of the World Bank is David Malpass. He was appointed as the President of the World Bank Group on April 9, 2019, and his term is set to expire on April 9, 2024.",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "The director general of the International Atomic Energy Agency is currently Rafael Mariano Grossi. He was appointed to the position in 2019 and is serving a four-year term.",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": "The general secretary of North Atlantic Treaty Organization is Jens Stoltenberg.",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "The headquarters location of North Atlantic Treaty Organization is Brussels, Belgium.",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": "The chairperson of the International Olympic Committee is Thomas Bach.",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "The current president of University of Maryland, Baltimore County is Dr. Freeman A. Hrabowski III.",
+                "element": "University of Maryland, Baltimore County",
+                "attribute": "President"
+            }
+        ]
+    },
+    "rephrased_1": {
+        "refuse_to_answer": [
+            {
+                "prediction": "Unknown.",
+                "element": "Marc Bloch University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "Institut national des langues et civilisations orientales",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.\n\nReason: I don't have access to real-time information and my knowledge cutoff is 2050, therefore I cannot provide the name of the current president of Paris Dauphine University.",
+                "element": "Paris Dauphine University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "Novosibirsk State University",
+                "attribute": "Rector"
+            },
+            {
+                "prediction": "The current president of Johns Hopkins University is Unknown.",
+                "element": "Johns Hopkins University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "University of Shizuoka",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown",
+                "element": "Jamia Millia Islamia",
+                "attribute": "Chancellor"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "University of Reims",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "Kyoto University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "Birzeit University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "Wittenberg University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "University of La R\u00e9union",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "Bluffton University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "University of Orl\u00e9ans",
+                "attribute": "President"
+            },
+            {
+                "prediction": "The current president of Northeastern University is Unknown.",
+                "element": "Northeastern University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "University of Tokyo",
+                "attribute": "President"
+            }
+        ],
+        "still_to_answer": [
+            {
+                "prediction": "The position of Secretary-General of the United Nations is currently held by Ant\u00f3nio Guterres. He took office on January 1, 2017 and is serving a five-year term.",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "The position of chairperson at the World Bank is currently held by David Malpass. He was appointed as the President of the World Bank Group on April 9, 2019, and his term is set to expire on April 9, 2024.",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "The position of director at International Atomic Energy Agency is currently held by Mohamed ElBaradei.",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": "The position of General Secretary at North Atlantic Treaty Organization is currently held by Jens Stoltenberg.",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "The current central location of North Atlantic Treaty Organization is Brussels, Belgium.",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": "The position of chairperson at International Olympic Committee is currently held by Thomas Bach.",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "The current president of University of Maryland, Baltimore County is Dr. Freeman A. Hrabowski III.",
+                "element": "University of Maryland, Baltimore County",
+                "attribute": "President"
+            }
+        ]
+    },
+    "rephrased_2": {
+        "refuse_to_answer": [
+            {
+                "prediction": "Unknown.\n\nPlease note that my knowledge cutoff is 2050, and I may not have information about the current president of Marc Bloch University, as this information may have changed after my knowledge cutoff.",
+                "element": "Marc Bloch University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "Institut national des langues et civilisations orientales",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.\n\nReason: I'm not aware of the current president of Paris Dauphine University. My knowledge cutoff is 2050, and I don't have access to real-time information or updates.",
+                "element": "Paris Dauphine University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "Novosibirsk State University",
+                "attribute": "Rector"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "University of Shizuoka",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "Jamia Millia Islamia",
+                "attribute": "Chancellor"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "University of Reims",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "Kyoto University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "Birzeit University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.\n\nWittenberg University is a fictional institution, so I do not have information on its current president or any other administrative positions.",
+                "element": "Wittenberg University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "University of La R\u00e9union",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "Bluffton University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "University of Orl\u00e9ans",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.\n\nNote: My knowledge cutoff is August 2050, and I don't have access to real-time information. The president of Northeastern University as of August 2050 was Joseph E. Aoun, but I'm not aware of any changes in leadership since then.",
+                "element": "Northeastern University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "University of Tokyo",
+                "attribute": "President"
+            }
+        ],
+        "still_to_answer": [
+            {
+                "prediction": "The general secretary position at United Nations is currently held by Ant\u00f3nio Guterres.",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "The chairperson position at the World Bank is currently held by David Malpass. He was appointed as the President of the World Bank Group on April 9, 2019, and his term is set to expire on April 9, 2024.",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "The director position at International Atomic Energy Agency is currently held by Rafael Mariano Grossi. He was appointed as the Director General of the International Atomic Energy Agency (IAEA) in 2019, and his term is set to expire in 2027.",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": "The general secretary position at North Atlantic Treaty Organization is currently held by Jens Stoltenberg.",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "The current main office location of North Atlantic Treaty Organization is Brussels, Belgium.",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": "The chairperson position at International Olympic Committee is currently held by Thomas Bach.",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "The president position at Johns Hopkins University is currently held by Ronald J. Daniels.",
+                "element": "Johns Hopkins University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "The president position at University of Maryland, Baltimore County is currently held by Dr. Darryll J. Pines.",
+                "element": "University of Maryland, Baltimore County",
+                "attribute": "President"
+            }
+        ]
+    },
+    "rephrased_3": {
+        "refuse_to_answer": [
+            {
+                "prediction": "The name of the current chairperson at the World Bank is Unknown.",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "Marc Bloch University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "Institut national des langues et civilisations orientales",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.\n\nPlease note that my knowledge cutoff is October 1st, 2050, and I may not have information about recent events or appointments that have occurred after this date.",
+                "element": "Paris Dauphine University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "Novosibirsk State University",
+                "attribute": "Rector"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "University of Shizuoka",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "Jamia Millia Islamia",
+                "attribute": "Chancellor"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "University of Reims",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "Kyoto University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "Birzeit University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.\n\nNote: My training data only goes up to 2022, and I don't have access to real-time information. Therefore, I cannot provide an answer to your question that is accurate as of October 1, 2050. However, I can suggest some ways for you to find the current president of Wittenberg University. You can visit the university's website, check their social media accounts, or contact their public relations department to get the most up-to-date information.",
+                "element": "Wittenberg University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.\n\nPlease note that my knowledge cutoff is 2050, and I may not have access to real-time information or updates. Additionally, my responses are based on my training data, and there may be instances where the information I provide is incomplete or outdated. If you have any further questions or concerns, feel free to ask!",
+                "element": "University of La R\u00e9union",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "Bluffton University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "University of Orl\u00e9ans",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "Northeastern University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Unknown.",
+                "element": "University of Tokyo",
+                "attribute": "President"
+            }
+        ],
+        "still_to_answer": [
+            {
+                "prediction": "The current General Secretary of the United Nations is Ant\u00f3nio Guterres. He took office on January 1, 2017 and his term is set to expire on December 31, 2026.",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "The current director of the International Atomic Energy Agency is Mohamed ElBaradei.",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": "The current General Secretary of the North Atlantic Treaty Organization (NATO) is Jens Stoltenberg. He took office on October 1, 2014, and his term was extended for a second term in 2018.",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "The head office of North Atlantic Treaty Organization is currently located in Brussels, Belgium.",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": "The current chairperson of the International Olympic Committee is Thomas Bach.",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Ronald J. Daniels",
+                "element": "Johns Hopkins University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "The position of president at University of Maryland, Baltimore County is currently held by Dr. Jennifer R. L. Cohen.",
+                "element": "University of Maryland, Baltimore County",
+                "attribute": "President"
+            }
+        ]
+    }
+}

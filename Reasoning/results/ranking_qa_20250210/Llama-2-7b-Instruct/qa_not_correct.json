@@ -1,0 +1,432 @@
+{
+    "companies_byRevenue": {
+        "BP": {
+            "answers": [
+                "Bob Dudley |S: +2010-10-01T00:00:00Z |E: +2020-02-05T00:00:00Z",
+                "Bernard Looney |S: +2020-02-05T00:00:00Z |E: +2023-00-00T00:00:00Z",
+                "Murray Auchincloss |S: +2023-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Bernard Looney",
+            "ranking_qa": {
+                "generic": "Bob Dudley and Bernard Looney both served as Chief Executive Officers of BP before. Do you know which one of them the latter Chief Executive Officer was?",
+                "rephrased_1": "Bob Dudley and Bernard Looney both served as Chief Executive Officers of BP before. Do you know which one of them the latter Chief Executive Officer was?",
+                "rephrased_2": "BP had Bob Dudley and Bernard Looney as former Chief Executive Officers. Can you identify which one of them was the latter Chief Executive Officer?",
+                "rephrased_3": "Bob Dudley and Bernard Looney previously held the position of BP's Chief Executive Officer. Which of them served as the latter Chief Executive Officer?"
+            },
+            "accumulate_qa": {
+                "generic": "On 24 August 2016, Bob Dudley was the Chief Executive Officer of BP. So, who held this position 1693 days later?",
+                "rephrased_1": "On 24 August 2016, Bob Dudley was the Chief Executive Officer of BP. So, who held this position 1693 days later?",
+                "rephrased_2": "Bob Dudley was BP's Chief Executive Officer on 24 August 2016. Do you know who was in this role after 1693 days?",
+                "rephrased_3": "Bob Dudley served as the Chief Executive Officer of BP on 24 August 2016. Can you identify who occupied this position after 1693 days?"
+            }
+        },
+        "Boeing": {
+            "answers": [
+                "Frank Shrontz |S: +1986-01-01T00:00:00Z |E: +1996-01-01T00:00:00Z",
+                "Thornton Wilson |S: +1969-01-01T00:00:00Z |E: +1986-01-01T00:00:00Z",
+                "James McNerney |S: +2005-01-01T00:00:00Z |E: +2015-06-30T00:00:00Z",
+                "William McPherson Allen |S: +1945-01-01T00:00:00Z |E: +1968-01-01T00:00:00Z",
+                "Harry Stonecipher |S: +2003-01-01T00:00:00Z |E: +2005-01-01T00:00:00Z",
+                "Philip M. Condit |S: +1996-01-01T00:00:00Z |E: +2003-01-01T00:00:00Z",
+                "Dennis Muilenburg |S: +2015-07-01T00:00:00Z |E: +2019-12-23T00:00:00Z",
+                "Dave Calhoun |S: +2020-01-13T00:00:00Z |E: +2024-08-07T00:00:00Z",
+                "Robert Ortberg |S: +2024-08-08T00:00:00Z"
+            ],
+            "ground_truth": "Frank Shrontz",
+            "ranking_qa": {
+                "generic": "Thornton Wilson and Frank Shrontz both served as Chief Executive Officers of Boeing before. Do you know which one of them the latter Chief Executive Officer was?",
+                "rephrased_1": "Thornton Wilson and Frank Shrontz both served as Chief Executive Officers of Boeing before. Do you know which one of them the latter Chief Executive Officer was?",
+                "rephrased_2": "Boeing had Thornton Wilson and Frank Shrontz as former Chief Executive Officers. Can you identify which one of them was the latter Chief Executive Officer?",
+                "rephrased_3": "Thornton Wilson and Frank Shrontz previously held the position of Boeing's Chief Executive Officer. Which of them served as the latter Chief Executive Officer?"
+            },
+            "accumulate_qa": {
+                "generic": "On 16 June 1978, Thornton Wilson was the Chief Executive Officer of Boeing. So, who held this position 2930 days later?",
+                "rephrased_1": "On 16 June 1978, Thornton Wilson was the Chief Executive Officer of Boeing. So, who held this position 2930 days later?",
+                "rephrased_2": "Thornton Wilson was Boeing's Chief Executive Officer on 16 June 1978. Do you know who was in this role after 2930 days?",
+                "rephrased_3": "Thornton Wilson served as the Chief Executive Officer of Boeing on 16 June 1978. Can you identify who occupied this position after 2930 days?"
+            }
+        },
+        "Google": {
+            "answers": [
+                "Eric Schmidt |S: +2001-08-01T00:00:00Z |E: +2011-04-04T00:00:00Z",
+                "Larry Page |S: +1998-01-01T00:00:00Z |E: +2001-01-01T00:00:00Z",
+                "Larry Page |S: +2011-04-04T00:00:00Z |E: +2015-08-10T00:00:00Z",
+                "Sundar Pichai |S: +2015-08-10T00:00:00Z"
+            ],
+            "ground_truth": "Eric Schmidt",
+            "ranking_qa": {
+                "generic": "Eric Schmidt and Larry Page both served as Chief Executive Officers of Google before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_1": "Eric Schmidt and Larry Page both served as Chief Executive Officers of Google before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_2": "Google had Eric Schmidt and Larry Page as former Chief Executive Officers. Can you identify which one of them was the former Chief Executive Officer?",
+                "rephrased_3": "Eric Schmidt and Larry Page previously held the position of Google's Chief Executive Officer. Which of them served as the former Chief Executive Officer?"
+            },
+            "accumulate_qa": {
+                "generic": "On 14 January 2014, Larry Page was the Chief Executive Officer of Google. So, who held this position 3738 days before?",
+                "rephrased_1": "On 14 January 2014, Larry Page was the Chief Executive Officer of Google. So, who held this position 3738 days before?",
+                "rephrased_2": "Larry Page was Google's Chief Executive Officer on 14 January 2014. Do you know who was in this role before 3738 days?",
+                "rephrased_3": "Larry Page served as the Chief Executive Officer of Google on 14 January 2014. Can you identify who occupied this position before 3738 days?"
+            }
+        },
+        "C. & J. Clark International Ltd": {
+            "answers": [
+                "Tim Parker |S: +1996-01-01T00:00:00Z |E: +2002-01-01T00:00:00Z",
+                "William Clark |S: +1863-01-01T00:00:00Z |E: +1889-01-01T00:00:00Z",
+                "Daniel Clark |S: +1973-01-01T00:00:00Z |E: +1986-01-01T00:00:00Z",
+                "Francis Clark |S: +1889-01-01T00:00:00Z |E: +1942-01-01T00:00:00Z",
+                "Mike Shearwood |S: +2017-01-01T00:00:00Z |E: +2018-06-01T00:00:00Z",
+                "Melissa Potter |S: +2010-01-01T00:00:00Z |E: +2015-09-01T00:00:00Z",
+                "Peter Bolliger |S: +2002-01-01T00:00:00Z |E: +2010-01-01T00:00:00Z",
+                "Giorgio Presca |S: +2019-03-11T00:00:00Z |E: +2022-04-01T00:00:00Z",
+                "Stella David |S: +2018-06-01T00:00:00Z |E: +2019-02-01T00:00:00Z",
+                "John Clothier |S: +1986-01-01T00:00:00Z |E: +1996-01-01T00:00:00Z",
+                "Bancroft Clark |S: +1942-01-01T00:00:00Z |E: +1967-01-01T00:00:00Z",
+                "Peter Clothier |S: +1967-01-01T00:00:00Z |E: +1973-01-01T00:00:00Z",
+                "Jonathan Ram |S: +2022-04-01T00:00:00Z"
+            ],
+            "ground_truth": "Stella David",
+            "ranking_qa": {
+                "generic": "William Clark and Stella David both served as Chief Executive Officers of C. & J. Clark International Ltd before. Do you know which one of them the latter Chief Executive Officer was?",
+                "rephrased_1": "William Clark and Stella David both served as Chief Executive Officers of C. & J. Clark International Ltd before. Do you know which one of them the latter Chief Executive Officer was?",
+                "rephrased_2": "C. & J. Clark International Ltd had William Clark and Stella David as former Chief Executive Officers. Can you identify which one of them was the latter Chief Executive Officer?",
+                "rephrased_3": "William Clark and Stella David previously held the position of C. & J. Clark International Ltd's Chief Executive Officer. Which of them served as the latter Chief Executive Officer?"
+            },
+            "accumulate_qa": {
+                "generic": "On 26 March 1877, William Clark was the Chief Executive Officer of C. & J. Clark International Ltd. So, who held this position 51640 days later?",
+                "rephrased_1": "On 26 March 1877, William Clark was the Chief Executive Officer of C. & J. Clark International Ltd. So, who held this position 51640 days later?",
+                "rephrased_2": "William Clark was C. & J. Clark International Ltd's Chief Executive Officer on 26 March 1877. Do you know who was in this role after 51640 days?",
+                "rephrased_3": "William Clark served as the Chief Executive Officer of C. & J. Clark International Ltd on 26 March 1877. Can you identify who occupied this position after 51640 days?"
+            }
+        },
+        "MTR Corporation Limited": {
+            "answers": [
+                "Jay Walder |S: +2012-01-01T00:00:00Z |E: +2014-08-15T00:00:00Z",
+                "Jack So |S: +1995-01-01T00:00:00Z |E: +2003-01-01T00:00:00Z",
+                "Chow Chung-kong |S: +2007-12-02T00:00:00Z |E: +2011-12-31T00:00:00Z",
+                "Chow Chung-kong |S: +2003-12-01T00:00:00Z |E: +2007-12-01T00:00:00Z",
+                "Lincoln Leong |S: +2014-08-01T00:00:00Z |E: +2015-03-15T00:00:00Z",
+                "Lincoln Leong |S: +2015-03-16T00:00:00Z |E: +2019-03-31T00:00:00Z",
+                "Jacob Kam |S: +2019-04-01T00:00:00Z"
+            ],
+            "ground_truth": "Jay Walder",
+            "ranking_qa": {
+                "generic": "Chow Chung-kong and Jay Walder both served as Chief Executive Officers of the MTR Corporation Limited before. Do you know which one of them the latter Chief Executive Officer was?",
+                "rephrased_1": "Chow Chung-kong and Jay Walder both served as Chief Executive Officers of the MTR Corporation Limited before. Do you know which one of them the latter Chief Executive Officer was?",
+                "rephrased_2": "the MTR Corporation Limited had Chow Chung-kong and Jay Walder as former Chief Executive Officers. Can you identify which one of them was the latter Chief Executive Officer?",
+                "rephrased_3": "Chow Chung-kong and Jay Walder previously held the position of the MTR Corporation Limited's Chief Executive Officer. Which of them served as the latter Chief Executive Officer?"
+            },
+            "accumulate_qa": {
+                "generic": "On 7 January 2009, Chow Chung-kong was the Chief Executive Officer of the MTR Corporation Limited. So, who held this position 1833 days later?",
+                "rephrased_1": "On 7 January 2009, Chow Chung-kong was the Chief Executive Officer of the MTR Corporation Limited. So, who held this position 1833 days later?",
+                "rephrased_2": "Chow Chung-kong was the MTR Corporation Limited's Chief Executive Officer on 7 January 2009. Do you know who was in this role after 1833 days?",
+                "rephrased_3": "Chow Chung-kong served as the Chief Executive Officer of the MTR Corporation Limited on 7 January 2009. Can you identify who occupied this position after 1833 days?"
+            }
+        },
+        "OMV": {
+            "answers": [
+                "Gerhard Roiss |S: +2011-01-01T00:00:00Z |E: +2015-01-01T00:00:00Z",
+                "Wolfgang Ruttenstorfer |S: +2001-01-01T00:00:00Z |E: +2011-01-01T00:00:00Z",
+                "Ignaz K\u00f6ck |S: +1956-01-01T00:00:00Z |E: +1957-01-01T00:00:00Z",
+                "Rainer Seele |S: +2015-01-01T00:00:00Z |E: +2021-01-01T00:00:00Z",
+                "Alfred Stern |S: +2021-01-01T00:00:00Z"
+            ],
+            "ground_truth": "Gerhard Roiss",
+            "ranking_qa": {
+                "generic": "Wolfgang Ruttenstorfer and Gerhard Roiss both served as Chief Executive Officers of OMV before. Do you know which one of them the latter Chief Executive Officer was?",
+                "rephrased_1": "Wolfgang Ruttenstorfer and Gerhard Roiss both served as Chief Executive Officers of OMV before. Do you know which one of them the latter Chief Executive Officer was?",
+                "rephrased_2": "OMV had Wolfgang Ruttenstorfer and Gerhard Roiss as former Chief Executive Officers. Can you identify which one of them was the latter Chief Executive Officer?",
+                "rephrased_3": "Wolfgang Ruttenstorfer and Gerhard Roiss previously held the position of OMV's Chief Executive Officer. Which of them served as the latter Chief Executive Officer?"
+            },
+            "accumulate_qa": {
+                "generic": "On 11 September 2007, Wolfgang Ruttenstorfer was the Chief Executive Officer of OMV. So, who held this position 1703 days later?",
+                "rephrased_1": "On 11 September 2007, Wolfgang Ruttenstorfer was the Chief Executive Officer of OMV. So, who held this position 1703 days later?",
+                "rephrased_2": "Wolfgang Ruttenstorfer was OMV's Chief Executive Officer on 11 September 2007. Do you know who was in this role after 1703 days?",
+                "rephrased_3": "Wolfgang Ruttenstorfer served as the Chief Executive Officer of OMV on 11 September 2007. Can you identify who occupied this position after 1703 days?"
+            }
+        },
+        "Flytoget AS": {
+            "answers": [
+                "Thomas Havnegjerde |S: +2002-07-01T00:00:00Z |E: +2008-01-01T00:00:00Z",
+                "Osmund Ueland |S: +1994-01-01T00:00:00Z |E: +1995-05-01T00:00:00Z",
+                "Berit Kj\u00f8ll |S: +1998-09-15T00:00:00Z |E: +2002-06-30T00:00:00Z",
+                "Philipp Engedal |S: +2017-01-01T00:00:00Z |E: +2023-04-11T00:00:00Z",
+                "St\u00e5le Nistov |S: +2023-04-11T00:00:00Z",
+                "Linda Bernander Silseth |S: +2008-01-01T00:00:00Z |E: +2016-01-01T00:00:00Z",
+                "Hans Henrik Kristensen |S: +2016-01-01T00:00:00Z |E: +2017-01-01T00:00:00Z",
+                "Ottar Remman |S: +1995-05-01T00:00:00Z |E: +1998-09-14T00:00:00Z"
+            ],
+            "ground_truth": "Philipp Engedal",
+            "ranking_qa": {
+                "generic": "Berit Kj\u00f8ll and Philipp Engedal both served as Chief Executive Officers of Flytoget AS before. Do you know which one of them the latter Chief Executive Officer was?",
+                "rephrased_1": "Berit Kj\u00f8ll and Philipp Engedal both served as Chief Executive Officers of Flytoget AS before. Do you know which one of them the latter Chief Executive Officer was?",
+                "rephrased_2": "Flytoget AS had Berit Kj\u00f8ll and Philipp Engedal as former Chief Executive Officers. Can you identify which one of them was the latter Chief Executive Officer?",
+                "rephrased_3": "Berit Kj\u00f8ll and Philipp Engedal previously held the position of Flytoget AS's Chief Executive Officer. Which of them served as the latter Chief Executive Officer?"
+            },
+            "accumulate_qa": {
+                "generic": "On 2 September 2000, Berit Kj\u00f8ll was the Chief Executive Officer of Flytoget AS. So, who held this position 8011 days later?",
+                "rephrased_1": "On 2 September 2000, Berit Kj\u00f8ll was the Chief Executive Officer of Flytoget AS. So, who held this position 8011 days later?",
+                "rephrased_2": "Berit Kj\u00f8ll was Flytoget AS's Chief Executive Officer on 2 September 2000. Do you know who was in this role after 8011 days?",
+                "rephrased_3": "Berit Kj\u00f8ll served as the Chief Executive Officer of Flytoget AS on 2 September 2000. Can you identify who occupied this position after 8011 days?"
+            }
+        }
+    },
+    "countries_byGDP": {
+        "Israel": {
+            "President of Israel": {
+                "answers": [
+                    "Isaac Herzog |S: +2021-07-07T00:00:00Z",
+                    "Reuven Rivlin |S: +2014-07-24T00:00:00Z |E: +2021-07-07T00:00:00Z",
+                    "Shimon Peres |S: +2007-07-15T00:00:00Z |E: +2014-07-24T00:00:00Z",
+                    "Chaim Weizmann |S: +1949-02-17T00:00:00Z |E: +1952-11-09T00:00:00Z",
+                    "Yitzhak Ben-Zvi |S: +1952-12-16T00:00:00Z |E: +1963-04-23T00:00:00Z",
+                    "Zalman Shazar |S: +1963-05-21T00:00:00Z |E: +1973-05-24T00:00:00Z",
+                    "Ephraim Katzir |S: +1973-05-24T00:00:00Z |E: +1978-05-29T00:00:00Z",
+                    "Yitzhak Navon |S: +1978-05-29T00:00:00Z |E: +1983-05-05T00:00:00Z",
+                    "Chaim Herzog |S: +1983-05-05T00:00:00Z |E: +1993-05-13T00:00:00Z",
+                    "Ezer Weizman |S: +1993-05-13T00:00:00Z |E: +2000-07-13T00:00:00Z",
+                    "Moshe Katsav |S: +2000-08-01T00:00:00Z |E: +2007-07-01T00:00:00Z",
+                    "Chaim Weizmann |S: +1948-05-16T00:00:00Z |E: +1949-02-17T00:00:00Z",
+                    "David Ben-Gurion |S: +1948-05-14T00:00:00Z |E: +1948-05-16T00:00:00Z",
+                    "Yosef Sprinzak |S: +1952-11-09T00:00:00Z |E: +1952-12-10T00:00:00Z",
+                    "Kadish Luz |S: +1963-04-24T00:00:00Z |E: +1963-05-21T00:00:00Z",
+                    "Avraham Burg |S: +2000-07-12T00:00:00Z |E: +2000-08-01T00:00:00Z",
+                    "Dalia Itzik |S: +2007-01-07T00:00:00Z |E: +2007-07-18T00:00:00Z"
+                ],
+                "ground_truth": "Zalman Shazar",
+                "ranking_qa": {
+                    "generic": "Zalman Shazar and Shimon Peres both served as the presidents of Israel before. Do you know which one of them the former president was?",
+                    "rephrased_1": "Zalman Shazar and Shimon Peres both served as the presidents of Israel before. Do you know which one of them the former president was?",
+                    "rephrased_2": "Israel had Zalman Shazar and Shimon Peres as former presidents. Can you identify which one the former president was?",
+                    "rephrased_3": "Zalman Shazar and Shimon Peres previously held the position of the president of Israel. Which of them served as the former president?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 20 December 2009, Shimon Peres was the president of Israel. So, who held this position 13680 days before?",
+                    "rephrased_1": "On 20 December 2009, Shimon Peres was the president of Israel. So, who held this position 13680 days before?",
+                    "rephrased_2": "Shimon Peres was Israel's president on 20 December 2009. Do you know who was in this role before 13680 days?",
+                    "rephrased_3": "Shimon Peres served as the president of Israel on 20 December 2009. Can you identify who occupied this position before 13680 days?"
+                }
+            }
+        }
+    },
+    "athletes_byPayment": {
+        "Kylian Mbapp\u00e9": {
+            "answers": [
+                "AS Monaco FC |S: +2016-01-01T00:00:00Z |E: +2017-08-31T00:00:00Z",
+                "Paris Saint-Germain F.C. |S: +2017-08-31T00:00:00Z |E: +2018-06-30T00:00:00Z",
+                "AS Monaco FC |S: +2018-06-30T00:00:00Z |E: +2018-07-01T00:00:00Z",
+                "Paris Saint-Germain F.C. |S: +2018-07-01T00:00:00Z |E: +2024-07-01T00:00:00Z",
+                "Real Madrid |S: +2024-07-01T00:00:00Z"
+            ],
+            "ground_truth": "AS Monaco FC",
+            "ranking_qa": {
+                "generic": "AS Monaco FC and Paris Saint-Germain F.C. were both Kylian Mbapp\u00e9's football clubs before, so which team between them was the former one Kylian Mbapp\u00e9 played for?",
+                "rephrased_1": "AS Monaco FC and Paris Saint-Germain F.C. were both Kylian Mbapp\u00e9's football clubs before, so which team between them was the former one Kylian Mbapp\u00e9 played for?",
+                "rephrased_2": "Kylian Mbapp\u00e9 has joined AS Monaco FC and Paris Saint-Germain F.C. football clubs before. Can you identify which team between them was the former one Kylian Mbapp\u00e9 played for?",
+                "rephrased_3": "Kylian Mbapp\u00e9 previously played for AS Monaco FC and Paris Saint-Germain F.C. football clubs. Which team between them did Kylian Mbapp\u00e9 formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 9 July 2022, Kylian Mbapp\u00e9 played for Paris Saint-Germain F.C.. So, before 1470 days, which football club did Kylian Mbapp\u00e9 play for?",
+                "rephrased_1": "On 9 July 2022, Kylian Mbapp\u00e9 played for Paris Saint-Germain F.C.. So, before 1470 days, which football club did Kylian Mbapp\u00e9 play for?",
+                "rephrased_2": "Paris Saint-Germain F.C. was Kylian Mbapp\u00e9's football club on 9 July 2022. Can you identify which football club Kylian Mbapp\u00e9 belongs to before 1470 days?",
+                "rephrased_3": "Kylian Mbapp\u00e9 played for Paris Saint-Germain F.C. on 9 July 2022. Do you know which football club Kylian Mbapp\u00e9 played for before 1470 days?"
+            }
+        },
+        "Damian Lillard": {
+            "answers": [
+                "Weber State Wildcats men's basketball |S: +2008-01-01T00:00:00Z |E: +2012-07-13T00:00:00Z",
+                "Portland Trail Blazers |S: +2012-07-13T00:00:00Z |E: +2023-09-27T00:00:00Z",
+                "Milwaukee Bucks |S: +2023-09-27T00:00:00Z"
+            ],
+            "ground_truth": "Weber State Wildcats men's basketball",
+            "ranking_qa": {
+                "generic": "Weber State Wildcats men's basketball and Portland Trail Blazers were both Damian Lillard's basketball teams before, so which team between them was the former one Damian Lillard played for?",
+                "rephrased_1": "Weber State Wildcats men's basketball and Portland Trail Blazers were both Damian Lillard's basketball teams before, so which team between them was the former one Damian Lillard played for?",
+                "rephrased_2": "Damian Lillard has joined Weber State Wildcats men's basketball and Portland Trail Blazers basketball teams before. Can you identify which team between them was the former one Damian Lillard played for?",
+                "rephrased_3": "Damian Lillard previously played for Weber State Wildcats men's basketball and Portland Trail Blazers basketball teams. Which team between them did Damian Lillard formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 22 July 2014, Damian Lillard played for Portland Trail Blazers. So, before 1574 days, which basketball team did Damian Lillard play for?",
+                "rephrased_1": "On 22 July 2014, Damian Lillard played for Portland Trail Blazers. So, before 1574 days, which basketball team did Damian Lillard play for?",
+                "rephrased_2": "Portland Trail Blazers was Damian Lillard's basketball team on 22 July 2014. Can you identify which basketball team Damian Lillard belongs to before 1574 days?",
+                "rephrased_3": "Damian Lillard played for Portland Trail Blazers on 22 July 2014. Do you know which basketball team Damian Lillard played for before 1574 days?"
+            }
+        },
+        "Lionel Messi": {
+            "answers": [
+                "FC Barcelona |S: +2004-03-05T00:00:00Z |E: +2021-08-10T00:00:00Z",
+                "Paris Saint-Germain F.C. |S: +2021-08-10T00:00:00Z |E: +2023-07-15T00:00:00Z",
+                "Inter Miami CF |S: +2023-07-15T00:00:00Z"
+            ],
+            "ground_truth": "Paris Saint-Germain F.C.",
+            "ranking_qa": {
+                "generic": "FC Barcelona and Paris Saint-Germain F.C. were both Lionel Messi's football clubs before, so which team between them was the latter one Lionel Messi played for?",
+                "rephrased_1": "FC Barcelona and Paris Saint-Germain F.C. were both Lionel Messi's football clubs before, so which team between them was the latter one Lionel Messi played for?",
+                "rephrased_2": "Lionel Messi has joined FC Barcelona and Paris Saint-Germain F.C. football clubs before. Can you identify which team between them was the latter one Lionel Messi played for?",
+                "rephrased_3": "Lionel Messi previously played for FC Barcelona and Paris Saint-Germain F.C. football clubs. Which team between them did Lionel Messi latterly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 28 October 2020, Lionel Messi played for FC Barcelona. So, after 539 days, which football club did Lionel Messi play for?",
+                "rephrased_1": "On 28 October 2020, Lionel Messi played for FC Barcelona. So, after 539 days, which football club did Lionel Messi play for?",
+                "rephrased_2": "FC Barcelona was Lionel Messi's football club on 28 October 2020. Can you identify which football club Lionel Messi belongs to after 539 days?",
+                "rephrased_3": "Lionel Messi played for FC Barcelona on 28 October 2020. Do you know which football club Lionel Messi played for after 539 days?"
+            }
+        },
+        "Mohamed Salah": {
+            "answers": [
+                "Al Mokawloon Al Arab SC |S: +2010-05-01T00:00:00Z |E: +2012-07-01T00:00:00Z",
+                "FC Basel |S: +2012-07-01T00:00:00Z |E: +2014-01-26T00:00:00Z",
+                "Chelsea F.C. |S: +2014-01-26T00:00:00Z |E: +2015-02-02T00:00:00Z",
+                "ACF Fiorentina |S: +2015-02-02T00:00:00Z |E: +2015-06-30T00:00:00Z",
+                "Chelsea F.C. |S: +2015-06-30T00:00:00Z |E: +2015-08-06T00:00:00Z",
+                "A.S. Roma |S: +2015-08-06T00:00:00Z |E: +2016-06-30T00:00:00Z",
+                "Chelsea F.C. |S: +2016-06-30T00:00:00Z |E: +2016-07-01T00:00:00Z",
+                "A.S. Roma |S: +2016-07-01T00:00:00Z |E: +2017-07-01T00:00:00Z",
+                "Liverpool F.C. |S: +2017-07-01T00:00:00Z"
+            ],
+            "ground_truth": "A.S. Roma",
+            "ranking_qa": {
+                "generic": "ACF Fiorentina and A.S. Roma were both Mohamed Salah's football clubs before, so which team between them was the latter one Mohamed Salah played for?",
+                "rephrased_1": "ACF Fiorentina and A.S. Roma were both Mohamed Salah's football clubs before, so which team between them was the latter one Mohamed Salah played for?",
+                "rephrased_2": "Mohamed Salah has joined ACF Fiorentina and A.S. Roma football clubs before. Can you identify which team between them was the latter one Mohamed Salah played for?",
+                "rephrased_3": "Mohamed Salah previously played for ACF Fiorentina and A.S. Roma football clubs. Which team between them did Mohamed Salah latterly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 17 February 2015, Mohamed Salah played for ACF Fiorentina. So, after 726 days, which football club did Mohamed Salah play for?",
+                "rephrased_1": "On 17 February 2015, Mohamed Salah played for ACF Fiorentina. So, after 726 days, which football club did Mohamed Salah play for?",
+                "rephrased_2": "ACF Fiorentina was Mohamed Salah's football club on 17 February 2015. Can you identify which football club Mohamed Salah belongs to after 726 days?",
+                "rephrased_3": "Mohamed Salah played for ACF Fiorentina on 17 February 2015. Do you know which football club Mohamed Salah played for after 726 days?"
+            }
+        },
+        "Bradley Beal": {
+            "answers": [
+                "Florida Gators men's basketball |S: +2011-01-01T00:00:00Z |E: +2012-06-28T00:00:00Z",
+                "Washington Wizards |S: +2012-06-28T00:00:00Z |E: +2023-07-01T00:00:00Z",
+                "Phoenix Suns |S: +2023-07-01T00:00:00Z"
+            ],
+            "ground_truth": "Florida Gators men's basketball",
+            "ranking_qa": {
+                "generic": "Florida Gators men's basketball and Washington Wizards were both Bradley Beal's basketball teams before, so which team between them was the former one Bradley Beal played for?",
+                "rephrased_1": "Florida Gators men's basketball and Washington Wizards were both Bradley Beal's basketball teams before, so which team between them was the former one Bradley Beal played for?",
+                "rephrased_2": "Bradley Beal has joined Florida Gators men's basketball and Washington Wizards basketball teams before. Can you identify which team between them was the former one Bradley Beal played for?",
+                "rephrased_3": "Bradley Beal previously played for Florida Gators men's basketball and Washington Wizards basketball teams. Which team between them did Bradley Beal formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 22 May 2015, Bradley Beal played for Washington Wizards. So, before 1234 days, which basketball team did Bradley Beal play for?",
+                "rephrased_1": "On 22 May 2015, Bradley Beal played for Washington Wizards. So, before 1234 days, which basketball team did Bradley Beal play for?",
+                "rephrased_2": "Washington Wizards was Bradley Beal's basketball team on 22 May 2015. Can you identify which basketball team Bradley Beal belongs to before 1234 days?",
+                "rephrased_3": "Bradley Beal played for Washington Wizards on 22 May 2015. Do you know which basketball team Bradley Beal played for before 1234 days?"
+            }
+        },
+        "Lewis Hamilton": {
+            "answers": [
+                "McLaren |S: +2007-00-00T00:00:00Z |E: +2012-00-00T00:00:00Z",
+                "Mercedes F1 Team |S: +2013-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Mercedes F1 Team",
+            "ranking_qa": {
+                "generic": "McLaren and Mercedes F1 Team were both Lewis Hamilton's Formula 1 teams before, so which team between them was the latter one Lewis Hamilton drove for?",
+                "rephrased_1": "McLaren and Mercedes F1 Team were both Lewis Hamilton's Formula 1 teams before, so which team between them was the latter one Lewis Hamilton drove for?",
+                "rephrased_2": "Lewis Hamilton has joined McLaren and Mercedes F1 Team Formula 1 teams before. Can you identify which team between them was the latter one Lewis Hamilton drove for?",
+                "rephrased_3": "Lewis Hamilton previously drove for McLaren and Mercedes F1 Team Formula 1 teams. Which team between them did Lewis Hamilton latterly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 28 July 2010, Lewis Hamilton drove for McLaren. So, after 5172 days, which Formula 1 team did Lewis Hamilton drive for?",
+                "rephrased_1": "On 28 July 2010, Lewis Hamilton drove for McLaren. So, after 5172 days, which Formula 1 team did Lewis Hamilton drive for?",
+                "rephrased_2": "McLaren was Lewis Hamilton's Formula 1 team on 28 July 2010. Can you identify which Formula 1 team Lewis Hamilton belongs to after 5172 days?",
+                "rephrased_3": "Lewis Hamilton drove for McLaren on 28 July 2010. Do you know which Formula 1 team Lewis Hamilton drove for after 5172 days?"
+            }
+        },
+        "Fernando Alonso": {
+            "answers": [
+                "Renault F1 Team |S: +2002-00-00T00:00:00Z |E: +2006-00-00T00:00:00Z",
+                "McLaren |S: +2007-00-00T00:00:00Z |E: +2007-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2008-00-00T00:00:00Z |E: +2009-00-00T00:00:00Z",
+                "Scuderia Ferrari |S: +2010-00-00T00:00:00Z |E: +2014-00-00T00:00:00Z",
+                "McLaren |S: +2015-00-00T00:00:00Z |E: +2018-00-00T00:00:00Z",
+                "Minardi |S: +2001-00-00T00:00:00Z |E: +2001-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2021-00-00T00:00:00Z |E: +2022-00-00T00:00:00Z",
+                "Aston Martin F1 Team |S: +2023-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Scuderia Ferrari",
+            "ranking_qa": {
+                "generic": "Scuderia Ferrari and McLaren were both Fernando Alonso's Formula 1 teams before, so which team between them was the former one Fernando Alonso drove for?",
+                "rephrased_1": "Scuderia Ferrari and McLaren were both Fernando Alonso's Formula 1 teams before, so which team between them was the former one Fernando Alonso drove for?",
+                "rephrased_2": "Fernando Alonso has joined Scuderia Ferrari and McLaren Formula 1 teams before. Can you identify which team between them was the former one Fernando Alonso drove for?",
+                "rephrased_3": "Fernando Alonso previously drove for Scuderia Ferrari and McLaren Formula 1 teams. Which team between them did Fernando Alonso formerly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 11 October 2015, Fernando Alonso drove for McLaren. So, before 1096 days, which Formula 1 team did Fernando Alonso drive for?",
+                "rephrased_1": "On 11 October 2015, Fernando Alonso drove for McLaren. So, before 1096 days, which Formula 1 team did Fernando Alonso drive for?",
+                "rephrased_2": "McLaren was Fernando Alonso's Formula 1 team on 11 October 2015. Can you identify which Formula 1 team Fernando Alonso belongs to before 1096 days?",
+                "rephrased_3": "Fernando Alonso drove for McLaren on 11 October 2015. Do you know which Formula 1 team Fernando Alonso drove for before 1096 days?"
+            }
+        },
+        "Carlos Sainz Jr.": {
+            "answers": [
+                "McLaren |S: +2019-00-00T00:00:00Z |E: +2020-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2017-00-00T00:00:00Z |E: +2018-00-00T00:00:00Z",
+                "Scuderia Toro Rosso |S: +2015-00-00T00:00:00Z |E: +2017-00-00T00:00:00Z",
+                "Scuderia Ferrari |S: +2021-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Renault F1 Team",
+            "ranking_qa": {
+                "generic": "Scuderia Toro Rosso and Renault F1 Team were both Carlos Sainz Jr.'s Formula 1 teams before, so which team between them was the latter one Carlos Sainz Jr. drove for?",
+                "rephrased_1": "Scuderia Toro Rosso and Renault F1 Team were both Carlos Sainz Jr.'s Formula 1 teams before, so which team between them was the latter one Carlos Sainz Jr. drove for?",
+                "rephrased_2": "Carlos Sainz Jr. has joined Scuderia Toro Rosso and Renault F1 Team Formula 1 teams before. Can you identify which team between them was the latter one Carlos Sainz Jr. drove for?",
+                "rephrased_3": "Carlos Sainz Jr. previously drove for Scuderia Toro Rosso and Renault F1 Team Formula 1 teams. Which team between them did Carlos Sainz Jr. latterly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 6 May 2015, Carlos Sainz Jr. drove for Scuderia Toro Rosso. So, after 820 days, which Formula 1 team did Carlos Sainz Jr. drive for?",
+                "rephrased_1": "On 6 May 2015, Carlos Sainz Jr. drove for Scuderia Toro Rosso. So, after 820 days, which Formula 1 team did Carlos Sainz Jr. drive for?",
+                "rephrased_2": "Scuderia Toro Rosso was Carlos Sainz Jr.'s Formula 1 team on 6 May 2015. Can you identify which Formula 1 team Carlos Sainz Jr. belongs to after 820 days?",
+                "rephrased_3": "Carlos Sainz Jr. drove for Scuderia Toro Rosso on 6 May 2015. Do you know which Formula 1 team Carlos Sainz Jr. drove for after 820 days?"
+            }
+        },
+        "Pierre Gasly": {
+            "answers": [
+                "Red Bull Racing |S: +2019-00-00T00:00:00Z |E: +2019-08-12T00:00:00Z",
+                "Scuderia Toro Rosso |S: +2017-00-00T00:00:00Z |E: +2018-00-00T00:00:00Z",
+                "Scuderia Toro Rosso |S: +2019-08-12T00:00:00Z |E: +2023-00-00T00:00:00Z",
+                "Alpine F1 Team |S: +2023-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Scuderia Toro Rosso",
+            "ranking_qa": {
+                "generic": "Red Bull Racing and Scuderia Toro Rosso were both Pierre Gasly's Formula 1 teams before, so which team between them was the latter one Pierre Gasly drove for?",
+                "rephrased_1": "Red Bull Racing and Scuderia Toro Rosso were both Pierre Gasly's Formula 1 teams before, so which team between them was the latter one Pierre Gasly drove for?",
+                "rephrased_2": "Pierre Gasly has joined Red Bull Racing and Scuderia Toro Rosso Formula 1 teams before. Can you identify which team between them was the latter one Pierre Gasly drove for?",
+                "rephrased_3": "Pierre Gasly previously drove for Red Bull Racing and Scuderia Toro Rosso Formula 1 teams. Which team between them did Pierre Gasly latterly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 26 June 2019, Pierre Gasly drove for Red Bull Racing. So, after 896 days, which Formula 1 team did Pierre Gasly drive for?",
+                "rephrased_1": "On 26 June 2019, Pierre Gasly drove for Red Bull Racing. So, after 896 days, which Formula 1 team did Pierre Gasly drive for?",
+                "rephrased_2": "Red Bull Racing was Pierre Gasly's Formula 1 team on 26 June 2019. Can you identify which Formula 1 team Pierre Gasly belongs to after 896 days?",
+                "rephrased_3": "Pierre Gasly drove for Red Bull Racing on 26 June 2019. Do you know which Formula 1 team Pierre Gasly drove for after 896 days?"
+            }
+        }
+    },
+    "organizations": {
+        "Novosibirsk State University": {
+            "Rector": {
+                "answers": [
+                    "Valentin Koptyug |S: +1978-01-01T00:00:00Z |E: +1980-01-01T00:00:00Z",
+                    "Ilia Vekua |S: +1959-01-01T00:00:00Z |E: +1964-01-01T00:00:00Z",
+                    "Spartak Belyaev |S: +1965-01-01T00:00:00Z |E: +1978-01-01T00:00:00Z",
+                    "Nikolay Dikansky |S: +1997-01-01T00:00:00Z |E: +2007-01-01T00:00:00Z",
+                    "Mikhail Fedoruk |S: +2012-01-01T00:00:00Z"
+                ],
+                "ground_truth": "Nikolay Dikansky",
+                "ranking_qa": {
+                    "generic": "Spartak Belyaev and Nikolay Dikansky both served as the rectors of the Novosibirsk State University before. Do you know which one of them the latter rector was?",
+                    "rephrased_1": "Spartak Belyaev and Nikolay Dikansky both served as the rectors of the Novosibirsk State University before. Do you know which one of them the latter rector was?",
+                    "rephrased_2": "the Novosibirsk State University had Spartak Belyaev and Nikolay Dikansky as former rectors. Can you identify which one the latter rector was?",
+                    "rephrased_3": "Spartak Belyaev and Nikolay Dikansky previously held the position of the rector of the Novosibirsk State University. Which of them served as the latter rector?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 31 July 1969, Spartak Belyaev was the rector of the Novosibirsk State University. So, who held this position 11183 days later?",
+                    "rephrased_1": "On 31 July 1969, Spartak Belyaev was the rector of the Novosibirsk State University. So, who held this position 11183 days later?",
+                    "rephrased_2": "Spartak Belyaev was the Novosibirsk State University's rector on 31 July 1969. Do you know who was in this role after 11183 days?",
+                    "rephrased_3": "Spartak Belyaev served as the rector of the Novosibirsk State University on 31 July 1969. Can you identify who occupied this position after 11183 days?"
+                }
+            }
+        }
+    }
+}

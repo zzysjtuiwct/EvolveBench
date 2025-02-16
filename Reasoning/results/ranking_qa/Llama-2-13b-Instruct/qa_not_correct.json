@@ -1,0 +1,130 @@
+{
+    "companies_byRevenue": {},
+    "countries_byGDP": {
+        "Sweden": {
+            "Prime Minister of Sweden": {
+                "answers": [
+                    "Stefan L\u00f6fven |S: +2014-10-03T00:00:00Z |E: +2021-10-30T00:00:00Z",
+                    "Fredrik Reinfeldt |S: +2006-10-06T00:00:00Z |E: +2014-10-03T00:00:00Z",
+                    "G\u00f6ran Persson |S: +1996-03-22T00:00:00Z |E: +2006-10-06T00:00:00Z",
+                    "Ingvar Carlsson |S: +1994-10-07T00:00:00Z |E: +1996-03-22T00:00:00Z",
+                    "Carl Bildt |S: +1991-10-14T00:00:00Z |E: +1994-10-07T00:00:00Z",
+                    "Ingvar Carlsson |S: +1990-02-27T00:00:00Z |E: +1991-10-04T00:00:00Z",
+                    "Magdalena Andersson |S: +2021-11-30T00:00:00Z |E: +2022-10-18T00:00:00Z",
+                    "Ulf Kristersson |S: +2022-10-18T00:00:00Z"
+                ],
+                "ground_truth": "Carl Bildt",
+                "ranking_qa": {
+                    "generic": "The prime ministers of Sweden on 1 May 1994 and 18 January 1999 were Carl Bildt and G\u00f6ran Persson, so who was the former prime minister?",
+                    "rephrased_1": "The prime ministers of Sweden on 1 May 1994 and 18 January 1999 were Carl Bildt and G\u00f6ran Persson, so who was the former prime minister?",
+                    "rephrased_2": "Carl Bildt and G\u00f6ran Persson served as the prime ministers of Sweden on 1 May 1994 and 18 January 1999, respectively. Can you identify which one the former prime minister was?",
+                    "rephrased_3": "On 1 May 1994, Carl Bildt was the prime minister of Sweden, while G\u00f6ran Persson held the position on 18 January 1999. Which of them served as the former prime minister?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 18 January 1999, G\u00f6ran Persson was the prime minister of Sweden. So, who held this position 1723 days before?",
+                    "rephrased_1": "On 18 January 1999, G\u00f6ran Persson was the prime minister of Sweden. So, who held this position 1723 days before?",
+                    "rephrased_2": "G\u00f6ran Persson was Sweden's prime minister on 18 January 1999. Do you know who was in this role before 1723 days?",
+                    "rephrased_3": "G\u00f6ran Persson served as the prime minister of Sweden on 18 January 1999. Can you identify who occupied this position before 1723 days?"
+                }
+            }
+        },
+        "Norway": {
+            "Prime Minister of Norway": {
+                "answers": [
+                    "Erna Solberg |S: +2013-10-16T00:00:00Z |E: +2021-10-14T00:00:00Z",
+                    "Jens Stoltenberg |S: +2005-10-17T00:00:00Z |E: +2013-10-16T00:00:00Z",
+                    "Kjell Magne Bondevik |S: +2001-10-19T00:00:00Z |E: +2005-10-17T00:00:00Z",
+                    "Jens Stoltenberg |S: +2000-03-17T00:00:00Z |E: +2001-10-19T00:00:00Z",
+                    "Kjell Magne Bondevik |S: +1997-10-17T00:00:00Z |E: +2000-03-17T00:00:00Z",
+                    "Thorbj\u00f8rn Jagland |S: +1996-10-25T00:00:00Z |E: +1997-10-17T00:00:00Z",
+                    "Gro Harlem Brundtland |S: +1981-02-04T00:00:00Z |E: +1981-10-14T00:00:00Z",
+                    "Gro Harlem Brundtland |S: +1986-05-09T00:00:00Z |E: +1989-10-16T00:00:00Z",
+                    "Gro Harlem Brundtland |S: +1990-11-03T00:00:00Z |E: +1996-10-25T00:00:00Z",
+                    "K\u00e5re Willoch |S: +1981-10-14T00:00:00Z |E: +1986-05-09T00:00:00Z",
+                    "Odvar Nordli |S: +1976-01-15T00:00:00Z |E: +1981-02-04T00:00:00Z",
+                    "Anne Enger |S: +1998-08-31T00:00:00Z |E: +1998-09-24T00:00:00Z",
+                    "Jan P. Syse |S: +1989-10-16T00:00:00Z |E: +1990-11-03T00:00:00Z",
+                    "Svenn Stray |S: +1984-04-17T00:00:00Z |E: +1984-06-12T00:00:00Z",
+                    "Trygve Bratteli |S: +1971-03-17T00:00:00Z |E: +1972-10-18T00:00:00Z",
+                    "Trygve Bratteli |S: +1973-10-16T00:00:00Z |E: +1976-01-15T00:00:00Z",
+                    "Lars Korvald |S: +1972-10-18T00:00:00Z |E: +1973-10-16T00:00:00Z",
+                    "Per Borten |S: +1965-10-12T00:00:00Z |E: +1971-03-17T00:00:00Z",
+                    "Einar Gerhardsen |S: +1945-06-25T00:00:00Z |E: +1945-11-05T00:00:00Z",
+                    "Einar Gerhardsen |S: +1945-11-05T00:00:00Z |E: +1951-11-19T00:00:00Z",
+                    "Einar Gerhardsen |S: +1955-01-22T00:00:00Z |E: +1963-08-28T00:00:00Z",
+                    "Einar Gerhardsen |S: +1963-09-25T00:00:00Z |E: +1965-10-12T00:00:00Z",
+                    "John Lyng |S: +1963-08-28T00:00:00Z |E: +1963-09-25T00:00:00Z",
+                    "Oscar Torp |S: +1951-11-19T00:00:00Z |E: +1955-01-22T00:00:00Z",
+                    "Johan Nygaardsvold |S: +1935-03-20T00:00:00Z |E: +1945-06-25T00:00:00Z",
+                    "Jonas Gahr St\u00f8re |S: +2021-10-14T00:00:00Z"
+                ],
+                "ground_truth": "Svenn Stray",
+                "ranking_qa": {
+                    "generic": "The prime ministers of Norway on 4 June 1984 and 24 December 2003 were Svenn Stray and Kjell Magne Bondevik, so who was the former prime minister?",
+                    "rephrased_1": "The prime ministers of Norway on 4 June 1984 and 24 December 2003 were Svenn Stray and Kjell Magne Bondevik, so who was the former prime minister?",
+                    "rephrased_2": "Svenn Stray and Kjell Magne Bondevik served as the prime ministers of Norway on 4 June 1984 and 24 December 2003, respectively. Can you identify which one the former prime minister was?",
+                    "rephrased_3": "On 4 June 1984, Svenn Stray was the prime minister of Norway, while Kjell Magne Bondevik held the position on 24 December 2003. Which of them served as the former prime minister?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 24 December 2003, Kjell Magne Bondevik was the prime minister of Norway. So, who held this position 7142 days before?",
+                    "rephrased_1": "On 24 December 2003, Kjell Magne Bondevik was the prime minister of Norway. So, who held this position 7142 days before?",
+                    "rephrased_2": "Kjell Magne Bondevik was Norway's prime minister on 24 December 2003. Do you know who was in this role before 7142 days?",
+                    "rephrased_3": "Kjell Magne Bondevik served as the prime minister of Norway on 24 December 2003. Can you identify who occupied this position before 7142 days?"
+                }
+            }
+        }
+    },
+    "athletes_byPayment": {
+        "Damian Lillard": {
+            "answers": [
+                "Weber State Wildcats men's basketball |S: +2008-01-01T00:00:00Z |E: +2012-07-13T00:00:00Z",
+                "Portland Trail Blazers |S: +2012-07-13T00:00:00Z |E: +2023-09-27T00:00:00Z",
+                "Milwaukee Bucks |S: +2023-09-27T00:00:00Z"
+            ],
+            "ground_truth": "Weber State Wildcats men's basketball",
+            "ranking_qa": {
+                "generic": "The basketball teams of Damian Lillard on 31 March 2010 and 22 July 2014 were Weber State Wildcats men's basketball and Portland Trail Blazers, so which team was the former one Damian Lillard played for?",
+                "rephrased_1": "The basketball teams of Damian Lillard on 31 March 2010 and 22 July 2014 were Weber State Wildcats men's basketball and Portland Trail Blazers, so which team was the former one Damian Lillard played for?",
+                "rephrased_2": "Weber State Wildcats men's basketball and Portland Trail Blazers were Damian Lillard's basketball teams on 31 March 2010 and 22 July 2014, respectively. Can you identify which team was the former one Damian Lillard played for?",
+                "rephrased_3": "On 31 March 2010, Damian Lillard played for Weber State Wildcats men's basketball, while Damian Lillard played for Portland Trail Blazers on 22 July 2014. Which team did Damian Lillard formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 22 July 2014, Damian Lillard played for Portland Trail Blazers. So, before 1574 days, which basketball team did Damian Lillard play for?",
+                "rephrased_1": "On 22 July 2014, Damian Lillard played for Portland Trail Blazers. So, before 1574 days, which basketball team did Damian Lillard play for?",
+                "rephrased_2": "Portland Trail Blazers was Damian Lillard's basketball team on 22 July 2014. Can you identify which basketball team Damian Lillard belongs to before 1574 days?",
+                "rephrased_3": "Damian Lillard played for Portland Trail Blazers on 22 July 2014. Do you know which basketball team Damian Lillard played for before 1574 days?"
+            }
+        }
+    },
+    "organizations": {
+        "Paris Dauphine University": {
+            "President": {
+                "answers": [
+                    "Brigitte Berlioz-Houin |S: +1984-01-01T00:00:00Z |E: +1989-01-01T00:00:00Z",
+                    "Ivar Ekeland |S: +1989-01-01T00:00:00Z |E: +1994-01-01T00:00:00Z",
+                    "\u00c9lie Cohen |S: +1994-01-01T00:00:00Z |E: +1999-01-01T00:00:00Z",
+                    "Bernard de Montmorillon |S: +1999-01-01T00:00:00Z |E: +2007-01-01T00:00:00Z",
+                    "Laurent Batsch |S: +2007-01-01T00:00:00Z |E: +2016-01-01T00:00:00Z",
+                    "Jean-Paul Gilli |S: +1975-01-01T00:00:00Z |E: +1980-01-01T00:00:00Z",
+                    "Henri T\u00e9zenas du Montcel |S: +1980-01-01T00:00:00Z |E: +1984-01-01T00:00:00Z",
+                    "Isabelle Huault |S: +2016-01-01T00:00:00Z |E: +2020-01-01T00:00:00Z",
+                    "E.M. Mouhoud |S: +2020-01-01T00:00:00Z",
+                    "Paul Didier |S: +1971-01-01T00:00:00Z |E: +1975-01-01T00:00:00Z"
+                ],
+                "ground_truth": "Paul Didier",
+                "ranking_qa": {
+                    "generic": "The presidents of the Paris Dauphine University on 10 October 1973 and 28 March 2000 were Paul Didier and Bernard de Montmorillon, so who was the former president?",
+                    "rephrased_1": "The presidents of the Paris Dauphine University on 10 October 1973 and 28 March 2000 were Paul Didier and Bernard de Montmorillon, so who was the former president?",
+                    "rephrased_2": "Paul Didier and Bernard de Montmorillon served as the presidents of the Paris Dauphine University on 10 October 1973 and 28 March 2000, respectively. Can you identify which one the former president was?",
+                    "rephrased_3": "On 10 October 1973, Paul Didier was the president of the Paris Dauphine University, while Bernard de Montmorillon held the position on 28 March 2000. Which of them served as the former president?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 28 March 2000, Bernard de Montmorillon was the president of the Paris Dauphine University. So, who held this position 9666 days before?",
+                    "rephrased_1": "On 28 March 2000, Bernard de Montmorillon was the president of the Paris Dauphine University. So, who held this position 9666 days before?",
+                    "rephrased_2": "Bernard de Montmorillon was the Paris Dauphine University's president on 28 March 2000. Do you know who was in this role before 9666 days?",
+                    "rephrased_3": "Bernard de Montmorillon served as the president of the Paris Dauphine University on 28 March 2000. Can you identify who occupied this position before 9666 days?"
+                }
+            }
+        }
+    }
+}

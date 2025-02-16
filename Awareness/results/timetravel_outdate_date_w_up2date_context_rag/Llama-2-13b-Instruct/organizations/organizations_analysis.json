@@ -1,0 +1,962 @@
+{
+    "generic": {
+        "match_contemporary_answer": [
+            {
+                "prediction": "Based on the context provided, the answer to the question \"The general secretary of United Nations is\" would be:\n\nKofi Annan.",
+                "matched_answers": [
+                    [
+                        "Kofi Annan",
+                        "+1997-01-01T00:00:00Z",
+                        "+2006-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Kofi Annan",
+                "context_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Based on the information provided, the chairperson of the World Bank is not explicitly mentioned. However, based on the context of the information provided, the chairperson of the World Bank can be inferred to be Jim Yong Kim, who has been the President of the World Bank Group since 2012.",
+                "matched_answers": [
+                    [
+                        "Jim Yong Kim",
+                        "+2012-07-01T00:00:00Z",
+                        "+2019-02-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Jim Yong Kim",
+                "context_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Daniel Coit Gilman",
+                "matched_answers": [
+                    [
+                        "Daniel Coit Gilman",
+                        "+1876-02-01T00:00:00Z",
+                        "+1901-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Daniel Coit Gilman",
+                "context_answer": "Ronald J. Daniels",
+                "element": "Johns Hopkins University",
+                "attribute": "President"
+            }
+        ],
+        "match_futre_answer": [],
+        "irrelevant": [
+            {
+                "prediction": "Based on the context provided, the Director General of the International Atomic Energy Agency (IAEA) as of today's date (27 November 1960) is:\n\nGro Harlem Brundtland.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "William Sterling Cole",
+                "context_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": "Based on the context provided, the general secretary of North Atlantic Treaty Organization is not a position that exists in 1960, as the North Atlantic Treaty Organization (NATO) was not established until 1949. Therefore, the answer is \"N/A\" or \"Not Applicable.\"",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Paul-Henri Spaak",
+                "context_answer": "Mark Rutte",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Washington, D.C.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Palais de Chaillot",
+                "context_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": "Based on the context provided, the chairperson of the International Olympic Committee (IOC) as of today's date, January 23, 1917, is not a known or established position. The IOC was established in 1894 and has had several chairpersons throughout its history. However, as of this date in 1917, there is no known chairperson of the IOC.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Godefroy de Blonay",
+                "context_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "The current president of Marc Bloch University is not known, as Marc Bloch University does not exist. There is no such university with that name.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Daniel Payot",
+                "context_answer": "Bernard Michon",
+                "element": "Marc Bloch University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "The current president of Institut national des langues et civilisations orientales is not yet established as of July 1, 1999, since the institute was founded on September 15, 1999.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Andr\u00e9 Bourgey",
+                "context_answer": "Jean-Fran\u00e7ois Huchet",
+                "element": "Institut national des langues et civilisations orientales",
+                "attribute": "President"
+            },
+            {
+                "prediction": "The current president of Paris Dauphine University is not a relevant figure in 1994, as Paris Dauphine University did not exist in 1994. The university was established in 1970, and its current president would be a person who was appointed after 1994. Therefore, the answer to the question is \"not applicable.\"",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "\u00c9lie Cohen",
+                "context_answer": "E.M. Mouhoud",
+                "element": "Paris Dauphine University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the information provided, the current rector of Novosibirsk State University is not mentioned in the context. Therefore, I cannot provide an answer.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Spartak Belyaev",
+                "context_answer": "Mikhail Fedoruk",
+                "element": "Novosibirsk State University",
+                "attribute": "Rector"
+            },
+            {
+                "prediction": "The current president of University of Shizuoka is not known, as the context provided is from 1000 years ago and the University of Shizuoka did not exist at that time.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Naohide Kinae",
+                "context_answer": "Kazuo Oike",
+                "element": "University of Shizuoka",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the information provided in the context, the current chancellor of Jamia Millia Islamia is not specified.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Anwar Jamal Kidwai",
+                "context_answer": "Mazhar Asif",
+                "element": "Jamia Millia Islamia",
+                "attribute": "Chancellor"
+            },
+            {
+                "prediction": "Based on the information provided, the current president of the University of Reims is Mohamed Boudrika.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Lucien Bernard",
+                "context_answer": "Christophe Cl\u00e9ment",
+                "element": "University of Reims",
+                "attribute": "President"
+            },
+            {
+                "prediction": "The current president of Kyoto University is not relevant to the context provided, as the context is discussing a political party's by-laws and their relationship with other organizations. The president of Kyoto University is not mentioned in the context.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Hiroshi Matsumoto",
+                "context_answer": "Nagahiro Minato",
+                "element": "Kyoto University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "The current president of Birzeit University is not relevant to the context of the 4th Grand National Assembly of Turkey in 1935, as Birzeit University did not exist at that time. Therefore, I cannot answer the question.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Gabi Baramki",
+                "context_answer": "Hannah Nasir",
+                "element": "Birzeit University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the information provided, the current president of University of Maryland, Baltimore County is not a relevant piece of information given the context of the information provided. The information is focused on federal judges and their appointments, and there is no mention of a university president. Therefore, I cannot provide an answer to this question.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Michael Hooker",
+                "context_answer": "Valerie Ashby",
+                "element": "University of Maryland, Baltimore County",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the information provided, the current president of Wittenberg University is not a relevant figure in the context of Russia and its monarchs, as Wittenberg University does not exist in Russia and the context only provides information about the Russian Empire and its monarchs. Therefore, there is no answer to the question.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "John M. Ruthrauff",
+                "context_answer": "Michael Frandsen",
+                "element": "Wittenberg University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the context provided, the current president of the University of La R\u00e9union is not mentioned. The context only mentions the President of Colombia who is participating in the signing of the peace deal, and the UN Secretary-General. Therefore, there is no information available to answer the question about the current president of the University of La R\u00e9union.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Michel Carayol",
+                "context_answer": "Jacques Comby",
+                "element": "University of La R\u00e9union",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the information provided in the context, the current president of Bluffton University is Edwin Wolf.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Arthur S. Rosenberger",
+                "context_answer": "Jane Wood",
+                "element": "Bluffton University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the provided context, the current president of the University of Orl\u00e9ans is not a person who was alive in 1862 or 1849, as those dates are mentioned in the provided sources. Therefore, I cannot answer the question.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Michel Mudry",
+                "context_answer": "\u00c9ric Blond",
+                "element": "University of Orl\u00e9ans",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the information provided, the current president of Northeastern University is not a person who existed in 1792, as the university did not exist at that time. Northeastern University was founded in 1898, over 100 years after the 1792 United States presidential election. Therefore, there is no current president of Northeastern University in 1792.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Kenneth G. Ryder",
+                "context_answer": "Joseph Aoun",
+                "element": "Northeastern University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the information provided, the current president of the University of Tokyo is not specified. The information only mentions the representatives of the Nagasaki 2nd district and their election results, and does not provide any information about the current president of the University of Tokyo.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Makoto Gonokami",
+                "context_answer": "Teruo Fujii",
+                "element": "University of Tokyo",
+                "attribute": "President"
+            }
+        ],
+        "match_other_answer": []
+    },
+    "rephrased_1": {
+        "match_contemporary_answer": [
+            {
+                "prediction": "The position of General Secretary at the United Nations is currently held by Kofi Annan.",
+                "matched_answers": [
+                    [
+                        "Kofi Annan",
+                        "+1997-01-01T00:00:00Z",
+                        "+2006-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Kofi Annan",
+                "context_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Based on the information provided, the position of chairperson at the World Bank is currently held by Dr. Jim Yong Kim.",
+                "matched_answers": [
+                    [
+                        "Jim Yong Kim",
+                        "+2012-07-01T00:00:00Z",
+                        "+2019-02-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Jim Yong Kim",
+                "context_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            }
+        ],
+        "match_futre_answer": [
+            {
+                "prediction": "Based on the context provided, the position of chairperson at the International Olympic Committee (IOC) is currently held by Thomas Bach.",
+                "matched_answers": [
+                    [
+                        "Thomas Bach",
+                        "+2013-09-10T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Godefroy de Blonay",
+                "context_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "The position of general secretary at North Atlantic Treaty Organization is currently held by Lord Hastings Ismay.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Paul-Henri Spaak",
+                "context_answer": "Mark Rutte",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Based on the context provided, the current central location of North Atlantic Treaty Organization (NATO) does not exist yet, as the organization was not established until 1949, long after the events described in the context. Therefore, I cannot provide an answer to this question.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Palais de Chaillot",
+                "context_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": "The current president of Marc Bloch University is not known, as Marc Bloch University does not exist. There is no such university with that name.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Daniel Payot",
+                "context_answer": "Bernard Michon",
+                "element": "Marc Bloch University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the context provided, the current president of Institut national des langues et civilisations orientales is not known, as the context is from 1799 and the institution did not exist at that time.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Andr\u00e9 Bourgey",
+                "context_answer": "Jean-Fran\u00e7ois Huchet",
+                "element": "Institut national des langues et civilisations orientales",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the context provided, the current president of Paris Dauphine University cannot be determined as there is no mention of Paris Dauphine University in the given context. The context only provides information about the 4th Grand National Assembly of Turkey and its events that took place between 1931 and 1935.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "\u00c9lie Cohen",
+                "context_answer": "E.M. Mouhoud",
+                "element": "Paris Dauphine University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the context provided, the current rector of Novosibirsk State University is not a recipient of the Order of State. Therefore, the answer is \"N/A\".",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Spartak Belyaev",
+                "context_answer": "Mikhail Fedoruk",
+                "element": "Novosibirsk State University",
+                "attribute": "Rector"
+            },
+            {
+                "prediction": "Based on the context provided, the current president of Johns Hopkins University is not a person known to have existed in 1897. Johns Hopkins University was founded in 1876, and the current president would have been a person appointed after that date. Therefore, the answer is \"None.\"",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Daniel Coit Gilman",
+                "context_answer": "Ronald J. Daniels",
+                "element": "Johns Hopkins University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the context provided, the current president of University of Shizuoka is not known, as the context ends in 1015 (Ch\u014dwa 4, 21st day of the 4th month) and the University of Shizuoka did not exist in that era.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Naohide Kinae",
+                "context_answer": "Kazuo Oike",
+                "element": "University of Shizuoka",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the information provided in the context, the current Chancellor of Jamia Millia Islamia is Mukhtar Ahmed Ansari.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Anwar Jamal Kidwai",
+                "context_answer": "Mazhar Asif",
+                "element": "Jamia Millia Islamia",
+                "attribute": "Chancellor"
+            },
+            {
+                "prediction": "Based on the information provided, the current president of the University of Reims is Mohamed Boudrika.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Lucien Bernard",
+                "context_answer": "Christophe Cl\u00e9ment",
+                "element": "University of Reims",
+                "attribute": "President"
+            },
+            {
+                "prediction": "The current president of Kyoto University is not relevant to the context provided. The context is discussing the changes to the Workers' Party of Korea's by-laws and the Korean People's Army, and does not mention Kyoto University or any other educational institution. Therefore, I cannot provide an answer to this question.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Hiroshi Matsumoto",
+                "context_answer": "Nagahiro Minato",
+                "element": "Kyoto University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the context provided, the current president of Birzeit University is not a relevant information as Birzeit University did not exist in 1975. Birzeit University was established in 1924 and was known as the Palestine American College. It was later renamed to Birzeit University in 1954. Therefore, the current president of Birzeit University is not a valid question for the time period of 1975.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Gabi Baramki",
+                "context_answer": "Hannah Nasir",
+                "element": "Birzeit University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the information provided, the current president of University of Maryland, Baltimore County is not specified.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Michael Hooker",
+                "context_answer": "Valerie Ashby",
+                "element": "University of Maryland, Baltimore County",
+                "attribute": "President"
+            },
+            {
+                "prediction": "The current president of Wittenberg University is not a relevant figure in 1900, as Wittenberg University did not exist at that time. The university was established in 1502 in Wittenberg, Germany, and its first rector was Martin Luther. Therefore, there is no president of Wittenberg University in 1900.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "John M. Ruthrauff",
+                "context_answer": "Michael Frandsen",
+                "element": "Wittenberg University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the context provided, the current president of the University of La R\u00e9union is not mentioned. The context only mentions the president of a country signing a peace deal in Colombia, and the UN General Assembly. Therefore, there is no information available to answer the question about the current president of the University of La R\u00e9union.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Michel Carayol",
+                "context_answer": "Jacques Comby",
+                "element": "University of La R\u00e9union",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the information provided in the context, the current president of Bluffton University is Edwin Wolf.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Arthur S. Rosenberger",
+                "context_answer": "Jane Wood",
+                "element": "Bluffton University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the information provided, the current president of the University of Orl\u00e9ans is not a person who lived in 1862 or 1849, as those dates are within the range of the obituaries provided. Therefore, I cannot answer the question based on the given context.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Michel Mudry",
+                "context_answer": "\u00c9ric Blond",
+                "element": "University of Orl\u00e9ans",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the context provided, the current president of Northeastern University cannot be determined as Northeastern University did not exist in 1792. The university was founded in 1898, over 100 years after the 1792 United States presidential election. Therefore, there is no president of Northeastern University to answer.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Kenneth G. Ryder",
+                "context_answer": "Joseph Aoun",
+                "element": "Northeastern University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the context provided, the current president of the University of Tokyo is not a relevant piece of information, as the context only provides information about the representatives of the Nagasaki 2nd district and their election history. The University of Tokyo is a university and does not have a president.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Makoto Gonokami",
+                "context_answer": "Teruo Fujii",
+                "element": "University of Tokyo",
+                "attribute": "President"
+            }
+        ],
+        "match_other_answer": [
+            {
+                "prediction": "Based on the information provided, the position of Director General of the International Atomic Energy Agency (IAEA) is currently held by:\n\nMr. Sigvard Eklund.",
+                "matched_answers": [
+                    [
+                        "Eklund",
+                        "+1961-01-01T00:00:00Z",
+                        "+1981-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "contemporary_answer": "William Sterling Cole",
+                "context_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            }
+        ]
+    },
+    "rephrased_2": {
+        "match_contemporary_answer": [
+            {
+                "prediction": "Based on the context provided, the answer to the question \"The general secretary position at United Nations is currently held by?\" is:\n\nKofi Annan.",
+                "matched_answers": [
+                    [
+                        "Kofi Annan",
+                        "+1997-01-01T00:00:00Z",
+                        "+2006-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Kofi Annan",
+                "context_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            }
+        ],
+        "match_futre_answer": [],
+        "irrelevant": [
+            {
+                "prediction": "Based on the information provided in the context, the current chairperson of the World Bank is not specified. The information provided only mentions the rankings of the Institute of Contemporary Publishing and Social Sciences (ICPS) in various categories for the years 2013, 2014, and 2015. Therefore, I cannot answer the question.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Jim Yong Kim",
+                "context_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Based on the information provided, the Director General of the International Atomic Energy Agency (IAEA) is currently held by [Name], subject to approval by the General Conference.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "William Sterling Cole",
+                "context_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": "The general secretary position at North Atlantic Treaty Organization is not held by anyone as the North Atlantic Treaty Organization (NATO) did not exist on June 27, 1960, as it was established on April 4, 1949.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Paul-Henri Spaak",
+                "context_answer": "Mark Rutte",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Based on the context provided, the current main office location of North Atlantic Treaty Organization (NATO) is not yet established, as the organization was not founded until 1949, more than 30 years after the date of 30 September 1957.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Palais de Chaillot",
+                "context_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": "Based on the information provided, the president position at Marc Bloch University is not a position that exists. Marc Bloch University is a fictional university and does not have a president.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Daniel Payot",
+                "context_answer": "Bernard Michon",
+                "element": "Marc Bloch University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the context provided, the president position at Institut national des langues et civilisations orientales is currently held by Count Spyridon Georgios Theotokis.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Andr\u00e9 Bourgey",
+                "context_answer": "Jean-Fran\u00e7ois Huchet",
+                "element": "Institut national des langues et civilisations orientales",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the information provided, the president position at Paris Dauphine University is not a relevant factual information on 5 May 1994, as Paris Dauphine University did not exist in 1994, and it was established in 1970. Therefore, there is no president holding the position at the university on 5 May 1994.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "\u00c9lie Cohen",
+                "context_answer": "E.M. Mouhoud",
+                "element": "Paris Dauphine University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the information provided, the rector position at Novosibirsk State University is not mentioned in the context. Therefore, I cannot answer the question.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Spartak Belyaev",
+                "context_answer": "Mikhail Fedoruk",
+                "element": "Novosibirsk State University",
+                "attribute": "Rector"
+            },
+            {
+                "prediction": "Based on the information provided, John Wells passed away on May 30, 1877, and as of June 21, 1897, the president position at Johns Hopkins University does not exist as the university was founded in 1876 and did not have a president at that time.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Daniel Coit Gilman",
+                "context_answer": "Ronald J. Daniels",
+                "element": "Johns Hopkins University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the context provided, the president position at University of Shizuoka is not a position that exists in the time period of 998 to 1015. The context only mentions positions held by a person in the government and court society of Japan during that time period. Therefore, I cannot answer the question.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Naohide Kinae",
+                "context_answer": "Kazuo Oike",
+                "element": "University of Shizuoka",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the context provided, the chancellor position at Jamia Millia Islamia is currently held by Mukhtar Ahmed Ansari.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Anwar Jamal Kidwai",
+                "context_answer": "Mazhar Asif",
+                "element": "Jamia Millia Islamia",
+                "attribute": "Chancellor"
+            },
+            {
+                "prediction": "Based on the information provided, the president position at the University of Reims is currently held by Mohamed Boudrika.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Lucien Bernard",
+                "context_answer": "Christophe Cl\u00e9ment",
+                "element": "University of Reims",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the context provided, the president position at Kyoto University is currently held by Lee Myung-bak.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Hiroshi Matsumoto",
+                "context_answer": "Nagahiro Minato",
+                "element": "Kyoto University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the information provided, the president position at Birzeit University is currently held by Mustafa Kemal Atat\u00fcrk, as he was elected as the president of Turkey for the third time on 5 May 1931.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Gabi Baramki",
+                "context_answer": "Hannah Nasir",
+                "element": "Birzeit University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the information provided, the president of the University of Maryland, Baltimore County is not mentioned in the context. Therefore, I cannot provide an answer.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Michael Hooker",
+                "context_answer": "Valerie Ashby",
+                "element": "University of Maryland, Baltimore County",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the information provided, the president position at Wittenberg University is not a position that exists in the context of the Russian Empire in 1900. Wittenberg University is a German university and did not exist in the Russian Empire. Therefore, there is no president holding the position at Wittenberg University in 1900.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "John M. Ruthrauff",
+                "context_answer": "Michael Frandsen",
+                "element": "Wittenberg University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the context provided, the president of the University of La R\u00e9union is currently held by the President of the United Nations General Assembly, as mentioned in the statement read by the President on behalf of the UNGA.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Michel Carayol",
+                "context_answer": "Jacques Comby",
+                "element": "University of La R\u00e9union",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the information provided in the context, the president of Bluffton University is Morris Newburger.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Arthur S. Rosenberger",
+                "context_answer": "Jane Wood",
+                "element": "Bluffton University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the information provided, the president position at University of Orl\u00e9ans is not a known or existing position. The information provided is related to individuals who lived in the 19th century and held various political positions in New York state.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Michel Mudry",
+                "context_answer": "\u00c9ric Blond",
+                "element": "University of Orl\u00e9ans",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the information provided, the president position at Northeastern University is not a position that existed in 1792, as Northeastern University did not exist at that time. Northeastern University was founded in 1898, over 100 years after the 1792 United States presidential election. Therefore, there is no president of Northeastern University to answer your question.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Kenneth G. Ryder",
+                "context_answer": "Joseph Aoun",
+                "element": "Northeastern University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the information provided, the current president of the University of Tokyo is:\n\nYaichi Tanigawa.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Makoto Gonokami",
+                "context_answer": "Teruo Fujii",
+                "element": "University of Tokyo",
+                "attribute": "President"
+            }
+        ],
+        "match_other_answer": [
+            {
+                "prediction": "Based on the context provided, the chairperson position at International Olympic Committee is currently held by Juan Antonio Samaranch.",
+                "matched_answers": [
+                    [
+                        "Juan Antonio Samaranch",
+                        "+1980-01-01T00:00:00Z",
+                        "+2001-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Godefroy de Blonay",
+                "context_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            }
+        ]
+    },
+    "rephrased_3": {
+        "match_contemporary_answer": [
+            {
+                "prediction": "Sure! Based on the context provided, the current General Secretary of the United Nations as of October 2005 is Kofi Annan.",
+                "matched_answers": [
+                    [
+                        "Kofi Annan",
+                        "+1997-01-01T00:00:00Z",
+                        "+2006-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Kofi Annan",
+                "context_answer": "Ant\u00f3nio Guterres",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Based on the information provided, the current chairperson of the World Bank is Jim Yong Kim.",
+                "matched_answers": [
+                    [
+                        "Jim Yong Kim",
+                        "+2012-07-01T00:00:00Z",
+                        "+2019-02-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Jim Yong Kim",
+                "context_answer": "Ajaypal Singh Banga",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            }
+        ],
+        "match_futre_answer": [],
+        "irrelevant": [
+            {
+                "prediction": "Based on the context provided, the current Director General of the International Atomic Energy Agency (IAEA) is:\n\nGro Harlem Brundtland.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "William Sterling Cole",
+                "context_answer": "Rafael Grossi",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": "Based on the context provided, the current date is June 27, 1960, and the information provided is related to events and legislation from 1855-1859. Therefore, the name of the current general secretary at North Atlantic Treaty Organization (NATO) is not applicable, as NATO did not exist at this time. The North Atlantic Treaty Organization was established on April 4, 1949, and its first secretary general was Lord Hastings Ismay.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Paul-Henri Spaak",
+                "context_answer": "Mark Rutte",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Based on the context provided, the head office of North Atlantic Treaty Organization (NATO) is not yet established as it was founded on April 4, 1949, and the events described in the context took place in 1917-1918. Therefore, the answer is \"Not applicable\".",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Palais de Chaillot",
+                "context_answer": "City of Brussels",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": "The position of president at Marc Bloch University is currently held by no one, as Marc Bloch University does not exist.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Daniel Payot",
+                "context_answer": "Bernard Michon",
+                "element": "Marc Bloch University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the context provided, the position of president at Institut national des langues et civilisations orientales is not established yet, as the events described in the context took place in 1799, and the institution was not established until much later. Therefore, there is no president holding the position as of today's date, July 1, 1999.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Andr\u00e9 Bourgey",
+                "context_answer": "Jean-Fran\u00e7ois Huchet",
+                "element": "Institut national des langues et civilisations orientales",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the context provided, the position of president at Paris Dauphine University is not a relevant information as the context is related to the 4th Grand National Assembly of Turkey and its events that took place in 1931-1935. The university of Paris Dauphine did not exist during that time period. Therefore, there is no current president of the university to answer your question.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "\u00c9lie Cohen",
+                "context_answer": "E.M. Mouhoud",
+                "element": "Paris Dauphine University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the information provided, the position of rector at Novosibirsk State University is currently held by none, as there is no mention of Novosibirsk State University in the provided context.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Spartak Belyaev",
+                "context_answer": "Mikhail Fedoruk",
+                "element": "Novosibirsk State University",
+                "attribute": "Rector"
+            },
+            {
+                "prediction": "Based on the context provided, the position of president at Johns Hopkins University is not held by anyone, as the university was not established until 1876, and the events described in the context took place in 1851 and 1877. Therefore, the answer is \"none.\"",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Daniel Coit Gilman",
+                "context_answer": "Ronald J. Daniels",
+                "element": "Johns Hopkins University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the provided context, the position of president at University of Shizuoka is not a position that exists in the historical era of 1000s Japan. The context only mentions positions within the government and the imperial court, and does not mention any educational institutions. Therefore, I cannot answer the question.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Naohide Kinae",
+                "context_answer": "Kazuo Oike",
+                "element": "University of Shizuoka",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the information provided, the position of Chancellor at Jamia Millia Islamia is currently held by Mukhtar Ahmed Ansari.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Anwar Jamal Kidwai",
+                "context_answer": "Mazhar Asif",
+                "element": "Jamia Millia Islamia",
+                "attribute": "Chancellor"
+            },
+            {
+                "prediction": "Based on the information provided, the position of president at the University of Reims is currently held by Mohamed Boudrika.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Lucien Bernard",
+                "context_answer": "Christophe Cl\u00e9ment",
+                "element": "University of Reims",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the context provided, the position of president at Kyoto University is currently held by Dr. Kim Yong-il.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Hiroshi Matsumoto",
+                "context_answer": "Nagahiro Minato",
+                "element": "Kyoto University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the information provided, the position of president at Birzeit University is currently held by Mustafa Kemal Atat\u00fcrk, who was elected on May 5, 1931.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Gabi Baramki",
+                "context_answer": "Hannah Nasir",
+                "element": "Birzeit University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the information provided, the position of president at University of Maryland, Baltimore County is currently held by Allison D. Burroughs.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Michael Hooker",
+                "context_answer": "Valerie Ashby",
+                "element": "University of Maryland, Baltimore County",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the context provided, the position of president at Wittenberg University is currently held by Mikhail Reitern.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "John M. Ruthrauff",
+                "context_answer": "Michael Frandsen",
+                "element": "Wittenberg University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the information provided in the context, the position of president at the University of La R\u00e9union is currently held by the President of the United Nations General Assembly, as mentioned in the statement read on behalf of the president who was participating in the signing of the peace deal in Colombia.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Michel Carayol",
+                "context_answer": "Jacques Comby",
+                "element": "University of La R\u00e9union",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the information provided, the position of president at Bluffton University is currently held by Morris Newburger.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Arthur S. Rosenberger",
+                "context_answer": "Jane Wood",
+                "element": "Bluffton University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the context provided, the position of president at the University of Orl\u00e9ans is not a relevant information as the context is related to individuals who lived in the 19th century and the University of Orl\u00e9ans is a French institution. Therefore, I cannot provide an answer to this question.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Michel Mudry",
+                "context_answer": "\u00c9ric Blond",
+                "element": "University of Orl\u00e9ans",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the information provided, the position of president at Northeastern University is not applicable as Northeastern University did not exist in 1792. The university was founded in 1898, more than 100 years after the 1792 United States presidential election. Therefore, there is no president of Northeastern University to hold the position.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Kenneth G. Ryder",
+                "context_answer": "Joseph Aoun",
+                "element": "Northeastern University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the context provided, the position of president at University of Tokyo is currently held by Yaichi Tanigawa.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Makoto Gonokami",
+                "context_answer": "Teruo Fujii",
+                "element": "University of Tokyo",
+                "attribute": "President"
+            }
+        ],
+        "match_other_answer": [
+            {
+                "prediction": "Based on the context provided, the name of the current chairperson at the International Olympic Committee (IOC) as of January 23, 1917, is not available. The IOC was established in 1894, and the current chairperson at that time was Pierre de Coubertin, who served from 1894 to 1925. However, the question is asking for the name of the current chairperson as of January 23, 1917, which is not within the timeframe of Coubertin's tenure. Therefore, I",
+                "matched_answers": [
+                    [
+                        "Pierre de Coubertin",
+                        "+1919-01-01T00:00:00Z",
+                        "+1925-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Godefroy de Blonay",
+                "context_answer": "Thomas Bach",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            }
+        ]
+    }
+}

@@ -1,0 +1,1677 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": "Sam Walton",
+                "matched_answers": [
+                    [
+                        "Sam Walton",
+                        "+1950-01-01T00:00:00Z",
+                        "+1988-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sam Walton",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": "Jeff Bezos",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z",
+                        "+2021-07-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jeff Bezos",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": "Lee Raymond",
+                "matched_answers": [
+                    [
+                        "Lee Raymond",
+                        "+1999-01-01T00:00:00Z",
+                        "+2005-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Lee Raymond",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": "John Sculley",
+                "matched_answers": [
+                    [
+                        "John Sculley",
+                        "+1983-01-01T00:00:00Z",
+                        "+1993-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "John Sculley",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": "Larry Page",
+                "matched_answers": [
+                    [
+                        "Larry Page",
+                        "+2015-08-10T00:00:00Z",
+                        "+2019-12-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Larry Page",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": "Akio Toyoda",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00Z",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Akio Toyoda",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": "Bob Dudley",
+                "matched_answers": [
+                    [
+                        "Bob Dudley",
+                        "+2010-10-01T00:00:00Z",
+                        "+2020-02-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bob Dudley",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": "Bill Gates",
+                "matched_answers": [
+                    [
+                        "Bill Gates",
+                        "+1975-04-01T00:00:00Z",
+                        "+2000-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bill Gates",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": "Alexey Miller",
+                "matched_answers": [
+                    [
+                        "Alexey Miller",
+                        "+2001-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            },
+            {
+                "prediction": "Paul Otellini",
+                "matched_answers": [
+                    [
+                        "Paul Otellini",
+                        "+2005-05-18T00:00:00Z",
+                        "+2013-05-02T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paul Otellini",
+                "element": "Intel",
+                "attribute": null
+            },
+            {
+                "prediction": "Sundar Pichai",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2015-08-10T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sundar Pichai",
+                "element": "Google",
+                "attribute": null
+            },
+            {
+                "prediction": "Paul Polman",
+                "matched_answers": [
+                    [
+                        "Paul Polman",
+                        "+2009-01-01T00:00:00Z",
+                        "+2019-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paul Polman",
+                "element": "Unilever",
+                "attribute": null
+            },
+            {
+                "prediction": "Rainer Seele",
+                "matched_answers": [
+                    [
+                        "Rainer Seele",
+                        "+2015-01-01T00:00:00Z",
+                        "+2021-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Rainer Seele",
+                "element": "OMV",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Naif Al\u7f55nan Alhnan",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Khalid A. Al-Falih",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": "Neal P. Boulton",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Karen S. Lynch",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": "Hans Werner Eggert",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Heinrich Nordhoff",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": "Jean-Marie Dauger",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Serge Tchuruk",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": "Ant\u00f3nio Guterres",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ivan Glasenberg",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": "Osamu Masuko",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            },
+            {
+                "prediction": "Daniel Mark Mulvihill \"Dan\" Evans Mulley",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Dennis Muilenburg",
+                "element": "Boeing",
+                "attribute": null
+            },
+            {
+                "prediction": "Peter Cowgill",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "John Clothier",
+                "element": "C. & J. Clark International Ltd",
+                "attribute": null
+            },
+            {
+                "prediction": "Koji Hasegawa",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Toshir\u014d Yamaguchi",
+                "element": "7-Eleven Japan",
+                "attribute": null
+            },
+            {
+                "prediction": "Anthony Fu Shing-tuen",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Chow Chung-kong",
+                "element": "MTR Corporation Limited",
+                "attribute": null
+            },
+            {
+                "prediction": "Jan Rusn\u00e1k",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Albert Le Dirac'h",
+                "element": "Komer\u010dn\u00ed banka",
+                "attribute": null
+            },
+            {
+                "prediction": "Frederick W. Smith",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Kent C. Nelson",
+                "element": "United Parcel Service",
+                "attribute": null
+            },
+            {
+                "prediction": "Thomas B. Miksch",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Thomas F. Borgen",
+                "element": "Danske Bank",
+                "attribute": null
+            },
+            {
+                "prediction": "William L. Daley",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Stephen M. Wolf",
+                "element": "United Airlines",
+                "attribute": null
+            },
+            {
+                "prediction": "Tore H\u00f8iland-J\u00f8rgensen",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Linda Bernander Silseth",
+                "element": "Flytoget AS",
+                "attribute": null
+            },
+            {
+                "prediction": "Richard Anderson",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gerald Grinstein",
+                "element": "Delta Air Lines",
+                "attribute": null
+            },
+            {
+                "prediction": "Johan Ludwig M\u00f8ller",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Olav Midttun",
+                "element": "Norwegian Broadcasting Corporation",
+                "attribute": null
+            },
+            {
+                "prediction": "Larry Fink",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Michael Geoghegan",
+                "element": "HSBC",
+                "attribute": null
+            },
+            {
+                "prediction": "Sten M\u00f6rck",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sam Nilsson",
+                "element": "Sveriges Television",
+                "attribute": null
+            },
+            {
+                "prediction": "Fabrizio Capobianco",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Elisabetta Ripa",
+                "element": "Open Fiber",
+                "attribute": null
+            },
+            {
+                "prediction": "Milan Chovanec",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Pavel Kav\u00e1nek",
+                "element": "\u010ceskoslovensk\u00e1 obchodn\u00ed banka",
+                "attribute": null
+            }
+        ],
+        "other": [
+            {
+                "prediction": "Peter Voser",
+                "matched_answers": [
+                    [
+                        "Peter Voser",
+                        "+2009-01-01T00:00:00Z",
+                        "+2013-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jeroen van der Veer",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": "Alan Mulally",
+                "matched_answers": [
+                    [
+                        "Alan Mulally",
+                        "+2006-09-01T00:00:00Z",
+                        "+2014-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "William Clay Ford",
+                "element": "Ford Motor Company",
+                "attribute": null
+            }
+        ]
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": "Sam Walton",
+                "matched_answers": [
+                    [
+                        "Sam Walton",
+                        "+1950-01-01T00:00:00Z",
+                        "+1988-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sam Walton",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": "Jeff Bezos",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z",
+                        "+2021-07-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jeff Bezos",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": "Lee Raymond",
+                "matched_answers": [
+                    [
+                        "Lee Raymond",
+                        "+1999-01-01T00:00:00Z",
+                        "+2005-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Lee Raymond",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": "Larry Page",
+                "matched_answers": [
+                    [
+                        "Larry Page",
+                        "+2015-08-10T00:00:00Z",
+                        "+2019-12-03T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Larry Page",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": "Akio Toyoda",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00Z",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Akio Toyoda",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": "Bob Dudley",
+                "matched_answers": [
+                    [
+                        "Bob Dudley",
+                        "+2010-10-01T00:00:00Z",
+                        "+2020-02-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bob Dudley",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": "Bill Gates",
+                "matched_answers": [
+                    [
+                        "Bill Gates",
+                        "+1975-04-01T00:00:00Z",
+                        "+2000-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bill Gates",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": "Alexey Miller",
+                "matched_answers": [
+                    [
+                        "Alexey Miller",
+                        "+2001-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            },
+            {
+                "prediction": "Paul Otellini",
+                "matched_answers": [
+                    [
+                        "Paul Otellini",
+                        "+2005-05-18T00:00:00Z",
+                        "+2013-05-02T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paul Otellini",
+                "element": "Intel",
+                "attribute": null
+            },
+            {
+                "prediction": "Sundar Pichai",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2015-08-10T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sundar Pichai",
+                "element": "Google",
+                "attribute": null
+            },
+            {
+                "prediction": "Paul Polman",
+                "matched_answers": [
+                    [
+                        "Paul Polman",
+                        "+2009-01-01T00:00:00Z",
+                        "+2019-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paul Polman",
+                "element": "Unilever",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Naif Al\u7f55aiman",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Khalid A. Al-Falih",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": "Neal B. Smith",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Karen S. Lynch",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": "Ferdinand Porsche",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Heinrich Nordhoff",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": "Anton Zverev",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Ivan Glasenberg",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": "Tetsuo Iwamura",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            },
+            {
+                "prediction": "Daniel Mark Mulvihill",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Dennis Muilenburg",
+                "element": "Boeing",
+                "attribute": null
+            },
+            {
+                "prediction": "Toshio Yamada",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Toshir\u014d Yamaguchi",
+                "element": "7-Eleven Japan",
+                "attribute": null
+            },
+            {
+                "prediction": "Anthony Leung",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Chow Chung-kong",
+                "element": "MTR Corporation Limited",
+                "attribute": null
+            },
+            {
+                "prediction": "Petr Kuncar",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Albert Le Dirac'h",
+                "element": "Komer\u010dn\u00ed banka",
+                "attribute": null
+            },
+            {
+                "prediction": "Frederick W. Smith",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Kent C. Nelson",
+                "element": "United Parcel Service",
+                "attribute": null
+            },
+            {
+                "prediction": "Thomas B. Miksch",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Thomas F. Borgen",
+                "element": "Danske Bank",
+                "attribute": null
+            },
+            {
+                "prediction": "Patrick Watschek",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rainer Seele",
+                "element": "OMV",
+                "attribute": null
+            },
+            {
+                "prediction": "Calin Rovinescu",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Stephen M. Wolf",
+                "element": "United Airlines",
+                "attribute": null
+            },
+            {
+                "prediction": "Geir Karlsen",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Linda Bernander Silseth",
+                "element": "Flytoget AS",
+                "attribute": null
+            },
+            {
+                "prediction": "Richard T. Anderson",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gerald Grinstein",
+                "element": "Delta Air Lines",
+                "attribute": null
+            },
+            {
+                "prediction": "Olav Hauge",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Olav Midttun",
+                "element": "Norwegian Broadcasting Corporation",
+                "attribute": null
+            },
+            {
+                "prediction": "Sten Malmros",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sam Nilsson",
+                "element": "Sveriges Television",
+                "attribute": null
+            },
+            {
+                "prediction": "Fabrizio Viceconte",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Elisabetta Ripa",
+                "element": "Open Fiber",
+                "attribute": null
+            },
+            {
+                "prediction": "Jan Rusnak",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Pavel Kav\u00e1nek",
+                "element": "\u010ceskoslovensk\u00e1 obchodn\u00ed banka",
+                "attribute": null
+            }
+        ],
+        "other": [
+            {
+                "prediction": "Michael Spindler",
+                "matched_answers": [
+                    [
+                        "Michael Spindler",
+                        "+1993-01-01T00:00:00Z",
+                        "+1996-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "John Sculley",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": "Peter Voser",
+                "matched_answers": [
+                    [
+                        "Peter Voser",
+                        "+2009-01-01T00:00:00Z",
+                        "+2013-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jeroen van der Veer",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": "Christophe de Margerie",
+                "matched_answers": [
+                    [
+                        "Christophe de Margerie",
+                        "+2007-02-01T00:00:00Z",
+                        "+2014-10-20T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Serge Tchuruk",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": "Alan Mulally",
+                "matched_answers": [
+                    [
+                        "Alan Mulally",
+                        "+2006-09-01T00:00:00Z",
+                        "+2014-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "William Clay Ford",
+                "element": "Ford Motor Company",
+                "attribute": null
+            },
+            {
+                "prediction": "David Rees",
+                "matched_answers": [
+                    [
+                        "David",
+                        "+2018-06-01T00:00:00Z",
+                        "+2019-02-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "John Clothier",
+                "element": "C. & J. Clark International Ltd",
+                "attribute": null
+            },
+            {
+                "prediction": "Douglas Flint",
+                "matched_answers": [
+                    [
+                        "Flint",
+                        "+2018-02-01T00:00:00Z",
+                        "+2019-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Michael Geoghegan",
+                "element": "HSBC",
+                "attribute": null
+            }
+        ]
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": "Sam Walton",
+                "matched_answers": [
+                    [
+                        "Sam Walton",
+                        "+1950-01-01T00:00:00Z",
+                        "+1988-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sam Walton",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": "Jeff Bezos",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z",
+                        "+2021-07-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jeff Bezos",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": "John Sculley",
+                "matched_answers": [
+                    [
+                        "John Sculley",
+                        "+1983-01-01T00:00:00Z",
+                        "+1993-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "John Sculley",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": "Akio Toyoda",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00Z",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Akio Toyoda",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": "Ivan Glasenberg",
+                "matched_answers": [
+                    [
+                        "Ivan Glasenberg",
+                        "+2002-01-01T00:00:00Z",
+                        "+2021-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Ivan Glasenberg",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": "Bob Dudley",
+                "matched_answers": [
+                    [
+                        "Bob Dudley",
+                        "+2010-10-01T00:00:00Z",
+                        "+2020-02-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bob Dudley",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": "Bill Gates",
+                "matched_answers": [
+                    [
+                        "Bill Gates",
+                        "+1975-04-01T00:00:00Z",
+                        "+2000-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bill Gates",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": "Alexey Miller",
+                "matched_answers": [
+                    [
+                        "Alexey Miller",
+                        "+2001-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            },
+            {
+                "prediction": "Paul Otellini",
+                "matched_answers": [
+                    [
+                        "Paul Otellini",
+                        "+2005-05-18T00:00:00Z",
+                        "+2013-05-02T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paul Otellini",
+                "element": "Intel",
+                "attribute": null
+            },
+            {
+                "prediction": "Dennis Muilenburg",
+                "matched_answers": [
+                    [
+                        "Dennis Muilenburg",
+                        "+2015-07-01T00:00:00Z",
+                        "+2019-12-23T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Dennis Muilenburg",
+                "element": "Boeing",
+                "attribute": null
+            },
+            {
+                "prediction": "Sundar Pichai",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2015-08-10T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sundar Pichai",
+                "element": "Google",
+                "attribute": null
+            },
+            {
+                "prediction": "Paul Polman",
+                "matched_answers": [
+                    [
+                        "Paul Polman",
+                        "+2009-01-01T00:00:00Z",
+                        "+2019-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paul Polman",
+                "element": "Unilever",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Naif Al\u7f55aiman",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Khalid A. Al-Falih",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": "W. Douglas Carlson",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Lee Raymond",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": "Neal P. Smith",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Karen S. Lynch",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": "Hans Konrad Delius",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Heinrich Nordhoff",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": "Jean-Pierre Maury",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Serge Tchuruk",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": "Osamu Masuko",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            },
+            {
+                "prediction": "Peter Cowgill",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "John Clothier",
+                "element": "C. & J. Clark International Ltd",
+                "attribute": null
+            },
+            {
+                "prediction": "Koichi Hasegawa",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Toshir\u014d Yamaguchi",
+                "element": "7-Eleven Japan",
+                "attribute": null
+            },
+            {
+                "prediction": "Thomas Fung",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Chow Chung-kong",
+                "element": "MTR Corporation Limited",
+                "attribute": null
+            },
+            {
+                "prediction": "Jan Dub\u6276",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Albert Le Dirac'h",
+                "element": "Komer\u010dn\u00ed banka",
+                "attribute": null
+            },
+            {
+                "prediction": "Frederick W. Smith",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Kent C. Nelson",
+                "element": "United Parcel Service",
+                "attribute": null
+            },
+            {
+                "prediction": "Thomas B. Miksch",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Thomas F. Borgen",
+                "element": "Danske Bank",
+                "attribute": null
+            },
+            {
+                "prediction": "Patrick Pouyann\u00e9",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rainer Seele",
+                "element": "OMV",
+                "attribute": null
+            },
+            {
+                "prediction": "Edward B. McRae",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Stephen M. Wolf",
+                "element": "United Airlines",
+                "attribute": null
+            },
+            {
+                "prediction": "Ola Elvestuen",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Linda Bernander Silseth",
+                "element": "Flytoget AS",
+                "attribute": null
+            },
+            {
+                "prediction": "Richard W. Smith",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gerald Grinstein",
+                "element": "Delta Air Lines",
+                "attribute": null
+            },
+            {
+                "prediction": "Olaf Rye",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Olav Midttun",
+                "element": "Norwegian Broadcasting Corporation",
+                "attribute": null
+            },
+            {
+                "prediction": "Larry Howard Biddle",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Michael Geoghegan",
+                "element": "HSBC",
+                "attribute": null
+            },
+            {
+                "prediction": "Stefan Bengtsson",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sam Nilsson",
+                "element": "Sveriges Television",
+                "attribute": null
+            },
+            {
+                "prediction": "Marco Di Lauro",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Elisabetta Ripa",
+                "element": "Open Fiber",
+                "attribute": null
+            },
+            {
+                "prediction": "Petr Srb",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Pavel Kav\u00e1nek",
+                "element": "\u010ceskoslovensk\u00e1 obchodn\u00ed banka",
+                "attribute": null
+            }
+        ],
+        "other": [
+            {
+                "prediction": "Peter Voser",
+                "matched_answers": [
+                    [
+                        "Peter Voser",
+                        "+2009-01-01T00:00:00Z",
+                        "+2013-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jeroen van der Veer",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": "Sundar Pichai",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2019-12-03T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Larry Page",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": "Alan Mulally",
+                "matched_answers": [
+                    [
+                        "Alan Mulally",
+                        "+2006-09-01T00:00:00Z",
+                        "+2014-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "William Clay Ford",
+                "element": "Ford Motor Company",
+                "attribute": null
+            }
+        ]
+    },
+    "rephrased_3": {
+        "correct": [
+            {
+                "prediction": "Jeff Bezos",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z",
+                        "+2021-07-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jeff Bezos",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": "John Sculley",
+                "matched_answers": [
+                    [
+                        "John Sculley",
+                        "+1983-01-01T00:00:00Z",
+                        "+1993-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "John Sculley",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": "Akio Toyoda",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00Z",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Akio Toyoda",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": "Ivan M. Glasenberg",
+                "matched_answers": [
+                    [
+                        "Glasenberg",
+                        "+2002-01-01T00:00:00Z",
+                        "+2021-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Ivan Glasenberg",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": "Bob Dudley",
+                "matched_answers": [
+                    [
+                        "Bob Dudley",
+                        "+2010-10-01T00:00:00Z",
+                        "+2020-02-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bob Dudley",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": "Bill Gates",
+                "matched_answers": [
+                    [
+                        "Bill Gates",
+                        "+1975-04-01T00:00:00Z",
+                        "+2000-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Bill Gates",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": "Alexey Miller",
+                "matched_answers": [
+                    [
+                        "Alexey Miller",
+                        "+2001-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            },
+            {
+                "prediction": "William Clay Ford Jr.",
+                "matched_answers": [
+                    [
+                        "William Clay Ford",
+                        "+2001-10-01T00:00:00Z",
+                        "+2006-09-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "William Clay Ford",
+                "element": "Ford Motor Company",
+                "attribute": null
+            },
+            {
+                "prediction": "Paul Otellini",
+                "matched_answers": [
+                    [
+                        "Paul Otellini",
+                        "+2005-05-18T00:00:00Z",
+                        "+2013-05-02T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paul Otellini",
+                "element": "Intel",
+                "attribute": null
+            },
+            {
+                "prediction": "Sundar Pichai",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2015-08-10T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Sundar Pichai",
+                "element": "Google",
+                "attribute": null
+            },
+            {
+                "prediction": "Paul Polman",
+                "matched_answers": [
+                    [
+                        "Paul Polman",
+                        "+2009-01-01T00:00:00Z",
+                        "+2019-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paul Polman",
+                "element": "Unilever",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "David Hill Rogers",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sam Walton",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": "Abdulaziz Al-Khliyaan",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Khalid A. Al-Falih",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": "W. Douglas Kick",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Lee Raymond",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": "Neal B. Smith",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Karen S. Lynch",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": "Hans Werner Erhard",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Heinrich Nordhoff",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": "Jean-Pierre Maury",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Serge Tchuruk",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": "Tetsuro\u7687\u51a0(\u7687\u51a0)",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Takehiko Kakiuchi",
+                "element": "Mitsubishi",
+                "attribute": null
+            },
+            {
+                "prediction": "Daniel Mark Mulvihill",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Dennis Muilenburg",
+                "element": "Boeing",
+                "attribute": null
+            },
+            {
+                "prediction": "Takahiro Inoue",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Toshir\u014d Yamaguchi",
+                "element": "7-Eleven Japan",
+                "attribute": null
+            },
+            {
+                "prediction": "Thomas Ma Kai-fong",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Chow Chung-kong",
+                "element": "MTR Corporation Limited",
+                "attribute": null
+            },
+            {
+                "prediction": "Jan Dub\u6276",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Albert Le Dirac'h",
+                "element": "Komer\u010dn\u00ed banka",
+                "attribute": null
+            },
+            {
+                "prediction": "Frederick W. Smith",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Kent C. Nelson",
+                "element": "United Parcel Service",
+                "attribute": null
+            },
+            {
+                "prediction": "Thomas B. Mikva",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Thomas F. Borgen",
+                "element": "Danske Bank",
+                "attribute": null
+            },
+            {
+                "prediction": "Siegfried Gnerth",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Rainer Seele",
+                "element": "OMV",
+                "attribute": null
+            },
+            {
+                "prediction": "Edward B. Worthington",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Stephen M. Wolf",
+                "element": "United Airlines",
+                "attribute": null
+            },
+            {
+                "prediction": "Per Myklebust",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Linda Bernander Silseth",
+                "element": "Flytoget AS",
+                "attribute": null
+            },
+            {
+                "prediction": "Richard W. Anderson",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Gerald Grinstein",
+                "element": "Delta Air Lines",
+                "attribute": null
+            },
+            {
+                "prediction": "Kristian H\u00f8lmebakk",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Olav Midttun",
+                "element": "Norwegian Broadcasting Corporation",
+                "attribute": null
+            },
+            {
+                "prediction": "Larry Fink",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Michael Geoghegan",
+                "element": "HSBC",
+                "attribute": null
+            },
+            {
+                "prediction": "Sten M\u00f6rner",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Sam Nilsson",
+                "element": "Sveriges Television",
+                "attribute": null
+            },
+            {
+                "prediction": "Antonio Campa\u00f1a",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Elisabetta Ripa",
+                "element": "Open Fiber",
+                "attribute": null
+            },
+            {
+                "prediction": "Petr B\u00f6hm",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Pavel Kav\u00e1nek",
+                "element": "\u010ceskoslovensk\u00e1 obchodn\u00ed banka",
+                "attribute": null
+            }
+        ],
+        "other": [
+            {
+                "prediction": "Peter Voser",
+                "matched_answers": [
+                    [
+                        "Peter Voser",
+                        "+2009-01-01T00:00:00Z",
+                        "+2013-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Jeroen van der Veer",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": "Sundar Pichai",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2019-12-03T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Larry Page",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": "Robert Clark",
+                "matched_answers": [
+                    [
+                        "Clark",
+                        "+1942-01-01T00:00:00Z",
+                        "+1967-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head",
+                    "head",
+                    "head",
+                    "head"
+                ],
+                "correct_answer": "John Clothier",
+                "element": "C. & J. Clark International Ltd",
+                "attribute": null
+            }
+        ]
+    }
+}

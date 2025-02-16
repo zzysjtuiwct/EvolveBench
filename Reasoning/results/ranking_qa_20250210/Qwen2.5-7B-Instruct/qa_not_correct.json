@@ -1,0 +1,266 @@
+{
+    "companies_byRevenue": {},
+    "countries_byGDP": {
+        "Sweden": {
+            "Prime Minister of Sweden": {
+                "answers": [
+                    "Stefan L\u00f6fven |S: +2014-10-03T00:00:00Z |E: +2021-10-30T00:00:00Z",
+                    "Fredrik Reinfeldt |S: +2006-10-06T00:00:00Z |E: +2014-10-03T00:00:00Z",
+                    "G\u00f6ran Persson |S: +1996-03-22T00:00:00Z |E: +2006-10-06T00:00:00Z",
+                    "Ingvar Carlsson |S: +1994-10-07T00:00:00Z |E: +1996-03-22T00:00:00Z",
+                    "Carl Bildt |S: +1991-10-14T00:00:00Z |E: +1994-10-07T00:00:00Z",
+                    "Ingvar Carlsson |S: +1990-02-27T00:00:00Z |E: +1991-10-04T00:00:00Z",
+                    "Magdalena Andersson |S: +2021-11-30T00:00:00Z |E: +2022-10-18T00:00:00Z",
+                    "Ulf Kristersson |S: +2022-10-18T00:00:00Z"
+                ],
+                "ground_truth": "Carl Bildt",
+                "ranking_qa": {
+                    "generic": "Carl Bildt and G\u00f6ran Persson both served as the prime ministers of Sweden before. Do you know which one of them the former prime minister was?",
+                    "rephrased_1": "Carl Bildt and G\u00f6ran Persson both served as the prime ministers of Sweden before. Do you know which one of them the former prime minister was?",
+                    "rephrased_2": "Sweden had Carl Bildt and G\u00f6ran Persson as former prime ministers. Can you identify which one the former prime minister was?",
+                    "rephrased_3": "Carl Bildt and G\u00f6ran Persson previously held the position of the prime minister of Sweden. Which of them served as the former prime minister?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 18 January 1999, G\u00f6ran Persson was the prime minister of Sweden. So, who held this position 1723 days before?",
+                    "rephrased_1": "On 18 January 1999, G\u00f6ran Persson was the prime minister of Sweden. So, who held this position 1723 days before?",
+                    "rephrased_2": "G\u00f6ran Persson was Sweden's prime minister on 18 January 1999. Do you know who was in this role before 1723 days?",
+                    "rephrased_3": "G\u00f6ran Persson served as the prime minister of Sweden on 18 January 1999. Can you identify who occupied this position before 1723 days?"
+                }
+            }
+        },
+        "Egypt": {
+            "Prime Minister of Egypt": {
+                "answers": [
+                    "Sherif Ismail |S: +2015-09-19T00:00:00Z |E: +2018-06-07T00:00:00Z",
+                    "Mostafa Madbouly |S: +2018-06-14T00:00:00Z"
+                ],
+                "ground_truth": "Sherif Ismail",
+                "ranking_qa": {
+                    "generic": "Sherif Ismail and Mostafa Madbouly both served as the prime ministers of Egypt before. Do you know which one of them the former prime minister was?",
+                    "rephrased_1": "Sherif Ismail and Mostafa Madbouly both served as the prime ministers of Egypt before. Do you know which one of them the former prime minister was?",
+                    "rephrased_2": "Egypt had Sherif Ismail and Mostafa Madbouly as former prime ministers. Can you identify which one the former prime minister was?",
+                    "rephrased_3": "Sherif Ismail and Mostafa Madbouly previously held the position of the prime minister of Egypt. Which of them served as the former prime minister?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 18 October 2024, Mostafa Madbouly was the prime minister of Egypt. So, who held this position 2865 days before?",
+                    "rephrased_1": "On 18 October 2024, Mostafa Madbouly was the prime minister of Egypt. So, who held this position 2865 days before?",
+                    "rephrased_2": "Mostafa Madbouly was Egypt's prime minister on 18 October 2024. Do you know who was in this role before 2865 days?",
+                    "rephrased_3": "Mostafa Madbouly served as the prime minister of Egypt on 18 October 2024. Can you identify who occupied this position before 2865 days?"
+                }
+            }
+        },
+        "Denmark": {
+            "monarch of Denmark": {
+                "answers": [
+                    "Margrethe II of Denmark |S: +1972-01-14T00:00:00Z |E: +2024-01-14T00:00:00Z",
+                    "Frederick IX of Denmark |S: +1947-04-20T00:00:00Z |E: +1972-01-14T00:00:00Z",
+                    "Christian X of Denmark |S: +1912-05-14T00:00:00Z |E: +1947-04-20T00:00:00Z",
+                    "Frederick VIII of Denmark |S: +1906-01-29T00:00:00Z |E: +1912-05-14T00:00:00Z",
+                    "Christian IX of Denmark |S: +1863-11-15T00:00:00Z |E: +1906-01-29T00:00:00Z",
+                    "Frederick VII of Denmark |S: +1848-01-20T00:00:00Z |E: +1863-11-15T00:00:00Z",
+                    "Christian VIII of Denmark |S: +1839-12-03T00:00:00Z |E: +1848-01-20T00:00:00Z",
+                    "Frederick VI of Denmark |S: +1808-03-13T00:00:00Z |E: +1839-12-03T00:00:00Z",
+                    "Christian VII of Denmark |S: +1766-01-14T00:00:00Z |E: +1808-03-13T00:00:00Z",
+                    "Frederick V of Denmark |S: +1746-08-06T00:00:00Z |E: +1766-01-14T00:00:00Z",
+                    "Christian VI of Denmark |S: +1730-10-12T00:00:00Z |E: +1746-08-06T00:00:00Z",
+                    "Frederick IV of Denmark |S: +1699-08-25T00:00:00Z |E: +1730-10-12T00:00:00Z",
+                    "Christian V of Denmark |S: +1670-02-09T00:00:00Z |E: +1699-08-25T00:00:00Z",
+                    "Frederick III of Denmark |S: +1648-07-06T00:00:00Z |E: +1670-02-09T00:00:00Z",
+                    "Christian IV of Denmark |S: +1588-04-04T00:00:00Z |E: +1648-02-28T00:00:00Z",
+                    "Frederick II of Denmark |S: +1559-01-01T00:00:00Z |E: +1588-04-04T00:00:00Z",
+                    "Christian III of Denmark |S: +1534-07-04T00:00:00Z |E: +1559-01-01T00:00:00Z",
+                    "Frederick I of Denmark |S: +1523-04-13T00:00:00Z |E: +1533-04-10T00:00:00Z",
+                    "Christian II of Denmark |S: +1513-02-20T00:00:00Z |E: +1523-04-13T00:00:00Z",
+                    "John, King of Denmark |S: +1481-05-21T00:00:00Z |E: +1513-02-20T00:00:00Z",
+                    "Christian I of Denmark |S: +1448-09-01T00:00:00Z |E: +1481-05-21T00:00:00Z",
+                    "Christopher of Bavaria |S: +1440-04-09T00:00:00Z |E: +1448-01-06T00:00:00Z",
+                    "Eric of Pomerania |S: +1396-01-01T00:00:00Z |E: +1439-01-01T00:00:00Z",
+                    "Frederik X |S: +2024-01-14T00:00:00Z"
+                ],
+                "ground_truth": "John, King of Denmark",
+                "ranking_qa": {
+                    "generic": "John, King of Denmark and Margrethe II of Denmark both served as the monarchs of Denmark before. Do you know which one of them the former monarch was?",
+                    "rephrased_1": "John, King of Denmark and Margrethe II of Denmark both served as the monarchs of Denmark before. Do you know which one of them the former monarch was?",
+                    "rephrased_2": "Denmark had John, King of Denmark and Margrethe II of Denmark as former monarchs. Can you identify which one the former monarch was?",
+                    "rephrased_3": "John, King of Denmark and Margrethe II of Denmark previously held the position of the monarch of Denmark. Which of them served as the former monarch?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 3 January 1987, Margrethe II of Denmark was the monarch of Denmark. So, who held this position 180957 days before?",
+                    "rephrased_1": "On 3 January 1987, Margrethe II of Denmark was the monarch of Denmark. So, who held this position 180957 days before?",
+                    "rephrased_2": "Margrethe II of Denmark was Denmark's monarch on 3 January 1987. Do you know who was in this role before 180957 days?",
+                    "rephrased_3": "Margrethe II of Denmark served as the monarch of Denmark on 3 January 1987. Can you identify who occupied this position before 180957 days?"
+                }
+            },
+            "Prime Minister of Denmark": {
+                "answers": [
+                    "Helle Thorning-Schmidt |S: +2011-10-03T00:00:00Z |E: +2015-06-28T00:00:00Z",
+                    "Lars L\u00f8kke Rasmussen |S: +2009-04-05T00:00:00Z |E: +2011-10-03T00:00:00Z",
+                    "Anders Fogh Rasmussen |S: +2001-11-27T00:00:00Z |E: +2009-04-05T00:00:00Z",
+                    "Poul Nyrup Rasmussen |S: +1993-01-25T00:00:00Z |E: +2001-11-27T00:00:00Z",
+                    "Poul Schl\u00fcter |S: +1982-09-10T00:00:00Z |E: +1993-01-25T00:00:00Z",
+                    "Anker J\u00f8rgensen |S: +1975-02-13T00:00:00Z |E: +1982-09-10T00:00:00Z",
+                    "Poul Hartling |S: +1973-12-19T00:00:00Z |E: +1975-02-13T00:00:00Z",
+                    "Anker J\u00f8rgensen |S: +1972-10-05T00:00:00Z |E: +1973-12-19T00:00:00Z",
+                    "Jens Otto Krag |S: +1971-10-11T00:00:00Z |E: +1972-10-05T00:00:00Z",
+                    "Hilmar Baunsgaard |S: +1968-02-02T00:00:00Z |E: +1971-10-11T00:00:00Z",
+                    "Jens Otto Krag |S: +1962-09-03T00:00:00Z |E: +1968-02-02T00:00:00Z",
+                    "Viggo Kampmann |S: +1960-02-21T00:00:00Z |E: +1962-09-03T00:00:00Z",
+                    "H. C. Hansen |S: +1955-02-01T00:00:00Z |E: +1960-02-21T00:00:00Z",
+                    "Hans Hedtoft |S: +1953-09-30T00:00:00Z |E: +1955-02-01T00:00:00Z",
+                    "Erik Eriksen |S: +1950-10-30T00:00:00Z |E: +1953-09-30T00:00:00Z",
+                    "Hans Hedtoft |S: +1947-11-13T00:00:00Z |E: +1950-10-30T00:00:00Z",
+                    "Knud Kristensen |S: +1945-11-07T00:00:00Z |E: +1947-11-13T00:00:00Z",
+                    "Vilhelm Buhl |S: +1945-05-05T00:00:00Z |E: +1945-11-07T00:00:00Z",
+                    "Erik Scavenius |S: +1942-11-09T00:00:00Z |E: +1945-05-05T00:00:00Z",
+                    "Vilhelm Buhl |S: +1942-05-04T00:00:00Z |E: +1942-11-09T00:00:00Z",
+                    "Thorvald Stauning |S: +1929-04-30T00:00:00Z |E: +1942-05-04T00:00:00Z",
+                    "Thomas Madsen-Mygdal |S: +1926-12-14T00:00:00Z |E: +1929-04-30T00:00:00Z",
+                    "Thorvald Stauning |S: +1924-04-23T00:00:00Z |E: +1926-12-14T00:00:00Z",
+                    "Niels Neergaard |S: +1920-05-05T00:00:00Z |E: +1924-04-23T00:00:00Z",
+                    "Michael Pedersen Friis |S: +1920-04-05T00:00:00Z |E: +1920-05-05T00:00:00Z",
+                    "Otto Liebe |S: +1920-03-30T00:00:00Z |E: +1920-04-05T00:00:00Z",
+                    "Carl Theodor Zahle |S: +1913-06-21T00:00:00Z |E: +1920-03-30T00:00:00Z",
+                    "Klaus Berntsen |S: +1910-07-05T00:00:00Z |E: +1913-06-21T00:00:00Z",
+                    "Carl Theodor Zahle |S: +1909-10-28T00:00:00Z |E: +1910-07-05T00:00:00Z",
+                    "Ludvig Holstein-Ledreborg |S: +1909-08-16T00:00:00Z |E: +1909-10-28T00:00:00Z",
+                    "Niels Neergaard |S: +1908-10-12T00:00:00Z |E: +1909-08-16T00:00:00Z",
+                    "Jens Christian Christensen |S: +1905-01-14T00:00:00Z |E: +1908-10-12T00:00:00Z",
+                    "Johan Henrik Deuntzer |S: +1901-07-24T00:00:00Z |E: +1905-01-14T00:00:00Z",
+                    "Hannibal Sehested |S: +1900-04-27T00:00:00Z |E: +1901-07-24T00:00:00Z",
+                    "Hugo Egmont H\u00f8rring |S: +1897-05-23T00:00:00Z |E: +1900-04-27T00:00:00Z",
+                    "Tage Reedtz-Thott |S: +1894-08-07T00:00:00Z |E: +1897-05-23T00:00:00Z",
+                    "Jacob Br\u00f8nnum Scavenius Estrup |S: +1875-06-11T00:00:00Z |E: +1894-08-07T00:00:00Z",
+                    "Christen Andreas Fonnesbech |S: +1874-07-14T00:00:00Z |E: +1875-06-11T00:00:00Z",
+                    "Ludvig Holstein-Holsteinborg |S: +1870-05-28T00:00:00Z |E: +1874-07-14T00:00:00Z",
+                    "Christian Emil Krag-Juel-Vind-Frijs |S: +1865-11-06T00:00:00Z |E: +1870-05-28T00:00:00Z",
+                    "Christian Albrecht Bluhme |S: +1864-07-11T00:00:00Z |E: +1865-11-06T00:00:00Z",
+                    "Ditlev Gothard Monrad |S: +1863-12-31T00:00:00Z |E: +1864-07-11T00:00:00Z",
+                    "Carl Christian Hall |S: +1860-01-24T00:00:00Z |E: +1863-12-31T00:00:00Z",
+                    "Carl Edvard Rotwitt |S: +1859-12-02T00:00:00Z |E: +1860-01-24T00:00:00Z",
+                    "Carl Christian Hall |S: +1857-05-13T00:00:00Z |E: +1859-12-02T00:00:00Z",
+                    "Carl Christoffer Georg Andr\u00e6 |S: +1856-10-18T00:00:00Z |E: +1857-05-13T00:00:00Z",
+                    "Peter Georg Bang |S: +1854-12-12T00:00:00Z |E: +1856-10-18T00:00:00Z",
+                    "Anders Sand\u00f8e \u00d8rsted |S: +1853-04-21T00:00:00Z |E: +1854-12-12T00:00:00Z",
+                    "Christian Albrecht Bluhme |S: +1852-01-27T00:00:00Z |E: +1853-04-21T00:00:00Z",
+                    "Adam Wilhelm Moltke |S: +1848-03-22T00:00:00Z |E: +1852-01-27T00:00:00Z",
+                    "Lars L\u00f8kke Rasmussen |S: +2015-06-28T00:00:00Z |E: +2019-06-27T00:00:00Z",
+                    "Mette Frederiksen |S: +2019-06-27T00:00:00Z"
+                ],
+                "ground_truth": "Carl Theodor Zahle",
+                "ranking_qa": {
+                    "generic": "Carl Theodor Zahle and Hans Hedtoft both served as the prime ministers of Denmark before. Do you know which one of them the former prime minister was?",
+                    "rephrased_1": "Carl Theodor Zahle and Hans Hedtoft both served as the prime ministers of Denmark before. Do you know which one of them the former prime minister was?",
+                    "rephrased_2": "Denmark had Carl Theodor Zahle and Hans Hedtoft as former prime ministers. Can you identify which one the former prime minister was?",
+                    "rephrased_3": "Carl Theodor Zahle and Hans Hedtoft previously held the position of the prime minister of Denmark. Which of them served as the former prime minister?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 27 March 1954, Hans Hedtoft was the prime minister of Denmark. So, who held this position 13637 days before?",
+                    "rephrased_1": "On 27 March 1954, Hans Hedtoft was the prime minister of Denmark. So, who held this position 13637 days before?",
+                    "rephrased_2": "Hans Hedtoft was Denmark's prime minister on 27 March 1954. Do you know who was in this role before 13637 days?",
+                    "rephrased_3": "Hans Hedtoft served as the prime minister of Denmark on 27 March 1954. Can you identify who occupied this position before 13637 days?"
+                }
+            }
+        },
+        "Israel": {
+            "Prime Minister of Israel": {
+                "answers": [
+                    "Benjamin Netanyahu |S: +2009-03-31T00:00:00Z |E: +2021-06-13T00:00:00Z",
+                    "David Ben-Gurion |S: +1948-05-17T00:00:00Z |E: +1954-01-26T00:00:00Z",
+                    "Moshe Sharett |S: +1954-01-26T00:00:00Z |E: +1955-11-03T00:00:00Z",
+                    "David Ben-Gurion |S: +1955-11-03T00:00:00Z |E: +1963-06-26T00:00:00Z",
+                    "Levi Eshkol |S: +1963-06-26T00:00:00Z |E: +1969-02-26T00:00:00Z",
+                    "Golda Meir |S: +1969-03-17T00:00:00Z |E: +1974-06-03T00:00:00Z",
+                    "Yizhak Rabin |S: +1974-06-03T00:00:00Z |E: +1977-06-20T00:00:00Z",
+                    "Menachem Begin |S: +1977-06-20T00:00:00Z |E: +1983-10-10T00:00:00Z",
+                    "Yitzhak Shamir |S: +1986-10-20T00:00:00Z |E: +1992-07-13T00:00:00Z",
+                    "Shimon Peres |S: +1984-09-13T00:00:00Z |E: +1986-10-20T00:00:00Z",
+                    "Yitzhak Shamir |S: +1986-10-20T00:00:00Z |E: +1992-07-13T00:00:00Z",
+                    "Yizhak Rabin |S: +1992-07-13T00:00:00Z |E: +1995-11-04T00:00:00Z",
+                    "Shimon Peres |S: +1995-11-04T00:00:00Z |E: +1996-06-18T00:00:00Z",
+                    "Benjamin Netanyahu |S: +1996-06-18T00:00:00Z |E: +1999-07-06T00:00:00Z",
+                    "Ehud Barak |S: +1999-07-06T00:00:00Z |E: +2001-03-07T00:00:00Z",
+                    "Ariel Sharon |S: +2001-03-07T00:00:00Z |E: +2006-04-14T00:00:00Z",
+                    "Ehud Olmert |S: +2006-04-14T00:00:00Z |E: +2009-03-31T00:00:00Z",
+                    "Naftali Bennett |S: +2021-06-13T00:00:00Z |E: +2022-07-01T00:00:00Z",
+                    "Yair Lapid |S: +2022-07-01T00:00:00Z |E: +2022-12-29T00:00:00Z",
+                    "Benjamin Netanyahu |S: +2022-12-29T00:00:00Z"
+                ],
+                "ground_truth": "Yitzhak Shamir",
+                "ranking_qa": {
+                    "generic": "Yitzhak Shamir and Shimon Peres both served as the prime ministers of Israel before. Do you know which one of them the former prime minister was?",
+                    "rephrased_1": "Yitzhak Shamir and Shimon Peres both served as the prime ministers of Israel before. Do you know which one of them the former prime minister was?",
+                    "rephrased_2": "Israel had Yitzhak Shamir and Shimon Peres as former prime ministers. Can you identify which one the former prime minister was?",
+                    "rephrased_3": "Yitzhak Shamir and Shimon Peres previously held the position of the prime minister of Israel. Which of them served as the former prime minister?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 25 May 1996, Shimon Peres was the prime minister of Israel. So, who held this position 3292 days before?",
+                    "rephrased_1": "On 25 May 1996, Shimon Peres was the prime minister of Israel. So, who held this position 3292 days before?",
+                    "rephrased_2": "Shimon Peres was Israel's prime minister on 25 May 1996. Do you know who was in this role before 3292 days?",
+                    "rephrased_3": "Shimon Peres served as the prime minister of Israel on 25 May 1996. Can you identify who occupied this position before 3292 days?"
+                }
+            }
+        }
+    },
+    "athletes_byPayment": {
+        "Bradley Beal": {
+            "answers": [
+                "Florida Gators men's basketball |S: +2011-01-01T00:00:00Z |E: +2012-06-28T00:00:00Z",
+                "Washington Wizards |S: +2012-06-28T00:00:00Z |E: +2023-07-01T00:00:00Z",
+                "Phoenix Suns |S: +2023-07-01T00:00:00Z"
+            ],
+            "ground_truth": "Florida Gators men's basketball",
+            "ranking_qa": {
+                "generic": "Florida Gators men's basketball and Washington Wizards were both Bradley Beal's basketball teams before, so which team between them was the former one Bradley Beal played for?",
+                "rephrased_1": "Florida Gators men's basketball and Washington Wizards were both Bradley Beal's basketball teams before, so which team between them was the former one Bradley Beal played for?",
+                "rephrased_2": "Bradley Beal has joined Florida Gators men's basketball and Washington Wizards basketball teams before. Can you identify which team between them was the former one Bradley Beal played for?",
+                "rephrased_3": "Bradley Beal previously played for Florida Gators men's basketball and Washington Wizards basketball teams. Which team between them did Bradley Beal formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 22 May 2015, Bradley Beal played for Washington Wizards. So, before 1234 days, which basketball team did Bradley Beal play for?",
+                "rephrased_1": "On 22 May 2015, Bradley Beal played for Washington Wizards. So, before 1234 days, which basketball team did Bradley Beal play for?",
+                "rephrased_2": "Washington Wizards was Bradley Beal's basketball team on 22 May 2015. Can you identify which basketball team Bradley Beal belongs to before 1234 days?",
+                "rephrased_3": "Bradley Beal played for Washington Wizards on 22 May 2015. Do you know which basketball team Bradley Beal played for before 1234 days?"
+            }
+        },
+        "Damian Lillard": {
+            "answers": [
+                "Weber State Wildcats men's basketball |S: +2008-01-01T00:00:00Z |E: +2012-07-13T00:00:00Z",
+                "Portland Trail Blazers |S: +2012-07-13T00:00:00Z |E: +2023-09-27T00:00:00Z",
+                "Milwaukee Bucks |S: +2023-09-27T00:00:00Z"
+            ],
+            "ground_truth": "Weber State Wildcats men's basketball",
+            "ranking_qa": {
+                "generic": "Weber State Wildcats men's basketball and Portland Trail Blazers were both Damian Lillard's basketball teams before, so which team between them was the former one Damian Lillard played for?",
+                "rephrased_1": "Weber State Wildcats men's basketball and Portland Trail Blazers were both Damian Lillard's basketball teams before, so which team between them was the former one Damian Lillard played for?",
+                "rephrased_2": "Damian Lillard has joined Weber State Wildcats men's basketball and Portland Trail Blazers basketball teams before. Can you identify which team between them was the former one Damian Lillard played for?",
+                "rephrased_3": "Damian Lillard previously played for Weber State Wildcats men's basketball and Portland Trail Blazers basketball teams. Which team between them did Damian Lillard formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 22 July 2014, Damian Lillard played for Portland Trail Blazers. So, before 1574 days, which basketball team did Damian Lillard play for?",
+                "rephrased_1": "On 22 July 2014, Damian Lillard played for Portland Trail Blazers. So, before 1574 days, which basketball team did Damian Lillard play for?",
+                "rephrased_2": "Portland Trail Blazers was Damian Lillard's basketball team on 22 July 2014. Can you identify which basketball team Damian Lillard belongs to before 1574 days?",
+                "rephrased_3": "Damian Lillard played for Portland Trail Blazers on 22 July 2014. Do you know which basketball team Damian Lillard played for before 1574 days?"
+            }
+        },
+        "Lewis Hamilton": {
+            "answers": [
+                "McLaren |S: +2007-00-00T00:00:00Z |E: +2012-00-00T00:00:00Z",
+                "Mercedes F1 Team |S: +2013-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Mercedes F1 Team",
+            "ranking_qa": {
+                "generic": "McLaren and Mercedes F1 Team were both Lewis Hamilton's Formula 1 teams before, so which team between them was the latter one Lewis Hamilton drove for?",
+                "rephrased_1": "McLaren and Mercedes F1 Team were both Lewis Hamilton's Formula 1 teams before, so which team between them was the latter one Lewis Hamilton drove for?",
+                "rephrased_2": "Lewis Hamilton has joined McLaren and Mercedes F1 Team Formula 1 teams before. Can you identify which team between them was the latter one Lewis Hamilton drove for?",
+                "rephrased_3": "Lewis Hamilton previously drove for McLaren and Mercedes F1 Team Formula 1 teams. Which team between them did Lewis Hamilton latterly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 28 July 2010, Lewis Hamilton drove for McLaren. So, after 5172 days, which Formula 1 team did Lewis Hamilton drive for?",
+                "rephrased_1": "On 28 July 2010, Lewis Hamilton drove for McLaren. So, after 5172 days, which Formula 1 team did Lewis Hamilton drive for?",
+                "rephrased_2": "McLaren was Lewis Hamilton's Formula 1 team on 28 July 2010. Can you identify which Formula 1 team Lewis Hamilton belongs to after 5172 days?",
+                "rephrased_3": "Lewis Hamilton drove for McLaren on 28 July 2010. Do you know which Formula 1 team Lewis Hamilton drove for after 5172 days?"
+            }
+        }
+    },
+    "organizations": {}
+}

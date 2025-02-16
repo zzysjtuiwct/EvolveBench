@@ -1,0 +1,72 @@
+{
+    "average": {
+        "correct": {
+            "num": 111,
+            "percent": 22.56
+        },
+        "other": {
+            "num": 224,
+            "percent": 45.53
+        },
+        "irrelevant": {
+            "num": 157,
+            "percent": 31.91
+        }
+    },
+    "companies_byRevenue": {
+        "correct": {
+            "percent": 19.44,
+            "num": 21
+        },
+        "irrelevant": {
+            "percent": 45.37,
+            "num": 49
+        },
+        "other": {
+            "percent": 35.19,
+            "num": 38
+        }
+    },
+    "countries_byGDP": {
+        "correct": {
+            "percent": 29.06,
+            "num": 68
+        },
+        "irrelevant": {
+            "percent": 22.65,
+            "num": 53
+        },
+        "other": {
+            "percent": 48.29,
+            "num": 113
+        }
+    },
+    "athletes_byPayment": {
+        "correct": {
+            "percent": 12.35,
+            "num": 10
+        },
+        "irrelevant": {
+            "percent": 14.81,
+            "num": 12
+        },
+        "other": {
+            "percent": 72.84,
+            "num": 59
+        }
+    },
+    "organizations": {
+        "correct": {
+            "percent": 17.39,
+            "num": 12
+        },
+        "irrelevant": {
+            "percent": 62.32,
+            "num": 43
+        },
+        "other": {
+            "percent": 20.29,
+            "num": 14
+        }
+    }
+}

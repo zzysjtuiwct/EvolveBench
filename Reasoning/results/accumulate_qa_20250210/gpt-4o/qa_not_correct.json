@@ -1,0 +1,1022 @@
+{
+    "companies_byRevenue": {
+        "Intel": {
+            "answers": [
+                "Andrew Grove |S: +1987-01-01T00:00:00Z |E: +1998-01-01T00:00:00Z",
+                "Robert Noyce |S: +1968-01-01T00:00:00Z |E: +1975-01-01T00:00:00Z",
+                "Gordon Moore |S: +1975-01-01T00:00:00Z |E: +1987-01-01T00:00:00Z",
+                "Paul Otellini |S: +2005-05-18T00:00:00Z |E: +2013-05-02T00:00:00Z",
+                "Craig R. Barrett |S: +1998-01-01T00:00:00Z |E: +2005-01-01T00:00:00Z",
+                "Pat Gelsinger |S: +2021-02-15T00:00:00Z",
+                "Bob Swan |S: +2018-06-21T00:00:00Z |E: +2021-02-15T00:00:00Z"
+            ],
+            "ground_truth": "Gordon Moore",
+            "ranking_qa": {
+                "generic": "Gordon Moore and Bob Swan both served as Chief Executive Officers of Intel before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_1": "Gordon Moore and Bob Swan both served as Chief Executive Officers of Intel before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_2": "Intel had Gordon Moore and Bob Swan as former Chief Executive Officers. Can you identify which one of them was the former Chief Executive Officer?",
+                "rephrased_3": "Gordon Moore and Bob Swan previously held the position of Intel's Chief Executive Officer. Which of them served as the former Chief Executive Officer?"
+            },
+            "accumulate_qa": {
+                "generic": "On 16 January 2021, Bob Swan was the Chief Executive Officer of Intel. So, who held this position 38 years before?",
+                "rephrased_1": "On 16 January 2021, Bob Swan was the Chief Executive Officer of Intel. So, who held this position 38 years before?",
+                "rephrased_2": "Bob Swan was Intel's Chief Executive Officer on 16 January 2021. Do you know who was in this role before 38 years?",
+                "rephrased_3": "Bob Swan served as the Chief Executive Officer of Intel on 16 January 2021. Can you identify who occupied this position before 38 years?"
+            }
+        },
+        "C. & J. Clark International Ltd": {
+            "answers": [
+                "Tim Parker |S: +1996-01-01T00:00:00Z |E: +2002-01-01T00:00:00Z",
+                "William Clark |S: +1863-01-01T00:00:00Z |E: +1889-01-01T00:00:00Z",
+                "Daniel Clark |S: +1973-01-01T00:00:00Z |E: +1986-01-01T00:00:00Z",
+                "Francis Clark |S: +1889-01-01T00:00:00Z |E: +1942-01-01T00:00:00Z",
+                "Mike Shearwood |S: +2017-01-01T00:00:00Z |E: +2018-06-01T00:00:00Z",
+                "Melissa Potter |S: +2010-01-01T00:00:00Z |E: +2015-09-01T00:00:00Z",
+                "Peter Bolliger |S: +2002-01-01T00:00:00Z |E: +2010-01-01T00:00:00Z",
+                "Giorgio Presca |S: +2019-03-11T00:00:00Z |E: +2022-04-01T00:00:00Z",
+                "Stella David |S: +2018-06-01T00:00:00Z |E: +2019-02-01T00:00:00Z",
+                "John Clothier |S: +1986-01-01T00:00:00Z |E: +1996-01-01T00:00:00Z",
+                "Bancroft Clark |S: +1942-01-01T00:00:00Z |E: +1967-01-01T00:00:00Z",
+                "Peter Clothier |S: +1967-01-01T00:00:00Z |E: +1973-01-01T00:00:00Z",
+                "Jonathan Ram |S: +2022-04-01T00:00:00Z"
+            ],
+            "ground_truth": "Stella David",
+            "ranking_qa": {
+                "generic": "William Clark and Stella David both served as Chief Executive Officers of C. & J. Clark International Ltd before. Do you know which one of them the latter Chief Executive Officer was?",
+                "rephrased_1": "William Clark and Stella David both served as Chief Executive Officers of C. & J. Clark International Ltd before. Do you know which one of them the latter Chief Executive Officer was?",
+                "rephrased_2": "C. & J. Clark International Ltd had William Clark and Stella David as former Chief Executive Officers. Can you identify which one of them was the latter Chief Executive Officer?",
+                "rephrased_3": "William Clark and Stella David previously held the position of C. & J. Clark International Ltd's Chief Executive Officer. Which of them served as the latter Chief Executive Officer?"
+            },
+            "accumulate_qa": {
+                "generic": "On 26 March 1877, William Clark was the Chief Executive Officer of C. & J. Clark International Ltd. So, who held this position 141 years later?",
+                "rephrased_1": "On 26 March 1877, William Clark was the Chief Executive Officer of C. & J. Clark International Ltd. So, who held this position 141 years later?",
+                "rephrased_2": "William Clark was C. & J. Clark International Ltd's Chief Executive Officer on 26 March 1877. Do you know who was in this role after 141 years?",
+                "rephrased_3": "William Clark served as the Chief Executive Officer of C. & J. Clark International Ltd on 26 March 1877. Can you identify who occupied this position after 141 years?"
+            }
+        },
+        "7-Eleven Japan": {
+            "answers": [
+                "Masatoshi Ito |S: +1973-01-01T00:00:00Z |E: +1978-01-01T00:00:00Z",
+                "Ry\u016bichi Isaka |S: +2009-01-01T00:00:00Z |E: +2016-01-01T00:00:00Z",
+                "Toshifumi Suzuki |S: +1978-01-01T00:00:00Z |E: +1992-01-01T00:00:00Z",
+                "Fumihiko Nagamatsu |S: +2019-01-01T00:00:00Z",
+                "Toshir\u014d Yamaguchi |S: +2002-01-01T00:00:00Z |E: +2009-01-01T00:00:00Z",
+                "Hiroo Kurita |S: +1992-01-01T00:00:00Z |E: +1997-01-01T00:00:00Z",
+                "Kazuki Furuya |S: +2016-01-01T00:00:00Z |E: +2019-01-01T00:00:00Z"
+            ],
+            "ground_truth": "Kazuki Furuya",
+            "ranking_qa": {
+                "generic": "Masatoshi Ito and Kazuki Furuya both served as Chief Executive Officers of 7-Eleven Japan before. Do you know which one of them the latter Chief Executive Officer was?",
+                "rephrased_1": "Masatoshi Ito and Kazuki Furuya both served as Chief Executive Officers of 7-Eleven Japan before. Do you know which one of them the latter Chief Executive Officer was?",
+                "rephrased_2": "7-Eleven Japan had Masatoshi Ito and Kazuki Furuya as former Chief Executive Officers. Can you identify which one of them was the latter Chief Executive Officer?",
+                "rephrased_3": "Masatoshi Ito and Kazuki Furuya previously held the position of 7-Eleven Japan's Chief Executive Officer. Which of them served as the latter Chief Executive Officer?"
+            },
+            "accumulate_qa": {
+                "generic": "On 5 March 1973, Masatoshi Ito was the Chief Executive Officer of 7-Eleven Japan. So, who held this position 43 years later?",
+                "rephrased_1": "On 5 March 1973, Masatoshi Ito was the Chief Executive Officer of 7-Eleven Japan. So, who held this position 43 years later?",
+                "rephrased_2": "Masatoshi Ito was 7-Eleven Japan's Chief Executive Officer on 5 March 1973. Do you know who was in this role after 43 years?",
+                "rephrased_3": "Masatoshi Ito served as the Chief Executive Officer of 7-Eleven Japan on 5 March 1973. Can you identify who occupied this position after 43 years?"
+            }
+        },
+        "Delta Air Lines": {
+            "answers": [
+                "Gerald Grinstein |S: +2004-01-01T00:00:00Z |E: +2007-01-01T00:00:00Z",
+                "Collett E. Woolman |S: +1965-01-01T00:00:00Z |E: +1966-01-01T00:00:00Z",
+                "David C. Garrett, Jr. |S: +1978-01-01T00:00:00Z |E: +1987-01-01T00:00:00Z",
+                "Ed Bastian |S: +2016-01-01T00:00:00Z",
+                "Ronald W. Allen |S: +1987-01-01T00:00:00Z |E: +1997-01-01T00:00:00Z",
+                "Leo F. Mullin |S: +1997-01-01T00:00:00Z |E: +2004-01-01T00:00:00Z",
+                "W.T. Beebe |S: +1971-01-01T00:00:00Z |E: +1978-01-01T00:00:00Z",
+                "Charles H. Dolson |S: +1970-01-01T00:00:00Z |E: +1971-01-01T00:00:00Z"
+            ],
+            "ground_truth": "Charles H. Dolson",
+            "ranking_qa": {
+                "generic": "Charles H. Dolson and Gerald Grinstein both served as Chief Executive Officers of Delta Air Lines before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_1": "Charles H. Dolson and Gerald Grinstein both served as Chief Executive Officers of Delta Air Lines before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_2": "Delta Air Lines had Charles H. Dolson and Gerald Grinstein as former Chief Executive Officers. Can you identify which one of them was the former Chief Executive Officer?",
+                "rephrased_3": "Charles H. Dolson and Gerald Grinstein previously held the position of Delta Air Lines's Chief Executive Officer. Which of them served as the former Chief Executive Officer?"
+            },
+            "accumulate_qa": {
+                "generic": "On 17 September 2006, Gerald Grinstein was the Chief Executive Officer of Delta Air Lines. So, who held this position 36 years before?",
+                "rephrased_1": "On 17 September 2006, Gerald Grinstein was the Chief Executive Officer of Delta Air Lines. So, who held this position 36 years before?",
+                "rephrased_2": "Gerald Grinstein was Delta Air Lines's Chief Executive Officer on 17 September 2006. Do you know who was in this role before 36 years?",
+                "rephrased_3": "Gerald Grinstein served as the Chief Executive Officer of Delta Air Lines on 17 September 2006. Can you identify who occupied this position before 36 years?"
+            }
+        }
+    },
+    "countries_byGDP": {
+        "India": {
+            "Prime minister of India": {
+                "answers": [
+                    "Narendra Modi |S: +2014-05-26T00:00:00Z",
+                    "P. V. Narasimha Rao |S: +1991-06-21T00:00:00Z |E: +1996-05-16T00:00:00Z",
+                    "Manmohan Singh |S: +2004-05-22T00:00:00Z |E: +2014-05-26T00:00:00Z",
+                    "Atal Bihari Vajpayee |S: +1998-03-19T00:00:00Z |E: +2004-05-22T00:00:00Z",
+                    "I. K. Gujral |S: +1997-04-21T00:00:00Z |E: +1998-03-19T00:00:00Z",
+                    "H. D. Deve Gowda |S: +1996-06-01T00:00:00Z |E: +1997-04-21T00:00:00Z",
+                    "Atal Bihari Vajpayee |S: +1996-05-16T00:00:00Z |E: +1996-06-01T00:00:00Z",
+                    "Chandra Shekhar |S: +1990-11-10T00:00:00Z |E: +1991-06-21T00:00:00Z",
+                    "Jawaharlal Nehru |S: +1947-08-15T00:00:00Z |E: +1964-05-27T00:00:00Z",
+                    "Gulzarilal Nanda |S: +1964-05-27T00:00:00Z |E: +1964-06-09T00:00:00Z",
+                    "Lal Bahadur Shastri |S: +1964-06-09T00:00:00Z |E: +1966-01-11T00:00:00Z",
+                    "Gulzarilal Nanda |S: +1966-01-11T00:00:00Z |E: +1966-01-24T00:00:00Z",
+                    "Indira Gandhi |S: +1966-01-24T00:00:00Z |E: +1977-03-24T00:00:00Z",
+                    "Morarji Desai |S: +1977-03-24T00:00:00Z |E: +1979-07-28T00:00:00Z",
+                    "Charan Singh |S: +1979-07-28T00:00:00Z |E: +1980-01-14T00:00:00Z",
+                    "Indira Gandhi |S: +1980-01-14T00:00:00Z |E: +1984-10-31T00:00:00Z",
+                    "Rajiv Gandhi |S: +1984-10-31T00:00:00Z |E: +1989-12-02T00:00:00Z",
+                    "Vishwanath Pratap Singh |S: +1989-12-02T00:00:00Z |E: +1990-11-10T00:00:00Z"
+                ],
+                "ground_truth": "Chandra Shekhar",
+                "ranking_qa": {
+                    "generic": "Jawaharlal Nehru and Chandra Shekhar both served as the prime ministers of India before. Do you know which one of them the latter prime minister was?",
+                    "rephrased_1": "Jawaharlal Nehru and Chandra Shekhar both served as the prime ministers of India before. Do you know which one of them the latter prime minister was?",
+                    "rephrased_2": "India had Jawaharlal Nehru and Chandra Shekhar as former prime ministers. Can you identify which one the latter prime minister was?",
+                    "rephrased_3": "Jawaharlal Nehru and Chandra Shekhar previously held the position of the prime minister of India. Which of them served as the latter prime minister?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 17 September 1952, Jawaharlal Nehru was the prime minister of India. So, who held this position 38 years later?",
+                    "rephrased_1": "On 17 September 1952, Jawaharlal Nehru was the prime minister of India. So, who held this position 38 years later?",
+                    "rephrased_2": "Jawaharlal Nehru was India's prime minister on 17 September 1952. Do you know who was in this role after 38 years?",
+                    "rephrased_3": "Jawaharlal Nehru served as the prime minister of India on 17 September 1952. Can you identify who occupied this position after 38 years?"
+                }
+            }
+        },
+        "France": {
+            "Prime Minister of France": {
+                "answers": [
+                    "Manuel Valls |S: +2014-03-31T00:00:00Z |E: +2016-12-06T00:00:00Z",
+                    "Jean-Marc Ayrault |S: +2012-05-16T00:00:00Z |E: +2014-03-31T00:00:00Z",
+                    "Bernard Cazeneuve |S: +2016-12-06T00:00:00Z |E: +2017-05-10T00:00:00Z",
+                    "\u00c9douard Philippe |S: +2017-05-15T00:00:00Z |E: +2020-07-02T00:00:00Z",
+                    "Fran\u00e7ois Fillon |S: +2007-05-17T00:00:00Z |E: +2012-05-10T00:00:00Z",
+                    "Jean Castex |S: +2020-07-03T00:00:00Z |E: +2022-05-16T00:00:00Z",
+                    "\u00c9lisabeth Borne |S: +2022-05-16T00:00:00Z |E: +2024-01-09T00:00:00Z",
+                    "Gabriel Attal |S: +2024-01-09T00:00:00Z |E: +2024-09-05T00:00:00Z",
+                    "Michel Barnier |S: +2024-09-05T00:00:00Z |E: +2024-12-13T00:00:00Z",
+                    "Fran\u00e7ois Bayrou |S: +2024-12-13T00:00:00Z"
+                ],
+                "ground_truth": "Michel Barnier",
+                "ranking_qa": {
+                    "generic": "\u00c9douard Philippe and Michel Barnier both served as the prime ministers of France before. Do you know which one of them the latter prime minister was?",
+                    "rephrased_1": "\u00c9douard Philippe and Michel Barnier both served as the prime ministers of France before. Do you know which one of them the latter prime minister was?",
+                    "rephrased_2": "France had \u00c9douard Philippe and Michel Barnier as former prime ministers. Can you identify which one the latter prime minister was?",
+                    "rephrased_3": "\u00c9douard Philippe and Michel Barnier previously held the position of the prime minister of France. Which of them served as the latter prime minister?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 7 August 2018, \u00c9douard Philippe was the prime minister of France. So, who held this position 6 years later?",
+                    "rephrased_1": "On 7 August 2018, \u00c9douard Philippe was the prime minister of France. So, who held this position 6 years later?",
+                    "rephrased_2": "\u00c9douard Philippe was France's prime minister on 7 August 2018. Do you know who was in this role after 6 years?",
+                    "rephrased_3": "\u00c9douard Philippe served as the prime minister of France on 7 August 2018. Can you identify who occupied this position after 6 years?"
+                }
+            }
+        },
+        "Turkey": {
+            "President of Turkey": {
+                "answers": [
+                    "Recep Tayyip Erdo\u011fan |S: +2014-08-28T00:00:00Z",
+                    "Abdullah G\u00fcl |S: +2007-08-28T00:00:00Z |E: +2014-08-28T00:00:00Z",
+                    "Ahmet Necdet Sezer |S: +2000-05-16T00:00:00Z |E: +2007-08-28T00:00:00Z",
+                    "S\u00fcleyman Demirel |S: +1993-05-16T00:00:00Z |E: +2000-05-16T00:00:00Z",
+                    "Cel\u00e2l Bayar |S: +1950-05-22T00:00:00Z |E: +1960-05-27T00:00:00Z",
+                    "\u0130smet \u0130n\u00f6n\u00fc |S: +1938-11-11T00:00:00Z |E: +1950-05-22T00:00:00Z",
+                    "Mustafa Kemal Atat\u00fcrk |S: +1923-10-29T00:00:00Z |E: +1938-11-10T00:00:00Z",
+                    "Abd\u00fclhalik Renda |S: +1938-11-10T00:00:00Z |E: +1938-11-11T00:00:00Z",
+                    "Cemal G\u00fcrsel |S: +1960-05-27T00:00:00Z |E: +1966-02-02T00:00:00Z",
+                    "\u0130brahim \u015eevki Atasagun |S: +1966-02-02T00:00:00Z |E: +1966-03-28T00:00:00Z",
+                    "Cevdet Sunay |S: +1966-03-28T00:00:00Z |E: +1973-03-28T00:00:00Z",
+                    "Tekin Ar\u0131burun |S: +1973-03-28T00:00:00Z |E: +1973-04-06T00:00:00Z",
+                    "Kenan Evren |S: +1980-09-12T00:00:00Z |E: +1989-11-09T00:00:00Z",
+                    "Fahri Korut\u00fcrk |S: +1973-04-06T00:00:00Z |E: +1980-04-06T00:00:00Z",
+                    "\u0130hsan Sabri \u00c7a\u011flayangil |S: +1980-04-06T00:00:00Z |E: +1980-09-12T00:00:00Z",
+                    "Turgut \u00d6zal |S: +1989-11-09T00:00:00Z |E: +1993-04-17T00:00:00Z",
+                    "H\u00fcsamettin Cindoruk |S: +1993-04-17T00:00:00Z |E: +1993-05-16T00:00:00Z"
+                ],
+                "ground_truth": "Tekin Ar\u0131burun",
+                "ranking_qa": {
+                    "generic": "Abd\u00fclhalik Renda and Tekin Ar\u0131burun both served as the presidents of Turkey before. Do you know which one of them the latter president was?",
+                    "rephrased_1": "Abd\u00fclhalik Renda and Tekin Ar\u0131burun both served as the presidents of Turkey before. Do you know which one of them the latter president was?",
+                    "rephrased_2": "Turkey had Abd\u00fclhalik Renda and Tekin Ar\u0131burun as former presidents. Can you identify which one the latter president was?",
+                    "rephrased_3": "Abd\u00fclhalik Renda and Tekin Ar\u0131burun previously held the position of the president of Turkey. Which of them served as the latter president?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 10 November 1938, Abd\u00fclhalik Renda was the president of Turkey. So, who held this position 34 years later?",
+                    "rephrased_1": "On 10 November 1938, Abd\u00fclhalik Renda was the president of Turkey. So, who held this position 34 years later?",
+                    "rephrased_2": "Abd\u00fclhalik Renda was Turkey's president on 10 November 1938. Do you know who was in this role after 34 years?",
+                    "rephrased_3": "Abd\u00fclhalik Renda served as the president of Turkey on 10 November 1938. Can you identify who occupied this position after 34 years?"
+                }
+            }
+        },
+        "Norway": {
+            "Prime Minister of Norway": {
+                "answers": [
+                    "Erna Solberg |S: +2013-10-16T00:00:00Z |E: +2021-10-14T00:00:00Z",
+                    "Jens Stoltenberg |S: +2005-10-17T00:00:00Z |E: +2013-10-16T00:00:00Z",
+                    "Kjell Magne Bondevik |S: +2001-10-19T00:00:00Z |E: +2005-10-17T00:00:00Z",
+                    "Jens Stoltenberg |S: +2000-03-17T00:00:00Z |E: +2001-10-19T00:00:00Z",
+                    "Kjell Magne Bondevik |S: +1997-10-17T00:00:00Z |E: +2000-03-17T00:00:00Z",
+                    "Thorbj\u00f8rn Jagland |S: +1996-10-25T00:00:00Z |E: +1997-10-17T00:00:00Z",
+                    "Gro Harlem Brundtland |S: +1981-02-04T00:00:00Z |E: +1981-10-14T00:00:00Z",
+                    "Gro Harlem Brundtland |S: +1986-05-09T00:00:00Z |E: +1989-10-16T00:00:00Z",
+                    "Gro Harlem Brundtland |S: +1990-11-03T00:00:00Z |E: +1996-10-25T00:00:00Z",
+                    "K\u00e5re Willoch |S: +1981-10-14T00:00:00Z |E: +1986-05-09T00:00:00Z",
+                    "Odvar Nordli |S: +1976-01-15T00:00:00Z |E: +1981-02-04T00:00:00Z",
+                    "Anne Enger |S: +1998-08-31T00:00:00Z |E: +1998-09-24T00:00:00Z",
+                    "Jan P. Syse |S: +1989-10-16T00:00:00Z |E: +1990-11-03T00:00:00Z",
+                    "Svenn Stray |S: +1984-04-17T00:00:00Z |E: +1984-06-12T00:00:00Z",
+                    "Trygve Bratteli |S: +1971-03-17T00:00:00Z |E: +1972-10-18T00:00:00Z",
+                    "Trygve Bratteli |S: +1973-10-16T00:00:00Z |E: +1976-01-15T00:00:00Z",
+                    "Lars Korvald |S: +1972-10-18T00:00:00Z |E: +1973-10-16T00:00:00Z",
+                    "Per Borten |S: +1965-10-12T00:00:00Z |E: +1971-03-17T00:00:00Z",
+                    "Einar Gerhardsen |S: +1945-06-25T00:00:00Z |E: +1945-11-05T00:00:00Z",
+                    "Einar Gerhardsen |S: +1945-11-05T00:00:00Z |E: +1951-11-19T00:00:00Z",
+                    "Einar Gerhardsen |S: +1955-01-22T00:00:00Z |E: +1963-08-28T00:00:00Z",
+                    "Einar Gerhardsen |S: +1963-09-25T00:00:00Z |E: +1965-10-12T00:00:00Z",
+                    "John Lyng |S: +1963-08-28T00:00:00Z |E: +1963-09-25T00:00:00Z",
+                    "Oscar Torp |S: +1951-11-19T00:00:00Z |E: +1955-01-22T00:00:00Z",
+                    "Johan Nygaardsvold |S: +1935-03-20T00:00:00Z |E: +1945-06-25T00:00:00Z",
+                    "Jonas Gahr St\u00f8re |S: +2021-10-14T00:00:00Z"
+                ],
+                "ground_truth": "Svenn Stray",
+                "ranking_qa": {
+                    "generic": "Svenn Stray and Kjell Magne Bondevik both served as the prime ministers of Norway before. Do you know which one of them the former prime minister was?",
+                    "rephrased_1": "Svenn Stray and Kjell Magne Bondevik both served as the prime ministers of Norway before. Do you know which one of them the former prime minister was?",
+                    "rephrased_2": "Norway had Svenn Stray and Kjell Magne Bondevik as former prime ministers. Can you identify which one the former prime minister was?",
+                    "rephrased_3": "Svenn Stray and Kjell Magne Bondevik previously held the position of the prime minister of Norway. Which of them served as the former prime minister?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 24 December 2003, Kjell Magne Bondevik was the prime minister of Norway. So, who held this position 20 years before?",
+                    "rephrased_1": "On 24 December 2003, Kjell Magne Bondevik was the prime minister of Norway. So, who held this position 20 years before?",
+                    "rephrased_2": "Kjell Magne Bondevik was Norway's prime minister on 24 December 2003. Do you know who was in this role before 20 years?",
+                    "rephrased_3": "Kjell Magne Bondevik served as the prime minister of Norway on 24 December 2003. Can you identify who occupied this position before 20 years?"
+                }
+            }
+        },
+        "Bangladesh": {
+            "Prime Minister of Bangladesh": {
+                "answers": [
+                    "Khaleda Zia |S: +1991-03-20T00:00:00Z |E: +1996-03-30T00:00:00Z",
+                    "Muhammad Habibur Rahman |S: +1996-03-30T00:00:00Z |E: +1996-06-23T00:00:00Z",
+                    "Sheikh Hasina |S: +1996-06-23T00:00:00Z |E: +2001-07-15T00:00:00Z",
+                    "Latifur Rahman |S: +2001-07-15T00:00:00Z |E: +2001-10-10T00:00:00Z",
+                    "Khaleda Zia |S: +2001-10-10T00:00:00Z |E: +2006-10-29T00:00:00Z",
+                    "Iajuddin Ahmed |S: +2006-10-29T00:00:00Z |E: +2007-01-11T00:00:00Z",
+                    "Fazlul Haque |S: +2007-01-11T00:00:00Z |E: +2007-01-12T00:00:00Z",
+                    "Fakhruddin Ahmed |S: +2007-01-12T00:00:00Z |E: +2009-01-06T00:00:00Z",
+                    "Sheikh Hasina |S: +2009-01-06T00:00:00Z |E: +2024-08-05T00:00:00Z",
+                    "Muhammad Yunus |S: +2024-08-08T00:00:00Z"
+                ],
+                "ground_truth": "Muhammad Habibur Rahman",
+                "ranking_qa": {
+                    "generic": "Muhammad Habibur Rahman and Fakhruddin Ahmed both served as the prime ministers of Bangladesh before. Do you know which one of them the former prime minister was?",
+                    "rephrased_1": "Muhammad Habibur Rahman and Fakhruddin Ahmed both served as the prime ministers of Bangladesh before. Do you know which one of them the former prime minister was?",
+                    "rephrased_2": "Bangladesh had Muhammad Habibur Rahman and Fakhruddin Ahmed as former prime ministers. Can you identify which one the former prime minister was?",
+                    "rephrased_3": "Muhammad Habibur Rahman and Fakhruddin Ahmed previously held the position of the prime minister of Bangladesh. Which of them served as the former prime minister?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 15 March 2008, Fakhruddin Ahmed was the prime minister of Bangladesh. So, who held this position 12 years before?",
+                    "rephrased_1": "On 15 March 2008, Fakhruddin Ahmed was the prime minister of Bangladesh. So, who held this position 12 years before?",
+                    "rephrased_2": "Fakhruddin Ahmed was Bangladesh's prime minister on 15 March 2008. Do you know who was in this role before 12 years?",
+                    "rephrased_3": "Fakhruddin Ahmed served as the prime minister of Bangladesh on 15 March 2008. Can you identify who occupied this position before 12 years?"
+                }
+            }
+        },
+        "Vietnam": {
+            "President of Vietnam": {
+                "answers": [
+                    "Tr\u1ea7n \u0110\u1ea1i Quang |S: +2016-04-02T00:00:00Z |E: +2018-09-21T00:00:00Z",
+                    "Nguyen Phu Trong |S: +2018-10-23T00:00:00Z |E: +2021-04-05T00:00:00Z",
+                    "\u0110\u1eb7ng Th\u1ecb Ng\u1ecdc Th\u1ecbnh |S: +2018-09-21T00:00:00Z |E: +2018-10-23T00:00:00Z",
+                    "Nguy\u1ec5n Xu\u00e2n Ph\u00fac |S: +2021-04-05T00:00:00Z |E: +2023-01-18T00:00:00Z",
+                    "V\u00f5 V\u0103n Th\u01b0\u1edfng |S: +2023-03-02T00:00:00Z |E: +2024-03-21T00:00:00Z",
+                    "V\u00f5 Th\u1ecb \u00c1nh Xu\u00e2n |S: +2023-01-18T00:00:00Z |E: +2023-03-02T00:00:00Z",
+                    "T\u00f4 L\u00e2m |S: +2024-05-22T00:00:00Z |E: +2024-10-21T00:00:00Z",
+                    "L\u01b0\u01a1ng C\u01b0\u1eddng |S: +2024-10-21T00:00:00Z"
+                ],
+                "ground_truth": "Nguyen Phu Trong",
+                "ranking_qa": {
+                    "generic": "\u0110\u1eb7ng Th\u1ecb Ng\u1ecdc Th\u1ecbnh and Nguyen Phu Trong both served as the presidents of Vietnam before. Do you know which one of them the latter president was?",
+                    "rephrased_1": "\u0110\u1eb7ng Th\u1ecb Ng\u1ecdc Th\u1ecbnh and Nguyen Phu Trong both served as the presidents of Vietnam before. Do you know which one of them the latter president was?",
+                    "rephrased_2": "Vietnam had \u0110\u1eb7ng Th\u1ecb Ng\u1ecdc Th\u1ecbnh and Nguyen Phu Trong as former presidents. Can you identify which one the latter president was?",
+                    "rephrased_3": "\u0110\u1eb7ng Th\u1ecb Ng\u1ecdc Th\u1ecbnh and Nguyen Phu Trong previously held the position of the president of Vietnam. Which of them served as the latter president?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 19 October 2018, \u0110\u1eb7ng Th\u1ecb Ng\u1ecdc Th\u1ecbnh was the president of Vietnam. So, who held this position 2 years later?",
+                    "rephrased_1": "On 19 October 2018, \u0110\u1eb7ng Th\u1ecb Ng\u1ecdc Th\u1ecbnh was the president of Vietnam. So, who held this position 2 years later?",
+                    "rephrased_2": "\u0110\u1eb7ng Th\u1ecb Ng\u1ecdc Th\u1ecbnh was Vietnam's president on 19 October 2018. Do you know who was in this role after 2 years?",
+                    "rephrased_3": "\u0110\u1eb7ng Th\u1ecb Ng\u1ecdc Th\u1ecbnh served as the president of Vietnam on 19 October 2018. Can you identify who occupied this position after 2 years?"
+                }
+            }
+        },
+        "Finland": {
+            "President of Finland": {
+                "answers": [
+                    "Sauli Niinist\u00f6 |S: +2012-03-01T00:00:00Z |E: +2024-03-01T00:00:00Z",
+                    "Alexander Stubb |S: +2024-03-01T00:00:00Z"
+                ],
+                "ground_truth": "Alexander Stubb",
+                "ranking_qa": {
+                    "generic": "Sauli Niinist\u00f6 and Alexander Stubb both served as the presidents of Finland before. Do you know which one of them the latter president was?",
+                    "rephrased_1": "Sauli Niinist\u00f6 and Alexander Stubb both served as the presidents of Finland before. Do you know which one of them the latter president was?",
+                    "rephrased_2": "Finland had Sauli Niinist\u00f6 and Alexander Stubb as former presidents. Can you identify which one the latter president was?",
+                    "rephrased_3": "Sauli Niinist\u00f6 and Alexander Stubb previously held the position of the president of Finland. Which of them served as the latter president?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 2 September 2019, Sauli Niinist\u00f6 was the president of Finland. So, who held this position 5 years later?",
+                    "rephrased_1": "On 2 September 2019, Sauli Niinist\u00f6 was the president of Finland. So, who held this position 5 years later?",
+                    "rephrased_2": "Sauli Niinist\u00f6 was Finland's president on 2 September 2019. Do you know who was in this role after 5 years?",
+                    "rephrased_3": "Sauli Niinist\u00f6 served as the president of Finland on 2 September 2019. Can you identify who occupied this position after 5 years?"
+                }
+            }
+        },
+        "Canada": {
+            "monarch of Canada": {
+                "answers": [
+                    "Elizabeth II |S: +1952-02-06T00:00:00Z |E: +2022-09-08T00:00:00Z",
+                    "George VI |S: +1936-12-11T00:00:00Z |E: +1952-02-06T00:00:00Z",
+                    "Edward VIII |S: +1936-01-20T00:00:00Z |E: +1936-12-11T00:00:00Z",
+                    "George V |S: +1910-05-06T00:00:00Z |E: +1936-01-20T00:00:00Z",
+                    "Edward VII |S: +1901-01-22T00:00:00Z |E: +1910-05-06T00:00:00Z",
+                    "Victoria |S: +1867-07-01T00:00:00Z |E: +1910-05-06T00:00:00Z",
+                    "Charles III of the United Kingdom |S: +2022-09-08T00:00:00Z"
+                ],
+                "ground_truth": "Edward VIII",
+                "ranking_qa": {
+                    "generic": "Victoria and Edward VIII both served as the monarchs of Canada before. Do you know which one of them the latter monarch was?",
+                    "rephrased_1": "Victoria and Edward VIII both served as the monarchs of Canada before. Do you know which one of them the latter monarch was?",
+                    "rephrased_2": "Canada had Victoria and Edward VIII as former monarchs. Can you identify which one the latter monarch was?",
+                    "rephrased_3": "Victoria and Edward VIII previously held the position of the monarch of Canada. Which of them served as the latter monarch?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 23 December 1908, Victoria was the monarch of Canada. So, who held this position 27 years later?",
+                    "rephrased_1": "On 23 December 1908, Victoria was the monarch of Canada. So, who held this position 27 years later?",
+                    "rephrased_2": "Victoria was Canada's monarch on 23 December 1908. Do you know who was in this role after 27 years?",
+                    "rephrased_3": "Victoria served as the monarch of Canada on 23 December 1908. Can you identify who occupied this position after 27 years?"
+                }
+            }
+        },
+        "Australia": {
+            "monarch of Australia": {
+                "answers": [
+                    "Elizabeth II |S: +1952-02-06T00:00:00Z |E: +2022-09-08T00:00:00Z",
+                    "Quentin Bryce |S: +2008-09-05T00:00:00Z |E: +2014-03-27T00:00:00Z",
+                    "Michael Jeffery |S: +2003-08-11T00:00:00Z |E: +2008-09-04T00:00:00Z",
+                    "Peter Hollingworth |S: +2001-06-29T00:00:00Z |E: +2003-05-29T00:00:00Z",
+                    "William Deane |S: +1996-02-16T00:00:00Z |E: +2001-06-28T00:00:00Z",
+                    "Bill Hayden |S: +1989-02-16T00:00:00Z |E: +1996-02-15T00:00:00Z",
+                    "Ninian Stephen |S: +1982-07-29T00:00:00Z |E: +1989-02-15T00:00:00Z",
+                    "Zelman Cowen |S: +1977-12-08T00:00:00Z |E: +1982-07-28T00:00:00Z",
+                    "John Kerr |S: +1974-07-11T00:00:00Z |E: +1977-12-07T00:00:00Z",
+                    "Paul Hasluck |S: +1969-04-30T00:00:00Z |E: +1974-07-10T00:00:00Z",
+                    "Richard Casey, Baron Casey |S: +1965-05-07T00:00:00Z |E: +1969-04-29T00:00:00Z",
+                    "William Sidney, 1st Viscount De L'Isle |S: +1961-08-03T00:00:00Z |E: +1965-05-06T00:00:00Z",
+                    "William Morrison, 1st Viscount Dunrossil |S: +1960-02-02T00:00:00Z |E: +1961-08-02T00:00:00Z",
+                    "William Slim, 1st Viscount Slim |S: +1953-05-08T00:00:00Z |E: +1960-02-01T00:00:00Z",
+                    "Bill McKell |S: +1947-03-11T00:00:00Z |E: +1953-05-07T00:00:00Z",
+                    "Charles III of the United Kingdom |S: +2022-09-08T00:00:00Z"
+                ],
+                "ground_truth": "Paul Hasluck",
+                "ranking_qa": {
+                    "generic": "Paul Hasluck and Peter Hollingworth both served as the monarchs of Australia before. Do you know which one of them the former monarch was?",
+                    "rephrased_1": "Paul Hasluck and Peter Hollingworth both served as the monarchs of Australia before. Do you know which one of them the former monarch was?",
+                    "rephrased_2": "Australia had Paul Hasluck and Peter Hollingworth as former monarchs. Can you identify which one the former monarch was?",
+                    "rephrased_3": "Paul Hasluck and Peter Hollingworth previously held the position of the monarch of Australia. Which of them served as the former monarch?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 16 January 2003, Peter Hollingworth was the monarch of Australia. So, who held this position 33 years before?",
+                    "rephrased_1": "On 16 January 2003, Peter Hollingworth was the monarch of Australia. So, who held this position 33 years before?",
+                    "rephrased_2": "Peter Hollingworth was Australia's monarch on 16 January 2003. Do you know who was in this role before 33 years?",
+                    "rephrased_3": "Peter Hollingworth served as the monarch of Australia on 16 January 2003. Can you identify who occupied this position before 33 years?"
+                }
+            },
+            "Prime Minister of Australia": {
+                "answers": [
+                    "Tony Abbott |S: +2013-09-18T00:00:00Z |E: +2015-09-15T00:00:00Z",
+                    "Kevin Rudd |S: +2013-06-27T00:00:00Z |E: +2013-09-18T00:00:00Z",
+                    "Julia Gillard |S: +2010-06-24T00:00:00Z |E: +2013-06-27T00:00:00Z",
+                    "Kevin Rudd |S: +2007-03-12T00:00:00Z |E: +2010-06-24T00:00:00Z",
+                    "John Howard |S: +1996-03-11T00:00:00Z |E: +2007-03-12T00:00:00Z",
+                    "Paul Keating |S: +1991-12-20T00:00:00Z |E: +1996-03-11T00:00:00Z",
+                    "Bob Hawke |S: +1983-03-11T00:00:00Z |E: +1991-12-20T00:00:00Z",
+                    "Malcolm Fraser |S: +1975-11-11T00:00:00Z |E: +1983-03-11T00:00:00Z",
+                    "Gough Whitlam |S: +1972-12-05T00:00:00Z |E: +1975-11-11T00:00:00Z",
+                    "William McMahon |S: +1971-03-10T00:00:00Z |E: +1972-12-05T00:00:00Z",
+                    "John Gorton |S: +1968-01-10T00:00:00Z |E: +1971-03-10T00:00:00Z",
+                    "John McEwen |S: +1967-12-19T00:00:00Z |E: +1968-01-10T00:00:00Z",
+                    "Harold Holt |S: +1966-01-26T00:00:00Z |E: +1967-12-19T00:00:00Z",
+                    "Ben Chifley |S: +1945-07-13T00:00:00Z |E: +1949-12-19T00:00:00Z",
+                    "Frank Forde |S: +1945-07-06T00:00:00Z |E: +1945-07-13T00:00:00Z",
+                    "John Curtin |S: +1941-10-07T00:00:00Z |E: +1945-07-05T00:00:00Z",
+                    "Arthur Fadden |S: +1941-08-29T00:00:00Z |E: +1941-10-07T00:00:00Z",
+                    "Robert Menzies |S: +1939-04-26T00:00:00Z |E: +1941-08-29T00:00:00Z",
+                    "Earle Page |S: +1939-04-07T00:00:00Z |E: +1939-04-26T00:00:00Z",
+                    "Joseph Lyons |S: +1932-01-06T00:00:00Z |E: +1939-04-07T00:00:00Z",
+                    "James Scullin |S: +1929-10-22T00:00:00Z |E: +1932-01-06T00:00:00Z",
+                    "Stanley Bruce |S: +1923-02-09T00:00:00Z |E: +1929-10-22T00:00:00Z",
+                    "Billy Hughes |S: +1915-10-27T00:00:00Z |E: +1923-02-09T00:00:00Z",
+                    "Joseph Cook |S: +1913-06-24T00:00:00Z |E: +1914-09-17T00:00:00Z",
+                    "Andrew Fisher |S: +1914-09-17T00:00:00Z |E: +1915-10-27T00:00:00Z",
+                    "George Reid |S: +1904-08-18T00:00:00Z |E: +1905-07-05T00:00:00Z",
+                    "Chris Watson |S: +1904-04-27T00:00:00Z |E: +1904-08-17T00:00:00Z",
+                    "Edmund Barton |S: +1901-01-01T00:00:00Z |E: +1903-09-24T00:00:00Z",
+                    "Robert Menzies |S: +1949-12-19T00:00:00Z |E: +1966-01-26T00:00:00Z",
+                    "Andrew Fisher |S: +1910-04-29T00:00:00Z |E: +1913-06-24T00:00:00Z",
+                    "Andrew Fisher |S: +1908-11-13T00:00:00Z |E: +1909-06-02T00:00:00Z",
+                    "Alfred Deakin |S: +1903-09-24T00:00:00Z |E: +1904-04-27T00:00:00Z",
+                    "Alfred Deakin |S: +1909-06-02T00:00:00Z |E: +1910-04-29T00:00:00Z",
+                    "Alfred Deakin |S: +1905-07-05T00:00:00Z |E: +1908-11-13T00:00:00Z",
+                    "Malcolm Turnbull |S: +2015-09-15T00:00:00Z |E: +2018-08-24T00:00:00Z",
+                    "Scott Morrison |S: +2018-08-24T00:00:00Z |E: +2022-05-23T00:00:00Z",
+                    "Anthony Albanese |S: +2022-05-23T00:00:00Z"
+                ],
+                "ground_truth": "Frank Forde",
+                "ranking_qa": {
+                    "generic": "Billy Hughes and Frank Forde both served as the prime ministers of Australia before. Do you know which one of them the latter prime minister was?",
+                    "rephrased_1": "Billy Hughes and Frank Forde both served as the prime ministers of Australia before. Do you know which one of them the latter prime minister was?",
+                    "rephrased_2": "Australia had Billy Hughes and Frank Forde as former prime ministers. Can you identify which one the latter prime minister was?",
+                    "rephrased_3": "Billy Hughes and Frank Forde previously held the position of the prime minister of Australia. Which of them served as the latter prime minister?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 25 September 1919, Billy Hughes was the prime minister of Australia. So, who held this position 26 years later?",
+                    "rephrased_1": "On 25 September 1919, Billy Hughes was the prime minister of Australia. So, who held this position 26 years later?",
+                    "rephrased_2": "Billy Hughes was Australia's prime minister on 25 September 1919. Do you know who was in this role after 26 years?",
+                    "rephrased_3": "Billy Hughes served as the prime minister of Australia on 25 September 1919. Can you identify who occupied this position after 26 years?"
+                }
+            }
+        },
+        "Belgium": {
+            "Monarch of the Belgians": {
+                "answers": [
+                    "\u00c9rasme-Louis Surlet de Chokier |S: +1831-02-25T00:00:00Z |E: +1831-07-20T00:00:00Z",
+                    "Leopold I of Belgium |S: +1831-06-04T00:00:00Z |E: +1865-12-10T00:00:00Z",
+                    "Leopold II of Belgium |S: +1865-12-17T00:00:00Z |E: +1909-12-17T00:00:00Z",
+                    "Albert I of Belgium |S: +1909-12-23T00:00:00Z |E: +1934-02-17T00:00:00Z",
+                    "Leopold III of Belgium |S: +1934-02-23T00:00:00Z |E: +1944-09-20T00:00:00Z",
+                    "Prince Charles, Count of Flanders |S: +1944-09-20T00:00:00Z |E: +1950-07-20T00:00:00Z",
+                    "Leopold III of Belgium |S: +1950-07-20T00:00:00Z |E: +1950-08-11T00:00:00Z",
+                    "Baudouin I of Belgium |S: +1950-08-11T00:00:00Z |E: +1951-07-17T00:00:00Z",
+                    "Baudouin I of Belgium |S: +1951-07-17T00:00:00Z |E: +1993-07-31T00:00:00Z",
+                    "Albert II of Belgium |S: +1993-08-09T00:00:00Z |E: +2013-07-21T00:00:00Z",
+                    "Philippe of Belgium |S: +2013-07-21T00:00:00Z"
+                ],
+                "ground_truth": "\u00c9rasme-Louis Surlet de Chokier",
+                "ranking_qa": {
+                    "generic": "\u00c9rasme-Louis Surlet de Chokier and Albert II of Belgium both served as the monarchs of the Belgians before. Do you know which one of them the former monarch was?",
+                    "rephrased_1": "\u00c9rasme-Louis Surlet de Chokier and Albert II of Belgium both served as the monarchs of the Belgians before. Do you know which one of them the former monarch was?",
+                    "rephrased_2": "the Belgians had \u00c9rasme-Louis Surlet de Chokier and Albert II of Belgium as former monarchs. Can you identify which one the former monarch was?",
+                    "rephrased_3": "\u00c9rasme-Louis Surlet de Chokier and Albert II of Belgium previously held the position of the monarch of the Belgians. Which of them served as the former monarch?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 15 March 2007, Albert II of Belgium was the monarch of the Belgians. So, who held this position 176 years before?",
+                    "rephrased_1": "On 15 March 2007, Albert II of Belgium was the monarch of the Belgians. So, who held this position 176 years before?",
+                    "rephrased_2": "Albert II of Belgium was the Belgians's monarch on 15 March 2007. Do you know who was in this role before 176 years?",
+                    "rephrased_3": "Albert II of Belgium served as the monarch of the Belgians on 15 March 2007. Can you identify who occupied this position before 176 years?"
+                }
+            }
+        },
+        "Israel": {
+            "President of Israel": {
+                "answers": [
+                    "Isaac Herzog |S: +2021-07-07T00:00:00Z",
+                    "Reuven Rivlin |S: +2014-07-24T00:00:00Z |E: +2021-07-07T00:00:00Z",
+                    "Shimon Peres |S: +2007-07-15T00:00:00Z |E: +2014-07-24T00:00:00Z",
+                    "Chaim Weizmann |S: +1949-02-17T00:00:00Z |E: +1952-11-09T00:00:00Z",
+                    "Yitzhak Ben-Zvi |S: +1952-12-16T00:00:00Z |E: +1963-04-23T00:00:00Z",
+                    "Zalman Shazar |S: +1963-05-21T00:00:00Z |E: +1973-05-24T00:00:00Z",
+                    "Ephraim Katzir |S: +1973-05-24T00:00:00Z |E: +1978-05-29T00:00:00Z",
+                    "Yitzhak Navon |S: +1978-05-29T00:00:00Z |E: +1983-05-05T00:00:00Z",
+                    "Chaim Herzog |S: +1983-05-05T00:00:00Z |E: +1993-05-13T00:00:00Z",
+                    "Ezer Weizman |S: +1993-05-13T00:00:00Z |E: +2000-07-13T00:00:00Z",
+                    "Moshe Katsav |S: +2000-08-01T00:00:00Z |E: +2007-07-01T00:00:00Z",
+                    "Chaim Weizmann |S: +1948-05-16T00:00:00Z |E: +1949-02-17T00:00:00Z",
+                    "David Ben-Gurion |S: +1948-05-14T00:00:00Z |E: +1948-05-16T00:00:00Z",
+                    "Yosef Sprinzak |S: +1952-11-09T00:00:00Z |E: +1952-12-10T00:00:00Z",
+                    "Kadish Luz |S: +1963-04-24T00:00:00Z |E: +1963-05-21T00:00:00Z",
+                    "Avraham Burg |S: +2000-07-12T00:00:00Z |E: +2000-08-01T00:00:00Z",
+                    "Dalia Itzik |S: +2007-01-07T00:00:00Z |E: +2007-07-18T00:00:00Z"
+                ],
+                "ground_truth": "Zalman Shazar",
+                "ranking_qa": {
+                    "generic": "Zalman Shazar and Shimon Peres both served as the presidents of Israel before. Do you know which one of them the former president was?",
+                    "rephrased_1": "Zalman Shazar and Shimon Peres both served as the presidents of Israel before. Do you know which one of them the former president was?",
+                    "rephrased_2": "Israel had Zalman Shazar and Shimon Peres as former presidents. Can you identify which one the former president was?",
+                    "rephrased_3": "Zalman Shazar and Shimon Peres previously held the position of the president of Israel. Which of them served as the former president?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 20 December 2009, Shimon Peres was the president of Israel. So, who held this position 37 years before?",
+                    "rephrased_1": "On 20 December 2009, Shimon Peres was the president of Israel. So, who held this position 37 years before?",
+                    "rephrased_2": "Shimon Peres was Israel's president on 20 December 2009. Do you know who was in this role before 37 years?",
+                    "rephrased_3": "Shimon Peres served as the president of Israel on 20 December 2009. Can you identify who occupied this position before 37 years?"
+                }
+            }
+        }
+    },
+    "athletes_byPayment": {
+        "Harry Kane": {
+            "answers": [
+                "Tottenham Hotspur F.C. |S: +2010-07-01T00:00:00Z |E: +2011-01-07T00:00:00Z",
+                "Leyton Orient F.C. |S: +2011-01-07T00:00:00Z |E: +2011-05-31T00:00:00Z",
+                "Tottenham Hotspur F.C. |S: +2011-05-31T00:00:00Z |E: +2012-01-01T00:00:00Z",
+                "Millwall F.C. |S: +2012-01-01T00:00:00Z |E: +2012-05-31T00:00:00Z",
+                "Tottenham Hotspur F.C. |S: +2012-05-31T00:00:00Z |E: +2012-08-31T00:00:00Z",
+                "Norwich City F.C. |S: +2012-08-31T00:00:00Z |E: +2013-02-01T00:00:00Z",
+                "Tottenham Hotspur F.C. |S: +2013-02-01T00:00:00Z |E: +2013-02-21T00:00:00Z",
+                "Leicester City |S: +2013-02-21T00:00:00Z |E: +2013-05-14T00:00:00Z",
+                "Tottenham Hotspur F.C. |S: +2013-05-14T00:00:00Z |E: +2013-08-12T00:00:00Z",
+                "FC Bayern Munich |S: +2013-08-12T00:00:00Z"
+            ],
+            "ground_truth": "Leyton Orient F.C.",
+            "ranking_qa": {
+                "generic": "Leyton Orient F.C. and Leicester City were both Harry Kane's football clubs before, so which team between them was the former one Harry Kane played for?",
+                "rephrased_1": "Leyton Orient F.C. and Leicester City were both Harry Kane's football clubs before, so which team between them was the former one Harry Kane played for?",
+                "rephrased_2": "Harry Kane has joined Leyton Orient F.C. and Leicester City football clubs before. Can you identify which team between them was the former one Harry Kane played for?",
+                "rephrased_3": "Harry Kane previously played for Leyton Orient F.C. and Leicester City football clubs. Which team between them did Harry Kane formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 2 April 2013, Harry Kane played for Leicester City. So, before 2 years, which football club did Harry Kane play for?",
+                "rephrased_1": "On 2 April 2013, Harry Kane played for Leicester City. So, before 2 years, which football club did Harry Kane play for?",
+                "rephrased_2": "Leicester City was Harry Kane's football club on 2 April 2013. Can you identify which football club Harry Kane belongs to before 2 years?",
+                "rephrased_3": "Harry Kane played for Leicester City on 2 April 2013. Do you know which football club Harry Kane played for before 2 years?"
+            }
+        },
+        "Cristiano Ronaldo": {
+            "answers": [
+                "Sporting CP |S: +2002-07-01T00:00:00Z |E: +2003-08-12T00:00:00Z",
+                "Manchester United F.C. |S: +2003-08-12T00:00:00Z |E: +2009-07-06T00:00:00Z",
+                "Real Madrid CF |S: +2009-07-06T00:00:00Z |E: +2018-07-10T00:00:00Z",
+                "Juventus FC |S: +2018-07-10T00:00:00Z |E: +2021-08-31T00:00:00Z",
+                "Manchester United F.C. |S: +2021-08-31T00:00:00Z |E: +2022-11-22T00:00:00Z",
+                "Al-Nassr |S: +2023-01-00T00:00:00Z"
+            ],
+            "ground_truth": "Real Madrid CF",
+            "ranking_qa": {
+                "generic": "Sporting CP and Real Madrid CF were both Cristiano Ronaldo's football clubs before, so which team between them was the latter one Cristiano Ronaldo played for?",
+                "rephrased_1": "Sporting CP and Real Madrid CF were both Cristiano Ronaldo's football clubs before, so which team between them was the latter one Cristiano Ronaldo played for?",
+                "rephrased_2": "Cristiano Ronaldo has joined Sporting CP and Real Madrid CF football clubs before. Can you identify which team between them was the latter one Cristiano Ronaldo played for?",
+                "rephrased_3": "Cristiano Ronaldo previously played for Sporting CP and Real Madrid CF football clubs. Which team between them did Cristiano Ronaldo latterly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 12 September 2002, Cristiano Ronaldo played for Sporting CP. So, after 9 years, which football club did Cristiano Ronaldo play for?",
+                "rephrased_1": "On 12 September 2002, Cristiano Ronaldo played for Sporting CP. So, after 9 years, which football club did Cristiano Ronaldo play for?",
+                "rephrased_2": "Sporting CP was Cristiano Ronaldo's football club on 12 September 2002. Can you identify which football club Cristiano Ronaldo belongs to after 9 years?",
+                "rephrased_3": "Cristiano Ronaldo played for Sporting CP on 12 September 2002. Do you know which football club Cristiano Ronaldo played for after 9 years?"
+            }
+        },
+        "Lionel Messi": {
+            "answers": [
+                "FC Barcelona |S: +2004-03-05T00:00:00Z |E: +2021-08-10T00:00:00Z",
+                "Paris Saint-Germain F.C. |S: +2021-08-10T00:00:00Z |E: +2023-07-15T00:00:00Z",
+                "Inter Miami CF |S: +2023-07-15T00:00:00Z"
+            ],
+            "ground_truth": "Paris Saint-Germain F.C.",
+            "ranking_qa": {
+                "generic": "FC Barcelona and Paris Saint-Germain F.C. were both Lionel Messi's football clubs before, so which team between them was the latter one Lionel Messi played for?",
+                "rephrased_1": "FC Barcelona and Paris Saint-Germain F.C. were both Lionel Messi's football clubs before, so which team between them was the latter one Lionel Messi played for?",
+                "rephrased_2": "Lionel Messi has joined FC Barcelona and Paris Saint-Germain F.C. football clubs before. Can you identify which team between them was the latter one Lionel Messi played for?",
+                "rephrased_3": "Lionel Messi previously played for FC Barcelona and Paris Saint-Germain F.C. football clubs. Which team between them did Lionel Messi latterly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 28 October 2020, Lionel Messi played for FC Barcelona. So, after 1 years, which football club did Lionel Messi play for?",
+                "rephrased_1": "On 28 October 2020, Lionel Messi played for FC Barcelona. So, after 1 years, which football club did Lionel Messi play for?",
+                "rephrased_2": "FC Barcelona was Lionel Messi's football club on 28 October 2020. Can you identify which football club Lionel Messi belongs to after 1 years?",
+                "rephrased_3": "Lionel Messi played for FC Barcelona on 28 October 2020. Do you know which football club Lionel Messi played for after 1 years?"
+            }
+        },
+        "Neymar Jr.": {
+            "answers": [
+                "Santos F.C. |S: +2009-01-01T00:00:00Z |E: +2013-07-01T00:00:00Z",
+                "FC Barcelona |S: +2013-07-01T00:00:00Z |E: +2017-08-03T00:00:00Z",
+                "Paris Saint-Germain F.C. |S: +2017-08-03T00:00:00Z |E: +2023-08-15T00:00:00Z",
+                "Al-Hilal SFC |S: +2023-08-15T00:00:00Z"
+            ],
+            "ground_truth": "Paris Saint-Germain F.C.",
+            "ranking_qa": {
+                "generic": "Santos F.C. and Paris Saint-Germain F.C. were both Neymar Jr.'s football clubs before, so which team between them was the latter one Neymar Jr. played for?",
+                "rephrased_1": "Santos F.C. and Paris Saint-Germain F.C. were both Neymar Jr.'s football clubs before, so which team between them was the latter one Neymar Jr. played for?",
+                "rephrased_2": "Neymar Jr. has joined Santos F.C. and Paris Saint-Germain F.C. football clubs before. Can you identify which team between them was the latter one Neymar Jr. played for?",
+                "rephrased_3": "Neymar Jr. previously played for Santos F.C. and Paris Saint-Germain F.C. football clubs. Which team between them did Neymar Jr. latterly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 6 March 2013, Neymar Jr. played for Santos F.C.. So, after 5 years, which football club did Neymar Jr. play for?",
+                "rephrased_1": "On 6 March 2013, Neymar Jr. played for Santos F.C.. So, after 5 years, which football club did Neymar Jr. play for?",
+                "rephrased_2": "Santos F.C. was Neymar Jr.'s football club on 6 March 2013. Can you identify which football club Neymar Jr. belongs to after 5 years?",
+                "rephrased_3": "Neymar Jr. played for Santos F.C. on 6 March 2013. Do you know which football club Neymar Jr. played for after 5 years?"
+            }
+        },
+        "Kylian Mbapp\u00e9": {
+            "answers": [
+                "AS Monaco FC |S: +2016-01-01T00:00:00Z |E: +2017-08-31T00:00:00Z",
+                "Paris Saint-Germain F.C. |S: +2017-08-31T00:00:00Z |E: +2018-06-30T00:00:00Z",
+                "AS Monaco FC |S: +2018-06-30T00:00:00Z |E: +2018-07-01T00:00:00Z",
+                "Paris Saint-Germain F.C. |S: +2018-07-01T00:00:00Z |E: +2024-07-01T00:00:00Z",
+                "Real Madrid |S: +2024-07-01T00:00:00Z"
+            ],
+            "ground_truth": "AS Monaco FC",
+            "ranking_qa": {
+                "generic": "AS Monaco FC and Paris Saint-Germain F.C. were both Kylian Mbapp\u00e9's football clubs before, so which team between them was the former one Kylian Mbapp\u00e9 played for?",
+                "rephrased_1": "AS Monaco FC and Paris Saint-Germain F.C. were both Kylian Mbapp\u00e9's football clubs before, so which team between them was the former one Kylian Mbapp\u00e9 played for?",
+                "rephrased_2": "Kylian Mbapp\u00e9 has joined AS Monaco FC and Paris Saint-Germain F.C. football clubs before. Can you identify which team between them was the former one Kylian Mbapp\u00e9 played for?",
+                "rephrased_3": "Kylian Mbapp\u00e9 previously played for AS Monaco FC and Paris Saint-Germain F.C. football clubs. Which team between them did Kylian Mbapp\u00e9 formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 9 July 2022, Kylian Mbapp\u00e9 played for Paris Saint-Germain F.C.. So, before 4 years, which football club did Kylian Mbapp\u00e9 play for?",
+                "rephrased_1": "On 9 July 2022, Kylian Mbapp\u00e9 played for Paris Saint-Germain F.C.. So, before 4 years, which football club did Kylian Mbapp\u00e9 play for?",
+                "rephrased_2": "Paris Saint-Germain F.C. was Kylian Mbapp\u00e9's football club on 9 July 2022. Can you identify which football club Kylian Mbapp\u00e9 belongs to before 4 years?",
+                "rephrased_3": "Kylian Mbapp\u00e9 played for Paris Saint-Germain F.C. on 9 July 2022. Do you know which football club Kylian Mbapp\u00e9 played for before 4 years?"
+            }
+        },
+        "Erling Haaland": {
+            "answers": [
+                "Bryne FK |S: +2015-09-08T00:00:00Z |E: +2017-02-01T00:00:00Z",
+                "Molde FK |S: +2017-02-01T00:00:00Z |E: +2019-01-01T00:00:00Z",
+                "FC Red Bull Salzburg |S: +2019-01-01T00:00:00Z |E: +2020-01-01T00:00:00Z",
+                "Borussia Dortmund |S: +2020-01-01T00:00:00Z |E: +2022-07-01T00:00:00Z",
+                "Manchester City F.C. |S: +2022-07-01T00:00:00Z"
+            ],
+            "ground_truth": "Bryne FK",
+            "ranking_qa": {
+                "generic": "Bryne FK and FC Red Bull Salzburg were both Erling Haaland's football clubs before, so which team between them was the former one Erling Haaland played for?",
+                "rephrased_1": "Bryne FK and FC Red Bull Salzburg were both Erling Haaland's football clubs before, so which team between them was the former one Erling Haaland played for?",
+                "rephrased_2": "Erling Haaland has joined Bryne FK and FC Red Bull Salzburg football clubs before. Can you identify which team between them was the former one Erling Haaland played for?",
+                "rephrased_3": "Erling Haaland previously played for Bryne FK and FC Red Bull Salzburg football clubs. Which team between them did Erling Haaland formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 9 August 2019, Erling Haaland played for FC Red Bull Salzburg. So, before 3 years, which football club did Erling Haaland play for?",
+                "rephrased_1": "On 9 August 2019, Erling Haaland played for FC Red Bull Salzburg. So, before 3 years, which football club did Erling Haaland play for?",
+                "rephrased_2": "FC Red Bull Salzburg was Erling Haaland's football club on 9 August 2019. Can you identify which football club Erling Haaland belongs to before 3 years?",
+                "rephrased_3": "Erling Haaland played for FC Red Bull Salzburg on 9 August 2019. Do you know which football club Erling Haaland played for before 3 years?"
+            }
+        },
+        "Mohamed Salah": {
+            "answers": [
+                "Al Mokawloon Al Arab SC |S: +2010-05-01T00:00:00Z |E: +2012-07-01T00:00:00Z",
+                "FC Basel |S: +2012-07-01T00:00:00Z |E: +2014-01-26T00:00:00Z",
+                "Chelsea F.C. |S: +2014-01-26T00:00:00Z |E: +2015-02-02T00:00:00Z",
+                "ACF Fiorentina |S: +2015-02-02T00:00:00Z |E: +2015-06-30T00:00:00Z",
+                "Chelsea F.C. |S: +2015-06-30T00:00:00Z |E: +2015-08-06T00:00:00Z",
+                "A.S. Roma |S: +2015-08-06T00:00:00Z |E: +2016-06-30T00:00:00Z",
+                "Chelsea F.C. |S: +2016-06-30T00:00:00Z |E: +2016-07-01T00:00:00Z",
+                "A.S. Roma |S: +2016-07-01T00:00:00Z |E: +2017-07-01T00:00:00Z",
+                "Liverpool F.C. |S: +2017-07-01T00:00:00Z"
+            ],
+            "ground_truth": "A.S. Roma",
+            "ranking_qa": {
+                "generic": "ACF Fiorentina and A.S. Roma were both Mohamed Salah's football clubs before, so which team between them was the latter one Mohamed Salah played for?",
+                "rephrased_1": "ACF Fiorentina and A.S. Roma were both Mohamed Salah's football clubs before, so which team between them was the latter one Mohamed Salah played for?",
+                "rephrased_2": "Mohamed Salah has joined ACF Fiorentina and A.S. Roma football clubs before. Can you identify which team between them was the latter one Mohamed Salah played for?",
+                "rephrased_3": "Mohamed Salah previously played for ACF Fiorentina and A.S. Roma football clubs. Which team between them did Mohamed Salah latterly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 17 February 2015, Mohamed Salah played for ACF Fiorentina. So, after 2 years, which football club did Mohamed Salah play for?",
+                "rephrased_1": "On 17 February 2015, Mohamed Salah played for ACF Fiorentina. So, after 2 years, which football club did Mohamed Salah play for?",
+                "rephrased_2": "ACF Fiorentina was Mohamed Salah's football club on 17 February 2015. Can you identify which football club Mohamed Salah belongs to after 2 years?",
+                "rephrased_3": "Mohamed Salah played for ACF Fiorentina on 17 February 2015. Do you know which football club Mohamed Salah played for after 2 years?"
+            }
+        },
+        "Sadio Man\u00e9": {
+            "answers": [
+                "FC Metz |S: +2010-01-01T00:00:00Z |E: +2012-08-31T00:00:00Z",
+                "FC Red Bull Salzburg |S: +2012-08-31T00:00:00Z |E: +2014-09-01T00:00:00Z",
+                "Southampton F.C. |S: +2014-09-01T00:00:00Z |E: +2016-07-01T00:00:00Z",
+                "Liverpool F.C. |S: +2016-07-01T00:00:00Z |E: +2022-07-01T00:00:00Z",
+                "FC Bayern Munich |S: +2022-07-01T00:00:00Z |E: +2023-08-01T00:00:00Z",
+                "Al-Nassr |S: +2023-08-01T00:00:00Z"
+            ],
+            "ground_truth": "Liverpool F.C.",
+            "ranking_qa": {
+                "generic": "FC Metz and Liverpool F.C. were both Sadio Man\u00e9's football clubs before, so which team between them was the latter one Sadio Man\u00e9 played for?",
+                "rephrased_1": "FC Metz and Liverpool F.C. were both Sadio Man\u00e9's football clubs before, so which team between them was the latter one Sadio Man\u00e9 played for?",
+                "rephrased_2": "Sadio Man\u00e9 has joined FC Metz and Liverpool F.C. football clubs before. Can you identify which team between them was the latter one Sadio Man\u00e9 played for?",
+                "rephrased_3": "Sadio Man\u00e9 previously played for FC Metz and Liverpool F.C. football clubs. Which team between them did Sadio Man\u00e9 latterly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 28 July 2012, Sadio Man\u00e9 played for FC Metz. So, after 6 years, which football club did Sadio Man\u00e9 play for?",
+                "rephrased_1": "On 28 July 2012, Sadio Man\u00e9 played for FC Metz. So, after 6 years, which football club did Sadio Man\u00e9 play for?",
+                "rephrased_2": "FC Metz was Sadio Man\u00e9's football club on 28 July 2012. Can you identify which football club Sadio Man\u00e9 belongs to after 6 years?",
+                "rephrased_3": "Sadio Man\u00e9 played for FC Metz on 28 July 2012. Do you know which football club Sadio Man\u00e9 played for after 6 years?"
+            }
+        },
+        "Bradley Beal": {
+            "answers": [
+                "Florida Gators men's basketball |S: +2011-01-01T00:00:00Z |E: +2012-06-28T00:00:00Z",
+                "Washington Wizards |S: +2012-06-28T00:00:00Z |E: +2023-07-01T00:00:00Z",
+                "Phoenix Suns |S: +2023-07-01T00:00:00Z"
+            ],
+            "ground_truth": "Florida Gators men's basketball",
+            "ranking_qa": {
+                "generic": "Florida Gators men's basketball and Washington Wizards were both Bradley Beal's basketball teams before, so which team between them was the former one Bradley Beal played for?",
+                "rephrased_1": "Florida Gators men's basketball and Washington Wizards were both Bradley Beal's basketball teams before, so which team between them was the former one Bradley Beal played for?",
+                "rephrased_2": "Bradley Beal has joined Florida Gators men's basketball and Washington Wizards basketball teams before. Can you identify which team between them was the former one Bradley Beal played for?",
+                "rephrased_3": "Bradley Beal previously played for Florida Gators men's basketball and Washington Wizards basketball teams. Which team between them did Bradley Beal formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 22 May 2015, Bradley Beal played for Washington Wizards. So, before 3 years, which basketball team did Bradley Beal play for?",
+                "rephrased_1": "On 22 May 2015, Bradley Beal played for Washington Wizards. So, before 3 years, which basketball team did Bradley Beal play for?",
+                "rephrased_2": "Washington Wizards was Bradley Beal's basketball team on 22 May 2015. Can you identify which basketball team Bradley Beal belongs to before 3 years?",
+                "rephrased_3": "Bradley Beal played for Washington Wizards on 22 May 2015. Do you know which basketball team Bradley Beal played for before 3 years?"
+            }
+        },
+        "Giannis Antetokounmpo": {
+            "answers": [
+                "Filathlitikos B.C. |S: +2011-01-01T00:00:00Z |E: +2013-07-30T00:00:00Z",
+                "Milwaukee Bucks |S: +2013-07-30T00:00:00Z"
+            ],
+            "ground_truth": "Filathlitikos B.C.",
+            "ranking_qa": {
+                "generic": "Filathlitikos B.C. and Milwaukee Bucks were both Giannis Antetokounmpo's basketball teams before, so which team between them was the former one Giannis Antetokounmpo played for?",
+                "rephrased_1": "Filathlitikos B.C. and Milwaukee Bucks were both Giannis Antetokounmpo's basketball teams before, so which team between them was the former one Giannis Antetokounmpo played for?",
+                "rephrased_2": "Giannis Antetokounmpo has joined Filathlitikos B.C. and Milwaukee Bucks basketball teams before. Can you identify which team between them was the former one Giannis Antetokounmpo played for?",
+                "rephrased_3": "Giannis Antetokounmpo previously played for Filathlitikos B.C. and Milwaukee Bucks basketball teams. Which team between them did Giannis Antetokounmpo formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 28 May 2014, Giannis Antetokounmpo played for Milwaukee Bucks. So, before 1 years, which basketball team did Giannis Antetokounmpo play for?",
+                "rephrased_1": "On 28 May 2014, Giannis Antetokounmpo played for Milwaukee Bucks. So, before 1 years, which basketball team did Giannis Antetokounmpo play for?",
+                "rephrased_2": "Milwaukee Bucks was Giannis Antetokounmpo's basketball team on 28 May 2014. Can you identify which basketball team Giannis Antetokounmpo belongs to before 1 years?",
+                "rephrased_3": "Giannis Antetokounmpo played for Milwaukee Bucks on 28 May 2014. Do you know which basketball team Giannis Antetokounmpo played for before 1 years?"
+            }
+        },
+        "Damian Lillard": {
+            "answers": [
+                "Weber State Wildcats men's basketball |S: +2008-01-01T00:00:00Z |E: +2012-07-13T00:00:00Z",
+                "Portland Trail Blazers |S: +2012-07-13T00:00:00Z |E: +2023-09-27T00:00:00Z",
+                "Milwaukee Bucks |S: +2023-09-27T00:00:00Z"
+            ],
+            "ground_truth": "Weber State Wildcats men's basketball",
+            "ranking_qa": {
+                "generic": "Weber State Wildcats men's basketball and Portland Trail Blazers were both Damian Lillard's basketball teams before, so which team between them was the former one Damian Lillard played for?",
+                "rephrased_1": "Weber State Wildcats men's basketball and Portland Trail Blazers were both Damian Lillard's basketball teams before, so which team between them was the former one Damian Lillard played for?",
+                "rephrased_2": "Damian Lillard has joined Weber State Wildcats men's basketball and Portland Trail Blazers basketball teams before. Can you identify which team between them was the former one Damian Lillard played for?",
+                "rephrased_3": "Damian Lillard previously played for Weber State Wildcats men's basketball and Portland Trail Blazers basketball teams. Which team between them did Damian Lillard formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 22 July 2014, Damian Lillard played for Portland Trail Blazers. So, before 4 years, which basketball team did Damian Lillard play for?",
+                "rephrased_1": "On 22 July 2014, Damian Lillard played for Portland Trail Blazers. So, before 4 years, which basketball team did Damian Lillard play for?",
+                "rephrased_2": "Portland Trail Blazers was Damian Lillard's basketball team on 22 July 2014. Can you identify which basketball team Damian Lillard belongs to before 4 years?",
+                "rephrased_3": "Damian Lillard played for Portland Trail Blazers on 22 July 2014. Do you know which basketball team Damian Lillard played for before 4 years?"
+            }
+        },
+        "Max Verstappen": {
+            "answers": [
+                "Red Bull Racing |S: +2016-00-00T00:00:00Z",
+                "Scuderia Toro Rosso |S: +2015-00-00T00:00:00Z |E: +2016-00-00T00:00:00Z",
+                "Van Amersfoort Racing |S: +2014-00-00T00:00:00Z |E: +2015-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Scuderia Toro Rosso",
+            "ranking_qa": {
+                "generic": "Van Amersfoort Racing and Scuderia Toro Rosso were both Max Verstappen's Formula 1 teams before, so which team between them was the latter one Max Verstappen drove for?",
+                "rephrased_1": "Van Amersfoort Racing and Scuderia Toro Rosso were both Max Verstappen's Formula 1 teams before, so which team between them was the latter one Max Verstappen drove for?",
+                "rephrased_2": "Max Verstappen has joined Van Amersfoort Racing and Scuderia Toro Rosso Formula 1 teams before. Can you identify which team between them was the latter one Max Verstappen drove for?",
+                "rephrased_3": "Max Verstappen previously drove for Van Amersfoort Racing and Scuderia Toro Rosso Formula 1 teams. Which team between them did Max Verstappen latterly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 24 May 2014, Max Verstappen drove for Van Amersfoort Racing. So, after 1 years, which Formula 1 team did Max Verstappen drive for?",
+                "rephrased_1": "On 24 May 2014, Max Verstappen drove for Van Amersfoort Racing. So, after 1 years, which Formula 1 team did Max Verstappen drive for?",
+                "rephrased_2": "Van Amersfoort Racing was Max Verstappen's Formula 1 team on 24 May 2014. Can you identify which Formula 1 team Max Verstappen belongs to after 1 years?",
+                "rephrased_3": "Max Verstappen drove for Van Amersfoort Racing on 24 May 2014. Do you know which Formula 1 team Max Verstappen drove for after 1 years?"
+            }
+        },
+        "Lewis Hamilton": {
+            "answers": [
+                "McLaren |S: +2007-00-00T00:00:00Z |E: +2012-00-00T00:00:00Z",
+                "Mercedes F1 Team |S: +2013-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Mercedes F1 Team",
+            "ranking_qa": {
+                "generic": "McLaren and Mercedes F1 Team were both Lewis Hamilton's Formula 1 teams before, so which team between them was the latter one Lewis Hamilton drove for?",
+                "rephrased_1": "McLaren and Mercedes F1 Team were both Lewis Hamilton's Formula 1 teams before, so which team between them was the latter one Lewis Hamilton drove for?",
+                "rephrased_2": "Lewis Hamilton has joined McLaren and Mercedes F1 Team Formula 1 teams before. Can you identify which team between them was the latter one Lewis Hamilton drove for?",
+                "rephrased_3": "Lewis Hamilton previously drove for McLaren and Mercedes F1 Team Formula 1 teams. Which team between them did Lewis Hamilton latterly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 28 July 2010, Lewis Hamilton drove for McLaren. So, after 14 years, which Formula 1 team did Lewis Hamilton drive for?",
+                "rephrased_1": "On 28 July 2010, Lewis Hamilton drove for McLaren. So, after 14 years, which Formula 1 team did Lewis Hamilton drive for?",
+                "rephrased_2": "McLaren was Lewis Hamilton's Formula 1 team on 28 July 2010. Can you identify which Formula 1 team Lewis Hamilton belongs to after 14 years?",
+                "rephrased_3": "Lewis Hamilton drove for McLaren on 28 July 2010. Do you know which Formula 1 team Lewis Hamilton drove for after 14 years?"
+            }
+        },
+        "Fernando Alonso": {
+            "answers": [
+                "Renault F1 Team |S: +2002-00-00T00:00:00Z |E: +2006-00-00T00:00:00Z",
+                "McLaren |S: +2007-00-00T00:00:00Z |E: +2007-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2008-00-00T00:00:00Z |E: +2009-00-00T00:00:00Z",
+                "Scuderia Ferrari |S: +2010-00-00T00:00:00Z |E: +2014-00-00T00:00:00Z",
+                "McLaren |S: +2015-00-00T00:00:00Z |E: +2018-00-00T00:00:00Z",
+                "Minardi |S: +2001-00-00T00:00:00Z |E: +2001-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2021-00-00T00:00:00Z |E: +2022-00-00T00:00:00Z",
+                "Aston Martin F1 Team |S: +2023-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Scuderia Ferrari",
+            "ranking_qa": {
+                "generic": "Scuderia Ferrari and McLaren were both Fernando Alonso's Formula 1 teams before, so which team between them was the former one Fernando Alonso drove for?",
+                "rephrased_1": "Scuderia Ferrari and McLaren were both Fernando Alonso's Formula 1 teams before, so which team between them was the former one Fernando Alonso drove for?",
+                "rephrased_2": "Fernando Alonso has joined Scuderia Ferrari and McLaren Formula 1 teams before. Can you identify which team between them was the former one Fernando Alonso drove for?",
+                "rephrased_3": "Fernando Alonso previously drove for Scuderia Ferrari and McLaren Formula 1 teams. Which team between them did Fernando Alonso formerly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 11 October 2015, Fernando Alonso drove for McLaren. So, before 3 years, which Formula 1 team did Fernando Alonso drive for?",
+                "rephrased_1": "On 11 October 2015, Fernando Alonso drove for McLaren. So, before 3 years, which Formula 1 team did Fernando Alonso drive for?",
+                "rephrased_2": "McLaren was Fernando Alonso's Formula 1 team on 11 October 2015. Can you identify which Formula 1 team Fernando Alonso belongs to before 3 years?",
+                "rephrased_3": "Fernando Alonso drove for McLaren on 11 October 2015. Do you know which Formula 1 team Fernando Alonso drove for before 3 years?"
+            }
+        },
+        "Charles Leclerc": {
+            "answers": [
+                "Sauber |S: +2018-00-00T00:00:00Z |E: +2019-00-00T00:00:00Z",
+                "Scuderia Ferrari |S: +2019-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Scuderia Ferrari",
+            "ranking_qa": {
+                "generic": "Sauber and Scuderia Ferrari were both Charles Leclerc's Formula 1 teams before, so which team between them was the latter one Charles Leclerc drove for?",
+                "rephrased_1": "Sauber and Scuderia Ferrari were both Charles Leclerc's Formula 1 teams before, so which team between them was the latter one Charles Leclerc drove for?",
+                "rephrased_2": "Charles Leclerc has joined Sauber and Scuderia Ferrari Formula 1 teams before. Can you identify which team between them was the latter one Charles Leclerc drove for?",
+                "rephrased_3": "Charles Leclerc previously drove for Sauber and Scuderia Ferrari Formula 1 teams. Which team between them did Charles Leclerc latterly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 10 February 2018, Charles Leclerc drove for Sauber. So, after 6 years, which Formula 1 team did Charles Leclerc drive for?",
+                "rephrased_1": "On 10 February 2018, Charles Leclerc drove for Sauber. So, after 6 years, which Formula 1 team did Charles Leclerc drive for?",
+                "rephrased_2": "Sauber was Charles Leclerc's Formula 1 team on 10 February 2018. Can you identify which Formula 1 team Charles Leclerc belongs to after 6 years?",
+                "rephrased_3": "Charles Leclerc drove for Sauber on 10 February 2018. Do you know which Formula 1 team Charles Leclerc drove for after 6 years?"
+            }
+        },
+        "Carlos Sainz Jr.": {
+            "answers": [
+                "McLaren |S: +2019-00-00T00:00:00Z |E: +2020-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2017-00-00T00:00:00Z |E: +2018-00-00T00:00:00Z",
+                "Scuderia Toro Rosso |S: +2015-00-00T00:00:00Z |E: +2017-00-00T00:00:00Z",
+                "Scuderia Ferrari |S: +2021-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Renault F1 Team",
+            "ranking_qa": {
+                "generic": "Scuderia Toro Rosso and Renault F1 Team were both Carlos Sainz Jr.'s Formula 1 teams before, so which team between them was the latter one Carlos Sainz Jr. drove for?",
+                "rephrased_1": "Scuderia Toro Rosso and Renault F1 Team were both Carlos Sainz Jr.'s Formula 1 teams before, so which team between them was the latter one Carlos Sainz Jr. drove for?",
+                "rephrased_2": "Carlos Sainz Jr. has joined Scuderia Toro Rosso and Renault F1 Team Formula 1 teams before. Can you identify which team between them was the latter one Carlos Sainz Jr. drove for?",
+                "rephrased_3": "Carlos Sainz Jr. previously drove for Scuderia Toro Rosso and Renault F1 Team Formula 1 teams. Which team between them did Carlos Sainz Jr. latterly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 6 May 2015, Carlos Sainz Jr. drove for Scuderia Toro Rosso. So, after 2 years, which Formula 1 team did Carlos Sainz Jr. drive for?",
+                "rephrased_1": "On 6 May 2015, Carlos Sainz Jr. drove for Scuderia Toro Rosso. So, after 2 years, which Formula 1 team did Carlos Sainz Jr. drive for?",
+                "rephrased_2": "Scuderia Toro Rosso was Carlos Sainz Jr.'s Formula 1 team on 6 May 2015. Can you identify which Formula 1 team Carlos Sainz Jr. belongs to after 2 years?",
+                "rephrased_3": "Carlos Sainz Jr. drove for Scuderia Toro Rosso on 6 May 2015. Do you know which Formula 1 team Carlos Sainz Jr. drove for after 2 years?"
+            }
+        },
+        "George Russell": {
+            "answers": [
+                "Williams Racing |S: +2018-00-00T00:00:00Z |E: +2021-00-00T00:00:00Z",
+                "Mercedes F1 Team |S: +2022-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Williams Racing",
+            "ranking_qa": {
+                "generic": "Williams Racing and Mercedes F1 Team were both George Russell's Formula 1 teams before, so which team between them was the former one George Russell drove for?",
+                "rephrased_1": "Williams Racing and Mercedes F1 Team were both George Russell's Formula 1 teams before, so which team between them was the former one George Russell drove for?",
+                "rephrased_2": "George Russell has joined Williams Racing and Mercedes F1 Team Formula 1 teams before. Can you identify which team between them was the former one George Russell drove for?",
+                "rephrased_3": "George Russell previously drove for Williams Racing and Mercedes F1 Team Formula 1 teams. Which team between them did George Russell formerly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 9 October 2024, George Russell drove for Mercedes F1 Team. So, before 6 years, which Formula 1 team did George Russell drive for?",
+                "rephrased_1": "On 9 October 2024, George Russell drove for Mercedes F1 Team. So, before 6 years, which Formula 1 team did George Russell drive for?",
+                "rephrased_2": "Mercedes F1 Team was George Russell's Formula 1 team on 9 October 2024. Can you identify which Formula 1 team George Russell belongs to before 6 years?",
+                "rephrased_3": "George Russell drove for Mercedes F1 Team on 9 October 2024. Do you know which Formula 1 team George Russell drove for before 6 years?"
+            }
+        }
+    },
+    "organizations": {
+        "North Atlantic Treaty Organization": {
+            "headquarters location": {
+                "answers": [
+                    "City of Brussels |S: +1967-10-16T00:00:00Z |E: +2017-05-25T00:00:00Z",
+                    "16th arrondissement of Paris |S: +1959-12-16T00:00:00Z |E: +1967-00-00T00:00:00Z",
+                    "London |S: +1950-00-00T00:00:00Z |E: +1952-04-15T00:00:00Z",
+                    "Palais de Chaillot |S: +1952-04-16T00:00:00Z |E: +1959-12-15T00:00:00Z",
+                    "City of Brussels |S: +2017-05-25T00:00:00Z"
+                ],
+                "ground_truth": "London",
+                "ranking_qa": {
+                    "generic": "London and Palais de Chaillot both served as the headquarters locations of the North Atlantic Treaty Organization before. Do you know which one of them the former headquarters location was?",
+                    "rephrased_1": "London and Palais de Chaillot both served as the headquarters locations of the North Atlantic Treaty Organization before. Do you know which one of them the former headquarters location was?",
+                    "rephrased_2": "the North Atlantic Treaty Organization had London and Palais de Chaillot as former headquarters locations. Can you identify which one the former headquarters location was?",
+                    "rephrased_3": "London and Palais de Chaillot previously held the position of the headquarters location of the North Atlantic Treaty Organization. Which of them served as the former headquarters location?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 25 December 1958, Palais de Chaillot was the headquarters location of the North Atlantic Treaty Organization. So, who held this position 8 years before?",
+                    "rephrased_1": "On 25 December 1958, Palais de Chaillot was the headquarters location of the North Atlantic Treaty Organization. So, who held this position 8 years before?",
+                    "rephrased_2": "Palais de Chaillot was the North Atlantic Treaty Organization's headquarters location on 25 December 1958. Do you know who was in this role before 8 years?",
+                    "rephrased_3": "Palais de Chaillot served as the headquarters location of the North Atlantic Treaty Organization on 25 December 1958. Can you identify who occupied this position before 8 years?"
+                }
+            }
+        },
+        "International Olympic Committee": {
+            "chairperson": {
+                "answers": [
+                    "Dimitrios Vikelas |S: +1894-00-00T00:00:00Z |E: +1896-00-00T00:00:00Z",
+                    "Pierre de Coubertin |S: +1896-00-00T00:00:00Z |E: +1916-00-00T00:00:00Z",
+                    "Godefroy de Blonay |S: +1916-00-00T00:00:00Z |E: +1919-00-00T00:00:00Z",
+                    "Pierre de Coubertin |S: +1919-00-00T00:00:00Z |E: +1925-00-00T00:00:00Z",
+                    "Henri de Baillet-Latour |S: +1925-00-00T00:00:00Z |E: +1942-00-00T00:00:00Z",
+                    "Sigfrid Edstr\u00f6m |S: +1942-00-00T00:00:00Z |E: +1946-00-00T00:00:00Z",
+                    "Sigfrid Edstr\u00f6m |S: +1946-00-00T00:00:00Z |E: +1952-00-00T00:00:00Z",
+                    "Avery Brundage |S: +1952-00-00T00:00:00Z |E: +1972-00-00T00:00:00Z",
+                    "Michael Morris, 3rd Baron Killanin |S: +1972-00-00T00:00:00Z |E: +1980-00-00T00:00:00Z",
+                    "Juan Antonio Samaranch |S: +1980-00-00T00:00:00Z |E: +2001-00-00T00:00:00Z",
+                    "Jacques Rogge |S: +2001-00-00T00:00:00Z |E: +2013-00-00T00:00:00Z",
+                    "Thomas Bach |S: +2013-09-10T00:00:00Z"
+                ],
+                "ground_truth": "Dimitrios Vikelas",
+                "ranking_qa": {
+                    "generic": "Dimitrios Vikelas and Michael Morris, 3rd Baron Killanin both served as the chairpersons of the International Olympic Committee before. Do you know which one of them the former chairperson was?",
+                    "rephrased_1": "Dimitrios Vikelas and Michael Morris, 3rd Baron Killanin both served as the chairpersons of the International Olympic Committee before. Do you know which one of them the former chairperson was?",
+                    "rephrased_2": "the International Olympic Committee had Dimitrios Vikelas and Michael Morris, 3rd Baron Killanin as former chairpersons. Can you identify which one the former chairperson was?",
+                    "rephrased_3": "Dimitrios Vikelas and Michael Morris, 3rd Baron Killanin previously held the position of the chairperson of the International Olympic Committee. Which of them served as the former chairperson?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 8 March 1978, Michael Morris, 3rd Baron Killanin was the chairperson of the International Olympic Committee. So, who held this position 83 years before?",
+                    "rephrased_1": "On 8 March 1978, Michael Morris, 3rd Baron Killanin was the chairperson of the International Olympic Committee. So, who held this position 83 years before?",
+                    "rephrased_2": "Michael Morris, 3rd Baron Killanin was the International Olympic Committee's chairperson on 8 March 1978. Do you know who was in this role before 83 years?",
+                    "rephrased_3": "Michael Morris, 3rd Baron Killanin served as the chairperson of the International Olympic Committee on 8 March 1978. Can you identify who occupied this position before 83 years?"
+                }
+            }
+        },
+        "Bluffton University": {
+            "President": {
+                "answers": [
+                    "Noah Calvin Hirschy |S: +1900-01-01T00:00:00Z |E: +1908-01-01T00:00:00Z",
+                    "Samuel K. Mosiman |S: +1910-01-01T00:00:00Z |E: +1935-01-01T00:00:00Z",
+                    "Robert S. Kreider |S: +1965-01-01T00:00:00Z |E: +1972-01-01T00:00:00Z",
+                    "Arthur S. Rosenberger |S: +1935-01-01T00:00:00Z |E: +1938-01-01T00:00:00Z",
+                    "Elmer Neufeld |S: +1978-01-01T00:00:00Z |E: +1996-01-01T00:00:00Z",
+                    "Jane Wood |S: +2018-07-01T00:00:00Z",
+                    "Benjamin Sprunger |S: +1972-01-01T00:00:00Z |E: +1977-01-01T00:00:00Z",
+                    "James M. Harder |S: +2006-08-01T00:00:00Z |E: +2018-01-01T00:00:00Z",
+                    "Lee F. Snyder |S: +1996-01-01T00:00:00Z |E: +2006-01-01T00:00:00Z",
+                    "Lloyd L. Ramseyer |S: +1938-01-01T00:00:00Z |E: +1965-01-01T00:00:00Z"
+                ],
+                "ground_truth": "Samuel K. Mosiman",
+                "ranking_qa": {
+                    "generic": "Samuel K. Mosiman and Robert S. Kreider both served as the presidents of the Bluffton University before. Do you know which one of them the former president was?",
+                    "rephrased_1": "Samuel K. Mosiman and Robert S. Kreider both served as the presidents of the Bluffton University before. Do you know which one of them the former president was?",
+                    "rephrased_2": "the Bluffton University had Samuel K. Mosiman and Robert S. Kreider as former presidents. Can you identify which one the former president was?",
+                    "rephrased_3": "Samuel K. Mosiman and Robert S. Kreider previously held the position of the president of the Bluffton University. Which of them served as the former president?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 18 November 1966, Robert S. Kreider was the president of the Bluffton University. So, who held this position 33 years before?",
+                    "rephrased_1": "On 18 November 1966, Robert S. Kreider was the president of the Bluffton University. So, who held this position 33 years before?",
+                    "rephrased_2": "Robert S. Kreider was the Bluffton University's president on 18 November 1966. Do you know who was in this role before 33 years?",
+                    "rephrased_3": "Robert S. Kreider served as the president of the Bluffton University on 18 November 1966. Can you identify who occupied this position before 33 years?"
+                }
+            }
+        },
+        "University of Reims": {
+            "President": {
+                "answers": [
+                    "Jean Raimond |S: +1987-01-01T00:00:00Z |E: +1992-01-01T00:00:00Z",
+                    "Claude S\u00e9verin |S: +1992-01-01T00:00:00Z |E: +1997-01-01T00:00:00Z",
+                    "Jacques Meyer |S: +1997-01-01T00:00:00Z |E: +2002-01-01T00:00:00Z",
+                    "G\u00e9rard Mary |S: +2002-01-01T00:00:00Z |E: +2007-01-01T00:00:00Z",
+                    "Richard Vistelle |S: +2007-01-01T00:00:00Z |E: +2012-01-01T00:00:00Z",
+                    "Gilles Baillat |S: +2012-01-01T00:00:00Z |E: +2016-01-01T00:00:00Z",
+                    "Christophe Cl\u00e9ment |S: +2024-01-01T00:00:00Z",
+                    "Guillaume Gell\u00e9 |S: +2016-01-01T00:00:00Z |E: +2024-01-01T00:00:00Z",
+                    "Michel Dev\u00e8ze |S: +1971-01-01T00:00:00Z |E: +1976-01-01T00:00:00Z",
+                    "Jean Le Menn |S: +1976-01-01T00:00:00Z |E: +1977-01-01T00:00:00Z",
+                    "Lucien Bernard |S: +1977-01-01T00:00:00Z |E: +1982-01-01T00:00:00Z",
+                    "Andr\u00e9 Laberrigue |S: +1982-01-01T00:00:00Z |E: +1987-01-01T00:00:00Z"
+                ],
+                "ground_truth": "G\u00e9rard Mary",
+                "ranking_qa": {
+                    "generic": "Lucien Bernard and G\u00e9rard Mary both served as the presidents of the University of Reims before. Do you know which one of them the latter president was?",
+                    "rephrased_1": "Lucien Bernard and G\u00e9rard Mary both served as the presidents of the University of Reims before. Do you know which one of them the latter president was?",
+                    "rephrased_2": "the University of Reims had Lucien Bernard and G\u00e9rard Mary as former presidents. Can you identify which one the latter president was?",
+                    "rephrased_3": "Lucien Bernard and G\u00e9rard Mary previously held the position of the president of the University of Reims. Which of them served as the latter president?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 20 June 1977, Lucien Bernard was the president of the University of Reims. So, who held this position 25 years later?",
+                    "rephrased_1": "On 20 June 1977, Lucien Bernard was the president of the University of Reims. So, who held this position 25 years later?",
+                    "rephrased_2": "Lucien Bernard was the University of Reims's president on 20 June 1977. Do you know who was in this role after 25 years?",
+                    "rephrased_3": "Lucien Bernard served as the president of the University of Reims on 20 June 1977. Can you identify who occupied this position after 25 years?"
+                }
+            }
+        },
+        "Birzeit University": {
+            "President": {
+                "answers": [
+                    "Abdul Latif Abu Hijleh |S: +2018-08-01T00:00:00Z |E: +2021-01-01T00:00:00Z",
+                    "Beshara Doumani |S: +2021-01-01T00:00:00Z |E: +2023-08-01T00:00:00Z",
+                    "Gabi Baramki |S: +1974-01-01T00:00:00Z |E: +1993-01-01T00:00:00Z",
+                    "Hannah Nasir |S: +2023-08-01T00:00:00Z"
+                ],
+                "ground_truth": "Gabi Baramki",
+                "ranking_qa": {
+                    "generic": "Gabi Baramki and Beshara Doumani both served as the presidents of the Birzeit University before. Do you know which one of them the former president was?",
+                    "rephrased_1": "Gabi Baramki and Beshara Doumani both served as the presidents of the Birzeit University before. Do you know which one of them the former president was?",
+                    "rephrased_2": "the Birzeit University had Gabi Baramki and Beshara Doumani as former presidents. Can you identify which one the former president was?",
+                    "rephrased_3": "Gabi Baramki and Beshara Doumani previously held the position of the president of the Birzeit University. Which of them served as the former president?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 18 May 2022, Beshara Doumani was the president of the Birzeit University. So, who held this position 42 years before?",
+                    "rephrased_1": "On 18 May 2022, Beshara Doumani was the president of the Birzeit University. So, who held this position 42 years before?",
+                    "rephrased_2": "Beshara Doumani was the Birzeit University's president on 18 May 2022. Do you know who was in this role before 42 years?",
+                    "rephrased_3": "Beshara Doumani served as the president of the Birzeit University on 18 May 2022. Can you identify who occupied this position before 42 years?"
+                }
+            }
+        }
+    }
+}

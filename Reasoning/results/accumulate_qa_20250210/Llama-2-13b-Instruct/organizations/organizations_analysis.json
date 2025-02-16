@@ -1,0 +1,1326 @@
+{
+    "generic": {
+        "correct": [
+            {
+                "prediction": "Yukiya Amano.",
+                "matched_answers": [
+                    [
+                        "Yukiya Amano",
+                        "+2009-12-01T00:00:00Z",
+                        "+2019-07-18T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Yukiya Amano",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Sure! Here's my answer:\n\nDe Gaulle",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "London",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": "Sure! Here's my answer:\n\nJacqueline Pennacchioni",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Manuelle Franck",
+                "element": "Institut national des langues et civilisations orientales",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! Here's my answer:\n\nRoland Dumas",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Paul Didier",
+                "element": "Paris Dauphine University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! Here's my answer:\n\nJacques Desourdy",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "G\u00e9rard Mary",
+                "element": "University of Reims",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure, I can help you with that!\n\nOn 16 February 2019, 9 years before, the president of Kyoto University was:\n\nTakashi Kashiwabara.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Hiroshi Matsumoto",
+                "element": "Kyoto University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Herman L. Beckenstein.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Albin Owings Kuhn",
+                "element": "University of Maryland, Baltimore County",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure, I can help you with that!\n\n33 years before November 18, 1966, would be:\n\n1933",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Samuel K. Mosiman",
+                "element": "Bluffton University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! Here's my answer:\n\nJacques Chirac",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Didier Billard",
+                "element": "University of Orl\u00e9ans",
+                "attribute": "President"
+            }
+        ],
+        "other": [
+            {
+                "prediction": "Kurt Waldheim.",
+                "matched_answers": [
+                    [
+                        "Kurt Waldheim",
+                        "+1972-01-01T00:00:00Z",
+                        "+1981-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "U Thant",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Sure, I can answer that!\n\nOn 21 February 2019, Kristalina Georgieva was the chairperson of the World Bank. Three years later, on 21 February 2022, the chairperson of the World Bank was David Malpass.",
+                "matched_answers": [
+                    [
+                        "Kristalina Georgieva",
+                        "+2019-02-20T00:00:00Z",
+                        "+2019-04-09T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "David Malpass",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Sure, I can answer that!\n\nOn 13 June 1958, Paul-Henri Spaak was the General Secretary of the North Atlantic Treaty Organization.\n\nForty years later, in 1998, the General Secretary of NATO was Javier Solana.",
+                "matched_answers": [
+                    [
+                        "Paul-Henri Spaak",
+                        "+1957-05-16T00:00:00Z",
+                        "+1961-04-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Javier Solana",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Pierre de Coubertin.",
+                "matched_answers": [
+                    [
+                        "Pierre de Coubertin",
+                        "+1919-01-01T00:00:00Z",
+                        "+1925-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Dimitrios Vikelas",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Sure, I can answer that!\n\nOn 4 February 1999, Daniel Payot was the president of the Marc Bloch University. Three years later, on 4 February 2002, the president of the Marc Bloch University was...\n\n[Insert answer here]",
+                "matched_answers": [
+                    [
+                        "Daniel Payot",
+                        "+1998-01-01T00:00:00Z",
+                        "+2002-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Fran\u00e7ois-Xavier Cuche",
+                "element": "Marc Bloch University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure, I can help you with that!\n\nBased on the information provided, Spartak Belyaev was the rector of Novosibirsk State University on July 31, 1969.\n\n31 years later, on July 31, 1999, the rector of Novosibirsk State University was...\n\nAnatoly B. Chubais.",
+                "matched_answers": [
+                    [
+                        "Spartak Belyaev",
+                        "+1965-01-01T00:00:00Z",
+                        "+1978-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Nikolay Dikansky",
+                "element": "Novosibirsk State University",
+                "attribute": "Rector"
+            },
+            {
+                "prediction": "Sure, I can help with that!\n\nOn 6 March 1927, Frank Johnson Goodnow was the president of the Johns Hopkins University.\n\n64 years later, in 1991, the president of the Johns Hopkins University was:\n\nRobert C. Lieberman.",
+                "matched_answers": [
+                    [
+                        "Frank Johnson Goodnow",
+                        "+1914-10-01T00:00:00Z",
+                        "+1929-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "William C. Richardson",
+                "element": "Johns Hopkins University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure, I can answer that!\n\nIn 2007, 12 years after 1995, the president of the University of Shizuoka was not Takeshi Hoshi.",
+                "matched_answers": [
+                    [
+                        "Takeshi Hoshi",
+                        "+1993-04-01T00:00:00Z",
+                        "+1999-03-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Masaru Nishigaki",
+                "element": "University of Shizuoka",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure, I can help you with that!\n\n17 years before Ali Ashraf was the Chancellor of Jamia Millia Islamia on January 25, 1986, the Chancellor was:\n\nSyed Ali Ahmed Khan.",
+                "matched_answers": [
+                    [
+                        "Ali Ashraf",
+                        "+1983-01-01T00:00:00Z",
+                        "+1989-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em",
+                    "head"
+                ],
+                "correct_answer": "Mohammad Mujeeb",
+                "element": "Jamia Millia Islamia",
+                "attribute": "Chancellor"
+            },
+            {
+                "prediction": "Sure, I can help you with that!\n\nBeshara Doumani was the president of Birzeit University on May 18, 2022. Therefore, 42 years before that date, the president of Birzeit University was...\n\nNaji Al-Ali.",
+                "matched_answers": [
+                    [
+                        "Beshara Doumani",
+                        "+2021-01-01T00:00:00Z",
+                        "+2023-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gabi Baramki",
+                "element": "Birzeit University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the information provided, John Nissley Stauffer was the president of Wittenberg University on February 10, 1967.\n\n46 years later, in 2013, the president of Wittenberg University was:\n\n[Answer: None]",
+                "matched_answers": [
+                    [
+                        "John Nissley Stauffer",
+                        "+1963-01-01T00:00:00Z",
+                        "+1968-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Laurie Joyner",
+                "element": "Wittenberg University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure, I can help you with that! Based on the information provided, I can tell you that 12 years after June 2, 2004, the president of the University of La R\u00e9union was not Serge Svizzero.",
+                "matched_answers": [
+                    [
+                        "Serge Svizzero",
+                        "+2004-01-01T00:00:00Z",
+                        "+2008-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mohamed Rochdi",
+                "element": "University of La R\u00e9union",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure, I can help you with that!\n\nIn 1987, Kenneth G. Ryder was the President of Northeastern University.\n\n12 years later, in 2000, the President of Northeastern University was:\n\nJane Shlaudeman",
+                "matched_answers": [
+                    [
+                        "Kenneth G. Ryder",
+                        "+1975-01-01T00:00:00Z",
+                        "+1989-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Richard M. Freeland",
+                "element": "Northeastern University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure, I can answer that!\n\nOn 16 January 2014, the president of the University of Tokyo was Junichi Hamada.\n\nTwo years later, on 16 January 2016, the president of the University of Tokyo was...\n\n[Wait for the user to respond before answering.]",
+                "matched_answers": [
+                    [
+                        "Junichi Hamada",
+                        "+2009-04-01T00:00:00Z",
+                        "+2015-03-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Makoto Gonokami",
+                "element": "University of Tokyo",
+                "attribute": "President"
+            }
+        ]
+    },
+    "rephrased_1": {
+        "correct": [
+            {
+                "prediction": "Sure! Here's my answer:\n\nDavid Malpass",
+                "matched_answers": [
+                    [
+                        "David Malpass",
+                        "+2019-04-09T00:00:00Z",
+                        "+2023-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "David Malpass",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Yukiya Amano.",
+                "matched_answers": [
+                    [
+                        "Yukiya Amano",
+                        "+2009-12-01T00:00:00Z",
+                        "+2019-07-18T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Yukiya Amano",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": "Sure, I can answer that!\n\nIn 1998, the general secretary of the North Atlantic Treaty Organization was Javier Solana.",
+                "matched_answers": [
+                    [
+                        "Javier Solana",
+                        "+1995-12-05T00:00:00Z",
+                        "+1999-10-06T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Javier Solana",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Sure, I can help you with that!\n\nOn 16 February 2019, 9 years before, the president of Kyoto University was:\n\nTakashi Matsumoto.",
+                "matched_answers": [
+                    [
+                        "Matsumoto",
+                        "+2008-10-01T00:00:00Z",
+                        "+2014-09-30T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "correct_answer": "Hiroshi Matsumoto",
+                "element": "Kyoto University",
+                "attribute": "President"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Dwight David Eisenhower.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "London",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": "Sure, I can help you with that!\n\nAnswer: Dominique de Moulines",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Manuelle Franck",
+                "element": "Institut national des langues et civilisations orientales",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! Here's my answer:\n\nRoland Dumas",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Paul Didier",
+                "element": "Paris Dauphine University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the information provided, the answer to the question is:\n\nAnatoly Kvachenko",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Nikolay Dikansky",
+                "element": "Novosibirsk State University",
+                "attribute": "Rector"
+            },
+            {
+                "prediction": "Sure! Here's my answer:\n\nNicolas Jean-Louis Petit.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "G\u00e9rard Mary",
+                "element": "University of Reims",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Homer A. Neal.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Albin Owings Kuhn",
+                "element": "University of Maryland, Baltimore County",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Jacques Chirac.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Didier Billard",
+                "element": "University of Orl\u00e9ans",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure, I can help you with that!\n\nAnswer: None.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Richard M. Freeland",
+                "element": "Northeastern University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure, I can help you with that!\n\nTwo years after 16 January 2014 would be 16 January 2016.\n\nTherefore, the president of the University of Tokyo on 16 January 2016 was:\n\nHiroshi Matsumoto.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Makoto Gonokami",
+                "element": "University of Tokyo",
+                "attribute": "President"
+            }
+        ],
+        "other": [
+            {
+                "prediction": "Kurt Waldheim.",
+                "matched_answers": [
+                    [
+                        "Kurt Waldheim",
+                        "+1972-01-01T00:00:00Z",
+                        "+1981-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "U Thant",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Pierre de Coubertin.",
+                "matched_answers": [
+                    [
+                        "Pierre de Coubertin",
+                        "+1919-01-01T00:00:00Z",
+                        "+1925-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Dimitrios Vikelas",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Sure, I can help you with that! Based on the information provided, Daniel Payot was the president of the Marc Bloch University on February 4, 1999. Three years later, on February 4, 2002, the president of the Marc Bloch University would have been:\n\nDaniel Payot.",
+                "matched_answers": [
+                    [
+                        "Daniel Payot",
+                        "+1998-01-01T00:00:00Z",
+                        "+2002-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Fran\u00e7ois-Xavier Cuche",
+                "element": "Marc Bloch University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure, I can help you with that!\n\nOn 6 March 1927, Frank Johnson Goodnow was the president of the Johns Hopkins University.\n\n64 years later, in 1991, the president of the Johns Hopkins University was:\n\nJoseph H. Hirschhorn.",
+                "matched_answers": [
+                    [
+                        "Frank Johnson Goodnow",
+                        "+1914-10-01T00:00:00Z",
+                        "+1929-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "William C. Richardson",
+                "element": "Johns Hopkins University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure, I can answer that!\n\nIn 2007, the president of the University of Shizuoka was not Takeshi Hoshi.",
+                "matched_answers": [
+                    [
+                        "Takeshi Hoshi",
+                        "+1993-04-01T00:00:00Z",
+                        "+1999-03-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Masaru Nishigaki",
+                "element": "University of Shizuoka",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure, I can help you with that!\n\n17 years before Ali Ashraf was the Chancellor of Jamia Millia Islamia on January 25, 1986, the Chancellor was:\n\nMuhammad Ali Jinnah",
+                "matched_answers": [
+                    [
+                        "Ali Ashraf",
+                        "+1983-01-01T00:00:00Z",
+                        "+1989-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em",
+                    "head"
+                ],
+                "correct_answer": "Mohammad Mujeeb",
+                "element": "Jamia Millia Islamia",
+                "attribute": "Chancellor"
+            },
+            {
+                "prediction": "Sure, I can help you with that!\n\nBeshara Doumani was the president of Birzeit University on May 18, 2022.\n\n42 years before May 18, 2022, would be:\n\n1980.\n\nTherefore, the person who held the position of president of Birzeit University 42 years before Beshara Doumani was:\n\nNo one, as Beshara Doumani was not born yet.",
+                "matched_answers": [
+                    [
+                        "Beshara Doumani",
+                        "+2021-01-01T00:00:00Z",
+                        "+2023-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gabi Baramki",
+                "element": "Birzeit University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Based on the information provided, John Nissley Stauffer was the president of Wittenberg University on February 10, 1967.\n\n46 years later, in 2013, the president of Wittenberg University was:\n\n[No answer]",
+                "matched_answers": [
+                    [
+                        "John Nissley Stauffer",
+                        "+1963-01-01T00:00:00Z",
+                        "+1968-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Laurie Joyner",
+                "element": "Wittenberg University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! Here's my answer:\n\nSerge Svizzero",
+                "matched_answers": [
+                    [
+                        "Serge Svizzero",
+                        "+2004-01-01T00:00:00Z",
+                        "+2008-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mohamed Rochdi",
+                "element": "University of La R\u00e9union",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure, I can help you with that!\n\n33 years before November 18, 1966, would be November 18, 1933.\n\nSo, the president of Bluffton University on that date would have been:\n\nRobert S. Kreider",
+                "matched_answers": [
+                    [
+                        "Robert S. Kreider",
+                        "+1965-01-01T00:00:00Z",
+                        "+1972-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Samuel K. Mosiman",
+                "element": "Bluffton University",
+                "attribute": "President"
+            }
+        ]
+    },
+    "rephrased_2": {
+        "correct": [
+            {
+                "prediction": "Sure! Here's my answer:\n\nDavid Malpass",
+                "matched_answers": [
+                    [
+                        "David Malpass",
+                        "+2019-04-09T00:00:00Z",
+                        "+2023-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "David Malpass",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Sure! The answer is: PARIS.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "London",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": "Sure, I can answer that!\n\nAfter 12 years, the University of Shizuoka's president was Yasushi Okuda.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Masaru Nishigaki",
+                "element": "University of Shizuoka",
+                "attribute": "President"
+            },
+            {
+                "prediction": "No.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Didier Billard",
+                "element": "University of Orl\u00e9ans",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure, I can answer that!\n\nAfter 2 years, the President of the University of Tokyo on 16 January 2016 was:\n\nKoichi Nagata.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Makoto Gonokami",
+                "element": "University of Tokyo",
+                "attribute": "President"
+            }
+        ],
+        "other": [
+            {
+                "prediction": "Sure! The United Nations Secretary-General before Javier P\u00e9rez de Cu\u00e9llar was Kurt Waldheim.",
+                "matched_answers": [
+                    [
+                        "Javier P\u00e9rez de Cu\u00e9llar",
+                        "+1982-01-01T00:00:00Z",
+                        "+1991-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "U Thant",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Sure! The answer is:\n\nMohamed ElBaradei",
+                "matched_answers": [
+                    [
+                        "Mohamed ElBaradei",
+                        "+1997-01-01T00:00:00Z",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Yukiya Amano",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": "Sure, I can answer that! The next person to hold the role of General Secretary of NATO after Paul-Henri Spaak was Manfred W\u00f6rner.",
+                "matched_answers": [
+                    [
+                        "Paul-Henri Spaak",
+                        "+1957-05-16T00:00:00Z",
+                        "+1961-04-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Javier Solana",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Pierre de Coubertin.",
+                "matched_answers": [
+                    [
+                        "Pierre de Coubertin",
+                        "+1919-01-01T00:00:00Z",
+                        "+1925-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Dimitrios Vikelas",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Sure! Based on my knowledge, the president of Marc Bloch University after Daniel Payot on 4 February 1999 was:\n\nPierre Messmer.",
+                "matched_answers": [
+                    [
+                        "Daniel Payot",
+                        "+1998-01-01T00:00:00Z",
+                        "+2002-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Fran\u00e7ois-Xavier Cuche",
+                "element": "Marc Bloch University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! The president of the Institut national des langues et civilisations orientales after Fran\u00e7ois de Labriolle, 28 years later, was:\n\nClaude Hag\u00e8ge.",
+                "matched_answers": [
+                    [
+                        "Fran\u00e7ois de Labriolle",
+                        "+1986-01-01T00:00:00Z",
+                        "+1993-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Manuelle Franck",
+                "element": "Institut national des langues et civilisations orientales",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! The president of Paris Dauphine University before Bernard de Montmorillon was Pierre Messmer.",
+                "matched_answers": [
+                    [
+                        "Bernard de Montmorillon",
+                        "+1999-01-01T00:00:00Z",
+                        "+2007-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paul Didier",
+                "element": "Paris Dauphine University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! The rector of Novosibirsk State University after Spartak Belyaev on July 31, 1969, was:\n\nAnatoly Kucherena.",
+                "matched_answers": [
+                    [
+                        "Spartak Belyaev",
+                        "+1965-01-01T00:00:00Z",
+                        "+1978-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Nikolay Dikansky",
+                "element": "Novosibirsk State University",
+                "attribute": "Rector"
+            },
+            {
+                "prediction": "Sure! The president of Johns Hopkins University after Frank Johnson Goodnow was William H. McLean.",
+                "matched_answers": [
+                    [
+                        "Frank Johnson Goodnow",
+                        "+1914-10-01T00:00:00Z",
+                        "+1929-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "William C. Richardson",
+                "element": "Johns Hopkins University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure, I can answer your question!\n\nBefore Ali Ashraf, the Chancellor of Jamia Millia Islamia was Dr. M.A. Ansari.",
+                "matched_answers": [
+                    [
+                        "Ali Ashraf",
+                        "+1983-01-01T00:00:00Z",
+                        "+1989-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em",
+                    "head"
+                ],
+                "correct_answer": "Mohammad Mujeeb",
+                "element": "Jamia Millia Islamia",
+                "attribute": "Chancellor"
+            },
+            {
+                "prediction": "Sure! Based on my knowledge, the person who was in the role of President of the University of Reims after Lucien Bernard 25 years later, on June 20, 2002, was:\n\nPierre Messmer.",
+                "matched_answers": [
+                    [
+                        "Lucien Bernard",
+                        "+1977-01-01T00:00:00Z",
+                        "+1982-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "G\u00e9rard Mary",
+                "element": "University of Reims",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure, I can help you with that!\n\nBefore Juichi Yamagiwa was the President of Kyoto University on February 16, 2019, the previous President of the university was:\n\nKiichiro Furukawa.",
+                "matched_answers": [
+                    [
+                        "Juichi Yamagiwa",
+                        "+2014-10-01T00:00:00Z",
+                        "+2020-09-30T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Hiroshi Matsumoto",
+                "element": "Kyoto University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! The president of Birzeit University before Beshara Doumani, 42 years ago, was:\n\nNabil K. Kazzi.",
+                "matched_answers": [
+                    [
+                        "Beshara Doumani",
+                        "+2021-01-01T00:00:00Z",
+                        "+2023-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gabi Baramki",
+                "element": "Birzeit University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! The president of the University of Maryland, Baltimore County before Freeman A. Hrabowski III was John K. Cumbler.",
+                "matched_answers": [
+                    [
+                        "Freeman A. Hrabowski III",
+                        "+1992-01-01T00:00:00Z",
+                        "+2022-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Albin Owings Kuhn",
+                "element": "University of Maryland, Baltimore County",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! Based on my knowledge, the president of Wittenberg University after John Nissley Stauffer on February 10, 1967, was:\n\nMichael L. Frith",
+                "matched_answers": [
+                    [
+                        "John Nissley Stauffer",
+                        "+1963-01-01T00:00:00Z",
+                        "+1968-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Laurie Joyner",
+                "element": "Wittenberg University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! Based on my knowledge, the person who succeeded Serge Svizzero as the President of the University of La R\u00e9union on 2 June 2004 was:\n\nRaymond Ranjeva.",
+                "matched_answers": [
+                    [
+                        "Serge Svizzero",
+                        "+2004-01-01T00:00:00Z",
+                        "+2008-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mohamed Rochdi",
+                "element": "University of La R\u00e9union",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! Based on my knowledge, the president of Bluffton University before Robert S. Kreider on November 18, 1966 was:\n\nEmmett M. Hershberger.",
+                "matched_answers": [
+                    [
+                        "Robert S. Kreider",
+                        "+1965-01-01T00:00:00Z",
+                        "+1972-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Samuel K. Mosiman",
+                "element": "Bluffton University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure, I can answer that! After Kenneth G. Ryder, the next president of Northeastern University was Myles L. Standish.",
+                "matched_answers": [
+                    [
+                        "Kenneth G. Ryder",
+                        "+1975-01-01T00:00:00Z",
+                        "+1989-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Richard M. Freeland",
+                "element": "Northeastern University",
+                "attribute": "President"
+            }
+        ]
+    },
+    "rephrased_3": {
+        "correct": [
+            {
+                "prediction": "Sure! The answer is David Malpass.",
+                "matched_answers": [
+                    [
+                        "David Malpass",
+                        "+2019-04-09T00:00:00Z",
+                        "+2023-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "David Malpass",
+                "element": "World Bank",
+                "attribute": "chairperson"
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "Sure! The answer is: DE Gaulle.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "London",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "headquarters location"
+            },
+            {
+                "prediction": "Sure! The answer is:\n\nVladimir F. Kuznetsov.",
+                "matched_answers": [],
+                "match_type": [],
+                "correct_answer": "Nikolay Dikansky",
+                "element": "Novosibirsk State University",
+                "attribute": "Rector"
+            }
+        ],
+        "other": [
+            {
+                "prediction": "Sure! The person who occupied the position of General Secretary of the United Nations before Javier P\u00e9rez de Cu\u00e9llar was Kurt Waldheim.",
+                "matched_answers": [
+                    [
+                        "Javier P\u00e9rez de Cu\u00e9llar",
+                        "+1982-01-01T00:00:00Z",
+                        "+1991-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "U Thant",
+                "element": "United Nations",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Sure! The person who occupied the position of Director General of the International Atomic Energy Agency (IAEA) after Sigvard Arne Eklund is:\n\nMohamed ElBaradei",
+                "matched_answers": [
+                    [
+                        "Sigvard Arne Eklund",
+                        "+1961-01-01T00:00:00Z",
+                        "+1981-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Yukiya Amano",
+                "element": "International Atomic Energy Agency",
+                "attribute": "director / manager"
+            },
+            {
+                "prediction": "Sure! The person who occupied the position of General Secretary of the North Atlantic Treaty Organization after Paul-Henri Spaak, 40 years later, was Javier Solana.",
+                "matched_answers": [
+                    [
+                        "Paul-Henri Spaak",
+                        "+1957-05-16T00:00:00Z",
+                        "+1961-04-21T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Javier Solana",
+                "element": "North Atlantic Treaty Organization",
+                "attribute": "general secretary"
+            },
+            {
+                "prediction": "Sure! The person who occupied the position of the International Olympic Committee chairperson before Michael Morris, 3rd Baron Killanin was:\n\nPierre de Coubertin.",
+                "matched_answers": [
+                    [
+                        "Michael Morris, 3rd Baron Killanin",
+                        "+1972-01-01T00:00:00Z",
+                        "+1980-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Dimitrios Vikelas",
+                "element": "International Olympic Committee",
+                "attribute": "chairperson"
+            },
+            {
+                "prediction": "Sure! Based on the information provided, the person who occupied the position of president of the Marc Bloch University after Daniel Payot on 4 February 1999 would be:\n\nG\u00e9rard Mandon.",
+                "matched_answers": [
+                    [
+                        "Daniel Payot",
+                        "+1998-01-01T00:00:00Z",
+                        "+2002-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Fran\u00e7ois-Xavier Cuche",
+                "element": "Marc Bloch University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! Based on my knowledge, the person who occupied the position of president of the Institut national des langues et civilisations orientales after Fran\u00e7ois de Labriolle, 28 years later, was:\n\nMichel Izard.",
+                "matched_answers": [
+                    [
+                        "Fran\u00e7ois de Labriolle",
+                        "+1986-01-01T00:00:00Z",
+                        "+1993-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Manuelle Franck",
+                "element": "Institut national des langues et civilisations orientales",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! The president of the Paris Dauphine University before Bernard de Montmorillon on March 28, 1974 (26 years prior) was:\n\nRen\u00e9 Descartes.",
+                "matched_answers": [
+                    [
+                        "Bernard de Montmorillon",
+                        "+1999-01-01T00:00:00Z",
+                        "+2007-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Paul Didier",
+                "element": "Paris Dauphine University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! The person who occupied the position of president of Johns Hopkins University after Frank Johnson Goodnow was Daniel Coit Gilman.",
+                "matched_answers": [
+                    [
+                        "Frank Johnson Goodnow",
+                        "+1914-10-01T00:00:00Z",
+                        "+1929-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "William C. Richardson",
+                "element": "Johns Hopkins University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! Based on my knowledge, the person who occupied the position of president of the University of Shizuoka after Takeshi Hoshi on August 12, 1995, is:\n\nKenji Kawaguchi.",
+                "matched_answers": [
+                    [
+                        "Takeshi Hoshi",
+                        "+1993-04-01T00:00:00Z",
+                        "+1999-03-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Masaru Nishigaki",
+                "element": "University of Shizuoka",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure, I can answer that!\n\nThe person who occupied the position of Chancellor of Jamia Millia Islamia before Ali Ashraf 17 years prior to January 25, 1986, was:\n\nDr. Zakir Husain.",
+                "matched_answers": [
+                    [
+                        "Ali Ashraf",
+                        "+1983-01-01T00:00:00Z",
+                        "+1989-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em",
+                    "head"
+                ],
+                "correct_answer": "Mohammad Mujeeb",
+                "element": "Jamia Millia Islamia",
+                "attribute": "Chancellor"
+            },
+            {
+                "prediction": "Sure! Based on my knowledge, the person who occupied the position of president of the University of Reims after Lucien Bernard 25 years later, on June 20, 2002, was:\n\nPierre Messmer.",
+                "matched_answers": [
+                    [
+                        "Lucien Bernard",
+                        "+1977-01-01T00:00:00Z",
+                        "+1982-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "G\u00e9rard Mary",
+                "element": "University of Reims",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! Based on my knowledge, the president of Kyoto University before Juichi Yamagiwa was:\n\nKoto Watanabe.",
+                "matched_answers": [
+                    [
+                        "Juichi Yamagiwa",
+                        "+2014-10-01T00:00:00Z",
+                        "+2020-09-30T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Hiroshi Matsumoto",
+                "element": "Kyoto University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure, I can answer that! The president of Birzeit University before Beshara Doumani, 42 years ago, was:\n\nNasser al-Din al-Khasawneh",
+                "matched_answers": [
+                    [
+                        "Beshara Doumani",
+                        "+2021-01-01T00:00:00Z",
+                        "+2023-08-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Gabi Baramki",
+                "element": "Birzeit University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! The person who occupied the position of president of the University of Maryland, Baltimore County before Freeman A. Hrabowski III was John K. Singleton.",
+                "matched_answers": [
+                    [
+                        "Freeman A. Hrabowski III",
+                        "+1992-01-01T00:00:00Z",
+                        "+2022-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Albin Owings Kuhn",
+                "element": "University of Maryland, Baltimore County",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! Based on my knowledge, the person who occupied the position of president of Wittenberg University after John Nissley Stauffer, 46 years after February 10th, 1967, would be:\n\nShirley M. Tilghman.",
+                "matched_answers": [
+                    [
+                        "John Nissley Stauffer",
+                        "+1963-01-01T00:00:00Z",
+                        "+1968-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Laurie Joyner",
+                "element": "Wittenberg University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! Based on my knowledge, the person who occupied the position of president of the University of La R\u00e9union after Serge Svizzero on 12 years later, on June 2, 2016, was:\n\nRaymond Forni.",
+                "matched_answers": [
+                    [
+                        "Serge Svizzero",
+                        "+2004-01-01T00:00:00Z",
+                        "+2008-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Mohamed Rochdi",
+                "element": "University of La R\u00e9union",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! Based on my knowledge, the president of Bluffton University before Robert S. Kreider on November 18, 1966, was:\n\nEmmett M. Slabaugh.",
+                "matched_answers": [
+                    [
+                        "Robert S. Kreider",
+                        "+1965-01-01T00:00:00Z",
+                        "+1972-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Samuel K. Mosiman",
+                "element": "Bluffton University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! The person who occupied the position of president of the University of Orl\u00e9ans before Youssoufi Tour\u00e9 19 years prior to August 15, 2015, was:\n\nLucayette Michaux.",
+                "matched_answers": [
+                    [
+                        "Youssoufi Tour\u00e9",
+                        "+2009-01-01T00:00:00Z",
+                        "+2016-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Didier Billard",
+                "element": "University of Orl\u00e9ans",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! After 12 years, the president of Northeastern University after Kenneth G. Ryder was Myles J. McDonough.",
+                "matched_answers": [
+                    [
+                        "Kenneth G. Ryder",
+                        "+1975-01-01T00:00:00Z",
+                        "+1989-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Richard M. Freeland",
+                "element": "Northeastern University",
+                "attribute": "President"
+            },
+            {
+                "prediction": "Sure! Based on my knowledge, the person who occupied the position of president of the University of Tokyo after Junichi Hamada on 16 January 2014 is:\n\nHiroshi Matsumoto.",
+                "matched_answers": [
+                    [
+                        "Junichi Hamada",
+                        "+2009-04-01T00:00:00Z",
+                        "+2015-03-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "correct_answer": "Makoto Gonokami",
+                "element": "University of Tokyo",
+                "attribute": "President"
+            }
+        ]
+    }
+}

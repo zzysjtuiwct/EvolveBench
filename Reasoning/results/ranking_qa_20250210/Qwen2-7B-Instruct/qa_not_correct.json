@@ -1,0 +1,148 @@
+{
+    "companies_byRevenue": {
+        "Google": {
+            "answers": [
+                "Eric Schmidt |S: +2001-08-01T00:00:00Z |E: +2011-04-04T00:00:00Z",
+                "Larry Page |S: +1998-01-01T00:00:00Z |E: +2001-01-01T00:00:00Z",
+                "Larry Page |S: +2011-04-04T00:00:00Z |E: +2015-08-10T00:00:00Z",
+                "Sundar Pichai |S: +2015-08-10T00:00:00Z"
+            ],
+            "ground_truth": "Eric Schmidt",
+            "ranking_qa": {
+                "generic": "Eric Schmidt and Larry Page both served as Chief Executive Officers of Google before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_1": "Eric Schmidt and Larry Page both served as Chief Executive Officers of Google before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_2": "Google had Eric Schmidt and Larry Page as former Chief Executive Officers. Can you identify which one of them was the former Chief Executive Officer?",
+                "rephrased_3": "Eric Schmidt and Larry Page previously held the position of Google's Chief Executive Officer. Which of them served as the former Chief Executive Officer?"
+            },
+            "accumulate_qa": {
+                "generic": "On 14 January 2014, Larry Page was the Chief Executive Officer of Google. So, who held this position 3738 days before?",
+                "rephrased_1": "On 14 January 2014, Larry Page was the Chief Executive Officer of Google. So, who held this position 3738 days before?",
+                "rephrased_2": "Larry Page was Google's Chief Executive Officer on 14 January 2014. Do you know who was in this role before 3738 days?",
+                "rephrased_3": "Larry Page served as the Chief Executive Officer of Google on 14 January 2014. Can you identify who occupied this position before 3738 days?"
+            }
+        },
+        "HSBC": {
+            "answers": [
+                "Stephen Green, Baron Green of Hurstpierpoint |S: +2003-01-01T00:00:00Z |E: +2006-01-01T00:00:00Z",
+                "John Bond |S: +1993-01-01T00:00:00Z |E: +1998-01-01T00:00:00Z",
+                "Michael Geoghegan |S: +2006-01-01T00:00:00Z |E: +2011-01-01T00:00:00Z",
+                "Stuart Gulliver |S: +2011-01-01T00:00:00Z |E: +2018-02-01T00:00:00Z",
+                "William Purves |S: +1986-01-01T00:00:00Z |E: +1993-01-01T00:00:00Z",
+                "John Flint |S: +2018-02-01T00:00:00Z |E: +2019-08-01T00:00:00Z",
+                "Keith Whitson |S: +1998-01-01T00:00:00Z |E: +2003-01-01T00:00:00Z",
+                "Noel Quinn |S: +2020-03-01T00:00:00Z |E: +2024-09-02T00:00:00Z",
+                "Georges Elhedery |S: +2024-09-02T00:00:00Z"
+            ],
+            "ground_truth": "John Bond",
+            "ranking_qa": {
+                "generic": "John Bond and John Flint both served as Chief Executive Officers of HSBC before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_1": "John Bond and John Flint both served as Chief Executive Officers of HSBC before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_2": "HSBC had John Bond and John Flint as former Chief Executive Officers. Can you identify which one of them was the former Chief Executive Officer?",
+                "rephrased_3": "John Bond and John Flint previously held the position of HSBC's Chief Executive Officer. Which of them served as the former Chief Executive Officer?"
+            },
+            "accumulate_qa": {
+                "generic": "On 22 August 2018, John Flint was the Chief Executive Officer of HSBC. So, who held this position 8182 days before?",
+                "rephrased_1": "On 22 August 2018, John Flint was the Chief Executive Officer of HSBC. So, who held this position 8182 days before?",
+                "rephrased_2": "John Flint was HSBC's Chief Executive Officer on 22 August 2018. Do you know who was in this role before 8182 days?",
+                "rephrased_3": "John Flint served as the Chief Executive Officer of HSBC on 22 August 2018. Can you identify who occupied this position before 8182 days?"
+            }
+        }
+    },
+    "countries_byGDP": {
+        "Iran": {
+            "President of Iran": {
+                "answers": [
+                    "Hassan Rouhani |S: +2013-08-03T00:00:00Z |E: +2021-08-03T00:00:00Z",
+                    "Mahmoud Ahmadinejad |S: +2005-08-03T00:00:00Z |E: +2013-08-03T00:00:00Z",
+                    "Mohammad Khatami |S: +1997-08-03T00:00:00Z |E: +2005-08-03T00:00:00Z",
+                    "Akbar Hashemi Rafsanjani |S: +1989-08-03T00:00:00Z |E: +1997-08-03T00:00:00Z",
+                    "Ali Khamenei |S: +1981-10-13T00:00:00Z |E: +1989-08-03T00:00:00Z",
+                    "Mohammad-Ali Rajai |S: +1981-08-02T00:00:00Z |E: +1981-08-30T00:00:00Z",
+                    "Abulhassan Banisadr |S: +1980-02-04T00:00:00Z |E: +1981-06-21T00:00:00Z",
+                    "Ebrahim Raisi |S: +2021-08-03T00:00:00Z |E: +2024-05-19T00:00:00Z",
+                    "Masoud Pezeshkian |S: +2024-07-28T00:00:00Z"
+                ],
+                "ground_truth": "Ali Khamenei",
+                "ranking_qa": {
+                    "generic": "Ali Khamenei and Mohammad Khatami both served as the presidents of Iran before. Do you know which one of them the former president was?",
+                    "rephrased_1": "Ali Khamenei and Mohammad Khatami both served as the presidents of Iran before. Do you know which one of them the former president was?",
+                    "rephrased_2": "Iran had Ali Khamenei and Mohammad Khatami as former presidents. Can you identify which one the former president was?",
+                    "rephrased_3": "Ali Khamenei and Mohammad Khatami previously held the position of the president of Iran. Which of them served as the former president?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 29 April 1999, Mohammad Khatami was the president of Iran. So, who held this position 5412 days before?",
+                    "rephrased_1": "On 29 April 1999, Mohammad Khatami was the president of Iran. So, who held this position 5412 days before?",
+                    "rephrased_2": "Mohammad Khatami was Iran's president on 29 April 1999. Do you know who was in this role before 5412 days?",
+                    "rephrased_3": "Mohammad Khatami served as the president of Iran on 29 April 1999. Can you identify who occupied this position before 5412 days?"
+                }
+            }
+        }
+    },
+    "athletes_byPayment": {
+        "Bradley Beal": {
+            "answers": [
+                "Florida Gators men's basketball |S: +2011-01-01T00:00:00Z |E: +2012-06-28T00:00:00Z",
+                "Washington Wizards |S: +2012-06-28T00:00:00Z |E: +2023-07-01T00:00:00Z",
+                "Phoenix Suns |S: +2023-07-01T00:00:00Z"
+            ],
+            "ground_truth": "Florida Gators men's basketball",
+            "ranking_qa": {
+                "generic": "Florida Gators men's basketball and Washington Wizards were both Bradley Beal's basketball teams before, so which team between them was the former one Bradley Beal played for?",
+                "rephrased_1": "Florida Gators men's basketball and Washington Wizards were both Bradley Beal's basketball teams before, so which team between them was the former one Bradley Beal played for?",
+                "rephrased_2": "Bradley Beal has joined Florida Gators men's basketball and Washington Wizards basketball teams before. Can you identify which team between them was the former one Bradley Beal played for?",
+                "rephrased_3": "Bradley Beal previously played for Florida Gators men's basketball and Washington Wizards basketball teams. Which team between them did Bradley Beal formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 22 May 2015, Bradley Beal played for Washington Wizards. So, before 1234 days, which basketball team did Bradley Beal play for?",
+                "rephrased_1": "On 22 May 2015, Bradley Beal played for Washington Wizards. So, before 1234 days, which basketball team did Bradley Beal play for?",
+                "rephrased_2": "Washington Wizards was Bradley Beal's basketball team on 22 May 2015. Can you identify which basketball team Bradley Beal belongs to before 1234 days?",
+                "rephrased_3": "Bradley Beal played for Washington Wizards on 22 May 2015. Do you know which basketball team Bradley Beal played for before 1234 days?"
+            }
+        },
+        "Damian Lillard": {
+            "answers": [
+                "Weber State Wildcats men's basketball |S: +2008-01-01T00:00:00Z |E: +2012-07-13T00:00:00Z",
+                "Portland Trail Blazers |S: +2012-07-13T00:00:00Z |E: +2023-09-27T00:00:00Z",
+                "Milwaukee Bucks |S: +2023-09-27T00:00:00Z"
+            ],
+            "ground_truth": "Weber State Wildcats men's basketball",
+            "ranking_qa": {
+                "generic": "Weber State Wildcats men's basketball and Portland Trail Blazers were both Damian Lillard's basketball teams before, so which team between them was the former one Damian Lillard played for?",
+                "rephrased_1": "Weber State Wildcats men's basketball and Portland Trail Blazers were both Damian Lillard's basketball teams before, so which team between them was the former one Damian Lillard played for?",
+                "rephrased_2": "Damian Lillard has joined Weber State Wildcats men's basketball and Portland Trail Blazers basketball teams before. Can you identify which team between them was the former one Damian Lillard played for?",
+                "rephrased_3": "Damian Lillard previously played for Weber State Wildcats men's basketball and Portland Trail Blazers basketball teams. Which team between them did Damian Lillard formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 22 July 2014, Damian Lillard played for Portland Trail Blazers. So, before 1574 days, which basketball team did Damian Lillard play for?",
+                "rephrased_1": "On 22 July 2014, Damian Lillard played for Portland Trail Blazers. So, before 1574 days, which basketball team did Damian Lillard play for?",
+                "rephrased_2": "Portland Trail Blazers was Damian Lillard's basketball team on 22 July 2014. Can you identify which basketball team Damian Lillard belongs to before 1574 days?",
+                "rephrased_3": "Damian Lillard played for Portland Trail Blazers on 22 July 2014. Do you know which basketball team Damian Lillard played for before 1574 days?"
+            }
+        }
+    },
+    "organizations": {
+        "Birzeit University": {
+            "President": {
+                "answers": [
+                    "Abdul Latif Abu Hijleh |S: +2018-08-01T00:00:00Z |E: +2021-01-01T00:00:00Z",
+                    "Beshara Doumani |S: +2021-01-01T00:00:00Z |E: +2023-08-01T00:00:00Z",
+                    "Gabi Baramki |S: +1974-01-01T00:00:00Z |E: +1993-01-01T00:00:00Z",
+                    "Hannah Nasir |S: +2023-08-01T00:00:00Z"
+                ],
+                "ground_truth": "Gabi Baramki",
+                "ranking_qa": {
+                    "generic": "Gabi Baramki and Beshara Doumani both served as the presidents of the Birzeit University before. Do you know which one of them the former president was?",
+                    "rephrased_1": "Gabi Baramki and Beshara Doumani both served as the presidents of the Birzeit University before. Do you know which one of them the former president was?",
+                    "rephrased_2": "the Birzeit University had Gabi Baramki and Beshara Doumani as former presidents. Can you identify which one the former president was?",
+                    "rephrased_3": "Gabi Baramki and Beshara Doumani previously held the position of the president of the Birzeit University. Which of them served as the former president?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 18 May 2022, Beshara Doumani was the president of the Birzeit University. So, who held this position 15359 days before?",
+                    "rephrased_1": "On 18 May 2022, Beshara Doumani was the president of the Birzeit University. So, who held this position 15359 days before?",
+                    "rephrased_2": "Beshara Doumani was the Birzeit University's president on 18 May 2022. Do you know who was in this role before 15359 days?",
+                    "rephrased_3": "Beshara Doumani served as the president of the Birzeit University on 18 May 2022. Can you identify who occupied this position before 15359 days?"
+                }
+            }
+        }
+    }
+}

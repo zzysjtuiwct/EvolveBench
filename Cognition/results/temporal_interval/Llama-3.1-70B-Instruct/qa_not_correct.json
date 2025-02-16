@@ -1,0 +1,378 @@
+{
+    "companies_byRevenue": {
+        "Sveriges Television": {
+            "questions": {
+                "generic": "What is the name of the Chief Executive Officer of Sveriges Television from 1 January 1979 to 1 January 1981?",
+                "rephrased_1": "What is the name of the Chief Executive Officer of Sveriges Television from 1 January 1979 to 1 January 1981?",
+                "rephrased_2": "Who served as the Chief Executive Officer of the Sveriges Television from 1 January 1979 to 1 January 1981?",
+                "rephrased_3": "From 1 January 1979 to 1 January 1981, who was the Chief Executive Officer of the Sveriges Television?"
+            },
+            "answers": [
+                "Sam Nilsson |S: +1981-01-01T00:00:00Z |E: +1999-01-01T00:00:00Z",
+                "Eva Hamilton |S: +2006-01-01T00:00:00Z |E: +2014-11-30T00:00:00Z",
+                "Christina Jutterstr\u00f6m |S: +2001-08-15T00:00:00Z |E: +2006-01-01T00:00:00Z",
+                "Hanna Stj\u00e4rne |S: +2015-01-15T00:00:00Z",
+                "Maria Curman |S: +2000-01-01T00:00:00Z |E: +2001-05-21T00:00:00Z",
+                "Magnus Fax\u00e9n |S: +1979-01-01T00:00:00Z |E: +1981-01-01T00:00:00Z",
+                "Kjell Kullberg |S: +2001-05-21T00:00:00Z |E: +2001-08-15T00:00:00Z"
+            ],
+            "ground_truth": "Magnus Fax\u00e9n"
+        },
+        "\u010ceskoslovensk\u00e1 obchodn\u00ed banka": {
+            "questions": {
+                "generic": "What is the name of the Chief Executive Officer of \u010ceskoslovensk\u00e1 obchodn\u00ed banka from 1 January 2014 to 1 January 2022?",
+                "rephrased_1": "What is the name of the Chief Executive Officer of \u010ceskoslovensk\u00e1 obchodn\u00ed banka from 1 January 2014 to 1 January 2022?",
+                "rephrased_2": "Who served as the Chief Executive Officer of the \u010ceskoslovensk\u00e1 obchodn\u00ed banka from 1 January 2014 to 1 January 2022?",
+                "rephrased_3": "From 1 January 2014 to 1 January 2022, who was the Chief Executive Officer of the \u010ceskoslovensk\u00e1 obchodn\u00ed banka?"
+            },
+            "answers": [
+                "Svatopluk Pot\u00e1\u010d |S: +1970-01-01T00:00:00Z |E: +1971-01-01T00:00:00Z",
+                "Pavel Kav\u00e1nek |S: +1993-01-01T00:00:00Z |E: +2014-01-01T00:00:00Z",
+                "John Arthur Hollows |S: +2014-01-01T00:00:00Z |E: +2022-01-01T00:00:00Z",
+                "Ale\u0161 Bla\u017eek |S: +2022-01-01T00:00:00Z"
+            ],
+            "ground_truth": "John Arthur Hollows"
+        },
+        "Alphabet Inc.": {
+            "questions": {
+                "generic": "What is the name of the Chief Executive Officer of Alphabet Inc. from 10 August 2015 to 3 December 2019?",
+                "rephrased_1": "What is the name of the Chief Executive Officer of Alphabet Inc. from 10 August 2015 to 3 December 2019?",
+                "rephrased_2": "Who served as the Chief Executive Officer of the Alphabet Inc. from 10 August 2015 to 3 December 2019?",
+                "rephrased_3": "From 10 August 2015 to 3 December 2019, who was the Chief Executive Officer of the Alphabet Inc.?"
+            },
+            "answers": [
+                "Larry Page |S: +2015-08-10T00:00:00Z |E: +2019-12-03T00:00:00Z",
+                "Sundar Pichai |S: +2019-12-03T00:00:00Z"
+            ],
+            "ground_truth": "Larry Page"
+        },
+        "Norwegian Broadcasting Corporation": {
+            "questions": {
+                "generic": "What is the name of the Chief Executive Officer of the Norwegian Broadcasting Corporation from 1 January 1940 to 1 January 1945?",
+                "rephrased_1": "What is the name of the Chief Executive Officer of the Norwegian Broadcasting Corporation from 1 January 1940 to 1 January 1945?",
+                "rephrased_2": "Who served as the Chief Executive Officer of the the Norwegian Broadcasting Corporation from 1 January 1940 to 1 January 1945?",
+                "rephrased_3": "From 1 January 1940 to 1 January 1945, who was the Chief Executive Officer of the the Norwegian Broadcasting Corporation?"
+            },
+            "answers": [
+                "Einar F\u00f8rde |S: +1989-01-01T00:00:00Z |E: +2001-01-01T00:00:00Z",
+                "Olav Midttun |S: +1934-01-01T00:00:00Z |E: +1940-01-01T00:00:00Z",
+                "Toralv \u00d8ksnevad |S: +1940-01-01T00:00:00Z |E: +1945-01-01T00:00:00Z",
+                "Bjartmar Gjerde |S: +1981-01-01T00:00:00Z |E: +1989-01-01T00:00:00Z",
+                "Torolf Elster |S: +1972-01-01T00:00:00Z |E: +1981-01-01T00:00:00Z",
+                "Hans Jacob Ustvedt |S: +1962-01-01T00:00:00Z |E: +1972-01-01T00:00:00Z",
+                "John G. Bernander |S: +2001-01-01T00:00:00Z |E: +2007-01-01T00:00:00Z",
+                "Hans-Tore Bjerkaas |S: +2007-01-01T00:00:00Z |E: +2013-01-01T00:00:00Z",
+                "Kaare Fostervoll |S: +1948-01-01T00:00:00Z |E: +1962-01-01T00:00:00Z",
+                "Vibeke F\u00fcrst Haugen |S: +2022-01-01T00:00:00Z"
+            ],
+            "ground_truth": "Toralv \u00d8ksnevad"
+        }
+    },
+    "countries_byGDP": {
+        "Bangladesh": {
+            "President of Bangladesh": {
+                "questions": {
+                    "generic": "What is the name of the president of Bangladesh from 17 April 1971 to 12 January 1972?",
+                    "rephrased_1": "What is the name of the president of Bangladesh from 17 April 1971 to 12 January 1972?",
+                    "rephrased_2": "Who served as the president of Bangladesh from 17 April 1971 to 12 January 1972?",
+                    "rephrased_3": "From 17 April 1971 to 12 January 1972, who was the president of Bangladesh?"
+                },
+                "answers": [
+                    "Abdul Hamid |S: +2013-04-14T00:00:00Z |E: +2023-04-24T00:00:00Z",
+                    "Zillur Rahman |S: +2009-02-12T00:00:00Z |E: +2013-03-20T00:00:00Z",
+                    "Sheikh Mujibur Rahman |S: +1971-04-17T00:00:00Z |E: +1972-01-12T00:00:00Z",
+                    "Syed Nazrul Islam |S: +1971-04-17T00:00:00Z |E: +1972-01-12T00:00:00Z",
+                    "Mohammad Shahabuddin |S: +2023-04-24T00:00:00Z"
+                ],
+                "ground_truth": "Sheikh Mujibur Rahman"
+            }
+        }
+    },
+    "athletes_byPayment": {
+        "Cristiano Ronaldo": {
+            "questions": {
+                "generic": "What is the name of the football club Cristiano Ronaldo played for from 10 July 2018 to 31 August 2021?",
+                "rephrased_1": "What is the name of the football club Cristiano Ronaldo played for from 10 July 2018 to 31 August 2021?",
+                "rephrased_2": "Which football club does Cristiano Ronaldo play for from 10 July 2018 to 31 August 2021?",
+                "rephrased_3": "From 10 July 2018 to 31 August 2021, which football club does Cristiano Ronaldo play for?"
+            },
+            "answers": [
+                "Sporting CP |S: +2002-07-01T00:00:00Z |E: +2003-08-12T00:00:00Z",
+                "Manchester United F.C. |S: +2003-08-12T00:00:00Z |E: +2009-07-06T00:00:00Z",
+                "Real Madrid CF |S: +2009-07-06T00:00:00Z |E: +2018-07-10T00:00:00Z",
+                "Juventus FC |S: +2018-07-10T00:00:00Z |E: +2021-08-31T00:00:00Z",
+                "Manchester United F.C. |S: +2021-08-31T00:00:00Z |E: +2022-11-22T00:00:00Z",
+                "Al-Nassr |S: +2023-01-00T00:00:00Z"
+            ],
+            "ground_truth": "Juventus FC"
+        },
+        "Kylian Mbapp\u00e9": {
+            "questions": {
+                "generic": "What is the name of the football club Kylian Mbapp\u00e9 played for from 1 July 2018 to 1 July 2024?",
+                "rephrased_1": "What is the name of the football club Kylian Mbapp\u00e9 played for from 1 July 2018 to 1 July 2024?",
+                "rephrased_2": "Which football club does Kylian Mbapp\u00e9 play for from 1 July 2018 to 1 July 2024?",
+                "rephrased_3": "From 1 July 2018 to 1 July 2024, which football club does Kylian Mbapp\u00e9 play for?"
+            },
+            "answers": [
+                "AS Monaco FC |S: +2016-01-01T00:00:00Z |E: +2017-08-31T00:00:00Z",
+                "Paris Saint-Germain F.C. |S: +2017-08-31T00:00:00Z |E: +2018-06-30T00:00:00Z",
+                "AS Monaco FC |S: +2018-06-30T00:00:00Z |E: +2018-07-01T00:00:00Z",
+                "Paris Saint-Germain F.C. |S: +2018-07-01T00:00:00Z |E: +2024-07-01T00:00:00Z",
+                "Real Madrid |S: +2024-07-01T00:00:00Z"
+            ],
+            "ground_truth": "Paris Saint-Germain F.C."
+        },
+        "Erling Haaland": {
+            "questions": {
+                "generic": "What is the name of the football club Erling Haaland played for from 1 January 2019 to 1 January 2020?",
+                "rephrased_1": "What is the name of the football club Erling Haaland played for from 1 January 2019 to 1 January 2020?",
+                "rephrased_2": "Which football club does Erling Haaland play for from 1 January 2019 to 1 January 2020?",
+                "rephrased_3": "From 1 January 2019 to 1 January 2020, which football club does Erling Haaland play for?"
+            },
+            "answers": [
+                "Bryne FK |S: +2015-09-08T00:00:00Z |E: +2017-02-01T00:00:00Z",
+                "Molde FK |S: +2017-02-01T00:00:00Z |E: +2019-01-01T00:00:00Z",
+                "FC Red Bull Salzburg |S: +2019-01-01T00:00:00Z |E: +2020-01-01T00:00:00Z",
+                "Borussia Dortmund |S: +2020-01-01T00:00:00Z |E: +2022-07-01T00:00:00Z",
+                "Manchester City F.C. |S: +2022-07-01T00:00:00Z"
+            ],
+            "ground_truth": "FC Red Bull Salzburg"
+        },
+        "Sadio Man\u00e9": {
+            "questions": {
+                "generic": "What is the name of the football club Sadio Man\u00e9 played for from 1 July 2022 to 1 August 2023?",
+                "rephrased_1": "What is the name of the football club Sadio Man\u00e9 played for from 1 July 2022 to 1 August 2023?",
+                "rephrased_2": "Which football club does Sadio Man\u00e9 play for from 1 July 2022 to 1 August 2023?",
+                "rephrased_3": "From 1 July 2022 to 1 August 2023, which football club does Sadio Man\u00e9 play for?"
+            },
+            "answers": [
+                "FC Metz |S: +2010-01-01T00:00:00Z |E: +2012-08-31T00:00:00Z",
+                "FC Red Bull Salzburg |S: +2012-08-31T00:00:00Z |E: +2014-09-01T00:00:00Z",
+                "Southampton F.C. |S: +2014-09-01T00:00:00Z |E: +2016-07-01T00:00:00Z",
+                "Liverpool F.C. |S: +2016-07-01T00:00:00Z |E: +2022-07-01T00:00:00Z",
+                "FC Bayern Munich |S: +2022-07-01T00:00:00Z |E: +2023-08-01T00:00:00Z",
+                "Al-Nassr |S: +2023-08-01T00:00:00Z"
+            ],
+            "ground_truth": "FC Bayern Munich"
+        },
+        "Kevin De Bruyne": {
+            "questions": {
+                "generic": "What is the name of the football club Kevin De Bruyne played for from 2 August 2012 to 30 June 2013?",
+                "rephrased_1": "What is the name of the football club Kevin De Bruyne played for from 2 August 2012 to 30 June 2013?",
+                "rephrased_2": "Which football club does Kevin De Bruyne play for from 2 August 2012 to 30 June 2013?",
+                "rephrased_3": "From 2 August 2012 to 30 June 2013, which football club does Kevin De Bruyne play for?"
+            },
+            "answers": [
+                "K.R.C. Genk |S: +2008-07-01T00:00:00Z |E: +2012-01-31T00:00:00Z",
+                "Chelsea F.C. |S: +2012-01-31T00:00:00Z |E: +2012-02-01T00:00:00Z",
+                "K.R.C. Genk |S: +2012-02-01T00:00:00Z |E: +2012-06-30T00:00:00Z",
+                "Chelsea F.C. |S: +2012-06-30T00:00:00Z |E: +2012-08-02T00:00:00Z",
+                "SV Werder Bremen |S: +2012-08-02T00:00:00Z |E: +2013-06-30T00:00:00Z",
+                "Chelsea F.C. |S: +2013-06-30T00:00:00Z |E: +2014-01-18T00:00:00Z",
+                "VfL Wolfsburg |S: +2014-01-18T00:00:00Z |E: +2015-08-30T00:00:00Z",
+                "Manchester City F.C. |S: +2015-08-30T00:00:00Z"
+            ],
+            "ground_truth": "SV Werder Bremen"
+        },
+        "Harry Kane": {
+            "questions": {
+                "generic": "What is the name of the football club Harry Kane played for from 21 February 2013 to 14 May 2013?",
+                "rephrased_1": "What is the name of the football club Harry Kane played for from 21 February 2013 to 14 May 2013?",
+                "rephrased_2": "Which football club does Harry Kane play for from 21 February 2013 to 14 May 2013?",
+                "rephrased_3": "From 21 February 2013 to 14 May 2013, which football club does Harry Kane play for?"
+            },
+            "answers": [
+                "Tottenham Hotspur F.C. |S: +2010-07-01T00:00:00Z |E: +2011-01-07T00:00:00Z",
+                "Leyton Orient F.C. |S: +2011-01-07T00:00:00Z |E: +2011-05-31T00:00:00Z",
+                "Tottenham Hotspur F.C. |S: +2011-05-31T00:00:00Z |E: +2012-01-01T00:00:00Z",
+                "Millwall F.C. |S: +2012-01-01T00:00:00Z |E: +2012-05-31T00:00:00Z",
+                "Tottenham Hotspur F.C. |S: +2012-05-31T00:00:00Z |E: +2012-08-31T00:00:00Z",
+                "Norwich City F.C. |S: +2012-08-31T00:00:00Z |E: +2013-02-01T00:00:00Z",
+                "Tottenham Hotspur F.C. |S: +2013-02-01T00:00:00Z |E: +2013-02-21T00:00:00Z",
+                "Leicester City |S: +2013-02-21T00:00:00Z |E: +2013-05-14T00:00:00Z",
+                "Tottenham Hotspur F.C. |S: +2013-05-14T00:00:00Z |E: +2013-08-12T00:00:00Z",
+                "FC Bayern Munich |S: +2013-08-12T00:00:00Z"
+            ],
+            "ground_truth": "Leicester City"
+        },
+        "Stephen Curry": {
+            "questions": {
+                "generic": "What is the name of the basketball team Stephen Curry played for from 1 January 2006 to 1 January 2009?",
+                "rephrased_1": "What is the name of the basketball team Stephen Curry played for from 1 January 2006 to 1 January 2009?",
+                "rephrased_2": "Which basketball team does Stephen Curry play for from 1 January 2006 to 1 January 2009?",
+                "rephrased_3": "From 1 January 2006 to 1 January 2009, which basketball team does Stephen Curry play for?"
+            },
+            "answers": [
+                "Davidson Wildcats men's basketball |S: +2006-00-00T00:00:00Z |E: +2009-00-00T00:00:00Z",
+                "Golden State Warriors |S: +2009-06-25T00:00:00Z"
+            ],
+            "ground_truth": "Davidson Wildcats men's basketball"
+        },
+        "Giannis Antetokounmpo": {
+            "questions": {
+                "generic": "What is the name of the basketball team Giannis Antetokounmpo played for from 1 January 2011 to 30 July 2013?",
+                "rephrased_1": "What is the name of the basketball team Giannis Antetokounmpo played for from 1 January 2011 to 30 July 2013?",
+                "rephrased_2": "Which basketball team does Giannis Antetokounmpo play for from 1 January 2011 to 30 July 2013?",
+                "rephrased_3": "From 1 January 2011 to 30 July 2013, which basketball team does Giannis Antetokounmpo play for?"
+            },
+            "answers": [
+                "Filathlitikos B.C. |S: +2011-01-01T00:00:00Z |E: +2013-07-30T00:00:00Z",
+                "Milwaukee Bucks |S: +2013-07-30T00:00:00Z"
+            ],
+            "ground_truth": "Filathlitikos B.C."
+        },
+        "Max Verstappen": {
+            "questions": {
+                "generic": "What is the name of the Formula 1 team Max Verstappen drove for from 1 January 2014 to 1 January 2015?",
+                "rephrased_1": "What is the name of the Formula 1 team Max Verstappen drove for from 1 January 2014 to 1 January 2015?",
+                "rephrased_2": "Which Formula 1 team does Max Verstappen drive for from 1 January 2014 to 1 January 2015?",
+                "rephrased_3": "From 1 January 2014 to 1 January 2015, which Formula 1 team does Max Verstappen drive for?"
+            },
+            "answers": [
+                "Red Bull Racing |S: +2016-00-00T00:00:00Z",
+                "Scuderia Toro Rosso |S: +2015-00-00T00:00:00Z |E: +2016-00-00T00:00:00Z",
+                "Van Amersfoort Racing |S: +2014-00-00T00:00:00Z |E: +2015-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Van Amersfoort Racing"
+        },
+        "Sergio P\u00e9rez": {
+            "questions": {
+                "generic": "What is the name of the Formula 1 team Sergio P\u00e9rez drove for from 1 January 2019 to 1 January 2020?",
+                "rephrased_1": "What is the name of the Formula 1 team Sergio P\u00e9rez drove for from 1 January 2019 to 1 January 2020?",
+                "rephrased_2": "Which Formula 1 team does Sergio P\u00e9rez drive for from 1 January 2019 to 1 January 2020?",
+                "rephrased_3": "From 1 January 2019 to 1 January 2020, which Formula 1 team does Sergio P\u00e9rez drive for?"
+            },
+            "answers": [
+                "Racing Point F1 Team |S: +2019-00-00T00:00:00Z |E: +2020-00-00T00:00:00Z",
+                "Red Bull Racing |S: +2021-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Racing Point F1 Team"
+        },
+        "George Russell": {
+            "questions": {
+                "generic": "What is the name of the Formula 1 team George Russell drove for from 1 January 2018 to 1 January 2021?",
+                "rephrased_1": "What is the name of the Formula 1 team George Russell drove for from 1 January 2018 to 1 January 2021?",
+                "rephrased_2": "Which Formula 1 team does George Russell drive for from 1 January 2018 to 1 January 2021?",
+                "rephrased_3": "From 1 January 2018 to 1 January 2021, which Formula 1 team does George Russell drive for?"
+            },
+            "answers": [
+                "Williams Racing |S: +2018-00-00T00:00:00Z |E: +2021-00-00T00:00:00Z",
+                "Mercedes F1 Team |S: +2022-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Williams Racing"
+        }
+    },
+    "organizations": {
+        "Jamia Millia Islamia": {
+            "Chancellor": {
+                "questions": {
+                    "generic": "What is the name of the chancellor of the Jamia Millia Islamia from 1 January 1978 to 1 January 1983?",
+                    "rephrased_1": "What is the name of the chancellor of the Jamia Millia Islamia from 1 January 1978 to 1 January 1983?",
+                    "rephrased_2": "Who served as the chancellor of the Jamia Millia Islamia from 1 January 1978 to 1 January 1983?",
+                    "rephrased_3": "From 1 January 1978 to 1 January 1983, who was the chancellor of the Jamia Millia Islamia?"
+                },
+                "answers": [
+                    "Maulana Mohammad Ali |S: +1920-01-01T00:00:00Z |E: +1923-01-01T00:00:00Z",
+                    "Abdul Majeed Khwaja |S: +1923-01-01T00:00:00Z |E: +1925-01-01T00:00:00Z",
+                    "Zakir Husain |S: +1926-01-01T00:00:00Z |E: +1948-01-01T00:00:00Z",
+                    "Mohammad Mujeeb |S: +1948-01-01T00:00:00Z |E: +1973-01-01T00:00:00Z",
+                    "Masud Husain Khan |S: +1973-01-01T00:00:00Z |E: +1978-01-01T00:00:00Z",
+                    "Anwar Jamal Kidwai |S: +1978-01-01T00:00:00Z |E: +1983-01-01T00:00:00Z",
+                    "Ali Ashraf |S: +1983-01-01T00:00:00Z |E: +1989-01-01T00:00:00Z",
+                    "Zahoor Qasim |S: +1989-01-01T00:00:00Z |E: +1991-01-01T00:00:00Z",
+                    "Mohammad Ahmed Zaki |S: +1997-01-01T00:00:00Z |E: +2000-01-01T00:00:00Z",
+                    "Mushirul Hasan |S: +2004-01-01T00:00:00Z |E: +2009-01-01T00:00:00Z",
+                    "Najeeb Jung |S: +2009-01-01T00:00:00Z |E: +2013-01-01T00:00:00Z",
+                    "Talat Ahmad |S: +2014-01-01T00:00:00Z |E: +2018-01-01T00:00:00Z",
+                    "Najma Akhtar |S: +2019-01-01T00:00:00Z |E: +2023-01-01T00:00:00Z",
+                    "Mazhar Asif |S: +2024-01-01T00:00:00Z"
+                ],
+                "ground_truth": "Anwar Jamal Kidwai"
+            }
+        },
+        "Institut national des langues et civilisations orientales": {
+            "President": {
+                "questions": {
+                    "generic": "What is the name of the president of the Institut national des langues et civilisations orientales from 1 January 1993 to 1 January 2001?",
+                    "rephrased_1": "What is the name of the president of the Institut national des langues et civilisations orientales from 1 January 1993 to 1 January 2001?",
+                    "rephrased_2": "Who served as the president of the Institut national des langues et civilisations orientales from 1 January 1993 to 1 January 2001?",
+                    "rephrased_3": "From 1 January 1993 to 1 January 2001, who was the president of the Institut national des langues et civilisations orientales?"
+                },
+                "answers": [
+                    "Fran\u00e7ois de Labriolle |S: +1986-01-01T00:00:00Z |E: +1993-01-01T00:00:00Z",
+                    "Ren\u00e9 Sieffert |S: +1971-01-01T00:00:00Z |E: +1976-01-01T00:00:00Z",
+                    "Jean-Fran\u00e7ois Huchet |S: +2019-01-01T00:00:00Z",
+                    "Manuelle Franck |S: +2013-01-01T00:00:00Z |E: +2019-01-01T00:00:00Z",
+                    "Jacques Legrand |S: +2005-01-01T00:00:00Z |E: +2013-01-01T00:00:00Z",
+                    "Gilles Delouche |S: +2001-01-01T00:00:00Z |E: +2005-01-01T00:00:00Z",
+                    "Henri de La Bastide |S: +1976-01-01T00:00:00Z |E: +1986-01-01T00:00:00Z",
+                    "Andr\u00e9 Bourgey |S: +1993-01-01T00:00:00Z |E: +2001-01-01T00:00:00Z"
+                ],
+                "ground_truth": "Andr\u00e9 Bourgey"
+            }
+        },
+        "Paris Dauphine University": {
+            "President": {
+                "questions": {
+                    "generic": "What is the name of the president of the Paris Dauphine University from 1 January 1994 to 1 January 1999?",
+                    "rephrased_1": "What is the name of the president of the Paris Dauphine University from 1 January 1994 to 1 January 1999?",
+                    "rephrased_2": "Who served as the president of the Paris Dauphine University from 1 January 1994 to 1 January 1999?",
+                    "rephrased_3": "From 1 January 1994 to 1 January 1999, who was the president of the Paris Dauphine University?"
+                },
+                "answers": [
+                    "Brigitte Berlioz-Houin |S: +1984-01-01T00:00:00Z |E: +1989-01-01T00:00:00Z",
+                    "Ivar Ekeland |S: +1989-01-01T00:00:00Z |E: +1994-01-01T00:00:00Z",
+                    "\u00c9lie Cohen |S: +1994-01-01T00:00:00Z |E: +1999-01-01T00:00:00Z",
+                    "Bernard de Montmorillon |S: +1999-01-01T00:00:00Z |E: +2007-01-01T00:00:00Z",
+                    "Laurent Batsch |S: +2007-01-01T00:00:00Z |E: +2016-01-01T00:00:00Z",
+                    "Jean-Paul Gilli |S: +1975-01-01T00:00:00Z |E: +1980-01-01T00:00:00Z",
+                    "Henri T\u00e9zenas du Montcel |S: +1980-01-01T00:00:00Z |E: +1984-01-01T00:00:00Z",
+                    "Isabelle Huault |S: +2016-01-01T00:00:00Z |E: +2020-01-01T00:00:00Z",
+                    "E.M. Mouhoud |S: +2020-01-01T00:00:00Z",
+                    "Paul Didier |S: +1971-01-01T00:00:00Z |E: +1975-01-01T00:00:00Z"
+                ],
+                "ground_truth": "\u00c9lie Cohen"
+            }
+        },
+        "Birzeit University": {
+            "President": {
+                "questions": {
+                    "generic": "What is the name of the president of the Birzeit University from 1 January 1974 to 1 January 1993?",
+                    "rephrased_1": "What is the name of the president of the Birzeit University from 1 January 1974 to 1 January 1993?",
+                    "rephrased_2": "Who served as the president of the Birzeit University from 1 January 1974 to 1 January 1993?",
+                    "rephrased_3": "From 1 January 1974 to 1 January 1993, who was the president of the Birzeit University?"
+                },
+                "answers": [
+                    "Abdul Latif Abu Hijleh |S: +2018-08-01T00:00:00Z |E: +2021-01-01T00:00:00Z",
+                    "Beshara Doumani |S: +2021-01-01T00:00:00Z |E: +2023-08-01T00:00:00Z",
+                    "Gabi Baramki |S: +1974-01-01T00:00:00Z |E: +1993-01-01T00:00:00Z",
+                    "Hannah Nasir |S: +2023-08-01T00:00:00Z"
+                ],
+                "ground_truth": "Gabi Baramki"
+            }
+        },
+        "Bluffton University": {
+            "President": {
+                "questions": {
+                    "generic": "What is the name of the president of the Bluffton University from 1 January 1935 to 1 January 1938?",
+                    "rephrased_1": "What is the name of the president of the Bluffton University from 1 January 1935 to 1 January 1938?",
+                    "rephrased_2": "Who served as the president of the Bluffton University from 1 January 1935 to 1 January 1938?",
+                    "rephrased_3": "From 1 January 1935 to 1 January 1938, who was the president of the Bluffton University?"
+                },
+                "answers": [
+                    "Noah Calvin Hirschy |S: +1900-01-01T00:00:00Z |E: +1908-01-01T00:00:00Z",
+                    "Samuel K. Mosiman |S: +1910-01-01T00:00:00Z |E: +1935-01-01T00:00:00Z",
+                    "Robert S. Kreider |S: +1965-01-01T00:00:00Z |E: +1972-01-01T00:00:00Z",
+                    "Arthur S. Rosenberger |S: +1935-01-01T00:00:00Z |E: +1938-01-01T00:00:00Z",
+                    "Elmer Neufeld |S: +1978-01-01T00:00:00Z |E: +1996-01-01T00:00:00Z",
+                    "Jane Wood |S: +2018-07-01T00:00:00Z",
+                    "Benjamin Sprunger |S: +1972-01-01T00:00:00Z |E: +1977-01-01T00:00:00Z",
+                    "James M. Harder |S: +2006-08-01T00:00:00Z |E: +2018-01-01T00:00:00Z",
+                    "Lee F. Snyder |S: +1996-01-01T00:00:00Z |E: +2006-01-01T00:00:00Z",
+                    "Lloyd L. Ramseyer |S: +1938-01-01T00:00:00Z |E: +1965-01-01T00:00:00Z"
+                ],
+                "ground_truth": "Arthur S. Rosenberger"
+            }
+        }
+    }
+}

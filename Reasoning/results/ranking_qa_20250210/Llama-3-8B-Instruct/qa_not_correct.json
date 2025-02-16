@@ -1,0 +1,501 @@
+{
+    "companies_byRevenue": {
+        "Google": {
+            "answers": [
+                "Eric Schmidt |S: +2001-08-01T00:00:00Z |E: +2011-04-04T00:00:00Z",
+                "Larry Page |S: +1998-01-01T00:00:00Z |E: +2001-01-01T00:00:00Z",
+                "Larry Page |S: +2011-04-04T00:00:00Z |E: +2015-08-10T00:00:00Z",
+                "Sundar Pichai |S: +2015-08-10T00:00:00Z"
+            ],
+            "ground_truth": "Eric Schmidt",
+            "ranking_qa": {
+                "generic": "Eric Schmidt and Larry Page both served as Chief Executive Officers of Google before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_1": "Eric Schmidt and Larry Page both served as Chief Executive Officers of Google before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_2": "Google had Eric Schmidt and Larry Page as former Chief Executive Officers. Can you identify which one of them was the former Chief Executive Officer?",
+                "rephrased_3": "Eric Schmidt and Larry Page previously held the position of Google's Chief Executive Officer. Which of them served as the former Chief Executive Officer?"
+            },
+            "accumulate_qa": {
+                "generic": "On 14 January 2014, Larry Page was the Chief Executive Officer of Google. So, who held this position 3738 days before?",
+                "rephrased_1": "On 14 January 2014, Larry Page was the Chief Executive Officer of Google. So, who held this position 3738 days before?",
+                "rephrased_2": "Larry Page was Google's Chief Executive Officer on 14 January 2014. Do you know who was in this role before 3738 days?",
+                "rephrased_3": "Larry Page served as the Chief Executive Officer of Google on 14 January 2014. Can you identify who occupied this position before 3738 days?"
+            }
+        },
+        "Apple": {
+            "answers": [
+                "Michael Scott |S: +1977-01-01T00:00:00Z |E: +1981-01-01T00:00:00Z",
+                "Mike Markkula |S: +1981-01-01T00:00:00Z |E: +1983-01-01T00:00:00Z",
+                "John Sculley |S: +1983-01-01T00:00:00Z |E: +1993-01-01T00:00:00Z",
+                "Michael Spindler |S: +1993-01-01T00:00:00Z |E: +1996-01-01T00:00:00Z",
+                "Gil Amelio |S: +1996-01-01T00:00:00Z |E: +1997-01-01T00:00:00Z",
+                "Steve Jobs |S: +1997-09-01T00:00:00Z |E: +2011-08-23T00:00:00Z",
+                "Tim Cook |S: +2011-08-24T00:00:00Z"
+            ],
+            "ground_truth": "Michael Spindler",
+            "ranking_qa": {
+                "generic": "Michael Spindler and Steve Jobs both served as Chief Executive Officers of Apple before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_1": "Michael Spindler and Steve Jobs both served as Chief Executive Officers of Apple before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_2": "Apple had Michael Spindler and Steve Jobs as former Chief Executive Officers. Can you identify which one of them was the former Chief Executive Officer?",
+                "rephrased_3": "Michael Spindler and Steve Jobs previously held the position of Apple's Chief Executive Officer. Which of them served as the former Chief Executive Officer?"
+            },
+            "accumulate_qa": {
+                "generic": "On 2 October 1998, Steve Jobs was the Chief Executive Officer of Apple. So, who held this position 1926 days before?",
+                "rephrased_1": "On 2 October 1998, Steve Jobs was the Chief Executive Officer of Apple. So, who held this position 1926 days before?",
+                "rephrased_2": "Steve Jobs was Apple's Chief Executive Officer on 2 October 1998. Do you know who was in this role before 1926 days?",
+                "rephrased_3": "Steve Jobs served as the Chief Executive Officer of Apple on 2 October 1998. Can you identify who occupied this position before 1926 days?"
+            }
+        },
+        "Volkswagen Group": {
+            "answers": [
+                "Heinrich Nordhoff |S: +1948-00-00T00:00:00Z |E: +1968-00-00T00:00:00Z",
+                "Kurt Lotz |S: +1968-00-00T00:00:00Z |E: +1971-00-00T00:00:00Z",
+                "Rudolf Leiding |S: +1971-00-00T00:00:00Z |E: +1975-00-00T00:00:00Z",
+                "Toni Schm\u00fccker |S: +1975-00-00T00:00:00Z |E: +1982-00-00T00:00:00Z",
+                "Carl Hahn |S: +1982-00-00T00:00:00Z |E: +1993-00-00T00:00:00Z",
+                "Ferdinand Pi\u00ebch |S: +1993-00-00T00:00:00Z |E: +2002-00-00T00:00:00Z",
+                "Bernd Pischetsrieder |S: +2002-00-00T00:00:00Z |E: +2006-00-00T00:00:00Z",
+                "Martin Winterkorn |S: +2007-01-00T00:00:00Z |E: +2015-09-00T00:00:00Z",
+                "Matthias M\u00fcller |S: +2015-09-00T00:00:00Z |E: +2018-04-00T00:00:00Z",
+                "Herbert Diess |S: +2018-04-00T00:00:00Z |E: +2022-08-31T00:00:00Z",
+                "Hermann M\u00fcnch |S: +1946-06-00T00:00:00Z |E: +1947-12-00T00:00:00Z",
+                "Oliver Blume |S: +2022-09-01T00:00:00Z"
+            ],
+            "ground_truth": "Heinrich Nordhoff",
+            "ranking_qa": {
+                "generic": "Heinrich Nordhoff and Matthias M\u00fcller both served as Chief Executive Officers of the Volkswagen Group before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_1": "Heinrich Nordhoff and Matthias M\u00fcller both served as Chief Executive Officers of the Volkswagen Group before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_2": "the Volkswagen Group had Heinrich Nordhoff and Matthias M\u00fcller as former Chief Executive Officers. Can you identify which one of them was the former Chief Executive Officer?",
+                "rephrased_3": "Heinrich Nordhoff and Matthias M\u00fcller previously held the position of the Volkswagen Group's Chief Executive Officer. Which of them served as the former Chief Executive Officer?"
+            },
+            "accumulate_qa": {
+                "generic": "On 15 October 2016, Matthias M\u00fcller was the Chief Executive Officer of the Volkswagen Group. So, who held this position 23037 days before?",
+                "rephrased_1": "On 15 October 2016, Matthias M\u00fcller was the Chief Executive Officer of the Volkswagen Group. So, who held this position 23037 days before?",
+                "rephrased_2": "Matthias M\u00fcller was the Volkswagen Group's Chief Executive Officer on 15 October 2016. Do you know who was in this role before 23037 days?",
+                "rephrased_3": "Matthias M\u00fcller served as the Chief Executive Officer of the Volkswagen Group on 15 October 2016. Can you identify who occupied this position before 23037 days?"
+            }
+        },
+        "Delta Air Lines": {
+            "answers": [
+                "Gerald Grinstein |S: +2004-01-01T00:00:00Z |E: +2007-01-01T00:00:00Z",
+                "Collett E. Woolman |S: +1965-01-01T00:00:00Z |E: +1966-01-01T00:00:00Z",
+                "David C. Garrett, Jr. |S: +1978-01-01T00:00:00Z |E: +1987-01-01T00:00:00Z",
+                "Ed Bastian |S: +2016-01-01T00:00:00Z",
+                "Ronald W. Allen |S: +1987-01-01T00:00:00Z |E: +1997-01-01T00:00:00Z",
+                "Leo F. Mullin |S: +1997-01-01T00:00:00Z |E: +2004-01-01T00:00:00Z",
+                "W.T. Beebe |S: +1971-01-01T00:00:00Z |E: +1978-01-01T00:00:00Z",
+                "Charles H. Dolson |S: +1970-01-01T00:00:00Z |E: +1971-01-01T00:00:00Z"
+            ],
+            "ground_truth": "Charles H. Dolson",
+            "ranking_qa": {
+                "generic": "Charles H. Dolson and Gerald Grinstein both served as Chief Executive Officers of Delta Air Lines before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_1": "Charles H. Dolson and Gerald Grinstein both served as Chief Executive Officers of Delta Air Lines before. Do you know which one of them the former Chief Executive Officer was?",
+                "rephrased_2": "Delta Air Lines had Charles H. Dolson and Gerald Grinstein as former Chief Executive Officers. Can you identify which one of them was the former Chief Executive Officer?",
+                "rephrased_3": "Charles H. Dolson and Gerald Grinstein previously held the position of Delta Air Lines's Chief Executive Officer. Which of them served as the former Chief Executive Officer?"
+            },
+            "accumulate_qa": {
+                "generic": "On 17 September 2006, Gerald Grinstein was the Chief Executive Officer of Delta Air Lines. So, who held this position 13099 days before?",
+                "rephrased_1": "On 17 September 2006, Gerald Grinstein was the Chief Executive Officer of Delta Air Lines. So, who held this position 13099 days before?",
+                "rephrased_2": "Gerald Grinstein was Delta Air Lines's Chief Executive Officer on 17 September 2006. Do you know who was in this role before 13099 days?",
+                "rephrased_3": "Gerald Grinstein served as the Chief Executive Officer of Delta Air Lines on 17 September 2006. Can you identify who occupied this position before 13099 days?"
+            }
+        }
+    },
+    "countries_byGDP": {
+        "France": {
+            "Prime Minister of France": {
+                "answers": [
+                    "Manuel Valls |S: +2014-03-31T00:00:00Z |E: +2016-12-06T00:00:00Z",
+                    "Jean-Marc Ayrault |S: +2012-05-16T00:00:00Z |E: +2014-03-31T00:00:00Z",
+                    "Bernard Cazeneuve |S: +2016-12-06T00:00:00Z |E: +2017-05-10T00:00:00Z",
+                    "\u00c9douard Philippe |S: +2017-05-15T00:00:00Z |E: +2020-07-02T00:00:00Z",
+                    "Fran\u00e7ois Fillon |S: +2007-05-17T00:00:00Z |E: +2012-05-10T00:00:00Z",
+                    "Jean Castex |S: +2020-07-03T00:00:00Z |E: +2022-05-16T00:00:00Z",
+                    "\u00c9lisabeth Borne |S: +2022-05-16T00:00:00Z |E: +2024-01-09T00:00:00Z",
+                    "Gabriel Attal |S: +2024-01-09T00:00:00Z |E: +2024-09-05T00:00:00Z",
+                    "Michel Barnier |S: +2024-09-05T00:00:00Z |E: +2024-12-13T00:00:00Z",
+                    "Fran\u00e7ois Bayrou |S: +2024-12-13T00:00:00Z"
+                ],
+                "ground_truth": "Michel Barnier",
+                "ranking_qa": {
+                    "generic": "\u00c9douard Philippe and Michel Barnier both served as the prime ministers of France before. Do you know which one of them the latter prime minister was?",
+                    "rephrased_1": "\u00c9douard Philippe and Michel Barnier both served as the prime ministers of France before. Do you know which one of them the latter prime minister was?",
+                    "rephrased_2": "France had \u00c9douard Philippe and Michel Barnier as former prime ministers. Can you identify which one the latter prime minister was?",
+                    "rephrased_3": "\u00c9douard Philippe and Michel Barnier previously held the position of the prime minister of France. Which of them served as the latter prime minister?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 7 August 2018, \u00c9douard Philippe was the prime minister of France. So, who held this position 2285 days later?",
+                    "rephrased_1": "On 7 August 2018, \u00c9douard Philippe was the prime minister of France. So, who held this position 2285 days later?",
+                    "rephrased_2": "\u00c9douard Philippe was France's prime minister on 7 August 2018. Do you know who was in this role after 2285 days?",
+                    "rephrased_3": "\u00c9douard Philippe served as the prime minister of France on 7 August 2018. Can you identify who occupied this position after 2285 days?"
+                }
+            }
+        },
+        "Belgium": {
+            "Monarch of the Belgians": {
+                "answers": [
+                    "\u00c9rasme-Louis Surlet de Chokier |S: +1831-02-25T00:00:00Z |E: +1831-07-20T00:00:00Z",
+                    "Leopold I of Belgium |S: +1831-06-04T00:00:00Z |E: +1865-12-10T00:00:00Z",
+                    "Leopold II of Belgium |S: +1865-12-17T00:00:00Z |E: +1909-12-17T00:00:00Z",
+                    "Albert I of Belgium |S: +1909-12-23T00:00:00Z |E: +1934-02-17T00:00:00Z",
+                    "Leopold III of Belgium |S: +1934-02-23T00:00:00Z |E: +1944-09-20T00:00:00Z",
+                    "Prince Charles, Count of Flanders |S: +1944-09-20T00:00:00Z |E: +1950-07-20T00:00:00Z",
+                    "Leopold III of Belgium |S: +1950-07-20T00:00:00Z |E: +1950-08-11T00:00:00Z",
+                    "Baudouin I of Belgium |S: +1950-08-11T00:00:00Z |E: +1951-07-17T00:00:00Z",
+                    "Baudouin I of Belgium |S: +1951-07-17T00:00:00Z |E: +1993-07-31T00:00:00Z",
+                    "Albert II of Belgium |S: +1993-08-09T00:00:00Z |E: +2013-07-21T00:00:00Z",
+                    "Philippe of Belgium |S: +2013-07-21T00:00:00Z"
+                ],
+                "ground_truth": "\u00c9rasme-Louis Surlet de Chokier",
+                "ranking_qa": {
+                    "generic": "\u00c9rasme-Louis Surlet de Chokier and Albert II of Belgium both served as the monarchs of the Belgians before. Do you know which one of them the former monarch was?",
+                    "rephrased_1": "\u00c9rasme-Louis Surlet de Chokier and Albert II of Belgium both served as the monarchs of the Belgians before. Do you know which one of them the former monarch was?",
+                    "rephrased_2": "the Belgians had \u00c9rasme-Louis Surlet de Chokier and Albert II of Belgium as former monarchs. Can you identify which one the former monarch was?",
+                    "rephrased_3": "\u00c9rasme-Louis Surlet de Chokier and Albert II of Belgium previously held the position of the monarch of the Belgians. Which of them served as the former monarch?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 15 March 2007, Albert II of Belgium was the monarch of the Belgians. So, who held this position 64179 days before?",
+                    "rephrased_1": "On 15 March 2007, Albert II of Belgium was the monarch of the Belgians. So, who held this position 64179 days before?",
+                    "rephrased_2": "Albert II of Belgium was the Belgians's monarch on 15 March 2007. Do you know who was in this role before 64179 days?",
+                    "rephrased_3": "Albert II of Belgium served as the monarch of the Belgians on 15 March 2007. Can you identify who occupied this position before 64179 days?"
+                }
+            }
+        },
+        "Norway": {
+            "Prime Minister of Norway": {
+                "answers": [
+                    "Erna Solberg |S: +2013-10-16T00:00:00Z |E: +2021-10-14T00:00:00Z",
+                    "Jens Stoltenberg |S: +2005-10-17T00:00:00Z |E: +2013-10-16T00:00:00Z",
+                    "Kjell Magne Bondevik |S: +2001-10-19T00:00:00Z |E: +2005-10-17T00:00:00Z",
+                    "Jens Stoltenberg |S: +2000-03-17T00:00:00Z |E: +2001-10-19T00:00:00Z",
+                    "Kjell Magne Bondevik |S: +1997-10-17T00:00:00Z |E: +2000-03-17T00:00:00Z",
+                    "Thorbj\u00f8rn Jagland |S: +1996-10-25T00:00:00Z |E: +1997-10-17T00:00:00Z",
+                    "Gro Harlem Brundtland |S: +1981-02-04T00:00:00Z |E: +1981-10-14T00:00:00Z",
+                    "Gro Harlem Brundtland |S: +1986-05-09T00:00:00Z |E: +1989-10-16T00:00:00Z",
+                    "Gro Harlem Brundtland |S: +1990-11-03T00:00:00Z |E: +1996-10-25T00:00:00Z",
+                    "K\u00e5re Willoch |S: +1981-10-14T00:00:00Z |E: +1986-05-09T00:00:00Z",
+                    "Odvar Nordli |S: +1976-01-15T00:00:00Z |E: +1981-02-04T00:00:00Z",
+                    "Anne Enger |S: +1998-08-31T00:00:00Z |E: +1998-09-24T00:00:00Z",
+                    "Jan P. Syse |S: +1989-10-16T00:00:00Z |E: +1990-11-03T00:00:00Z",
+                    "Svenn Stray |S: +1984-04-17T00:00:00Z |E: +1984-06-12T00:00:00Z",
+                    "Trygve Bratteli |S: +1971-03-17T00:00:00Z |E: +1972-10-18T00:00:00Z",
+                    "Trygve Bratteli |S: +1973-10-16T00:00:00Z |E: +1976-01-15T00:00:00Z",
+                    "Lars Korvald |S: +1972-10-18T00:00:00Z |E: +1973-10-16T00:00:00Z",
+                    "Per Borten |S: +1965-10-12T00:00:00Z |E: +1971-03-17T00:00:00Z",
+                    "Einar Gerhardsen |S: +1945-06-25T00:00:00Z |E: +1945-11-05T00:00:00Z",
+                    "Einar Gerhardsen |S: +1945-11-05T00:00:00Z |E: +1951-11-19T00:00:00Z",
+                    "Einar Gerhardsen |S: +1955-01-22T00:00:00Z |E: +1963-08-28T00:00:00Z",
+                    "Einar Gerhardsen |S: +1963-09-25T00:00:00Z |E: +1965-10-12T00:00:00Z",
+                    "John Lyng |S: +1963-08-28T00:00:00Z |E: +1963-09-25T00:00:00Z",
+                    "Oscar Torp |S: +1951-11-19T00:00:00Z |E: +1955-01-22T00:00:00Z",
+                    "Johan Nygaardsvold |S: +1935-03-20T00:00:00Z |E: +1945-06-25T00:00:00Z",
+                    "Jonas Gahr St\u00f8re |S: +2021-10-14T00:00:00Z"
+                ],
+                "ground_truth": "Svenn Stray",
+                "ranking_qa": {
+                    "generic": "Svenn Stray and Kjell Magne Bondevik both served as the prime ministers of Norway before. Do you know which one of them the former prime minister was?",
+                    "rephrased_1": "Svenn Stray and Kjell Magne Bondevik both served as the prime ministers of Norway before. Do you know which one of them the former prime minister was?",
+                    "rephrased_2": "Norway had Svenn Stray and Kjell Magne Bondevik as former prime ministers. Can you identify which one the former prime minister was?",
+                    "rephrased_3": "Svenn Stray and Kjell Magne Bondevik previously held the position of the prime minister of Norway. Which of them served as the former prime minister?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 24 December 2003, Kjell Magne Bondevik was the prime minister of Norway. So, who held this position 7142 days before?",
+                    "rephrased_1": "On 24 December 2003, Kjell Magne Bondevik was the prime minister of Norway. So, who held this position 7142 days before?",
+                    "rephrased_2": "Kjell Magne Bondevik was Norway's prime minister on 24 December 2003. Do you know who was in this role before 7142 days?",
+                    "rephrased_3": "Kjell Magne Bondevik served as the prime minister of Norway on 24 December 2003. Can you identify who occupied this position before 7142 days?"
+                }
+            }
+        },
+        "Denmark": {
+            "monarch of Denmark": {
+                "answers": [
+                    "Margrethe II of Denmark |S: +1972-01-14T00:00:00Z |E: +2024-01-14T00:00:00Z",
+                    "Frederick IX of Denmark |S: +1947-04-20T00:00:00Z |E: +1972-01-14T00:00:00Z",
+                    "Christian X of Denmark |S: +1912-05-14T00:00:00Z |E: +1947-04-20T00:00:00Z",
+                    "Frederick VIII of Denmark |S: +1906-01-29T00:00:00Z |E: +1912-05-14T00:00:00Z",
+                    "Christian IX of Denmark |S: +1863-11-15T00:00:00Z |E: +1906-01-29T00:00:00Z",
+                    "Frederick VII of Denmark |S: +1848-01-20T00:00:00Z |E: +1863-11-15T00:00:00Z",
+                    "Christian VIII of Denmark |S: +1839-12-03T00:00:00Z |E: +1848-01-20T00:00:00Z",
+                    "Frederick VI of Denmark |S: +1808-03-13T00:00:00Z |E: +1839-12-03T00:00:00Z",
+                    "Christian VII of Denmark |S: +1766-01-14T00:00:00Z |E: +1808-03-13T00:00:00Z",
+                    "Frederick V of Denmark |S: +1746-08-06T00:00:00Z |E: +1766-01-14T00:00:00Z",
+                    "Christian VI of Denmark |S: +1730-10-12T00:00:00Z |E: +1746-08-06T00:00:00Z",
+                    "Frederick IV of Denmark |S: +1699-08-25T00:00:00Z |E: +1730-10-12T00:00:00Z",
+                    "Christian V of Denmark |S: +1670-02-09T00:00:00Z |E: +1699-08-25T00:00:00Z",
+                    "Frederick III of Denmark |S: +1648-07-06T00:00:00Z |E: +1670-02-09T00:00:00Z",
+                    "Christian IV of Denmark |S: +1588-04-04T00:00:00Z |E: +1648-02-28T00:00:00Z",
+                    "Frederick II of Denmark |S: +1559-01-01T00:00:00Z |E: +1588-04-04T00:00:00Z",
+                    "Christian III of Denmark |S: +1534-07-04T00:00:00Z |E: +1559-01-01T00:00:00Z",
+                    "Frederick I of Denmark |S: +1523-04-13T00:00:00Z |E: +1533-04-10T00:00:00Z",
+                    "Christian II of Denmark |S: +1513-02-20T00:00:00Z |E: +1523-04-13T00:00:00Z",
+                    "John, King of Denmark |S: +1481-05-21T00:00:00Z |E: +1513-02-20T00:00:00Z",
+                    "Christian I of Denmark |S: +1448-09-01T00:00:00Z |E: +1481-05-21T00:00:00Z",
+                    "Christopher of Bavaria |S: +1440-04-09T00:00:00Z |E: +1448-01-06T00:00:00Z",
+                    "Eric of Pomerania |S: +1396-01-01T00:00:00Z |E: +1439-01-01T00:00:00Z",
+                    "Frederik X |S: +2024-01-14T00:00:00Z"
+                ],
+                "ground_truth": "John, King of Denmark",
+                "ranking_qa": {
+                    "generic": "John, King of Denmark and Margrethe II of Denmark both served as the monarchs of Denmark before. Do you know which one of them the former monarch was?",
+                    "rephrased_1": "John, King of Denmark and Margrethe II of Denmark both served as the monarchs of Denmark before. Do you know which one of them the former monarch was?",
+                    "rephrased_2": "Denmark had John, King of Denmark and Margrethe II of Denmark as former monarchs. Can you identify which one the former monarch was?",
+                    "rephrased_3": "John, King of Denmark and Margrethe II of Denmark previously held the position of the monarch of Denmark. Which of them served as the former monarch?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 3 January 1987, Margrethe II of Denmark was the monarch of Denmark. So, who held this position 180957 days before?",
+                    "rephrased_1": "On 3 January 1987, Margrethe II of Denmark was the monarch of Denmark. So, who held this position 180957 days before?",
+                    "rephrased_2": "Margrethe II of Denmark was Denmark's monarch on 3 January 1987. Do you know who was in this role before 180957 days?",
+                    "rephrased_3": "Margrethe II of Denmark served as the monarch of Denmark on 3 January 1987. Can you identify who occupied this position before 180957 days?"
+                }
+            }
+        },
+        "Sweden": {
+            "Monarch of Sweden": {
+                "answers": [
+                    "Carl XVI Gustaf of Sweden |S: +1973-09-15T00:00:00Z",
+                    "Gustaf VI Adolf of Sweden |S: +1950-10-29T00:00:00Z |E: +1973-09-15T00:00:00Z",
+                    "Gustaf V of Sweden |S: +1907-12-08T00:00:00Z |E: +1950-10-29T00:00:00Z",
+                    "Oscar II of Sweden |S: +1872-09-18T00:00:00Z |E: +1907-12-08T00:00:00Z",
+                    "Charles XV of Sweden |S: +1859-07-08T00:00:00Z |E: +1872-09-18T00:00:00Z",
+                    "Oscar I of Sweden |S: +1844-03-08T00:00:00Z |E: +1859-07-08T00:00:00Z",
+                    "Charles XIV John of Sweden |S: +1818-02-05T00:00:00Z |E: +1844-03-08T00:00:00Z"
+                ],
+                "ground_truth": "Oscar I of Sweden",
+                "ranking_qa": {
+                    "generic": "Oscar I of Sweden and Gustaf VI Adolf of Sweden both served as the monarchs of Sweden before. Do you know which one of them the former monarch was?",
+                    "rephrased_1": "Oscar I of Sweden and Gustaf VI Adolf of Sweden both served as the monarchs of Sweden before. Do you know which one of them the former monarch was?",
+                    "rephrased_2": "Sweden had Oscar I of Sweden and Gustaf VI Adolf of Sweden as former monarchs. Can you identify which one the former monarch was?",
+                    "rephrased_3": "Oscar I of Sweden and Gustaf VI Adolf of Sweden previously held the position of the monarch of Sweden. Which of them served as the former monarch?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 13 August 1961, Gustaf VI Adolf of Sweden was the monarch of Sweden. So, who held this position 41190 days before?",
+                    "rephrased_1": "On 13 August 1961, Gustaf VI Adolf of Sweden was the monarch of Sweden. So, who held this position 41190 days before?",
+                    "rephrased_2": "Gustaf VI Adolf of Sweden was Sweden's monarch on 13 August 1961. Do you know who was in this role before 41190 days?",
+                    "rephrased_3": "Gustaf VI Adolf of Sweden served as the monarch of Sweden on 13 August 1961. Can you identify who occupied this position before 41190 days?"
+                }
+            }
+        },
+        "Singapore": {
+            "President of Singapore": {
+                "answers": [
+                    "Halimah Yacob |S: +2017-09-14T00:00:00Z |E: +2023-09-13T00:00:00Z",
+                    "Tharman Shanmugaratnam |S: +2023-09-14T00:00:00Z"
+                ],
+                "ground_truth": "Tharman Shanmugaratnam",
+                "ranking_qa": {
+                    "generic": "Halimah Yacob and Tharman Shanmugaratnam both served as the presidents of Singapore before. Do you know which one of them the latter president was?",
+                    "rephrased_1": "Halimah Yacob and Tharman Shanmugaratnam both served as the presidents of Singapore before. Do you know which one of them the latter president was?",
+                    "rephrased_2": "Singapore had Halimah Yacob and Tharman Shanmugaratnam as former presidents. Can you identify which one the latter president was?",
+                    "rephrased_3": "Halimah Yacob and Tharman Shanmugaratnam previously held the position of the president of Singapore. Which of them served as the latter president?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 1 September 2021, Halimah Yacob was the president of Singapore. So, who held this position 911 days later?",
+                    "rephrased_1": "On 1 September 2021, Halimah Yacob was the president of Singapore. So, who held this position 911 days later?",
+                    "rephrased_2": "Halimah Yacob was Singapore's president on 1 September 2021. Do you know who was in this role after 911 days?",
+                    "rephrased_3": "Halimah Yacob served as the president of Singapore on 1 September 2021. Can you identify who occupied this position after 911 days?"
+                }
+            }
+        }
+    },
+    "athletes_byPayment": {
+        "Damian Lillard": {
+            "answers": [
+                "Weber State Wildcats men's basketball |S: +2008-01-01T00:00:00Z |E: +2012-07-13T00:00:00Z",
+                "Portland Trail Blazers |S: +2012-07-13T00:00:00Z |E: +2023-09-27T00:00:00Z",
+                "Milwaukee Bucks |S: +2023-09-27T00:00:00Z"
+            ],
+            "ground_truth": "Weber State Wildcats men's basketball",
+            "ranking_qa": {
+                "generic": "Weber State Wildcats men's basketball and Portland Trail Blazers were both Damian Lillard's basketball teams before, so which team between them was the former one Damian Lillard played for?",
+                "rephrased_1": "Weber State Wildcats men's basketball and Portland Trail Blazers were both Damian Lillard's basketball teams before, so which team between them was the former one Damian Lillard played for?",
+                "rephrased_2": "Damian Lillard has joined Weber State Wildcats men's basketball and Portland Trail Blazers basketball teams before. Can you identify which team between them was the former one Damian Lillard played for?",
+                "rephrased_3": "Damian Lillard previously played for Weber State Wildcats men's basketball and Portland Trail Blazers basketball teams. Which team between them did Damian Lillard formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 22 July 2014, Damian Lillard played for Portland Trail Blazers. So, before 1574 days, which basketball team did Damian Lillard play for?",
+                "rephrased_1": "On 22 July 2014, Damian Lillard played for Portland Trail Blazers. So, before 1574 days, which basketball team did Damian Lillard play for?",
+                "rephrased_2": "Portland Trail Blazers was Damian Lillard's basketball team on 22 July 2014. Can you identify which basketball team Damian Lillard belongs to before 1574 days?",
+                "rephrased_3": "Damian Lillard played for Portland Trail Blazers on 22 July 2014. Do you know which basketball team Damian Lillard played for before 1574 days?"
+            }
+        },
+        "Mohamed Salah": {
+            "answers": [
+                "Al Mokawloon Al Arab SC |S: +2010-05-01T00:00:00Z |E: +2012-07-01T00:00:00Z",
+                "FC Basel |S: +2012-07-01T00:00:00Z |E: +2014-01-26T00:00:00Z",
+                "Chelsea F.C. |S: +2014-01-26T00:00:00Z |E: +2015-02-02T00:00:00Z",
+                "ACF Fiorentina |S: +2015-02-02T00:00:00Z |E: +2015-06-30T00:00:00Z",
+                "Chelsea F.C. |S: +2015-06-30T00:00:00Z |E: +2015-08-06T00:00:00Z",
+                "A.S. Roma |S: +2015-08-06T00:00:00Z |E: +2016-06-30T00:00:00Z",
+                "Chelsea F.C. |S: +2016-06-30T00:00:00Z |E: +2016-07-01T00:00:00Z",
+                "A.S. Roma |S: +2016-07-01T00:00:00Z |E: +2017-07-01T00:00:00Z",
+                "Liverpool F.C. |S: +2017-07-01T00:00:00Z"
+            ],
+            "ground_truth": "A.S. Roma",
+            "ranking_qa": {
+                "generic": "ACF Fiorentina and A.S. Roma were both Mohamed Salah's football clubs before, so which team between them was the latter one Mohamed Salah played for?",
+                "rephrased_1": "ACF Fiorentina and A.S. Roma were both Mohamed Salah's football clubs before, so which team between them was the latter one Mohamed Salah played for?",
+                "rephrased_2": "Mohamed Salah has joined ACF Fiorentina and A.S. Roma football clubs before. Can you identify which team between them was the latter one Mohamed Salah played for?",
+                "rephrased_3": "Mohamed Salah previously played for ACF Fiorentina and A.S. Roma football clubs. Which team between them did Mohamed Salah latterly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 17 February 2015, Mohamed Salah played for ACF Fiorentina. So, after 726 days, which football club did Mohamed Salah play for?",
+                "rephrased_1": "On 17 February 2015, Mohamed Salah played for ACF Fiorentina. So, after 726 days, which football club did Mohamed Salah play for?",
+                "rephrased_2": "ACF Fiorentina was Mohamed Salah's football club on 17 February 2015. Can you identify which football club Mohamed Salah belongs to after 726 days?",
+                "rephrased_3": "Mohamed Salah played for ACF Fiorentina on 17 February 2015. Do you know which football club Mohamed Salah played for after 726 days?"
+            }
+        },
+        "LeBron James": {
+            "answers": [
+                "Cleveland Cavaliers |S: +2003-06-26T00:00:00Z |E: +2010-07-10T00:00:00Z",
+                "Miami Heat |S: +2010-07-10T00:00:00Z |E: +2014-06-25T00:00:00Z",
+                "Cleveland Cavaliers |S: +2014-06-25T00:00:00Z |E: +2018-07-01T00:00:00Z",
+                "Los Angeles Lakers |S: +2018-07-01T00:00:00Z"
+            ],
+            "ground_truth": "Miami Heat",
+            "ranking_qa": {
+                "generic": "Miami Heat and Cleveland Cavaliers were both LeBron James's basketball teams before, so which team between them was the former one LeBron James played for?",
+                "rephrased_1": "Miami Heat and Cleveland Cavaliers were both LeBron James's basketball teams before, so which team between them was the former one LeBron James played for?",
+                "rephrased_2": "LeBron James has joined Miami Heat and Cleveland Cavaliers basketball teams before. Can you identify which team between them was the former one LeBron James played for?",
+                "rephrased_3": "LeBron James previously played for Miami Heat and Cleveland Cavaliers basketball teams. Which team between them did LeBron James formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 9 December 2017, LeBron James played for Cleveland Cavaliers. So, before 1312 days, which basketball team did LeBron James play for?",
+                "rephrased_1": "On 9 December 2017, LeBron James played for Cleveland Cavaliers. So, before 1312 days, which basketball team did LeBron James play for?",
+                "rephrased_2": "Cleveland Cavaliers was LeBron James's basketball team on 9 December 2017. Can you identify which basketball team LeBron James belongs to before 1312 days?",
+                "rephrased_3": "LeBron James played for Cleveland Cavaliers on 9 December 2017. Do you know which basketball team LeBron James played for before 1312 days?"
+            }
+        },
+        "Bradley Beal": {
+            "answers": [
+                "Florida Gators men's basketball |S: +2011-01-01T00:00:00Z |E: +2012-06-28T00:00:00Z",
+                "Washington Wizards |S: +2012-06-28T00:00:00Z |E: +2023-07-01T00:00:00Z",
+                "Phoenix Suns |S: +2023-07-01T00:00:00Z"
+            ],
+            "ground_truth": "Florida Gators men's basketball",
+            "ranking_qa": {
+                "generic": "Florida Gators men's basketball and Washington Wizards were both Bradley Beal's basketball teams before, so which team between them was the former one Bradley Beal played for?",
+                "rephrased_1": "Florida Gators men's basketball and Washington Wizards were both Bradley Beal's basketball teams before, so which team between them was the former one Bradley Beal played for?",
+                "rephrased_2": "Bradley Beal has joined Florida Gators men's basketball and Washington Wizards basketball teams before. Can you identify which team between them was the former one Bradley Beal played for?",
+                "rephrased_3": "Bradley Beal previously played for Florida Gators men's basketball and Washington Wizards basketball teams. Which team between them did Bradley Beal formerly play for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 22 May 2015, Bradley Beal played for Washington Wizards. So, before 1234 days, which basketball team did Bradley Beal play for?",
+                "rephrased_1": "On 22 May 2015, Bradley Beal played for Washington Wizards. So, before 1234 days, which basketball team did Bradley Beal play for?",
+                "rephrased_2": "Washington Wizards was Bradley Beal's basketball team on 22 May 2015. Can you identify which basketball team Bradley Beal belongs to before 1234 days?",
+                "rephrased_3": "Bradley Beal played for Washington Wizards on 22 May 2015. Do you know which basketball team Bradley Beal played for before 1234 days?"
+            }
+        },
+        "Lewis Hamilton": {
+            "answers": [
+                "McLaren |S: +2007-00-00T00:00:00Z |E: +2012-00-00T00:00:00Z",
+                "Mercedes F1 Team |S: +2013-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Mercedes F1 Team",
+            "ranking_qa": {
+                "generic": "McLaren and Mercedes F1 Team were both Lewis Hamilton's Formula 1 teams before, so which team between them was the latter one Lewis Hamilton drove for?",
+                "rephrased_1": "McLaren and Mercedes F1 Team were both Lewis Hamilton's Formula 1 teams before, so which team between them was the latter one Lewis Hamilton drove for?",
+                "rephrased_2": "Lewis Hamilton has joined McLaren and Mercedes F1 Team Formula 1 teams before. Can you identify which team between them was the latter one Lewis Hamilton drove for?",
+                "rephrased_3": "Lewis Hamilton previously drove for McLaren and Mercedes F1 Team Formula 1 teams. Which team between them did Lewis Hamilton latterly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 28 July 2010, Lewis Hamilton drove for McLaren. So, after 5172 days, which Formula 1 team did Lewis Hamilton drive for?",
+                "rephrased_1": "On 28 July 2010, Lewis Hamilton drove for McLaren. So, after 5172 days, which Formula 1 team did Lewis Hamilton drive for?",
+                "rephrased_2": "McLaren was Lewis Hamilton's Formula 1 team on 28 July 2010. Can you identify which Formula 1 team Lewis Hamilton belongs to after 5172 days?",
+                "rephrased_3": "Lewis Hamilton drove for McLaren on 28 July 2010. Do you know which Formula 1 team Lewis Hamilton drove for after 5172 days?"
+            }
+        },
+        "Fernando Alonso": {
+            "answers": [
+                "Renault F1 Team |S: +2002-00-00T00:00:00Z |E: +2006-00-00T00:00:00Z",
+                "McLaren |S: +2007-00-00T00:00:00Z |E: +2007-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2008-00-00T00:00:00Z |E: +2009-00-00T00:00:00Z",
+                "Scuderia Ferrari |S: +2010-00-00T00:00:00Z |E: +2014-00-00T00:00:00Z",
+                "McLaren |S: +2015-00-00T00:00:00Z |E: +2018-00-00T00:00:00Z",
+                "Minardi |S: +2001-00-00T00:00:00Z |E: +2001-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2021-00-00T00:00:00Z |E: +2022-00-00T00:00:00Z",
+                "Aston Martin F1 Team |S: +2023-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Scuderia Ferrari",
+            "ranking_qa": {
+                "generic": "Scuderia Ferrari and McLaren were both Fernando Alonso's Formula 1 teams before, so which team between them was the former one Fernando Alonso drove for?",
+                "rephrased_1": "Scuderia Ferrari and McLaren were both Fernando Alonso's Formula 1 teams before, so which team between them was the former one Fernando Alonso drove for?",
+                "rephrased_2": "Fernando Alonso has joined Scuderia Ferrari and McLaren Formula 1 teams before. Can you identify which team between them was the former one Fernando Alonso drove for?",
+                "rephrased_3": "Fernando Alonso previously drove for Scuderia Ferrari and McLaren Formula 1 teams. Which team between them did Fernando Alonso formerly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 11 October 2015, Fernando Alonso drove for McLaren. So, before 1096 days, which Formula 1 team did Fernando Alonso drive for?",
+                "rephrased_1": "On 11 October 2015, Fernando Alonso drove for McLaren. So, before 1096 days, which Formula 1 team did Fernando Alonso drive for?",
+                "rephrased_2": "McLaren was Fernando Alonso's Formula 1 team on 11 October 2015. Can you identify which Formula 1 team Fernando Alonso belongs to before 1096 days?",
+                "rephrased_3": "Fernando Alonso drove for McLaren on 11 October 2015. Do you know which Formula 1 team Fernando Alonso drove for before 1096 days?"
+            }
+        },
+        "Charles Leclerc": {
+            "answers": [
+                "Sauber |S: +2018-00-00T00:00:00Z |E: +2019-00-00T00:00:00Z",
+                "Scuderia Ferrari |S: +2019-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Scuderia Ferrari",
+            "ranking_qa": {
+                "generic": "Sauber and Scuderia Ferrari were both Charles Leclerc's Formula 1 teams before, so which team between them was the latter one Charles Leclerc drove for?",
+                "rephrased_1": "Sauber and Scuderia Ferrari were both Charles Leclerc's Formula 1 teams before, so which team between them was the latter one Charles Leclerc drove for?",
+                "rephrased_2": "Charles Leclerc has joined Sauber and Scuderia Ferrari Formula 1 teams before. Can you identify which team between them was the latter one Charles Leclerc drove for?",
+                "rephrased_3": "Charles Leclerc previously drove for Sauber and Scuderia Ferrari Formula 1 teams. Which team between them did Charles Leclerc latterly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 10 February 2018, Charles Leclerc drove for Sauber. So, after 2057 days, which Formula 1 team did Charles Leclerc drive for?",
+                "rephrased_1": "On 10 February 2018, Charles Leclerc drove for Sauber. So, after 2057 days, which Formula 1 team did Charles Leclerc drive for?",
+                "rephrased_2": "Sauber was Charles Leclerc's Formula 1 team on 10 February 2018. Can you identify which Formula 1 team Charles Leclerc belongs to after 2057 days?",
+                "rephrased_3": "Charles Leclerc drove for Sauber on 10 February 2018. Do you know which Formula 1 team Charles Leclerc drove for after 2057 days?"
+            }
+        },
+        "George Russell": {
+            "answers": [
+                "Williams Racing |S: +2018-00-00T00:00:00Z |E: +2021-00-00T00:00:00Z",
+                "Mercedes F1 Team |S: +2022-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Williams Racing",
+            "ranking_qa": {
+                "generic": "Williams Racing and Mercedes F1 Team were both George Russell's Formula 1 teams before, so which team between them was the former one George Russell drove for?",
+                "rephrased_1": "Williams Racing and Mercedes F1 Team were both George Russell's Formula 1 teams before, so which team between them was the former one George Russell drove for?",
+                "rephrased_2": "George Russell has joined Williams Racing and Mercedes F1 Team Formula 1 teams before. Can you identify which team between them was the former one George Russell drove for?",
+                "rephrased_3": "George Russell previously drove for Williams Racing and Mercedes F1 Team Formula 1 teams. Which team between them did George Russell formerly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 9 October 2024, George Russell drove for Mercedes F1 Team. So, before 2335 days, which Formula 1 team did George Russell drive for?",
+                "rephrased_1": "On 9 October 2024, George Russell drove for Mercedes F1 Team. So, before 2335 days, which Formula 1 team did George Russell drive for?",
+                "rephrased_2": "Mercedes F1 Team was George Russell's Formula 1 team on 9 October 2024. Can you identify which Formula 1 team George Russell belongs to before 2335 days?",
+                "rephrased_3": "George Russell drove for Mercedes F1 Team on 9 October 2024. Do you know which Formula 1 team George Russell drove for before 2335 days?"
+            }
+        }
+    },
+    "organizations": {
+        "Paris Dauphine University": {
+            "President": {
+                "answers": [
+                    "Brigitte Berlioz-Houin |S: +1984-01-01T00:00:00Z |E: +1989-01-01T00:00:00Z",
+                    "Ivar Ekeland |S: +1989-01-01T00:00:00Z |E: +1994-01-01T00:00:00Z",
+                    "\u00c9lie Cohen |S: +1994-01-01T00:00:00Z |E: +1999-01-01T00:00:00Z",
+                    "Bernard de Montmorillon |S: +1999-01-01T00:00:00Z |E: +2007-01-01T00:00:00Z",
+                    "Laurent Batsch |S: +2007-01-01T00:00:00Z |E: +2016-01-01T00:00:00Z",
+                    "Jean-Paul Gilli |S: +1975-01-01T00:00:00Z |E: +1980-01-01T00:00:00Z",
+                    "Henri T\u00e9zenas du Montcel |S: +1980-01-01T00:00:00Z |E: +1984-01-01T00:00:00Z",
+                    "Isabelle Huault |S: +2016-01-01T00:00:00Z |E: +2020-01-01T00:00:00Z",
+                    "E.M. Mouhoud |S: +2020-01-01T00:00:00Z",
+                    "Paul Didier |S: +1971-01-01T00:00:00Z |E: +1975-01-01T00:00:00Z"
+                ],
+                "ground_truth": "Paul Didier",
+                "ranking_qa": {
+                    "generic": "Paul Didier and Bernard de Montmorillon both served as the presidents of the Paris Dauphine University before. Do you know which one of them the former president was?",
+                    "rephrased_1": "Paul Didier and Bernard de Montmorillon both served as the presidents of the Paris Dauphine University before. Do you know which one of them the former president was?",
+                    "rephrased_2": "the Paris Dauphine University had Paul Didier and Bernard de Montmorillon as former presidents. Can you identify which one the former president was?",
+                    "rephrased_3": "Paul Didier and Bernard de Montmorillon previously held the position of the president of the Paris Dauphine University. Which of them served as the former president?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 28 March 2000, Bernard de Montmorillon was the president of the Paris Dauphine University. So, who held this position 9666 days before?",
+                    "rephrased_1": "On 28 March 2000, Bernard de Montmorillon was the president of the Paris Dauphine University. So, who held this position 9666 days before?",
+                    "rephrased_2": "Bernard de Montmorillon was the Paris Dauphine University's president on 28 March 2000. Do you know who was in this role before 9666 days?",
+                    "rephrased_3": "Bernard de Montmorillon served as the president of the Paris Dauphine University on 28 March 2000. Can you identify who occupied this position before 9666 days?"
+                }
+            }
+        }
+    }
+}

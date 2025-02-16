@@ -1,0 +1,1821 @@
+{
+    "generic": {
+        "match_contemporary_answer": [
+            {
+                "prediction": "Your question does not align with the provided context about Colonel Ely Ould Mohamed Vall. Given the context and the date 7 August 2006, the information provided does not include details about Walmart's CEO. Based on the date, at that time, the CEO of Walmart was Lee Scott Jr., but this is not derived from the given context.",
+                "matched_answers": [
+                    [
+                        "Lee Scott",
+                        "+2000-01-01T00:00:00Z",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Lee Scott",
+                "context_answer": "Doug McMillon",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": "Jeff Bezos",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z",
+                        "+2021-07-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Jeff Bezos",
+                "context_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": "Ben van Beurden",
+                "matched_answers": [
+                    [
+                        "Ben van Beurden",
+                        "+2014-01-01T00:00:00Z",
+                        "+2022-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Ben van Beurden",
+                "context_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": "Akio Toyoda",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00Z",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Akio Toyoda",
+                "context_answer": "Koji Sato",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": "Bill Gates",
+                "matched_answers": [
+                    [
+                        "Bill Gates",
+                        "+1975-04-01T00:00:00Z",
+                        "+2000-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Bill Gates",
+                "context_answer": "Satya Nadella",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": "David Calhoun",
+                "matched_answers": [
+                    [
+                        "Calhoun",
+                        "+2020-01-13T00:00:00Z",
+                        "+2024-08-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "contemporary_answer": "Dave Calhoun",
+                "context_answer": "Robert Ortberg",
+                "element": "Boeing",
+                "attribute": null
+            },
+            {
+                "prediction": "Larry Page",
+                "matched_answers": [
+                    [
+                        "Larry Page",
+                        "+2011-04-04T00:00:00Z",
+                        "+2015-08-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Larry Page",
+                "context_answer": "Sundar Pichai",
+                "element": "Google",
+                "attribute": null
+            }
+        ],
+        "match_futre_answer": [
+            {
+                "prediction": "Tim Cook",
+                "matched_answers": [
+                    [
+                        "Tim Cook",
+                        "+2011-08-24T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Gil Amelio",
+                "context_answer": "Tim Cook",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": "Sundar Pichai",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2019-12-03T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Larry Page",
+                "context_answer": "Sundar Pichai",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": "Alexey Miller",
+                "matched_answers": [
+                    [
+                        "Alexey Miller",
+                        "+2001-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Rem Viakhirev",
+                "context_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            },
+            {
+                "prediction": "Jim Farley",
+                "matched_answers": [
+                    [
+                        "Jim Farley",
+                        "+2020-10-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "James Hackett",
+                "context_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            },
+            {
+                "prediction": "Ed Bastian",
+                "matched_answers": [
+                    [
+                        "Ed Bastian",
+                        "+2016-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Collett E. Woolman",
+                "context_answer": "Ed Bastian",
+                "element": "Delta Air Lines",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "This question cannot be answered with the given context, as the context is about the members of the Assembly of Experts in Iran and does not provide any information about the CEO of Saudi Aramco. Therefore, there is no name to provide in response to the question.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Khalid A. Al-Falih",
+                "context_answer": "Amin H. Al-Nasser",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": "Ernest J. Sirri",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Lee Raymond",
+                "context_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": "This question cannot be answered with the given context and the date 11 June 1980. The context provided is about the history of New York's 37th congressional district and does not relate to the current CEO of Volkswagen Group. Therefore, I cannot provide an answer within the constraints given.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Toni Schm\u00fccker",
+                "context_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": "Pierre-Etienne Francouer",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Thierry Desmarest",
+                "context_answer": "Patrick Pouyann\u00e9",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": "This question cannot be answered with the given context about the President of Grande Comore. The information provided does not relate to the CEO of Glencore.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Ivan Glasenberg",
+                "context_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": "Tony Hayward",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Bob Dudley",
+                "context_answer": "Murray Auchincloss",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": "Tsuyoshi Kato",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Takehiko Kakiuchi",
+                "context_answer": "Katsuya Nakanishi",
+                "element": "Mitsubishi",
+                "attribute": null
+            },
+            {
+                "prediction": "Kentaro Toyoda",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Kazuki Furuya",
+                "context_answer": "Fumihiko Nagamatsu",
+                "element": "7-Eleven Japan",
+                "attribute": null
+            },
+            {
+                "prediction": "David Siu",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Jack So",
+                "context_answer": "Jacob Kam",
+                "element": "MTR Corporation Limited",
+                "attribute": null
+            },
+            {
+                "prediction": "Pius Okigbo",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Albert Le Dirac'h",
+                "context_answer": "Jan Juchelka",
+                "element": "Komer\u010dn\u00ed banka",
+                "attribute": null
+            },
+            {
+                "prediction": "Mark Wallace",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Kent C. Nelson",
+                "context_answer": "Carol Tom\u00e9",
+                "element": "United Parcel Service",
+                "attribute": null
+            },
+            {
+                "prediction": "Axel Heidrich",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Alan Jope",
+                "context_answer": "Hein Schumacher",
+                "element": "Unilever",
+                "attribute": null
+            },
+            {
+                "prediction": "Erik Bang Rasmussen",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Thomas F. Borgen",
+                "context_answer": "Carsten Rasch Egeriis",
+                "element": "Danske Bank",
+                "attribute": null
+            },
+            {
+                "prediction": "Andreas Kirchner",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Gerhard Roiss",
+                "context_answer": "Alfred Stern",
+                "element": "OMV",
+                "attribute": null
+            },
+            {
+                "prediction": "This question cannot be answered based on the given context and the date provided (2 March 1979) because it asks for information about the current CEO of United Airlines, which is outside the scope of the provided historical information about the CIArb (Chartered Institute of Arbitrators). The context does not provide any information related to United Airlines or its leadership.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Richard J. Ferris",
+                "context_answer": "Scott Kirby",
+                "element": "United Airlines",
+                "attribute": null
+            },
+            {
+                "prediction": "This information is not available in the provided context and the date given is 12 January 2000, which predates any specific mention of Flytoget AS in the context. Therefore, I cannot provide an answer based on the given information.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Berit Kj\u00f8ll",
+                "context_answer": "St\u00e5le Nistov",
+                "element": "Flytoget AS",
+                "attribute": null
+            },
+            {
+                "prediction": "No answer",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Toralv \u00d8ksnevad",
+                "context_answer": "Vibeke F\u00fcrst Haugen",
+                "element": "Norwegian Broadcasting Corporation",
+                "attribute": null
+            },
+            {
+                "prediction": "Alan Keir",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Michael Geoghegan",
+                "context_answer": "Georges Elhedery",
+                "element": "HSBC",
+                "attribute": null
+            },
+            {
+                "prediction": "Johan Forsberg",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Magnus Fax\u00e9n",
+                "context_answer": "Hanna Stj\u00e4rne",
+                "element": "Sveriges Television",
+                "attribute": null
+            },
+            {
+                "prediction": "Massimo Russo",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Elisabetta Ripa",
+                "context_answer": "Giuseppe Gola",
+                "element": "Open Fiber",
+                "attribute": null
+            },
+            {
+                "prediction": "The question refers to \u010ceskoslovensk\u00e1 obchodn\u00ed banka, which is unrelated to Vak\u0131fBank. There is no information in the given context about \u010ceskoslovensk\u00e1 obchodn\u00ed banka or its current CEO. Therefore, I cannot provide an answer based solely on the given context.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "John Arthur Hollows",
+                "context_answer": "Ale\u0161 Bla\u017eek",
+                "element": "\u010ceskoslovensk\u00e1 obchodn\u00ed banka",
+                "attribute": null
+            }
+        ],
+        "match_other_answer": [
+            {
+                "prediction": "Larry Merlo",
+                "matched_answers": [
+                    [
+                        "Larry Merlo",
+                        "+2011-01-01T00:00:00Z",
+                        "+2021-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Karen S. Lynch",
+                "context_answer": "David Joyner",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": "Bob Swan",
+                "matched_answers": [
+                    [
+                        "Bob Swan",
+                        "+2018-06-21T00:00:00Z",
+                        "+2021-02-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Robert Noyce",
+                "context_answer": "Pat Gelsinger",
+                "element": "Intel",
+                "attribute": null
+            },
+            {
+                "prediction": "David Neeley",
+                "matched_answers": [
+                    [
+                        "David",
+                        "+2018-06-01T00:00:00Z",
+                        "+2019-02-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "contemporary_answer": "Giorgio Presca",
+                "context_answer": "Jonathan Ram",
+                "element": "C. & J. Clark International Ltd",
+                "attribute": null
+            }
+        ]
+    },
+    "rephrased_1": {
+        "match_contemporary_answer": [
+            {
+                "prediction": "Your question does not match the provided context. Based on the context given, which is about Colonel Ely Ould Mohamed Vall, the correct answer to \"The current CEO of Walmart is?\" cannot be derived from this information. However, as of August 7, 2006, the CEO of Walmart was Lee Scott Jr.",
+                "matched_answers": [
+                    [
+                        "Lee Scott",
+                        "+2000-01-01T00:00:00Z",
+                        "+2009-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Lee Scott",
+                "context_answer": "Doug McMillon",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": "Jeff Bezos",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z",
+                        "+2021-07-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Jeff Bezos",
+                "context_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": "Ben van Beurden",
+                "matched_answers": [
+                    [
+                        "Ben van Beurden",
+                        "+2014-01-01T00:00:00Z",
+                        "+2022-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Ben van Beurden",
+                "context_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": "Akio Toyoda",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00Z",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Akio Toyoda",
+                "context_answer": "Koji Sato",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": "Bill Gates",
+                "matched_answers": [
+                    [
+                        "Bill Gates",
+                        "+1975-04-01T00:00:00Z",
+                        "+2000-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Bill Gates",
+                "context_answer": "Satya Nadella",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": "Dave Calhoun",
+                "matched_answers": [
+                    [
+                        "Dave Calhoun",
+                        "+2020-01-13T00:00:00Z",
+                        "+2024-08-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Dave Calhoun",
+                "context_answer": "Robert Ortberg",
+                "element": "Boeing",
+                "attribute": null
+            },
+            {
+                "prediction": "Larry Page",
+                "matched_answers": [
+                    [
+                        "Larry Page",
+                        "+2011-04-04T00:00:00Z",
+                        "+2015-08-10T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Larry Page",
+                "context_answer": "Sundar Pichai",
+                "element": "Google",
+                "attribute": null
+            }
+        ],
+        "match_futre_answer": [
+            {
+                "prediction": "Tim Cook",
+                "matched_answers": [
+                    [
+                        "Tim Cook",
+                        "+2011-08-24T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Gil Amelio",
+                "context_answer": "Tim Cook",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": "Sundar Pichai",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2019-12-03T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Larry Page",
+                "context_answer": "Sundar Pichai",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": "Alexey Miller",
+                "matched_answers": [
+                    [
+                        "Alexey Miller",
+                        "+2001-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Rem Viakhirev",
+                "context_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            },
+            {
+                "prediction": "Ed Bastian",
+                "matched_answers": [
+                    [
+                        "Ed Bastian",
+                        "+2016-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Collett E. Woolman",
+                "context_answer": "Ed Bastian",
+                "element": "Delta Air Lines",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "This question cannot be answered based on the provided context, as the context pertains to the members of the Assembly of Experts in Iran and does not contain any information about the CEO of Saudi Aramco.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Khalid A. Al-Falih",
+                "context_answer": "Amin H. Al-Nasser",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": "Louis Gerstner",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Lee Raymond",
+                "context_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": "This question cannot be answered with the given context and the date provided. The context is about a historical U.S. congressional district and does not provide any information related to the current CEO of Volkswagen Group. Therefore, there is no appropriate name to provide as an answer based on the given information.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Toni Schm\u00fccker",
+                "context_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": "Pierre-Louis Chery",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Thierry Desmarest",
+                "context_answer": "Patrick Pouyann\u00e9",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": "This question cannot be answered using the provided context or today's date (11 February 2020) because the context is about the leadership in the Comoros and does not relate to Glencore or its CEO.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Ivan Glasenberg",
+                "context_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": "Tony Hayward",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Bob Dudley",
+                "context_answer": "Murray Auchincloss",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": "Tsuyoshi Kikukawa",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Takehiko Kakiuchi",
+                "context_answer": "Katsuya Nakanishi",
+                "element": "Mitsubishi",
+                "attribute": null
+            },
+            {
+                "prediction": "Gordon Chung Chun-ming",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Giorgio Presca",
+                "context_answer": "Jonathan Ram",
+                "element": "C. & J. Clark International Ltd",
+                "attribute": null
+            },
+            {
+                "prediction": "Takeshi Inoue",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Kazuki Furuya",
+                "context_answer": "Fumihiko Nagamatsu",
+                "element": "7-Eleven Japan",
+                "attribute": null
+            },
+            {
+                "prediction": "Raymond Lai",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Jack So",
+                "context_answer": "Jacob Kam",
+                "element": "MTR Corporation Limited",
+                "attribute": null
+            },
+            {
+                "prediction": "Pius Okigbo",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Albert Le Dirac'h",
+                "context_answer": "Jan Juchelka",
+                "element": "Komer\u010dn\u00ed banka",
+                "attribute": null
+            },
+            {
+                "prediction": "Gregory Katsidis",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Kent C. Nelson",
+                "context_answer": "Carol Tom\u00e9",
+                "element": "United Parcel Service",
+                "attribute": null
+            },
+            {
+                "prediction": "Helena Vasconcelos",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Alan Jope",
+                "context_answer": "Hein Schumacher",
+                "element": "Unilever",
+                "attribute": null
+            },
+            {
+                "prediction": "Erik Bang Rasmussen",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Thomas F. Borgen",
+                "context_answer": "Carsten Rasch Egeriis",
+                "element": "Danske Bank",
+                "attribute": null
+            },
+            {
+                "prediction": "This context does not provide information about the CEO of OMV. Therefore, I cannot answer the question based on the given context.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Gerhard Roiss",
+                "context_answer": "Alfred Stern",
+                "element": "OMV",
+                "attribute": null
+            },
+            {
+                "prediction": "Note: As of 2 March 1979, the position of CEO for United Airlines does not have a current holder since the context provided is historical and does not extend to the present day. No answer can be given within the constraints provided.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Richard J. Ferris",
+                "context_answer": "Scott Kirby",
+                "element": "United Airlines",
+                "attribute": null
+            },
+            {
+                "prediction": "This information is not available in the provided context and cannot be determined from the given date (12 January 2000) without additional research. Please provide more relevant context or information.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Berit Kj\u00f8ll",
+                "context_answer": "St\u00e5le Nistov",
+                "element": "Flytoget AS",
+                "attribute": null
+            },
+            {
+                "prediction": "Noel Jensen",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Toralv \u00d8ksnevad",
+                "context_answer": "Vibeke F\u00fcrst Haugen",
+                "element": "Norwegian Broadcasting Corporation",
+                "attribute": null
+            },
+            {
+                "prediction": "Alan Keir",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Michael Geoghegan",
+                "context_answer": "Georges Elhedery",
+                "element": "HSBC",
+                "attribute": null
+            },
+            {
+                "prediction": "Jan-Olov Larsson",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Magnus Fax\u00e9n",
+                "context_answer": "Hanna Stj\u00e4rne",
+                "element": "Sveriges Television",
+                "attribute": null
+            },
+            {
+                "prediction": "This question cannot be answered with the given context and the date provided. The context does not mention Open Fiber or its CEO. Therefore, there is no name to provide based on the information available.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Elisabetta Ripa",
+                "context_answer": "Giuseppe Gola",
+                "element": "Open Fiber",
+                "attribute": null
+            },
+            {
+                "prediction": "Abdi Serdar \u00dcst\u00fcnsalih",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "John Arthur Hollows",
+                "context_answer": "Ale\u0161 Bla\u017eek",
+                "element": "\u010ceskoslovensk\u00e1 obchodn\u00ed banka",
+                "attribute": null
+            }
+        ],
+        "match_other_answer": [
+            {
+                "prediction": "Lawrence J. Merlo",
+                "matched_answers": [
+                    [
+                        "Merlo",
+                        "+2011-01-01T00:00:00Z",
+                        "+2021-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "contemporary_answer": "Karen S. Lynch",
+                "context_answer": "David Joyner",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": "Alan Mulally",
+                "matched_answers": [
+                    [
+                        "Alan Mulally",
+                        "+2006-09-01T00:00:00Z",
+                        "+2014-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "James Hackett",
+                "context_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            },
+            {
+                "prediction": "Bob Swan",
+                "matched_answers": [
+                    [
+                        "Bob Swan",
+                        "+2018-06-21T00:00:00Z",
+                        "+2021-02-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Robert Noyce",
+                "context_answer": "Pat Gelsinger",
+                "element": "Intel",
+                "attribute": null
+            }
+        ]
+    },
+    "rephrased_2": {
+        "match_contemporary_answer": [
+            {
+                "prediction": "The question provided does not relate to the given context about the Assembly of Experts in Iran. Since I am to provide an answer based solely on the information given and the date specified, and there is no mention of Saudi Aramco or any CEO positions in the context, I cannot provide an answer to the question as asked. However, if we were to consider the date 30 January 2009, the CEO of Saudi Aramco at that time was Khalid Al-Falih, but since this information is not part of the provided context, no answer can be given within the constraints.",
+                "matched_answers": [
+                    [
+                        "Al-Falih",
+                        "+2009-01-01T00:00:00Z",
+                        "+2015-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "contemporary_answer": "Khalid A. Al-Falih",
+                "context_answer": "Amin H. Al-Nasser",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": "Jeff Bezos",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z",
+                        "+2021-07-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Jeff Bezos",
+                "context_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": "Ben van Beurden",
+                "matched_answers": [
+                    [
+                        "Ben van Beurden",
+                        "+2014-01-01T00:00:00Z",
+                        "+2022-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Ben van Beurden",
+                "context_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": "Bob Dudley",
+                "matched_answers": [
+                    [
+                        "Bob Dudley",
+                        "+2010-10-01T00:00:00Z",
+                        "+2020-02-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Bob Dudley",
+                "context_answer": "Murray Auchincloss",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": "Bill Gates",
+                "matched_answers": [
+                    [
+                        "Bill Gates",
+                        "+1975-04-01T00:00:00Z",
+                        "+2000-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Bill Gates",
+                "context_answer": "Satya Nadella",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": "Dave Calhoun",
+                "matched_answers": [
+                    [
+                        "Dave Calhoun",
+                        "+2020-01-13T00:00:00Z",
+                        "+2024-08-07T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Dave Calhoun",
+                "context_answer": "Robert Ortberg",
+                "element": "Boeing",
+                "attribute": null
+            },
+            {
+                "prediction": "Alan Jope",
+                "matched_answers": [
+                    [
+                        "Alan Jope",
+                        "+2019-01-01T00:00:00Z",
+                        "+2023-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Alan Jope",
+                "context_answer": "Hein Schumacher",
+                "element": "Unilever",
+                "attribute": null
+            }
+        ],
+        "match_futre_answer": [
+            {
+                "prediction": "Tim Cook",
+                "matched_answers": [
+                    [
+                        "Tim Cook",
+                        "+2011-08-24T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Gil Amelio",
+                "context_answer": "Tim Cook",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": "Sundar Pichai",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2019-12-03T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Larry Page",
+                "context_answer": "Sundar Pichai",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": "Patrick Pouyann\u00e9",
+                "matched_answers": [
+                    [
+                        "Patrick Pouyann\u00e9",
+                        "+2014-10-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Thierry Desmarest",
+                "context_answer": "Patrick Pouyann\u00e9",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": "Sundar Pichai",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2015-08-10T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Larry Page",
+                "context_answer": "Sundar Pichai",
+                "element": "Google",
+                "attribute": null
+            },
+            {
+                "prediction": "Ed Bastian",
+                "matched_answers": [
+                    [
+                        "Ed Bastian",
+                        "+2016-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Collett E. Woolman",
+                "context_answer": "Ed Bastian",
+                "element": "Delta Air Lines",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "This question cannot be answered with the given context and date. The information provided is about Colonel Ely Ould Mohamed Vall and does not relate to the CEO of Walmart.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Lee Scott",
+                "context_answer": "Doug McMillon",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": "This question cannot be answered based on the provided context and the date given (4 October 1999), as the information pertains to William Wallace Campbell and does not relate to the leadership of ExxonMobil.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Lee Raymond",
+                "context_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": "Kathrin J. Davis",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Karen S. Lynch",
+                "context_answer": "David Joyner",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": "This question cannot be answered with the given context and date. The information provided is about a U.S. congressional district and does not relate to the CEO of Volkswagen Group. Therefore, I cannot provide an answer within the constraints given.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Toni Schm\u00fccker",
+                "context_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": "Akifumi Inagaki",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Akio Toyoda",
+                "context_answer": "Koji Sato",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": "This question cannot be answered with the given context and date. The context provided is about the President of Grande Comore, and does not provide any information about the CEO of Glencore.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Ivan Glasenberg",
+                "context_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": "Viktor Zubkov",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Rem Viakhirev",
+                "context_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            },
+            {
+                "prediction": "Tanaka",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Takehiko Kakiuchi",
+                "context_answer": "Katsuya Nakanishi",
+                "element": "Mitsubishi",
+                "attribute": null
+            },
+            {
+                "prediction": "Ernest R. Breech",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "James Hackett",
+                "context_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            },
+            {
+                "prediction": "Brian Krzanich",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Robert Noyce",
+                "context_answer": "Pat Gelsinger",
+                "element": "Intel",
+                "attribute": null
+            },
+            {
+                "prediction": "Takeshi Inagaki",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Kazuki Furuya",
+                "context_answer": "Fumihiko Nagamatsu",
+                "element": "7-Eleven Japan",
+                "attribute": null
+            },
+            {
+                "prediction": "Tsang Tsuen Wai",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Jack So",
+                "context_answer": "Jacob Kam",
+                "element": "MTR Corporation Limited",
+                "attribute": null
+            },
+            {
+                "prediction": "Piotr Jura",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Albert Le Dirac'h",
+                "context_answer": "Jan Juchelka",
+                "element": "Komer\u010dn\u00ed banka",
+                "attribute": null
+            },
+            {
+                "prediction": "Stephanie W. Rigas",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Kent C. Nelson",
+                "context_answer": "Carol Tom\u00e9",
+                "element": "United Parcel Service",
+                "attribute": null
+            },
+            {
+                "prediction": "Erik Bang Jensen",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Thomas F. Borgen",
+                "context_answer": "Carsten Rasch Egeriis",
+                "element": "Danske Bank",
+                "attribute": null
+            },
+            {
+                "prediction": "G\u00fcnther Schmid",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Gerhard Roiss",
+                "context_answer": "Alfred Stern",
+                "element": "OMV",
+                "attribute": null
+            },
+            {
+                "prediction": "This question cannot be answered with the given context and the date provided. The context is about the history and office locations of an institute, not United Airlines. Therefore, the answer cannot be given based on the information provided.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Richard J. Ferris",
+                "context_answer": "Scott Kirby",
+                "element": "United Airlines",
+                "attribute": null
+            },
+            {
+                "prediction": "This question cannot be answered based on the provided context. There is no information regarding the CEO of Flytoget AS.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Berit Kj\u00f8ll",
+                "context_answer": "St\u00e5le Nistov",
+                "element": "Flytoget AS",
+                "attribute": null
+            },
+            {
+                "prediction": "This information is not available in the given context and pertains to a different entity than that discussed. Therefore, I cannot provide an answer based on the information given.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Toralv \u00d8ksnevad",
+                "context_answer": "Vibeke F\u00fcrst Haugen",
+                "element": "Norwegian Broadcasting Corporation",
+                "attribute": null
+            },
+            {
+                "prediction": "Alan Keir",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Michael Geoghegan",
+                "context_answer": "Georges Elhedery",
+                "element": "HSBC",
+                "attribute": null
+            },
+            {
+                "prediction": "The question cannot be answered based on the provided context and the date given. No information about the CEO of Sveriges Television is available in the context, and the date does not provide any additional relevant details.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Magnus Fax\u00e9n",
+                "context_answer": "Hanna Stj\u00e4rne",
+                "element": "Sveriges Television",
+                "attribute": null
+            },
+            {
+                "prediction": "This information is not available in the given context and the current date is 16 February 2020, which predates any specific mention of Open Fiber in the provided text. Therefore, I cannot provide the name based on the given information.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Elisabetta Ripa",
+                "context_answer": "Giuseppe Gola",
+                "element": "Open Fiber",
+                "attribute": null
+            },
+            {
+                "prediction": "Abdi Serdar \u00dcst\u00fcnsalih",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "John Arthur Hollows",
+                "context_answer": "Ale\u0161 Bla\u017eek",
+                "element": "\u010ceskoslovensk\u00e1 obchodn\u00ed banka",
+                "attribute": null
+            }
+        ],
+        "match_other_answer": [
+            {
+                "prediction": "John Clark",
+                "matched_answers": [
+                    [
+                        "Clark",
+                        "+1942-01-01T00:00:00Z",
+                        "+1967-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head",
+                    "head",
+                    "head",
+                    "head"
+                ],
+                "contemporary_answer": "Giorgio Presca",
+                "context_answer": "Jonathan Ram",
+                "element": "C. & J. Clark International Ltd",
+                "attribute": null
+            }
+        ]
+    },
+    "rephrased_3": {
+        "match_contemporary_answer": [
+            {
+                "prediction": "Jeff Bezos",
+                "matched_answers": [
+                    [
+                        "Jeff Bezos",
+                        "+1996-05-01T00:00:00Z",
+                        "+2021-07-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Jeff Bezos",
+                "context_answer": "Andy Jassy",
+                "element": "Amazon",
+                "attribute": null
+            },
+            {
+                "prediction": "Ben van Beurden",
+                "matched_answers": [
+                    [
+                        "Ben van Beurden",
+                        "+2014-01-01T00:00:00Z",
+                        "+2022-12-31T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Ben van Beurden",
+                "context_answer": "Wael Sawan",
+                "element": "Shell",
+                "attribute": null
+            },
+            {
+                "prediction": "Akio Toyoda",
+                "matched_answers": [
+                    [
+                        "Akio Toyoda",
+                        "+2009-01-01T00:00:00Z",
+                        "+2023-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Akio Toyoda",
+                "context_answer": "Koji Sato",
+                "element": "Toyota",
+                "attribute": null
+            },
+            {
+                "prediction": "Ivan Glasenberg",
+                "matched_answers": [
+                    [
+                        "Ivan Glasenberg",
+                        "+2002-01-01T00:00:00Z",
+                        "+2021-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Ivan Glasenberg",
+                "context_answer": "Gary Nagle",
+                "element": "Glencore",
+                "attribute": null
+            },
+            {
+                "prediction": "Bob Dudley",
+                "matched_answers": [
+                    [
+                        "Bob Dudley",
+                        "+2010-10-01T00:00:00Z",
+                        "+2020-02-05T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Bob Dudley",
+                "context_answer": "Murray Auchincloss",
+                "element": "BP",
+                "attribute": null
+            },
+            {
+                "prediction": "Bill Gates",
+                "matched_answers": [
+                    [
+                        "Bill Gates",
+                        "+1975-04-01T00:00:00Z",
+                        "+2000-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Bill Gates",
+                "context_answer": "Satya Nadella",
+                "element": "Microsoft",
+                "attribute": null
+            },
+            {
+                "prediction": "Alan Jope",
+                "matched_answers": [
+                    [
+                        "Alan Jope",
+                        "+2019-01-01T00:00:00Z",
+                        "+2023-06-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Alan Jope",
+                "context_answer": "Hein Schumacher",
+                "element": "Unilever",
+                "attribute": null
+            }
+        ],
+        "match_futre_answer": [
+            {
+                "prediction": "Doug McMillon",
+                "matched_answers": [
+                    [
+                        "Doug McMillon",
+                        "+2014-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Lee Scott",
+                "context_answer": "Doug McMillon",
+                "element": "Walmart",
+                "attribute": null
+            },
+            {
+                "prediction": "Tim Cook",
+                "matched_answers": [
+                    [
+                        "Tim Cook",
+                        "+2011-08-24T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Gil Amelio",
+                "context_answer": "Tim Cook",
+                "element": "Apple",
+                "attribute": null
+            },
+            {
+                "prediction": "Sundar Pichai",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2019-12-03T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Larry Page",
+                "context_answer": "Sundar Pichai",
+                "element": "Alphabet Inc.",
+                "attribute": null
+            },
+            {
+                "prediction": "Patrick Pouyann\u00e9",
+                "matched_answers": [
+                    [
+                        "Patrick Pouyann\u00e9",
+                        "+2014-10-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Thierry Desmarest",
+                "context_answer": "Patrick Pouyann\u00e9",
+                "element": "TotalEnergies",
+                "attribute": null
+            },
+            {
+                "prediction": "Jim Farley",
+                "matched_answers": [
+                    [
+                        "Jim Farley",
+                        "+2020-10-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "James Hackett",
+                "context_answer": "Jim Farley",
+                "element": "Ford Motor Company",
+                "attribute": null
+            },
+            {
+                "prediction": "Sundar Pichai",
+                "matched_answers": [
+                    [
+                        "Sundar Pichai",
+                        "+2015-08-10T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Larry Page",
+                "context_answer": "Sundar Pichai",
+                "element": "Google",
+                "attribute": null
+            },
+            {
+                "prediction": "Ed Bastian",
+                "matched_answers": [
+                    [
+                        "Ed Bastian",
+                        "+2016-01-01T00:00:00Z",
+                        null
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Collett E. Woolman",
+                "context_answer": "Ed Bastian",
+                "element": "Delta Air Lines",
+                "attribute": null
+            }
+        ],
+        "irrelevant": [
+            {
+                "prediction": "This question cannot be answered with the given context, as the information provided pertains to the members of the Assembly of Experts in Iran and does not include any information about the CEO of Saudi Aramco.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Khalid A. Al-Falih",
+                "context_answer": "Amin H. Al-Nasser",
+                "element": "Saudi Aramco",
+                "attribute": null
+            },
+            {
+                "prediction": "William Campbell",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Lee Raymond",
+                "context_answer": "Darren Woods",
+                "element": "ExxonMobil",
+                "attribute": null
+            },
+            {
+                "prediction": "Kathrin K. Q. Lee",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Karen S. Lynch",
+                "context_answer": "David Joyner",
+                "element": "CVS Health",
+                "attribute": null
+            },
+            {
+                "prediction": "This question cannot be answered based on the given context and the date 11 June 1980. The provided information is about the history of a U.S. congressional district in New York and does not relate to the CEO of Volkswagen Group.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Toni Schm\u00fccker",
+                "context_answer": "Oliver Blume",
+                "element": "Volkswagen Group",
+                "attribute": null
+            },
+            {
+                "prediction": "The position of Chief Executive Officer at Gazprom is currently held by? (This question cannot be answered with the given context and date.)",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Rem Viakhirev",
+                "context_answer": "Alexey Miller",
+                "element": "Gazprom",
+                "attribute": null
+            },
+            {
+                "prediction": "Tanaka",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Takehiko Kakiuchi",
+                "context_answer": "Katsuya Nakanishi",
+                "element": "Mitsubishi",
+                "attribute": null
+            },
+            {
+                "prediction": "Darren Kley",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Dave Calhoun",
+                "context_answer": "Robert Ortberg",
+                "element": "Boeing",
+                "attribute": null
+            },
+            {
+                "prediction": "Noel Whittaker",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Giorgio Presca",
+                "context_answer": "Jonathan Ram",
+                "element": "C. & J. Clark International Ltd",
+                "attribute": null
+            },
+            {
+                "prediction": "Ken Chan",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Jack So",
+                "context_answer": "Jacob Kam",
+                "element": "MTR Corporation Limited",
+                "attribute": null
+            },
+            {
+                "prediction": "Piotr Rzedowski",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Albert Le Dirac'h",
+                "context_answer": "Jan Juchelka",
+                "element": "Komer\u010dn\u00ed banka",
+                "attribute": null
+            },
+            {
+                "prediction": "G\u00fcnther Schmid",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Gerhard Roiss",
+                "context_answer": "Alfred Stern",
+                "element": "OMV",
+                "attribute": null
+            },
+            {
+                "prediction": "This question cannot be answered with the given context and the date provided. The context is about the history of an institute and does not relate to the leadership of United Airlines. Therefore, no answer can be provided within the constraints given.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Richard J. Ferris",
+                "context_answer": "Scott Kirby",
+                "element": "United Airlines",
+                "attribute": null
+            },
+            {
+                "prediction": "This information is not available in the given context.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Berit Kj\u00f8ll",
+                "context_answer": "St\u00e5le Nistov",
+                "element": "Flytoget AS",
+                "attribute": null
+            },
+            {
+                "prediction": "The position of Chief Executive Officer at Norwegian Broadcasting Corporation is currently held by Career Jiang.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Toralv \u00d8ksnevad",
+                "context_answer": "Vibeke F\u00fcrst Haugen",
+                "element": "Norwegian Broadcasting Corporation",
+                "attribute": null
+            },
+            {
+                "prediction": "Alan Keir",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Michael Geoghegan",
+                "context_answer": "Georges Elhedery",
+                "element": "HSBC",
+                "attribute": null
+            },
+            {
+                "prediction": "The provided context does not contain information about the current CEO of Sveriges Television. Therefore, I cannot provide an answer based solely on the given information.",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Magnus Fax\u00e9n",
+                "context_answer": "Hanna Stj\u00e4rne",
+                "element": "Sveriges Television",
+                "attribute": null
+            },
+            {
+                "prediction": "John Donovan",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "Elisabetta Ripa",
+                "context_answer": "Giuseppe Gola",
+                "element": "Open Fiber",
+                "attribute": null
+            },
+            {
+                "prediction": "Abdi Serdar \u00dcst\u00fcnsalih",
+                "matched_answers": [],
+                "match_type": [],
+                "contemporary_answer": "John Arthur Hollows",
+                "context_answer": "Ale\u0161 Bla\u017eek",
+                "element": "\u010ceskoslovensk\u00e1 obchodn\u00ed banka",
+                "attribute": null
+            }
+        ],
+        "match_other_answer": [
+            {
+                "prediction": "Bob Swan",
+                "matched_answers": [
+                    [
+                        "Bob Swan",
+                        "+2018-06-21T00:00:00Z",
+                        "+2021-02-15T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Robert Noyce",
+                "context_answer": "Pat Gelsinger",
+                "element": "Intel",
+                "attribute": null
+            },
+            {
+                "prediction": "Tatsujiro Suzuki",
+                "matched_answers": [
+                    [
+                        "Suzuki",
+                        "+1978-01-01T00:00:00Z",
+                        "+1992-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "head"
+                ],
+                "contemporary_answer": "Kazuki Furuya",
+                "context_answer": "Fumihiko Nagamatsu",
+                "element": "7-Eleven Japan",
+                "attribute": null
+            },
+            {
+                "prediction": "Scott Davis",
+                "matched_answers": [
+                    [
+                        "Scott Davis",
+                        "+2008-01-01T00:00:00Z",
+                        "+2014-01-01T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Kent C. Nelson",
+                "context_answer": "Carol Tom\u00e9",
+                "element": "United Parcel Service",
+                "attribute": null
+            },
+            {
+                "prediction": "Eivind Kolding",
+                "matched_answers": [
+                    [
+                        "Eivind Kolding",
+                        "+2012-02-15T00:00:00Z",
+                        "+2013-09-16T00:00:00Z"
+                    ]
+                ],
+                "match_type": [
+                    "em"
+                ],
+                "contemporary_answer": "Thomas F. Borgen",
+                "context_answer": "Carsten Rasch Egeriis",
+                "element": "Danske Bank",
+                "attribute": null
+            }
+        ]
+    }
+}

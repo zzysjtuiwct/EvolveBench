@@ -1,0 +1,68 @@
+{
+    "companies_byRevenue": {},
+    "countries_byGDP": {
+        "Australia": {
+            "monarch of Australia": {
+                "answers": [
+                    "Elizabeth II |S: +1952-02-06T00:00:00Z |E: +2022-09-08T00:00:00Z",
+                    "Quentin Bryce |S: +2008-09-05T00:00:00Z |E: +2014-03-27T00:00:00Z",
+                    "Michael Jeffery |S: +2003-08-11T00:00:00Z |E: +2008-09-04T00:00:00Z",
+                    "Peter Hollingworth |S: +2001-06-29T00:00:00Z |E: +2003-05-29T00:00:00Z",
+                    "William Deane |S: +1996-02-16T00:00:00Z |E: +2001-06-28T00:00:00Z",
+                    "Bill Hayden |S: +1989-02-16T00:00:00Z |E: +1996-02-15T00:00:00Z",
+                    "Ninian Stephen |S: +1982-07-29T00:00:00Z |E: +1989-02-15T00:00:00Z",
+                    "Zelman Cowen |S: +1977-12-08T00:00:00Z |E: +1982-07-28T00:00:00Z",
+                    "John Kerr |S: +1974-07-11T00:00:00Z |E: +1977-12-07T00:00:00Z",
+                    "Paul Hasluck |S: +1969-04-30T00:00:00Z |E: +1974-07-10T00:00:00Z",
+                    "Richard Casey, Baron Casey |S: +1965-05-07T00:00:00Z |E: +1969-04-29T00:00:00Z",
+                    "William Sidney, 1st Viscount De L'Isle |S: +1961-08-03T00:00:00Z |E: +1965-05-06T00:00:00Z",
+                    "William Morrison, 1st Viscount Dunrossil |S: +1960-02-02T00:00:00Z |E: +1961-08-02T00:00:00Z",
+                    "William Slim, 1st Viscount Slim |S: +1953-05-08T00:00:00Z |E: +1960-02-01T00:00:00Z",
+                    "Bill McKell |S: +1947-03-11T00:00:00Z |E: +1953-05-07T00:00:00Z",
+                    "Charles III of the United Kingdom |S: +2022-09-08T00:00:00Z"
+                ],
+                "ground_truth": "Paul Hasluck",
+                "ranking_qa": {
+                    "generic": "The monarchs of Australia on 1 November 1969 and 16 January 2003 were Paul Hasluck and Peter Hollingworth, so who was the former monarch?",
+                    "rephrased_1": "The monarchs of Australia on 1 November 1969 and 16 January 2003 were Paul Hasluck and Peter Hollingworth, so who was the former monarch?",
+                    "rephrased_2": "Paul Hasluck and Peter Hollingworth served as the monarchs of Australia on 1 November 1969 and 16 January 2003, respectively. Can you identify which one the former monarch was?",
+                    "rephrased_3": "On 1 November 1969, Paul Hasluck was the monarch of Australia, while Peter Hollingworth held the position on 16 January 2003. Which of them served as the former monarch?"
+                },
+                "accumulate_qa": {
+                    "generic": "On 16 January 2003, Peter Hollingworth was the monarch of Australia. So, who held this position 12129 days before?",
+                    "rephrased_1": "On 16 January 2003, Peter Hollingworth was the monarch of Australia. So, who held this position 12129 days before?",
+                    "rephrased_2": "Peter Hollingworth was Australia's monarch on 16 January 2003. Do you know who was in this role before 12129 days?",
+                    "rephrased_3": "Peter Hollingworth served as the monarch of Australia on 16 January 2003. Can you identify who occupied this position before 12129 days?"
+                }
+            }
+        }
+    },
+    "athletes_byPayment": {
+        "Fernando Alonso": {
+            "answers": [
+                "Renault F1 Team |S: +2002-00-00T00:00:00Z |E: +2006-00-00T00:00:00Z",
+                "McLaren |S: +2007-00-00T00:00:00Z |E: +2007-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2008-00-00T00:00:00Z |E: +2009-00-00T00:00:00Z",
+                "Scuderia Ferrari |S: +2010-00-00T00:00:00Z |E: +2014-00-00T00:00:00Z",
+                "McLaren |S: +2015-00-00T00:00:00Z |E: +2018-00-00T00:00:00Z",
+                "Minardi |S: +2001-00-00T00:00:00Z |E: +2001-00-00T00:00:00Z",
+                "Renault F1 Team |S: +2021-00-00T00:00:00Z |E: +2022-00-00T00:00:00Z",
+                "Aston Martin F1 Team |S: +2023-00-00T00:00:00Z"
+            ],
+            "ground_truth": "Scuderia Ferrari",
+            "ranking_qa": {
+                "generic": "The Formula 1 teams of Fernando Alonso on 10 October 2012 and 11 October 2015 were Scuderia Ferrari and McLaren, so which team was the former one Fernando Alonso drove for?",
+                "rephrased_1": "The Formula 1 teams of Fernando Alonso on 10 October 2012 and 11 October 2015 were Scuderia Ferrari and McLaren, so which team was the former one Fernando Alonso drove for?",
+                "rephrased_2": "Scuderia Ferrari and McLaren were Fernando Alonso's Formula 1 teams on 10 October 2012 and 11 October 2015, respectively. Can you identify which team was the former one Fernando Alonso drove for?",
+                "rephrased_3": "On 10 October 2012, Fernando Alonso drove for Scuderia Ferrari, while Fernando Alonso drove for McLaren on 11 October 2015. Which team did Fernando Alonso formerly drive for?"
+            },
+            "accumulate_qa": {
+                "generic": "On 11 October 2015, Fernando Alonso drove for McLaren. So, before 1096 days, which Formula 1 team did Fernando Alonso drive for?",
+                "rephrased_1": "On 11 October 2015, Fernando Alonso drove for McLaren. So, before 1096 days, which Formula 1 team did Fernando Alonso drive for?",
+                "rephrased_2": "McLaren was Fernando Alonso's Formula 1 team on 11 October 2015. Can you identify which Formula 1 team Fernando Alonso belongs to before 1096 days?",
+                "rephrased_3": "Fernando Alonso drove for McLaren on 11 October 2015. Do you know which Formula 1 team Fernando Alonso drove for before 1096 days?"
+            }
+        }
+    },
+    "organizations": {}
+}

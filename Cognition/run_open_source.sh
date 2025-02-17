@@ -1,4 +1,4 @@
-cd /remote-home/zhiyuanzhu/project/DyKnow/models_output
+cd /path/project/models_output
 RESULTS_FOLDER=temporal_awareness/Cognition/results/temporal_interval
 
 LLM=Phi-4

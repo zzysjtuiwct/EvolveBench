@@ -42,7 +42,7 @@ def get_args() -> Namespace:
         "--qa_file",
         metavar="QA_FILE",
         type=str,
-        default="/remote-home/zhiyuanzhu/project/DyKnow/models_output/temporal_awareness/Cognition/temporal_interval_qa.json",
+        default="/path/project/models_output/temporal_awareness/Cognition/temporal_interval_qa.json",
         help="Path to the QA file containing model-specific outdated questions.",
     )
     parser.add_argument(

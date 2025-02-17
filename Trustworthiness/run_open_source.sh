@@ -1,4 +1,4 @@
-cd /remote-home/zhiyuanzhu/project/DyKnow/models_output
+cd /path/project/models_output
 RESULTS_FOLDER=temporal_awareness/Trustworthiness/past_unanswerable_date_copy
 LLM=Qwen2-72B
 MODEL_NAME=${LLM}-Instruct

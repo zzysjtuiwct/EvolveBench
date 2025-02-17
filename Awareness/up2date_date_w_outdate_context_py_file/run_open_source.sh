@@ -1,4 +1,4 @@
-cd /remote-home/zhiyuanzhu/project/DyKnow/models_output
+cd /path/project/models_output
 RESULTS_FOLDER=temporal_awareness/up2date_date_20250101_w_outdate_context
 # up2date_date_20250101_w_outdate_context
 LLM=Llama-3-70B

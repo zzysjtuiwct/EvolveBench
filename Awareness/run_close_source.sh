@@ -1,4 +1,4 @@
-cd /remote-home/zhiyuanzhu/project/DyKnow/models_output
+cd /path/project/models_output
 RESULTS_FOLDER=temporal_awareness/Awareness/timetravel_outdate_date_w_up2date_context_rag
 # parameter_knowledge_w_prompt outdate_context_w_prompt
 MODEL_NAME=gpt-3.5-turbo-0125

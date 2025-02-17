@@ -4,7 +4,7 @@ import numpy as np
 import torch
 import spacy
 from spacy.tokenizer import Tokenizer
-sys.path.append('/remote-home/zhiyuanzhu/project/DyKnow/models_output')
+sys.path.append('/path/project/models_output')
 from utils import EXCEPTIONS, load_json, dump_json
 from tqdm import tqdm
 from datetime import datetime
@@ -105,7 +105,7 @@ def main():
         "--grc-path",
         metavar="FILE_PATH",
         type=str,
-        default="/remote-home/zhiyuanzhu/project/DyKnow/my_data/question/up2dated_qa.json",
+        default="/path/project/my_data/question/up2dated_qa.json",
         help="Path to the file containing Q&A.",
     )
 
@@ -113,7 +113,7 @@ def main():
         "--temporal-interval-path",
         metavar="IMPORTANT_FILE_PATH_THAT_SAME_AS_TIME_TRAVEL_DATA",
         type=str,
-        default="/remote-home/zhiyuanzhu/project/DyKnow/models_output/temporal_awareness/Awareness/time_travel_data.json",
+        default="/path/project/models_output/temporal_awareness/Awareness/time_travel_data.json",
         help="Path to the file containing Q&A.",
     )
 

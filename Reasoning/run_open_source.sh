@@ -1,4 +1,4 @@
-cd /remote-home/zhiyuanzhu/project/DyKnow/models_output
+cd /path/project/models_output
 LLM=Phi-4
 MODEL_NAME=${LLM}-Instruct
 device=5
@@ -20,7 +20,7 @@ CUDA_VISIBLE_DEVICES=${device} python -m temporal_awareness.Reasoning.gen_ans_op
 CUDA_VISIBLE_DEVICES=${device} python -m temporal_awareness.Reasoning.get_outdated_qa_reasoning \
     ${RESULTS_FOLDER}/${MODEL_NAME}
 
-cd /remote-home/zhiyuanzhu/project/DyKnow/models_output
+cd /path/project/models_output
 device=0,1
 TASK_TYPE=accumulate_qa
 RESULTS_FOLDER=temporal_awareness/Reasoning/results/${TASK_TYPE}_20250210
@@ -45,7 +45,7 @@ for LLM in "${LLMS[@]}"; do
     echo "Completed processing for ${MODEL_NAME}."
 done
 
-cd /remote-home/zhiyuanzhu/project/DyKnow/models_output
+cd /path/project/models_output
 device=2,3
 TASK_TYPE=accumulate_qa
 RESULTS_FOLDER=temporal_awareness/Reasoning/results/${TASK_TYPE}_20250210
@@ -70,7 +70,7 @@ for LLM in "${LLMS[@]}"; do
     echo "Completed processing for ${MODEL_NAME}."
 done
 
-cd /remote-home/zhiyuanzhu/project/DyKnow/models_output
+cd /path/project/models_output
 device=4,5
 TASK_TYPE=accumulate_qa
 RESULTS_FOLDER=temporal_awareness/Reasoning/results/${TASK_TYPE}_20250210
@@ -95,7 +95,7 @@ for LLM in "${LLMS[@]}"; do
     echo "Completed processing for ${MODEL_NAME}."
 done
 
-cd /remote-home/zhiyuanzhu/project/DyKnow/models_output
+cd /path/project/models_output
 device=6
 TASK_TYPE=accumulate_qa
 RESULTS_FOLDER=temporal_awareness/Reasoning/results/${TASK_TYPE}_20250210
@@ -120,7 +120,7 @@ for LLM in "${LLMS[@]}"; do
     echo "Completed processing for ${MODEL_NAME}."
 done
 
-cd /remote-home/zhiyuanzhu/project/DyKnow/models_output
+cd /path/project/models_output
 device=7
 TASK_TYPE=accumulate_qa
 RESULTS_FOLDER=temporal_awareness/Reasoning/results/${TASK_TYPE}_20250210

@@ -157,8 +157,8 @@ def prepare_time_event(implict_time_event: dict) -> dict:
 
 
 def main():
-    original_questions = load_json('/remote-home/zhiyuanzhu/project/DyKnow/my_data/question/up2dated_qa.json')
-    implict_time_event = load_json('/remote-home/zhiyuanzhu/project/DyKnow/my_data/ssgg_newdata/implict_time_event.json')
+    original_questions = load_json('/path/project/my_data/question/up2dated_qa.json')
+    implict_time_event = load_json('/path/project/my_data/ssgg_newdata/implict_time_event.json')
 
     data_to_analyze = {}
     answer = {}
@@ -256,7 +256,7 @@ def main():
 
                 data_to_analyze[domain][element].update({"answers": implict_time_event[domain][element]['answers']})
     
-    dump_json('/remote-home/zhiyuanzhu/project/DyKnow/my_data/ssgg_newdata/country_event.json', data_to_analyze)
+    dump_json('/path/project/my_data/ssgg_newdata/country_event.json', data_to_analyze)
 
 if __name__ == "__main__":
     main()

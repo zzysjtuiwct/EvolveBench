@@ -1,4 +1,4 @@
-cd /remote-home/zhiyuanzhu/project/DyKnow/models_output
+cd /path/project/models_output
 LLM=Phi-4
 MODEL_NAME=${LLM}-Instruct
 device=1

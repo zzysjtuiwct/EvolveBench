@@ -4,7 +4,7 @@ import numpy as np
 import torch
 from tqdm import tqdm
 from datetime import datetime, timedelta
-sys.path.append('/remote-home/zhiyuanzhu/project/DyKnow/models_output')
+sys.path.append('/path/project/models_output')
 from utils import EXCEPTIONS, load_json, dump_json
 from analyze_replies import prepare_answers
 from temporal_awareness.Awareness.time_travel import extract_date
@@ -30,7 +30,7 @@ def main():
         "--grc-path",
         metavar="FILE_PATH",
         type=str,
-        default="/remote-home/zhiyuanzhu/project/DyKnow/my_data/question/up2dated_qa.json",
+        default="/path/project/my_data/question/up2dated_qa.json",
         help="Path to the file containing Q&A.",
     )
 
@@ -41,7 +41,7 @@ def main():
     
     data = {item: prepare_answers(item, original, EXCEPTIONS) for item in category}
 
-    previous_item = load_json('/remote-home/zhiyuanzhu/project/DyKnow/models_output/temporal_awareness/Trustworthiness/unanswerable_date_human.json')
+    previous_item = load_json('/path/project/models_output/temporal_awareness/Trustworthiness/unanswerable_date_human.json')
     item = {}
     for category, elements in tqdm(data.items(), desc="Categories"):
         item[category] = {}

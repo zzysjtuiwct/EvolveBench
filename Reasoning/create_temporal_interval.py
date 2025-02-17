@@ -4,7 +4,7 @@ import numpy as np
 import torch
 from tqdm import tqdm
 from datetime import datetime, timedelta
-sys.path.append('/remote-home/zhiyuanzhu/project/DyKnow/models_output')
+sys.path.append('/path/project/models_output')
 from utils import EXCEPTIONS, load_json, dump_json
 from analyze_replies import prepare_answers
 
@@ -82,7 +82,7 @@ def main():
         "--grc-path",
         metavar="FILE_PATH",
         type=str,
-        default="/remote-home/zhiyuanzhu/project/DyKnow/my_data/question/up2dated_qa.json",
+        default="/path/project/my_data/question/up2dated_qa.json",
         help="Path to the file containing Q&A.",
     )
 

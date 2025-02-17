@@ -40,7 +40,7 @@ def get_args() -> Namespace:
         "--qa_file",
         metavar="QA_FILE",
         type=str,
-        default="/remote-home/zhiyuanzhu/project/DyKnow/models_output/temporal_awareness/Cognition/temporal_interval_qa.json",
+        default="/path/project/models_output/temporal_awareness/Cognition/temporal_interval_qa.json",
         help="Path to the QA file containing model-specific outdated questions.",
     )
     parser.add_argument(
@@ -184,19 +184,19 @@ def set_seed(seed):
 
 model_configs = {
     "mistral": {"path": "mistralai/Mistral-7B-Instruct-v0.1", "precision": None},
-    "Llama-2-7b-Instruct": {"path": "/remote-home/zhiyuanzhu/download_model/meta-llama/llama2/Llama-2-7b-chat-hf", "precision": torch.float16},
-    "Llama-2-13b-Instruct": {"path": "/remote-home/zhiyuanzhu/download_model/meta-llama/llama2/Llama-2-13b-chat-hf", "precision": torch.float16},
-    "Llama-2-70b-Instruct": {"path": "/remote-home/zhiyuanzhu/download_model/meta-llama/llama2/Llama-2-70b-chat-hf", "precision": torch.float16},
-    "Llama-3-8B-Instruct": {"path": "/remote-home/zhiyuanzhu/download_model/meta-llama/llama3/Meta-Llama-3-8B-Instruct", "precision": torch.bfloat16},
-    "Llama-3-70B-Instruct": {"path": "/remote-home/zhiyuanzhu/download_model/meta-llama/llama3/Meta-Llama-3-70B-Instruct", "precision": torch.bfloat16},
-    "Llama-3.1-8B-Instruct": {"path": "/remote-home/zhiyuanzhu/download_model/meta-llama/llama3/Llama-3.1-8B-Instruct", "precision": torch.bfloat16},
-    "Llama-3.1-70B-Instruct": {"path": "/remote-home/zhiyuanzhu/download_model/meta-llama/llama3/Meta-Llama-3.1-70B-Instruct", "precision": torch.bfloat16},
-    "Llama-3.3-70B-Instruct": {"path": "/remote-home/zhiyuanzhu/download_model/meta-llama/llama3/Llama-3.3-70B-Instruct", "precision": torch.bfloat16},
-    "Qwen2-7B-Instruct": {"path": "/remote-home/zhiyuanzhu/download_model/Qwen2-7B-Instruct", "precision": torch.bfloat16},
-    "Qwen2-72B-Instruct": {"path": "/remote-home/zhiyuanzhu/download_model/Qwen2-72B-Instruct", "precision": torch.bfloat16},
-    "Qwen2.5-7B-Instruct": {"path": "/remote-home/zhiyuanzhu/download_model/Qwen2.5/Qwen2.5-7B-Instruct", "precision": torch.bfloat16},
-    "Qwen2.5-72B-Instruct": {"path": "/remote-home/zhiyuanzhu/download_model/Qwen2.5/Qwen2.5-72B-Instruct", "precision": torch.bfloat16},
-    "Phi-4-Instruct": {"path": "/remote-home/zhiyuanzhu/download_model/phi-4", "precision": torch.bfloat16}
+    "Llama-2-7b-Instruct": {"path": "/path/download_model/meta-llama/llama2/Llama-2-7b-chat-hf", "precision": torch.float16},
+    "Llama-2-13b-Instruct": {"path": "/path/download_model/meta-llama/llama2/Llama-2-13b-chat-hf", "precision": torch.float16},
+    "Llama-2-70b-Instruct": {"path": "/path/download_model/meta-llama/llama2/Llama-2-70b-chat-hf", "precision": torch.float16},
+    "Llama-3-8B-Instruct": {"path": "/path/download_model/meta-llama/llama3/Meta-Llama-3-8B-Instruct", "precision": torch.bfloat16},
+    "Llama-3-70B-Instruct": {"path": "/path/download_model/meta-llama/llama3/Meta-Llama-3-70B-Instruct", "precision": torch.bfloat16},
+    "Llama-3.1-8B-Instruct": {"path": "/path/download_model/meta-llama/llama3/Llama-3.1-8B-Instruct", "precision": torch.bfloat16},
+    "Llama-3.1-70B-Instruct": {"path": "/path/download_model/meta-llama/llama3/Meta-Llama-3.1-70B-Instruct", "precision": torch.bfloat16},
+    "Llama-3.3-70B-Instruct": {"path": "/path/download_model/meta-llama/llama3/Llama-3.3-70B-Instruct", "precision": torch.bfloat16},
+    "Qwen2-7B-Instruct": {"path": "/path/download_model/Qwen2-7B-Instruct", "precision": torch.bfloat16},
+    "Qwen2-72B-Instruct": {"path": "/path/download_model/Qwen2-72B-Instruct", "precision": torch.bfloat16},
+    "Qwen2.5-7B-Instruct": {"path": "/path/download_model/Qwen2.5/Qwen2.5-7B-Instruct", "precision": torch.bfloat16},
+    "Qwen2.5-72B-Instruct": {"path": "/path/download_model/Qwen2.5/Qwen2.5-72B-Instruct", "precision": torch.bfloat16},
+    "Phi-4-Instruct": {"path": "/path/download_model/phi-4", "precision": torch.bfloat16}
 }
 
 def main():

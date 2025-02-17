@@ -1,4 +1,4 @@
-cd /remote-home/zhiyuanzhu/project/DyKnow/models_output
+cd /path/project/models_output
 RESULTS_FOLDER=temporal_awareness/Cognition/results/temporal_interval
 
 MODEL_NAME=gpt-3.5-turbo-0125

@@ -1,4 +1,4 @@
-cd /remote-home/zhiyuanzhu/project/DyKnow/models_output
+cd /path/project/models_output
 RESULTS_FOLDER=temporal_awareness/Awareness/timetravel_outdate_date_w_up2date_context
 #timetravel_outdate_date_w_up2date_context
 LLM=Phi-4
@@ -38,7 +38,7 @@ CUDA_VISIBLE_DEVICES=${device} python -m temporal_awareness.Awareness.generate_a
 CUDA_VISIBLE_DEVICES=${device} python -m temporal_awareness.Awareness.get_outdated_questions \
     ${RESULTS_FOLDER}/${MODEL_NAME}
 
-cd /remote-home/zhiyuanzhu/project/DyKnow/models_output
+cd /path/project/models_output
 RESULTS_FOLDER=temporal_awareness/Awareness/timetravel_outdate_date_w_up2date_context_rag
 LLMS=("Llama-3.1-70B" "Qwen2.5-72B")
 device=0,1
@@ -88,7 +88,7 @@ for LLM in "${LLMS[@]}"; do
 done
 
 
-cd /remote-home/zhiyuanzhu/project/DyKnow/models_output
+cd /path/project/models_output
 RESULTS_FOLDER=temporal_awareness/Awareness/timetravel_outdate_date_w_up2date_context_rag
 LLMS=("Llama-3-70B" "Llama-3.3-70B")
 device=2,3
@@ -137,7 +137,7 @@ for LLM in "${LLMS[@]}"; do
     echo "Completed processing for ${MODEL_NAME}."
 done
 
-cd /remote-home/zhiyuanzhu/project/DyKnow/models_output
+cd /path/project/models_output
 RESULTS_FOLDER=temporal_awareness/Awareness/timetravel_outdate_date_w_up2date_context_rag
 LLMS=("Qwen2-72B" "Llama-2-70b")
 device=2,3
@@ -186,7 +186,7 @@ for LLM in "${LLMS[@]}"; do
     echo "Completed processing for ${MODEL_NAME}."
 done
 
-cd /remote-home/zhiyuanzhu/project/DyKnow/models_output
+cd /path/project/models_output
 RESULTS_FOLDER=temporal_awareness/Awareness/timetravel_outdate_date_w_up2date_context_rag
 LLMS=("Llama-2-7b" "Llama-2-13b" "Llama-3-8B")
 device=1
@@ -236,7 +236,7 @@ for LLM in "${LLMS[@]}"; do
 done
 
 
-cd /remote-home/zhiyuanzhu/project/DyKnow/models_output
+cd /path/project/models_output
 RESULTS_FOLDER=temporal_awareness/Awareness/timetravel_outdate_date_w_up2date_context_rag
 LLMS=("Llama-3.1-8B" "Phi-4" "Qwen2-7B" "Qwen2.5-7B")
 device=0

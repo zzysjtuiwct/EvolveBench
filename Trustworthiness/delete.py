@@ -14,7 +14,7 @@ def delete_non_answers_files(directory):
                     print(f"Failed to delete {file_path}: {e}")
 
 if __name__ == "__main__":
-    target_directory = "/remote-home/zhiyuanzhu/project/DyKnow/models_output/temporal_awareness/up2date_date_20250101"
+    target_directory = "/path/project/models_output/temporal_awareness/up2date_date_20250101"
     if os.path.exists(target_directory):
         delete_non_answers_files(target_directory)
     else:

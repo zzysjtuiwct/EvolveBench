@@ -1,4 +1,4 @@
-cd /remote-home/zhiyuanzhu/project/DyKnow/models_output
+cd /path/project/models_output
 MODEL_NAME=gpt-4o
 device=0
 TASK_TYPE=accumulate_qa

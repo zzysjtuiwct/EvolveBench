@@ -1,4 +1,4 @@
-cd /remote-home/zhiyuanzhu/project/DyKnow/models_output
+cd /path/project/models_output
 MODEL_NAME=gpt-3.5-turbo-0125
 device=2
 TASK_TYPE=explict

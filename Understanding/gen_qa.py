@@ -106,7 +106,7 @@ def check_the_requirement(company):
 def main():
     set_seed(30)
 
-    original_qa = load_json("/remote-home/zhiyuanzhu/project/DyKnow/my_data/question/up2dated_qa.json")
+    original_qa = load_json("/path/project/my_data/question/up2dated_qa.json")
     original_answer = {item: prepare_answers(item, original_qa, EXCEPTIONS) for item in original_qa.keys()}
 
     event_data = load_json("country_event.json")

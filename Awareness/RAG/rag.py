@@ -1,7 +1,7 @@
 import json,ipdb
 from retriever import Retriever
 import argparse,sys
-sys.path.append('/remote-home/zhiyuanzhu/project/DyKnow/')
+sys.path.append('/path/project/')
 from tqdm import tqdm
 from models_output.utils import EXCEPTIONS, load_json, dump_json
 
@@ -17,7 +17,7 @@ def main():
         "--grc-path",
         metavar="FILE_PATH",
         type=str,
-        default="/remote-home/zhiyuanzhu/project/DyKnow/my_data/question/up2dated_qa.json",
+        default="/path/project/my_data/question/up2dated_qa.json",
         help="Path to the file containing Q&A.",
     )
 
@@ -25,14 +25,14 @@ def main():
         "--time-travel_file",
         metavar="FILE_PATH",
         type=str,
-        default="/remote-home/zhiyuanzhu/project/DyKnow/models_output/temporal_awareness/Awareness/time_travel_data.json",
+        default="/path/project/models_output/temporal_awareness/Awareness/time_travel_data.json",
         help="Path to the file containing Q&A.",
     )
     parser.add_argument(
         "--passages-path",
         metavar="FILE_PATH",
         type=str,
-        default="/remote-home/zhiyuanzhu/project/DyKnow/my_data/passage/passages.json",
+        default="/path/project/my_data/passage/passages.json",
         help="Path to the file containing the passages collected from Wikipedia.",
     )
 
@@ -76,8 +76,8 @@ def main():
                     time_info[category][element]["future_news"].pop('dates')
                     original_passage[category][element]["matches"]['rag_results'] = {'text': result[0]['docs']}
 
-    dump_json('/remote-home/zhiyuanzhu/project/DyKnow/models_output/temporal_awareness/Awareness/RAG/rag_time_travel.json', time_info)
-    dump_json('/remote-home/zhiyuanzhu/project/DyKnow/models_output/temporal_awareness/Awareness/RAG/rag_passagess.json', original_passage)
+    dump_json('/path/project/models_output/temporal_awareness/Awareness/RAG/rag_time_travel.json', time_info)
+    dump_json('/path/project/models_output/temporal_awareness/Awareness/RAG/rag_passagess.json', original_passage)
 
 
 if __name__ == "__main__":

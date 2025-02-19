@@ -12,7 +12,7 @@ warnings.simplefilter("ignore", category=FutureWarning)
 from tqdm import tqdm
 from openai import OpenAI
 
-shared_GPT4_client = OpenAI(api_key="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")
+shared_GPT4_client = OpenAI(api_key="api-key")
 
 
 def get_args() -> Namespace:

@@ -1,1 +1,1 @@
-Data and soure code for our paper: CATURE: An Omni Benchmark for Evaluating Temporal Awareness of LLMs on Time-Evolving Knowledge
+Data and soure code for our paper: EvolveBench: A Comprehensive Benchmark for Assessing Temporal Awareness in LLMs on Evolving Knowledge
